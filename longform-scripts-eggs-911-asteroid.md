@@ -46,7 +46,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 >
 > One consequence you may have noticed: a cold egg left on a warm counter can get wet with condensation. Some sources say that moisture can help bacteria move through the shell, which is one reason food-safety guidance says to keep US eggs cold once they've been chilled.
 
-*[Sources conflict on the details of refrigeration rules: one says USDA requires cooling within 36 hours of lay, another attributes a 36-hour rule to the FDA's 2009 egg rule. Do not state the agency or the hours. The condensation claim is from a secondary paraphrase of USDA. **[VERIFY]**. The wash-water temperature from the USDA Egg Grading Manual is secondary; leave it out.]*
+*[**CONFIRMED (secondary summary of the Federal Register):** the refrigeration rule belongs to the **FDA**, not USDA: 21 CFR 118.4(e) requires shell eggs held at or below 45 F ambient starting 36 hours after lay, through storage and transport (final rule published July 9, 2009, 74 FR 33030; a separate FDA rule sets a 45 F retail standard). USDA's role is grading and the washing standards. The USDA wash-water temperature and the 7 CFR 56 wording were NOT confirmed; keep "commercial eggs are washed" as a general statement and cite USDA only for grading. The condensation claim remains a secondary paraphrase of USDA. Safe on-screen line: "FDA rules require eggs be kept at 45 F or below from 36 hours after laying."]*
 
 **[3:30, Chapter 3: The British way] VISUAL: British hens in a barn, a red Lion stamp on a shell.**
 
@@ -62,13 +62,13 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 **[5:00, Chapter 4: So why doesn't the US switch?] VISUAL: map of vaccinated vs non-vaccinated flocks (use only if sourced; otherwise text on screen).**
 
-> You might wonder why the US doesn't just vaccinate and skip the washing. One older report says the FDA looked at mandating salmonella vaccination for hens in 2004 and concluded more information was needed on how well it works. Some US farms vaccinate voluntarily.
+> You might wonder why the US doesn't just vaccinate and skip the washing. In 2004, the FDA proposed an egg-safety rule and looked at requiring hen vaccination. According to a veterinary-medicine report, agency officials decided they didn't have enough evidence to require it, and wanted real-world data, not just lab studies. Some US farms vaccinate voluntarily.
 >
 > There's also an infrastructure explanation sometimes offered: that eggs were traditionally moved through supply chains that weren't refrigerated, so washing and then chilling became the American system.
 >
 > I want to be careful here. These are explanations from food-safety sites and news coverage, not an official history. What's not in doubt is the core difference: wash and chill in one country, protect the shell and vaccinate in the other.
 
-*[Do NOT quote the UK case counts ("14,000 to 8,000"): one blog source. The FDA 2004 line is from an older report. **[VERIFY]** against FDA records. Japan: one source says Japan also washes and refrigerates, after a 1990s outbreak. Leave out unless checked.]*
+*[Do NOT quote the UK case counts ("14,000 to 8,000"): one blog source. **FDA 2004 CONFIRMED in part:** the FDA published its proposed rule on Sept 22, 2004 (69 FR 56824) and the preamble discusses a vaccination requirement; the "not enough evidence" conclusion comes from an AVMA (JAVMA News, 2010) report, not the preamble text, which I did not open. Say "decided not to require it" only. Japan: one source says Japan also washes and refrigerates; leave out unless checked.]*
 
 **[6:00, Chapter 5: What to do when you travel] VISUAL: a suitcase, a hotel breakfast, a supermarket shelf.**
 
@@ -159,7 +159,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 >
 > You'll sometimes hear that the number was picked because of how a rotary dial turns. The sources contradict each other on that, so I'm not going to tell you.
 
-*[Reasons are from secondary sources; one attributes the choice to NENA. No AT&T or FCC primary document found. **[VERIFY]** before presenting as the official record. Rotary-dial claims deliberately excluded.]*
+*[**CONFIRMED as widely reported, NOT primary:** "short, easy to remember, not already used as an area, exchange or service code" appears across several secondary sources; the NENA attribution ("best fit the needs of all parties") is also secondary. No AT&T or FCC document found. Two outlier claims are uncorroborated and must NOT be used: that a staffer for Sen. Ernest Gruening picked it after seeing Britain's 999, and that the FCC mandated 911 by Jan 1, 1968. Rotary-dial explanations stay out. Wording: "sources say" or "according to NENA".]*
 
 **[5:10, Chapter 5: Spreading] VISUAL: map of early adopters.**
 
@@ -171,9 +171,9 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 > Today, the National Emergency Number Association estimates about 240 million calls to 911 in the U.S. every year, and in many areas 80 percent or more of those come from cell phones.
 >
-> A recent FCC report, as summarized by one outlet, counted about 213 million calls in 2024, with about 71 percent from wireless phones. And more than two million texts to 911, nearly double the year before.
+> The FCC's latest fee report, as summarized by one outlet, counted about 213 million voice calls to 911 in 2024 from the states and territories that reported, with about 71 percent from wireless phones. Texts to 911 rose to about 2.2 million, nearly double the year before, but that's still only about one percent of voice calls.
 
-*[The FCC 2024 figures came through a secondary aggregator. **[VERIFY]** against the FCC's 17th Annual 911 Fee Report and NENA's statistics page before putting numbers on screen. NENA's 240 million figure is a dated estimate.]*
+*[**PARTLY CONFIRMED:** the FCC numbers (212,910,794 voice calls; 71.3% wireless; about 2.24 million texts, up about 89%; 3,967 text-capable centers) are consistent across several summaries, but all trace to one aggregator citing the FCC's 17th Annual 911 Fee Report; the FCC report itself was not found. The FCC total covers reporting jurisdictions only (about 55 states and territories), which is why NENA's older estimate (about 240 million calls a year) is higher. Say "reported" and attribute each figure. **[VERIFY]** on the FCC site before putting numbers on screen.]*
 
 **[6:40, Close and action]**
 
@@ -228,9 +228,9 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 > How much energy are we talking about? Depending on how fast it's moving, somewhere around 27,000 to 75,000 megatons of TNT, by my calculation using published scaling equations.
 >
-> For comparison, the largest nuclear weapon ever tested, the Soviet Tsar Bomba, was about 50 megatons. So this is hundreds to over a thousand times more.
+> For comparison, the largest nuclear weapon ever tested, the Soviet Tsar Bomba, was about 50 megatons, with some sources saying up to 58. So this is hundreds to over a thousand times more.
 
-*[**[VERIFY]** Tsar Bomba's yield (about 50 Mt, from general knowledge, not a source this session). Energy is my own estimate (1 km stony, 3,000 kg/m3, 12-20 km/s). Recheck in the impact calculator before recording.]*
+*[**CONFIRMED:** Tsar Bomba, tested Oct 30, 1961 over Novaya Zemlya, is commonly given as about 50 Mt (Wikipedia gives 50-58 Mt; Britannica also lists it). Say "about 50 megatons". Do not compare to Hiroshima (sources vary 3,000-3,800x). The impact energy range is my own estimate (1 km stony, 3,000 kg/m3, 12-20 km/s); recheck in the impact calculator before recording.]*
 
 **[3:00, Chapter 3: Second zero] VISUAL: a countdown clock, "T = 0".**
 
@@ -266,11 +266,11 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 > Now, the part I promised. A kilometer-wide asteroid is the size we are best at finding.
 >
-> NASA says it has found the large majority of near-Earth asteroids this size. A recent NASA snapshot counted 874 found, with about 50 estimated to be still undiscovered. And none of the known ones is predicted to threaten Earth.
+> NASA says it has found the large majority of near-Earth asteroids this size. NASA's December 2025 graphic lists roughly 870 found, with about 50 estimated still to be found. And none of the known ones is predicted to threaten Earth.
 >
 > That's not the same as zero. But it means that this video is about an extremely unlikely event, and one we are looking for.
 
-*[874 and about 50 are from a search summary of NASA's August 2025 snapshot; the percentage is my arithmetic (about 94 to 95%), not a NASA statement. Say "the large majority", not "95%". **[VERIFY]** against NASA CNEOS.]*
+*[**CONFIRMED with a caveat:** NASA's Dec 2025 near-Earth asteroid graphic lists 873 discovered asteroids over 1 km and an estimated 50 left to find (39,123 near-Earth asteroids of all sizes). A mid-2025 CNEOS-based article gives 876, so counts differ by source and month: say "about 870", not an exact number. Our World in Data says NASA estimates over 90% of these have been found; 873 of about 923 is roughly 94-95%, which is my arithmetic, so say "the large majority" or "over 90 percent". I could not open CNEOS directly.]*
 
 **[7:30, Chapter 8: We moved one] VISUAL: DART impact footage (NASA, credited), orbit diagram.**
 
@@ -291,7 +291,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 ---
 
 ## Before recording: remaining checks
-1. **Eggs:** US refrigeration rule (which agency, what hours); the FDA 2004 vaccination statement; whether the EU rule against washing Class A eggs is official; current FSA storage guidance.
-2. **911:** the "unused code" reasons (primary source); names and spellings (Gallagher, Fitzgerald); FCC 2024 and NENA figures; the 1967 commission.
-3. **Asteroid:** run the impact calculator (host blocked here) for blast, thermal and seismic distances, and choose land vs ocean. Confirm energy and crater. Add a sourced aftermath section or leave it short. Verify the Tsar Bomba figure and the 874/50 NASA numbers.
+1. **Eggs (confirmed this round):** refrigeration rule = FDA 21 CFR 118.4(e), 45 F from 36 hours after lay; FDA's 2004 proposed rule looked at hen vaccination, and the "not enough evidence" conclusion is from AVMA, not the preamble. Still open: USDA washing rule wording (7 CFR 56), the EU rule against washing Class A eggs, current FSA storage guidance.
+2. **911 (confirmed as secondary only):** reasons for the number are consistent across secondary sources but not primary; FCC and NENA call counts come via an aggregator and an older NENA estimate. Still open: names and spellings (Gallagher, Fitzgerald), the 1967 commission, the FCC report itself.
+3. **Asteroid:** Tsar Bomba (about 50 Mt) and NASA's roughly 870 found / about 50 left are now sourced (see notes). Still open: run the impact calculator for blast, thermal and seismic distances (link given in chat), choose land vs ocean, confirm energy and crater, and add a sourced aftermath section or leave it short.
 4. **Length:** measured in each header. Shorter than the plan's targets because only sourced material was used.
