@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=1080, height=1920" />
+<script src="assets/vendor/gsap.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#fdf0d8}
+#root{position:relative;width:100%;height:100%;font-family:sans-serif;color:#fff;overflow:hidden}
+.abs{position:absolute}
+.scene{left:0;top:0;width:1080px;height:1920px;overflow:hidden;background:#fdf0d8}
+.pic{position:absolute;left:50%;top:50%;width:1290px;height:1920px;margin-left:-645px;margin-top:-960px;object-fit:cover}
+.cap{left:40px;width:1000px;top:1200px;text-align:center}
+.cap span{display:inline-block;background:rgba(10,16,28,.78);padding:18px 30px;border-radius:24px;font-size:58px;font-weight:800;line-height:1.15}
+#tag{left:40px;top:190px;font-size:30px;font-weight:700;background:rgba(10,16,28,.7);padding:8px 18px;border-radius:14px}
+.mb{position:absolute;width:170px;height:300px;border-radius:26px}
+#yr{position:absolute;left:0;top:560px;width:1080px;text-align:center;font-size:260px;font-weight:900;color:#2b3445}
+#sub{position:absolute;left:0;top:880px;width:1080px;text-align:center;font-size:60px;font-weight:800;color:#2b3445}
+.sw{position:absolute;left:230px;width:620px;height:150px;border-radius:14px}
+</style></head><body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="44" data-width="1080" data-height="1920">
+      <audio id="v1" src="assets/audio/v1.wav" data-start="0" data-duration="4.1" data-track-index="9"></audio>
+      <audio id="v2" src="assets/audio/v2.wav" data-start="4.4" data-duration="13.0" data-track-index="9"></audio>
+      <audio id="v3" src="assets/audio/v3.wav" data-start="17.7" data-duration="5.9" data-track-index="9"></audio>
+      <audio id="v4" src="assets/audio/v4.wav" data-start="23.9" data-duration="10.1" data-track-index="9"></audio>
+      <audio id="v5" src="assets/audio/v5.wav" data-start="34.3" data-duration="3.5" data-track-index="9"></audio>
+      <audio id="v6" src="assets/audio/v6.wav" data-start="38.1" data-duration="5.5" data-track-index="9"></audio>
+
+      <div id="a1" class="scene abs clip" data-start="0" data-duration="4.6" data-track-index="1"><img class="pic" id="a1i" src="assets/shot01.png"></div>
+
+      <div id="a2" class="scene abs clip" data-start="4.4" data-duration="4.8" data-track-index="1"><div class="mb" id="mb0" style="left:40px;top:720px;background:#4f7a5a"></div><div class="mb" id="mb1" style="left:240px;top:760px;background:#3d6fa5"></div><div class="mb" id="mb2" style="left:440px;top:720px;background:#b5483c"></div><div class="mb" id="mb3" style="left:640px;top:760px;background:#7a5a3a"></div><div class="mb" id="mb4" style="left:840px;top:720px;background:#8a8f99"></div></div>
+      <div id="a3" class="scene abs clip" data-start="9.0" data-duration="8.9" data-track-index="1"><div id="yr">1939</div><div id="sub">Teachers College,<br>Columbia University</div></div>
+      <div id="a4" class="scene abs clip" data-start="17.7" data-duration="6.4" data-track-index="1"><div class="sw" id="sw0" style="top:300px;background:#f7e463"></div><div class="sw" id="sw1" style="top:460px;background:#f5cf3c"></div><div class="sw" id="sw2" style="top:620px;background:#f4b72c"></div><div class="sw" id="sw3" style="top:780px;background:#f19b22"></div><div class="sw" id="sw4" style="top:940px;background:#ec7d1b"></div><div class="sw" id="sw5" style="top:1100px;background:#df5f14"></div></div>
+      <div id="a5" class="scene abs clip" data-start="23.9" data-duration="5.3" data-track-index="1"><img class="pic" id="a5i" src="assets/shot06.png"></div>
+      <div id="a6" class="scene abs clip" data-start="29.0" data-duration="5.5" data-track-index="1"><img class="pic" id="a6i" src="assets/shot07.png"></div>
+      <div id="a7" class="scene abs clip" data-start="34.3" data-duration="4.0" data-track-index="1"><img class="pic" id="a7i" src="assets/shot08.png"></div>
+      <div id="a8" class="scene abs clip" data-start="38.1" data-duration="5.9" data-track-index="1"><img class="pic" id="a8i" src="assets/shot09.png"></div>
+
+      <div id="tag" class="abs clip" data-start="4.4" data-duration="19.5" data-track-index="6">Illustration</div>
+      <div id="c0" class="cap abs clip" data-start="0" data-duration="4.4" data-track-index="5"><span>Every school bus in America<br>is the same yellow.</span></div>
+      <div id="c1" class="cap abs clip" data-start="4.4" data-duration="4.6" data-track-index="5"><span>Before 1939, there was<br>no national standard.</span></div>
+      <div id="c2" class="cap abs clip" data-start="9.0" data-duration="4.3" data-track-index="5"><span>Frank Cyr, a professor at<br>Teachers College, Columbia,</span></div>
+      <div id="c3" class="cap abs clip" data-start="13.3" data-duration="4.4" data-track-index="5"><span>brought officials and engineers<br>together to write standards.</span></div>
+      <div id="c4" class="cap abs clip" data-start="17.7" data-duration="6.2" data-track-index="5"><span>One big question: color.<br>Lemon yellow to deep orange.</span></div>
+      <div id="c5" class="cap abs clip" data-start="23.9" data-duration="5.1" data-track-index="5"><span>The group picked one:<br>National School Bus Chrome.</span></div>
+      <div id="c6" class="cap abs clip" data-start="29.0" data-duration="5.3" data-track-index="5"><span>Visible from far away.<br>Black lettering stands out.</span></div>
+      <div id="c7" class="cap abs clip" data-start="34.3" data-duration="3.8" data-track-index="5"><span>Cyr reportedly thought it looked<br>more orange than yellow.</span></div>
+      <div id="c8" class="cap abs clip" data-start="38.1" data-duration="5.9" data-track-index="5"><span>A standard, chosen on purpose,<br>more than eighty years ago.</span></div>
+</div>
+<script>
+const tl=gsap.timeline({paused:true});
+const fade=(s,t)=>tl.fromTo(s,{opacity:0},{opacity:1,duration:0.35,ease:"power1.out"},t);
+tl.fromTo("#a1i",{scale:1},{scale:1.08,duration:4.6,ease:"none"},0);
+fade("#a2",4.4);
+for(let i=0;i<5;i++) tl.fromTo("#mb"+i,{y:60,opacity:0},{y:0,opacity:1,duration:0.4,ease:"power2.out"},4.6+i*0.25);
+fade("#a3",9.0); tl.fromTo("#yr",{scale:0.8},{scale:1,duration:0.6,ease:"back.out(1.6)"},9.2);
+fade("#a4",17.7);
+for(let i=0;i<6;i++) tl.fromTo("#sw"+i,{x:-300,opacity:0},{x:0,opacity:1,duration:0.5,ease:"power2.out"},17.9+i*0.2);
+fade("#a5",23.9); tl.fromTo("#a5i",{scale:1},{scale:1.08,duration:5.3,ease:"none"},23.9);
+fade("#a6",29.0); tl.fromTo("#a6i",{scale:1},{scale:1.1,duration:5.5,ease:"none"},29.0);
+fade("#a7",34.3); tl.fromTo("#a7i",{scale:1.08},{scale:1,duration:4.0,ease:"none"},34.3);
+fade("#a8",38.1); tl.fromTo("#a8i",{scale:1.1},{scale:1,duration:5.9,ease:"none"},38.1);
+const pop=(s,t)=>tl.fromTo(s,{opacity:1,y:24},{y:0,duration:0.3,ease:"power3.out"},t);
+pop("#c0",0);pop("#c1",4.4);pop("#c2",9.0);pop("#c3",13.3);pop("#c4",17.7);pop("#c5",23.9);pop("#c6",29.0);pop("#c7",34.3);pop("#c8",38.1);
+window.__timelines["main"]=tl;tl.seek(0);
+</script></body></html>
