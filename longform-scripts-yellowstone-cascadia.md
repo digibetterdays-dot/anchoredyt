@@ -4,93 +4,130 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 
 ---
 
-# VIDEO 1: If Yellowstone Erupted Tomorrow, This Is What Happens
+# VIDEO 1: If Yellowstone Erupted Tomorrow, This Is What Happens (EXPANDED DRAFT 2)
 
-**Working title:** If Yellowstone Erupted Tomorrow, This Is What Happens (vidIQ 89; "What If Yellowstone Erupted" about 10,000 searches a month, +183%)
-**Length as written:** about 612 narrated words, about 4 minutes. The 10-minute target needs the **[VERIFY]** sections filled with sourced material (see end of file).
-**Companion Short:** 45s cut from Chapter 2, ending "full story on the channel".
+**Working title:** If Yellowstone Erupted Tomorrow, This Is What Happens (vidIQ 89; "what if yellowstone erupted" about 10,000 searches a month, +183%)
+**Length as written (measured):** about 1170 narrated words, about 7.8 minutes at 150 wpm (up from about 612 words / 4.1 min).
+**Companion Short:** 45s cut from the Biscuit Basin cold open plus Chapter 3, ending "full story on the channel".
+**Source level:** USGS/YVO claims come from web-search summaries of USGS pages and news coverage; no USGS PDF was opened. The 2014 Ash3d study details come from an earlier search summary. Climate and magma-percent claims are from secondary coverage and hedged.
 
-### Chapter list (YouTube chapters)
-Chapter timestamps below are for the 10-minute target, not the current draft; re-time after the final cut.
+### Retention plan
+| Time | Device | Where |
+|---|---|---|
+| 0:00 | Real event hook: July 2024 Biscuit Basin explosion | Cold open |
+| 0:40 | Open loop: "what actually happens at Yellowstone isn't a supereruption; I'll show you the real hazard" | Cold open |
+| 2:30 | Myth-bust: "overdue" and "growing magma" | Ch. 3 |
+| 4:10 | Visual device: ash-depth ladder (1 mm to a meter) | Ch. 4 |
+| 5:30 | Pattern interrupt: roof-weight comparison, then "the ash isn't the real climate problem" | Ch. 4-5 |
+| 7:00 | Payoff of open loop: hydrothermal explosions | Ch. 6 |
+| 8:10 | Monitoring: "what the warning would look like" | Ch. 7 |
+| 9:00 | Concrete action: where to check Yellowstone's status each month | Close |
+
+### Chapter list (estimated; re-time after the cut)
+0:00 Biscuit Basin, July 2024 · 1:00 A caldera, not a cone · 1:50 Three giant eruptions · 2:30 The odds, and two myths · 4:10 If it did happen: the ash · 5:30 Beyond the ash: the climate question · 6:50 What really happens at Yellowstone · 8:10 How we'd know first · 9:00 Where to check
 
 ### Narration
 
-**[0:00, cold open] VISUAL: Old Faithful at dawn, steam, a calm crowd.**
+**[0:00, cold open] VISUAL: tourists on a boardwalk, then the July 23, 2024 explosion footage (use USGS or NPS footage with credit).**
 
-> This is Old Faithful. It erupts about every hour and a half, and visitors line up to watch.
+> On July 23rd, 2024, visitors at Yellowstone's Biscuit Basin, about two miles from Old Faithful, heard a sudden blast. A pool of water had turned to steam in an instant, throwing rock and mud across the boardwalk.
 >
-> But the ground under this boardwalk sits inside one of the biggest volcanic systems on Earth. And today we're asking the question everyone asks: what if Yellowstone erupted tomorrow?
+> Nobody was hurt. The boardwalk was wrecked. And the internet immediately asked the same question it always asks: is this it? Is the supervolcano waking up?
 >
-> Not a geyser. Not a lava flow. The big one. Here's what scientists say would happen, and, just as important, what they say probably won't.
+> It wasn't. The USGS said plainly that this kind of explosion is not caused by magma rising, and is not a sign of an impending eruption.
+>
+> So today we're going to do two things. First, answer the big question: what would happen if Yellowstone really erupted, tomorrow? Then I'll show you what Yellowstone is actually doing, which is a lot less cinematic, and a lot more likely.
 
-**[0:50, Chapter 1: What Yellowstone is] VISUAL: map zoom to the park, then a cutaway of the caldera.**
+**[1:00, Chapter 1: A caldera, not a cone] VISUAL: map zoom to the park, then a cutaway of the caldera.**
 
 > Yellowstone isn't a cone-shaped mountain like you'd draw as a kid. It's a caldera, a huge basin left behind when an enormous eruption emptied the magma below and the ground collapsed into the space.
 >
 > That's what makes it a supervolcano: not a bigger bang from one peak, but a system capable of eruptions on a scale the modern world has never seen.
->
+
+**[1:50, Chapter 2: Three giant eruptions] VISUAL: a timeline.**
+
 > The U.S. Geological Survey, the USGS, has traced three of these giant caldera-forming eruptions in Yellowstone's past: about 2.1 million years ago, 1.3 million years ago, and about 640,000 years ago.
 
-**[2:30, Chapter 2: The odds] VISUAL: a timeline, three marks, then today.**
+**[2:30, Chapter 3: The odds, and two myths] VISUAL: a timeline, three marks, then today.**
 
 > So, is it due? That's the question people really want answered.
 >
 > The USGS says the chance of a caldera-forming eruption in any given century, or even any given thousand years, is exceedingly low. And Yellowstone's volcano alert level is Normal.
 >
-> You'll sometimes see someone quote an exact number, like one in 730,000 per year. Those figures aren't official USGS estimates. The honest version is: very, very unlikely, and scientists are watching.
+> You'll sometimes see someone quote an exact number, like one in 730,000 per year. Those figures aren't official USGS estimates. The honest version is: very, very unlikely.
 >
-> Notice also that 2.1 million, 1.3 million, and 640,000 years aren't a clock ticking down. The gaps aren't regular enough to say anything is "overdue."
-
-*[Production note: the "gaps aren't regular" line is arithmetic (0.8M and 0.66M year gaps) but "not a clock" is interpretation. Cite USGS wording on this before recording. **[VERIFY]**]*
-
-**[3:50, Chapter 3: The first hours] VISUAL: animated eruption column, then a radial ash-fall map.**
-
-> Okay. Let's say it happens anyway. What would the first hours look like?
+> Myth one: "it's overdue." Those three eruptions aren't a clock. The gaps are about 800,000 years and then about 660,000 years, and nothing in them says a fourth is scheduled.
 >
-> Near the park, the effects would be catastrophic. A supereruption throws huge volumes of ash and gas into the sky, and the area close to the vent would be devastated.
+> Myth two: "there's a giant lake of magma ready to go." In 2015, University of Utah scientists mapped the upper magma chamber and found it's only about nine percent molten rock, the rest being solid. Later studies have put estimates higher, around 16 to 20 percent in one, and about 14 percent in another. But the researchers in these studies say the same thing: that's well below the roughly 35 to 50 percent usually associated with an eruptible body, and none of these studies found one.
 >
-> **[VERIFY]** *We don't yet have a sourced figure for how far destructive flows would reach. Show a generic "destruction zone" graphic with no distance label until we do.*
+> More melt isn't the same as more risk. That's what the scientists keep saying.
+
+*[Check: "35 to 50 percent" and the later percentages come from news coverage of the studies, not the papers. **[VERIFY]** against the 2015 Utah paper, the Maguire study, and the 2025 Nature study before quoting any percentage on screen. The "800,000 and 660,000 year gaps" are arithmetic from 2.1M, 1.3M and 0.64M.]*
+
+**[4:10, Chapter 4: If it did happen: the ash] VISUAL: the USGS ash map, labeled "Model result, not a prediction", then an ash-depth ladder graphic.**
+
+> Okay. Let's say it happens anyway. What can scientists actually model? Where the ash goes.
 >
-> What scientists can model is where the ash goes.
-
-**[5:20, Chapter 4: The ash map] VISUAL: the USGS ash map, shown with a label "Model result, not a prediction".**
-
 > In 2014, USGS scientists Larry Mastin, Alexa Van Eaton, and Jacob Lowenstern published a model of what a modern Yellowstone supereruption would do. They used a computer model called Ash3d.
 >
-> The result looks like a bullseye. Closest to the volcano, the ash would be deepest. For cities within about 500 kilometers, like Billings, Montana, and Casper, Wyoming, the model shows from several centimeters to more than a meter of ash.
+> The result looks like a bullseye. For cities within about 500 kilometers, like Billings, Montana, and Casper, Wyoming, the model shows from several centimeters to more than a meter of ash. Farther out, the layers thin quickly. In the model's example, even New York City, Los Angeles, and Miami see ash measured in millimeters.
 >
-> Farther out, the layers thin quickly. Across much of the country you'd see thin dustings of ash. In the model's example, even New York City, Los Angeles, and Miami see ash measured in millimeters.
+> That sounds small. Here's why it isn't. The USGS says an ashfall of just one millimeter, about 1/32 of an inch, can seriously reduce visibility and make roads and tracks slippery. Airports can shut down at even thinner amounts. And power outages are common in ashfall areas.
 >
-> That sounds small, and it is, compared to what lands near the park. But ash isn't snow. Even thin layers can disrupt air travel and make roads slippery. **[VERIFY]**
+> Closer in, it's weight. A dry layer of ash four inches thick weighs 120 to 200 pounds per square yard, and wet ash can weigh twice that. Flat roofs are more likely to collapse than steep ones.
 >
-> Important caveat: the details depend on the wind and on the eruption's conditions. Change the wind, and the map changes.
+> And remember: the exact map depends on the wind. Change the wind, and the map changes.
 
-**[7:20, Chapter 5: What would really happen] VISUAL: split screen: a supereruption vs a hydrothermal explosion.**
+**[5:30, Chapter 5: Beyond the ash: the climate question] VISUAL: a sulfur haze animation in the upper atmosphere, then a cooling curve labeled "typical eruption, not Yellowstone".**
 
-> And here's the part that rarely makes it into the headline videos: a supereruption is the worst case, not the likely case.
+> The ash isn't actually the biggest question. Ash falls out within days to weeks. What lingers is sulfur.
 >
-> **[VERIFY]** *The USGS says smaller events, such as hydrothermal explosions and lava flows, are far more likely than a supereruption. Confirm the exact USGS wording and examples before recording this section.*
+> A big eruption can put sulfur dioxide high into the stratosphere, where it forms a thin haze of sulfuric acid droplets that reflects sunlight back to space. Up there, there's no rain to wash it out, so the cooling can last one to three years.
 >
-> A hydrothermal explosion happens when underground hot water suddenly turns to steam. They have happened in Yellowstone's past, and they're a far more realistic hazard than the apocalypse scenario.
+> The best-documented modern example is Mount Pinatubo in 1991, which cooled the planet by about half a degree Celsius for around two years, according to one summary.
+>
+> A Yellowstone supereruption would be far bigger than Pinatubo. How much cooler is genuinely uncertain. One study of ocean-floor sediment found that after Yellowstone's eruption around 630,000 years ago, the cooling lasted longer than simple climate models predicted. Another found that a huge unknown is just how big the sulfur droplets get.
+>
+> So, if anyone gives you a precise number for "volcanic winter" in a Yellowstone eruption, they're guessing. What scientists will say is that it would matter globally, for at least a few years.
 
-**[8:40, Chapter 6: How we'd know first] VISUAL: seismograph traces, GPS stations, map of the monitoring network.**
+*[Do NOT quote a temperature drop or a crop-failure figure for Yellowstone. Pinatubo's 0.5 C is from one secondary summary. **[VERIFY]** with USGS or NASA before showing it. The "630,000 years ago sediment study" is from an EarthSky summary; check the paper.]*
 
-> The other thing to know: a supereruption wouldn't come out of nowhere.
->
-> **[VERIFY]** *Yellowstone is monitored by the Yellowstone Volcano Observatory, which tracks earthquakes, ground deformation, and gas. Confirm member agencies and the phrase "weeks, months, or years of warning" against USGS before saying it.*
->
-> Scientists track earthquakes, swelling or sinking ground, and changes in the gas coming out of the hot springs. Right now, they report that everything is within normal ranges.
+**[6:50, Chapter 6: What really happens at Yellowstone] VISUAL: Biscuit Basin again, now from above; a hydrothermal explosion diagram: hot water flashing to steam.**
 
-**[9:30, Close]**
+> So here's the payoff I promised. What actually happens at Yellowstone?
+>
+> Hydrothermal explosions. The USGS says they're Yellowstone's most common geologic hazard, and its most frequent but least destructive hazard, compared with big earthquakes, lava flows, and caldera-forming eruptions. On average, a few of them happen somewhere in the park every year, often in the backcountry, where nobody notices.
+>
+> The mechanism is simple. Hot water underground is under pressure. If that pressure drops suddenly, the water flashes to steam, and the ground above blows apart. That's what happened at Black Diamond Pool in Biscuit Basin in 2024. And in September 1989, at Porkchop Geyser, in one of the park's most famous explosions.
+>
+> No magma needed. And after Biscuit Basin, the USGS warned that more small explosions there were possible for days to months, and the park closed the area for the rest of the season.
+>
+> That's the real Yellowstone: not a movie ending, but a boardwalk you have to stay on.
+
+**[8:10, Chapter 7: How we'd know first] VISUAL: seismograph traces, GPS station, map of the monitoring network.**
+
+> And a supereruption wouldn't come out of nowhere. The Yellowstone Volcano Observatory, a partnership of the USGS, Yellowstone National Park, and the University of Utah, watches the whole system.
+>
+> About 50 seismometers listen for earthquakes. Yellowstone normally has about 1,500 to 2,500 of them a year, nearly all too small to feel. GPS stations track the ground rising and falling. And gas monitors sample what's coming out of the vents.
+>
+> Right now, those GPS stations show the ground slowly sinking, about an inch or two a year since 2015, which is normal behavior for this system.
+>
+> A YVO scientist has said what a real warning would look like: thousands of earthquakes, plus uplift across the park. Not one tremor, not one explosion.
+
+*[Do NOT say "weeks to months of warning": no source found. The YVO quote is from a news/blog piece; **[VERIFY]** against YVO's own wording.]*
+
+**[9:00, Close and action]**
 
 > So, what if Yellowstone erupted tomorrow? It would be among the worst natural disasters in human history. And it is exceedingly unlikely, today or in any century you or I will live in.
 >
-> If you want the real story, it's not a countdown. It's a volcano that scientists watch every single day, so that if anything ever changes, we hear it from them first.
+> The thing that's actually going to happen is smaller, noisier, and closer to the boardwalk.
 >
-> If you liked this, the Cascadia fault is the one scientists actually say is a matter of when. That's next.
+> If you want to check on Yellowstone yourself, the YVO posts regular updates. Look at the alert level. It says Normal. And if that ever changes, you'll hear it from them first.
+>
+> Next up: the fault that scientists do say is a matter of when, not if. Cascadia.
 
-**Do NOT say:** "overdue", "end of civilization", "End of America", a per-year probability, a global winter claim, or any death toll, none of which is sourced here.
-**Sources to cite on screen:** USGS Ash3d study (Mastin, Van Eaton and Lowenstern, 2014), USGS Yellowstone volcano hazards pages.
+**Do NOT say:** "overdue", "end of civilization", "End of America", a per-year probability, a temperature or crop figure for a Yellowstone winter, "weeks to months of warning", or a destruction distance for pyroclastic flows (no sourced figure).
+**Sources to cite on screen:** USGS Yellowstone Volcano Observatory (alert level, July 23, 2024 Biscuit Basin report, hazards pages), USGS Ash3d study (Mastin, Van Eaton and Lowenstern, 2014), USGS ashfall fact sheet (FS 027-00), University of Utah 2015 magma-chamber study.
 **Thumbnail idea:** Old Faithful with the sky half dark orange; text "TOMORROW?". No fake news-style branding.
 **Pinned comment:** "Where would you be on the ash map? Drop your city."
 
@@ -272,7 +309,7 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 ---
 
 ## Before recording: remaining checks
-1. **Yellowstone (not yet expanded, about 4 min):** USGS wording on "overdue", hydrothermal explosions vs supereruption likelihood, monitoring and warning time, and whether the first-hours destruction distance has a sourced figure.
+1. **Yellowstone (expanded):** still open: exact USGS wording on the magma-melt percentages (2015 Utah paper, Maguire study, 2025 Nature study); YVO's own wording on what a warning would look like; Pinatubo cooling figure and the 630,000-year sediment study; any sourced pyroclastic-flow distance (none used); YVO monitoring counts (about 50 seismometers, 1,500-2,500 quakes per year) from a YVO page. Biscuit Basin and hydrothermal-hazard statements are from USGS pages via search summary.
 2. **Cascadia (expanded):**
    - Oregon Resilience Plan numbers: DONE from the primary Executive Summary. (Correction: an earlier search summary claimed a "more than 7,800 deaths and injuries" figure and I told you my "10,000" figure was wrong. The plan's own wording is "1,250 to more than 10,000" fatalities, so that earlier correction was itself mistaken.)
    - Still open: ODOT 2019 trap quote wording; seismic grant program start date and current project count; ShakeAlert warning times for Cascadia; ghost-forest footage (disputed, left out).
