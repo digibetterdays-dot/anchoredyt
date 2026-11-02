@@ -46,7 +46,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 >
 > One consequence you may have noticed: a cold egg left on a warm counter can get wet with condensation. Some sources say that moisture can help bacteria move through the shell, which is one reason food-safety guidance says to keep US eggs cold once they've been chilled.
 
-*[**CONFIRMED (secondary summary of the Federal Register):** the refrigeration rule belongs to the **FDA**, not USDA: 21 CFR 118.4(e) requires shell eggs held at or below 45 F ambient starting 36 hours after lay, through storage and transport (final rule published July 9, 2009, 74 FR 33030; a separate FDA rule sets a 45 F retail standard). USDA's role is grading and the washing standards. The USDA wash-water temperature and the 7 CFR 56 wording were NOT confirmed; keep "commercial eggs are washed" as a general statement and cite USDA only for grading. The condensation claim remains a secondary paraphrase of USDA. Safe on-screen line: "FDA rules require eggs be kept at 45 F or below from 36 hours after laying."]*
+*[**CONFIRMED (secondary summary of the Federal Register):** the refrigeration rule belongs to the **FDA**, not USDA: 21 CFR 118.4(e) requires shell eggs held at or below 45 F ambient starting 36 hours after lay, through storage and transport (final rule published July 9, 2009, 74 FR 33030; a separate FDA rule sets a 45 F retail standard). USDA's role is grading and the washing standards. The USDA wash-water temperature and the 7 CFR 56 wording were NOT confirmed; keep "commercial eggs are washed" as a general statement and cite USDA only for grading. The condensation claim remains a secondary paraphrase of USDA. Safe on-screen line: "FDA rules require eggs be kept at 45 F or below from 36 hours after laying." **Primary check from the FDA "Key Temperatures for Egg Safety" graphic (2020, for food service and retail):** "Refrigerate untreated shell eggs while stored or displayed at 7 C (45 F)." Note the word "untreated": pasteurized shell eggs are treated differently, so say "untreated shell eggs" if citing the graphic.]*
 
 **[3:30, Chapter 3: The British way] VISUAL: British hens in a barn, a red Lion stamp on a shell.**
 
@@ -274,11 +274,11 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 > Now, the part I promised. A kilometer-wide asteroid is the size we are best at finding.
 >
-> NASA says it has found the large majority of near-Earth asteroids this size. NASA's December 2025 graphic lists roughly 870 found, with about 50 estimated still to be found. And none of the known ones is predicted to threaten Earth.
+> NASA says it has found the large majority of near-Earth asteroids this size. NASA's infographic, with data as of December 1, 2025, lists 876 found, with about 50 estimated still to be found. And none of the known ones is predicted to threaten Earth.
 >
 > That's not the same as zero. But it means that this video is about an extremely unlikely event, and one we are looking for.
 
-*[**CONFIRMED with a caveat:** NASA's Dec 2025 near-Earth asteroid graphic lists 873 discovered asteroids over 1 km and an estimated 50 left to find (39,123 near-Earth asteroids of all sizes). A mid-2025 CNEOS-based article gives 876, so counts differ by source and month: say "about 870", not an exact number. Our World in Data says NASA estimates over 90% of these have been found; 873 of about 923 is roughly 94-95%, which is my arithmetic, so say "the large majority" or "over 90 percent". I could not open CNEOS directly.]*
+*[**CONFIRMED from the primary NASA infographic you supplied (data as of Dec 1, 2025):** 876 near-Earth asteroids over 1 km discovered, an estimated 50 left to be found; 40,155 near-Earth asteroids of all sizes; for objects over 140 m, 11,493 discovered and an estimated 14,000 left to find. (My earlier 873/39,123 figures were from a secondary summary of an older snapshot; use these.) Over 90% of the 1 km class found: 876 of about 926 is about 94.6%, which is my arithmetic, so say "the large majority". The 140 m class is far less complete (about 45%), which is worth a line: the big ones are mostly found, the mid-size are not.]*
 
 **[7:30, Chapter 8: We moved one] VISUAL: DART impact footage (NASA, credited), orbit diagram.**
 
