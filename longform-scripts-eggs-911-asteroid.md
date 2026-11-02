@@ -194,7 +194,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 **Working title:** What If a 1-km Asteroid Hit New York? (vidIQ 90)
 **Length as written (measured):** about 620 narrated words, about 4.1 minutes at 150 wpm.
-**Status:** **DRAFT WITH PLACEHOLDERS.** The impact numbers below are my own calculation from published scaling equations, not the Imperial/Purdue impact calculator, which this session cannot reach. Blast, heat, and casualty distances are NOT included; they are marked **[CALCULATOR]**. Do not record this until those are filled and the numbers cross-checked.
+**Status:** impact numbers are now computed from the Collins, Melosh and Marcus (2005) equations (paper supplied by you), validated against the paper's Table 6. They are a model, not the website, and the paper lists real limits (see notes). Ocean impact, tsunami, and any global or climate effect are NOT modeled and are not claimed.
 
 ### Retention plan
 | Time | Device | Where |
@@ -224,27 +224,35 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 >
 > It doesn't have to be a direct hit on the city to matter. Even a miss by a few miles would be a catastrophe, and the Sandia National Laboratories modeled a roughly 1.4 kilometer asteroid hitting the ocean off New York. In their simulation, the asteroid vaporizes, throws hundreds of cubic miles of superheated water vapor, melted rock, and debris into the upper atmosphere, and sends a shock wave that levels much of New England.
 
-**[2:30, Chapter 2: The energy] VISUAL: a bar chart: a large nuclear weapon vs the impact, with a clear scale label.**
+**[2:30, Chapter 2: The energy] VISUAL: a bar chart: the largest nuclear test vs the impact, with a clear scale label.**
 
-> How much energy are we talking about? Depending on how fast it's moving, somewhere around 27,000 to 75,000 megatons of TNT, by my calculation using published scaling equations.
+> How much energy are we talking about? Using the standard scientific scaling equations, about 54,000 megatons of TNT at a typical impact speed. Faster or slower changes it: roughly 27,000 megatons at the low end, and about 74,000 at the high end.
 >
-> For comparison, the largest nuclear weapon ever tested, the Soviet Tsar Bomba, was about 50 megatons, with some sources saying up to 58. So this is hundreds to over a thousand times more.
+> For comparison, the largest nuclear weapon ever tested, the Soviet Tsar Bomba, was about 50 megatons. So this is on the order of a thousand times more.
 
-*[**CONFIRMED:** Tsar Bomba, tested Oct 30, 1961 over Novaya Zemlya, is commonly given as about 50 Mt (Wikipedia gives 50-58 Mt; Britannica also lists it). Say "about 50 megatons". Do not compare to Hiroshima (sources vary 3,000-3,800x). The impact energy range is my own estimate (1 km stony, 3,000 kg/m3, 12-20 km/s); recheck in the impact calculator before recording.]*
+*[Source: Collins, Melosh and Marcus (2005) equations, implemented in `asteroid_impact_model.py` and checked against the paper's own Table 6 example (1.75 km asteroid), where it reproduces the energy, crater, fireball, magnitude, blast and thermal figures. Assumptions: 1 km stony (3,000 kg/m3), 45 degrees, 12-20 km/s, bedrock target. This is not the website itself. Say "about 54,000 megatons".]*
 
 **[3:00, Chapter 3: Second zero] VISUAL: a countdown clock, "T = 0".**
 
-> At impact, a crater opens. On land, scaling equations suggest a final crater roughly 12 to 16 kilometers across. That's wider than Manhattan is long, several times over.
+> At impact, a crater opens. On land, the equations give a final crater about 14 kilometers across, nine miles. Manhattan is about 13 miles long; this crater would be most of its width, and then some. Ground shock is equivalent to a magnitude 7.8 earthquake.
 >
-> The ground shock is equivalent to an earthquake of about magnitude 7.6 to 7.9.
+> Within about 10 kilometers, six miles, the thrown-out rock lands as a layer roughly 100 meters deep, taller than a 30-story building.
 
-*[Both figures are my own estimate and match one independent report's crater size. **[CALCULATOR]** confirm. New York is coastal, so decide land vs ocean impact before recording; an ocean impact changes the crater and adds a tsunami.]*
+*[Crater: 13.9 km (bedrock) or 14.4 km (sedimentary); range about 12-16 km across 12-20 km/s. Magnitude 7.8 (7.6-7.9). Ejecta at 10 km: about 97 m at 17 km/s. Ground zero assumed central Manhattan; the actual site is a script choice.]*
 
-**[3:50, Chapter 4: The first minutes] VISUAL: concentric distance rings over a map of New York (rings unlabeled until the calculator is run).**
+**[3:50, Chapter 4: The first minutes] VISUAL: concentric distance rings over a map of the New York region, one ring appearing per line of narration.**
 
-> **[CALCULATOR]** *Fill: fireball radius, thermal radiation effects by distance, peak blast overpressure by distance, and the time the shock wave takes to reach each ring. Do not state any numbers until these are cross-checked.*
+> Now the rings. First, light. The fireball would be about 12 kilometers in radius, a second sun. Its heat is the first thing to arrive, and it arrives at the speed of light.
 >
-> What Sandia's simulation says in general terms: the shock wave would devastate not just the city, but much of the surrounding region.
+> The equations say the heat would be enough to set clothing on fire out to about 120 kilometers, 75 miles. Out to about 175 kilometers, 110 miles, it would cause third-degree burns to anyone in the open with a clear view. And trees and grass could ignite out to 200 kilometers, past Philadelphia and nearly to Hartford.
+>
+> Then comes the blast. One minute after impact, it reaches 20 kilometers. At two and a half minutes, 50 kilometers. At five minutes, 100 kilometers.
+>
+> The equations put the blast damage this way: highway bridges collapse out to about 90 kilometers. Multistory buildings with load-bearing walls collapse out to about 150 kilometers. Wood-frame houses are almost entirely destroyed out to about 190 kilometers. And windows shatter out to more than 400 kilometers.
+>
+> Here's the caveat the authors themselves give. For impacts bigger than about 10,000 megatons, their blast equations probably overestimate the damage by a factor of two to five. Even so, divide those distances by five, and wood-frame houses are still destroyed out to about 40 kilometers, 25 miles.
+
+*[All distances are 17 km/s, bedrock, Collins et al. 2005 equations, rounded. Thermal radii: clothing about 123 km, third-degree burns about 176 km, trees/grass about 183-211 km. Blast radii (17 km/s): truss bridges 86 km, wall-bearing multistory 147 km, wood-frame 189 km, glass 437 km. The paper warns thermal estimates are upper bounds (no atmosphere or clouds), the blast model overestimates by 2-5x above about 10,000 Mt, and there is no tsunami model. City distances (Philadelphia about 130 km, Hartford about 190 km) are approximate. **[VERIFY]** before on-screen labels. At 12 km/s the program predicts no fireball (below about 15 km/s), so heat effects depend on impact speed.]*
 
 **[4:40, Chapter 5: The water] VISUAL: coastline, a wave animation, labeled "illustration".**
 
@@ -293,5 +301,5 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 ## Before recording: remaining checks
 1. **Eggs (confirmed this round):** refrigeration rule = FDA 21 CFR 118.4(e), 45 F from 36 hours after lay; FDA's 2004 proposed rule looked at hen vaccination, and the "not enough evidence" conclusion is from AVMA, not the preamble. Still open: USDA washing rule wording (7 CFR 56), the EU rule against washing Class A eggs, current FSA storage guidance.
 2. **911 (confirmed as secondary only):** reasons for the number are consistent across secondary sources but not primary; FCC and NENA call counts come via an aggregator and an older NENA estimate. Still open: names and spellings (Gallagher, Fitzgerald), the 1967 commission, the FCC report itself.
-3. **Asteroid:** Tsar Bomba (about 50 Mt) and NASA's roughly 870 found / about 50 left are now sourced (see notes). Still open: run the impact calculator for blast, thermal and seismic distances (link given in chat), choose land vs ocean, confirm energy and crater, and add a sourced aftermath section or leave it short.
+3. **Asteroid:** impact figures now computed (see Chapter 2-4 notes and `asteroid_impact_model.py`). Still open: confirm against the web calculator if you can reach it; city distances; whether to run an ocean-impact version (the paper's program gives a rudimentary water-layer correction but no tsunami); a sourced aftermath section, or leave it short.
 4. **Length:** measured in each header. Shorter than the plan's targets because only sourced material was used.
