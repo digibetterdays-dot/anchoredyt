@@ -99,12 +99,25 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 # VIDEO 2: What If the Cascadia Fault Ruptured Tomorrow? (EXPANDED DRAFT 2)
 
 **Working title:** What If the Cascadia Fault Ruptured Tomorrow? (vidIQ 90; "cascadia earthquake" about 38,800 searches a month, +447%)
-**Length as written (measured):** about 1,280 narrated words, about 8.5 minutes at 150 wpm (up from about 793 words / 5.3 min). Chapter timestamps are estimates; re-time after the cut.
+**Length as written (measured):** about 1,390 narrated words, about 9.3 minutes at 150 wpm (up from about 793 words / 5.3 min originally). Chapter timestamps are estimates; re-time after the cut.
 **Companion Short:** 50s cut from Chapters 2-3.
 **Source level:** every claim below comes from secondary sources found by web search. The Oregon Resilience Plan PDF itself could not be opened (oregon.gov is blocked in this session), so no plan number is quoted as exact.
 
 ### Chapter list
 0:00 A quiet morning · 0:50 The fault · 2:00 The proof: January 1700 · 3:30 The odds · 4:40 The shaking · 5:40 Early warning: what ShakeAlert can and can't do · 7:00 The wave · 8:30 After the quake: bridges, fuel, recovery · 10:00 Schools and old buildings · 11:00 What you can do
+
+### Retention plan (applied)
+| Time | Device | Where |
+|---|---|---|
+| 0:30 | Open loop: "the trap", paid off at about 8:30 | Cold open |
+| 2:00 | New hook: "a wave with no parent earthquake" | Ch. 2 |
+| 4:40 | Pattern interrupt: real 3:00 timer, one held shot | Ch. 4 |
+| 5:40 | Reversal: phone alert, then "an honest limit" | Ch. 5 |
+| 7:00 | Visual device: "YOUR WINDOW" countdown bar | Ch. 6 |
+| 8:20 | Re-hook: "this is where the trap closes" | End of Ch. 6 |
+| 8:30 | Payoff of the open loop; the trap now leads the chapter | Ch. 7 |
+| 10:00 | Number comparison: 22 projects, then 346 | Ch. 8 |
+| 11:00 | Concrete action: find your route today | Ch. 9 |
 
 ### Narration
 
@@ -115,6 +128,8 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 > And then the ground starts to move. It doesn't stop in a few seconds. It keeps going.
 >
 > This is what scientists call a Cascadia earthquake. And it isn't science fiction. It has happened before.
+>
+> Most videos on this stop at the shaking. But the thing that turns a disaster into a months-long crisis isn't the shaking, or even the wave. It's a trap, one sentence from an Oregon transportation official, and I'll show you exactly where it hides, later in this video.
 
 **[0:50, Chapter 1: The fault] VISUAL: animated plate cutaway: Juan de Fuca plate sliding under North America.**
 
@@ -152,7 +167,7 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 >
 > What does that mean? Not tomorrow, and not "overdue". Just a real, serious chance in the lifetime of a child born today.
 
-**[4:40, Chapter 4: The shaking] VISUAL: shaking POV in an office, then a long unbroken timer.**
+**[4:40, Chapter 4: The shaking] VISUAL: shaking POV in an office, then a real on-screen timer that runs for a full 3:00 with no cuts while the narration continues. Hold the shot. The silence is the point.**
 
 > Now, back to our morning. What would the shaking feel like?
 >
@@ -172,7 +187,7 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 
 *[Do NOT say how many seconds Cascadia would give anyone. Cascadia's rupture is offshore, so warning time on the coast vs. inland differs, but no sourced figure was found. **[VERIFY]**]*
 
-**[7:00, Chapter 6: The wave] VISUAL: coastline, a siren, a mapped evacuation route; no gore.**
+**[7:00, Chapter 6: The wave] VISUAL: coastline, a siren, a mapped evacuation route; no gore. On screen: a "YOUR WINDOW" countdown bar from 30:00 down to 10:00, filling red as the narration gives each estimate.**
 
 > Here's where the coast is different from everywhere else.
 >
@@ -183,16 +198,16 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 > And in some places, there isn't any high ground close enough. So Washington has started building towers. In 2016, a school near Westport called Ocosta Elementary unveiled the first tsunami vertical evacuation structure in North America: a place to climb, instead of somewhere to run to. The state's assessment found that dozens more are needed on the outer coast.
 >
 > The sources disagree a little on exact times, so treat them as a window, not a countdown. Check the evacuation map where you live.
+>
+> Now let's say you made it to high ground. You're alive. The shaking has stopped, the wave has passed. And this is where the trap I mentioned closes.
 
 **[8:30, Chapter 7: After the quake] VISUAL: damaged bridge illustration, fuel gauge, empty tap; label "illustration".**
 
-> Then comes the part that lasts months.
+> Here it is. An Oregon transportation official put it in one sentence: you can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.
 >
-> In 2013, the State of Oregon published the Oregon Resilience Plan to find out how ready it was. Its overall finding was blunt: Oregon is far from resilient to a great Cascadia earthquake and tsunami today.
+> Think about what that means. Most of the bridges in western Oregon are susceptible to serious damage, and much of the state's highway system would not be usable right away. Trucks can't deliver fuel. And Oregon depends on fuel brought in from Washington, which sits on the same fault.
 >
-> Bridges: most of the bridges in western Oregon are susceptible to serious damage, and much of the state's highway system would not be usable right away.
->
-> Fuel: the plan flagged liquid fuel as a particular weakness, because Oregon depends on fuel transported in from Washington, which is also exposed to the same earthquake. And an Oregon transportation official summed up the trap: you can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.
+> That's why the 2013 Oregon Resilience Plan, the state's own assessment, reached a blunt overall finding: Oregon is far from resilient to a great Cascadia earthquake and tsunami today.
 >
 > Recovery: the plan said that, as things stood in 2013, buildings and services could not be restored within a month, and it warned of possible permanent population loss. Estimates of how long services would take to return range from about one month to three years, depending on the service and the area.
 >
@@ -202,35 +217,39 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 
 **[10:00, Chapter 8: Schools and old buildings] VISUAL: a brick school building, seismic retrofit work; label "illustration" unless real footage is licensed.**
 
-> One thing that can change the outcome is the buildings themselves.
+> But the story doesn't end in that trap. Here's a number that shows what's possible.
 >
-> Oregon created a Seismic Rehabilitation Grant Program to retrofit critical public buildings, especially schools and emergency facilities. The sources disagree on the start date, between 2002 and 2009, so we'll say "created in the 2000s".
+> In 2013, Oregon's resilience plan reported that the state's seismic grant program had retrofitted 22 schools. That sounded like a start. It was about two percent of the need the state had documented.
 >
-> By the time of the 2013 resilience plan, the program had funded retrofits at 22 schools, about two percent of the need the state had documented.
+> Now compare that to 2025 testimony to the state legislature: 346 school projects awarded, close to 600 million dollars. From 22 to 346.
 >
-> According to 2025 testimony to the state legislature, the program has since awarded 346 school projects, totaling close to 600 million dollars.
+> That program, created in the 2000s, funds retrofits for critical public buildings, especially schools and emergency facilities. Sources disagree on the exact start date, so we'll leave it there.
 >
-> The hardest buildings to fix are unreinforced masonry, brick or block with nothing holding it together inside. They're the most vulnerable in an earthquake and among the most expensive to retrofit, and Portland has the biggest concentration in the state. In 2019, Oregon passed a law creating a separate program for those non-school buildings.
+> The hardest buildings to fix are unreinforced masonry: brick or block with nothing holding it together inside. They're the most vulnerable in an earthquake and among the most expensive to retrofit. Portland has the biggest concentration in the state, and in 2019 Oregon created a separate program for those non-school buildings.
+>
+> So: a fault that can't be stopped, and a state slowly, expensively making what's on top of it stronger.
 
 *[Counts may have changed since 2025; confirm the latest figure with the Oregon Department of Geology and Mineral Industries or the state program page before recording. **[VERIFY]**]*
 
-**[11:00, Chapter 9: What you can do] VISUAL: simple checklist graphic.**
+**[11:00, Chapter 9: What you can do] VISUAL: phone screen showing a tsunami evacuation map; then a checklist graphic.**
 
-> The good news is that this is one of the few disasters you can partly prepare for.
+> Which brings us to the only part of this you control.
 >
-> The old advice was to prepare for 72 hours. The state's resilience plan says that after a Cascadia earthquake, restoring utilities will certainly take longer than that.
->
-> So: learn your tsunami evacuation route if you live near the coast, and know where high ground is. Keep water, food, and essentials at home for more than a weekend.
+> The old advice was to prepare for 72 hours. The state's resilience plan says that after a Cascadia earthquake, restoring utilities will certainly take longer than that. So keep water, food, and essentials at home for more than a weekend.
 >
 > **[VERIFY]** *Say a specific kit duration (for example "two weeks") only after confirming current wording from Oregon Emergency Management or Oregon State Extension.*
-
-**[11:40, Close]**
-
-> So, what if the Cascadia fault ruptured tomorrow? We'd have several minutes of shaking, a tsunami within minutes of it, and a recovery that takes months or years.
 >
-> It's not a prediction. It's a risk, with a real number, from scientists who've studied the evidence. Know your route. Know your plan.
+> And here's the one thing to do today, before this video ends. If you live near the coast, find your tsunami evacuation route and the nearest high ground. Open your county's evacuation map, and walk the route once.
 >
-> And if you live in the Pacific Northwest, tell me in the comments what your coast or city's plan looks like. Someone reading this might need it.
+> That's the difference between a window of ten minutes and a plan for it.
+
+**[11:50, Close]**
+
+> So, what if the Cascadia fault ruptured tomorrow? Several minutes of shaking, a wave minutes behind it, and a recovery that takes months or years.
+>
+> It's not a prediction. It's a risk, with a real number. And you just heard the trap. Now you know where the plan has to start.
+>
+> Find your route today. And tell me in the comments where you live and where your high ground is, because someone reading this might need it.
 
 **Do NOT say:** "overdue", "The Big One is coming", "10,000 deaths", "I-5 corridor", a ShakeAlert warning-time figure for Cascadia, one fixed tsunami arrival time, or a ghost forest as proof.
 **Sources to cite on screen:** USGS Pacific Northwest earthquake probabilities fact sheet (2025), NOAA Cascadia subduction zone page, USGS ShakeAlert overview, DOGAMI tsunami materials, Washington Emergency Management Division vertical-evacuation assessment, Oregon Resilience Plan (2013).
