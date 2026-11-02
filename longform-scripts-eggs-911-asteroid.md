@@ -52,13 +52,15 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 > Britain does it differently. Eggs there aren't washed, so the cuticle stays on, and the egg keeps its own seal.
 >
+> That's not just a British habit. Across the European Union, the marketing rules for top-grade, Class A eggs say they must not be washed or cleaned, because washing can damage the shell, which the rules call an effective barrier against bacteria. There's a narrow exception where a country authorized washing before 2003, and those eggs have to be labeled "washed eggs".
+>
 > But that only works if the hen is healthy to begin with. So since 1998, a scheme called the British Lion Code of Practice has done the work earlier in the chain. Hens are vaccinated against salmonella. Hens, eggs, and feed are traceable. Rodents are strictly controlled. And Lion eggs carry a best-before date stamped on the shell.
 >
 > It worked well enough that in October 2017, the UK's Food Standards Agency changed its advice. Since the 1988 salmonella scare, pregnant women, babies, and older people had been told to avoid runny or raw eggs. The FSA said British Lion eggs were now safe for them to eat runny, even raw.
 >
 > Let that sink in. In one country, the advice is: keep every egg cold. In the other, the advice is that a vaccinated hen's egg can be eaten raw by a pregnant woman.
 >
-> But there's a catch, and it matters. The advice applies only to eggs with the Lion stamp. A non-Lion egg in Britain should still be cooked through for those groups. And it doesn't cover people who are severely immunocompromised.
+> But there's a catch, and it matters. The advice applies to eggs produced under the Lion Code, or an equivalent scheme. Other British eggs, and eggs from outside the UK, should still be cooked through for those groups. And it doesn't cover people who are severely immunocompromised.
 
 **[5:00, Chapter 4: So why doesn't the US switch?] VISUAL: map of vaccinated vs non-vaccinated flocks (use only if sourced; otherwise text on screen).**
 
@@ -153,13 +155,13 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 **[4:20, Chapter 4: Why 911?] VISUAL: three keypad digits lighting up one at a time.**
 
-> So why those three digits? Sources give three reasons.
+> So why those three digits? Honestly, the official reasoning isn't well documented, and there's some speculation. But sources give a consistent core.
 >
-> It was short, so it would be fast in a panic. It was easy to remember. And, crucially, it hadn't been assigned as an area code, an exchange, or any other service code, so it didn't collide with anything.
+> It was short, so it would be fast in a panic. It was easy to remember. And it hadn't been assigned as an area code or an office code, so it didn't collide with anything. The National Emergency Number Association is quoted as saying 911 best met the phone industry's long-range numbering plans and switching setups of the time.
 >
-> You'll sometimes hear that the number was picked because of how a rotary dial turns. The sources contradict each other on that, so I'm not going to tell you.
+> You'll sometimes hear it was chosen to match 211, 411 and 611, or because of how a rotary dial turns. Those are guesses, and the sources contradict each other, so I'm not going to tell you.
 
-*[**CONFIRMED as widely reported, NOT primary:** "short, easy to remember, not already used as an area, exchange or service code" appears across several secondary sources; the NENA attribution ("best fit the needs of all parties") is also secondary. No AT&T or FCC document found. Two outlier claims are uncorroborated and must NOT be used: that a staffer for Sen. Ernest Gruening picked it after seeing Britain's 999, and that the FCC mandated 911 by Jan 1, 1968. Rotary-dial explanations stay out. Wording: "sources say" or "according to NENA".]*
+*[**RE-CHECKED, still secondary:** the "short, easy to remember, not already used as an area or office code" core is consistent across sources. The NENA quote ("best met the long-range numbering plans and switching configurations of the telephone industry") is quoted by a secondary site; NENA's own statement was not found. Wikipedia says how 911 was chosen "is not well known and is subject to much speculation", including that it resembles 211/411/611. The rotary-dial and "phantom calls from a faulty hook switch" claims are blog-level and stay out. Keep the "honestly, it isn't well documented" framing, which is the true state of the record.]*
 
 **[5:10, Chapter 5: Spreading] VISUAL: map of early adopters.**
 
@@ -300,7 +302,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 ---
 
 ## Before recording: remaining checks
-1. **Eggs (confirmed this round):** refrigeration rule = FDA 21 CFR 118.4(e), 45 F from 36 hours after lay; FDA's 2004 proposed rule looked at hen vaccination, and the "not enough evidence" conclusion is from AVMA, not the preamble. Still open: USDA washing rule wording (7 CFR 56), the EU rule against washing Class A eggs, current FSA storage guidance.
-2. **911 (confirmed as secondary only):** reasons for the number are consistent across secondary sources but not primary; FCC and NENA call counts come via an aggregator and an older NENA estimate. Still open: names and spellings (Gallagher, Fitzgerald), the 1967 commission, the FCC report itself.
+1. **Eggs (confirmed):** FDA 21 CFR 118.4(e), 45 F from 36 hours after lay; FDA 2004 proposed rule looked at vaccination (the "not enough evidence" conclusion is from AVMA). **EU washing rule confirmed:** Regulation (EC) 589/2008, Art. 2(2): Class A eggs shall not be washed or cleaned, with a limited exception (Art. 3) for member states that authorized packing-centre washing on 1 June 2003, labelled "washed eggs". That regulation is being replaced by Delegated Regulation (EU) 2023/2465, which per a search summary keeps the prohibition; its application date was not found. **UK rules post-Brexit were not checked**: the script says "across the European Union" and describes British practice from industry and news sources, not UK law. **FSA 2017 confirmed:** announced Oct 11, 2017, following the ACMSF's 2016 report; applies to Lion Code eggs or equivalent schemes, not other UK or non-UK eggs; not for people on medically supervised diets. Still open: USDA washing-rule wording (7 CFR 56), current FSA storage guidance, UK law on washing.
+2. **911 (re-checked):** the reasons for the number are consistent but secondary and acknowledged as poorly documented; the script now says so. Still open: names and spellings (Gallagher, Fitzgerald), the 1967 commission, the FCC report itself.
 3. **Asteroid:** impact figures now computed (see Chapter 2-4 notes and `asteroid_impact_model.py`). Still open: confirm against the web calculator if you can reach it; city distances; whether to run an ocean-impact version (the paper's program gives a rudimentary water-layer correction but no tsunami); a sourced aftermath section, or leave it short.
 4. **Length:** measured in each header. Shorter than the plan's targets because only sourced material was used.
