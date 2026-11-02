@@ -99,9 +99,9 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 # VIDEO 2: What If the Cascadia Fault Ruptured Tomorrow? (EXPANDED DRAFT 2)
 
 **Working title:** What If the Cascadia Fault Ruptured Tomorrow? (vidIQ 90; "cascadia earthquake" about 38,800 searches a month, +447%)
-**Length as written (measured):** about 1,390 narrated words, about 9.3 minutes at 150 wpm (up from about 793 words / 5.3 min originally). Chapter timestamps are estimates; re-time after the cut.
+**Length as written (measured):** about 1,650 narrated words, about 11 minutes at 150 wpm (up from about 793 words / 5.3 min originally). Chapter timestamps are estimates; re-time after the cut.
 **Companion Short:** 50s cut from Chapters 2-3.
-**Source level:** every claim below comes from secondary sources found by web search. The Oregon Resilience Plan PDF itself could not be opened (oregon.gov is blocked in this session), so no plan number is quoted as exact.
+**Source level:** Oregon Resilience Plan numbers are now taken **directly from the plan's Executive Summary (Feb 2013, OSSPAC), pages 2-7**, which you supplied. Everything else (USGS, NOAA, DOGAMI, Washington, ShakeAlert) is still from secondary web-search summaries.
 
 ### Chapter list
 0:00 A quiet morning · 0:50 The fault · 2:00 The proof: January 1700 · 3:30 The odds · 4:40 The shaking · 5:40 Early warning: what ShakeAlert can and can't do · 7:00 The wave · 8:30 After the quake: bridges, fuel, recovery · 10:00 Schools and old buildings · 11:00 What you can do
@@ -171,6 +171,8 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 
 > Now, back to our morning. What would the shaking feel like?
 >
+> The last one struck around nine o'clock on a late January night in 1700. The authors of Oregon's own resilience plan point out the next one could just as easily shake a mid-July morning, with hundreds of thousands of Oregonians and visitors at the coast. No one can predict it.
+>
 > The key difference from a typical California quake is how long it lasts. State geologists in Oregon have said shaking could last several minutes. Some of their briefings have said three to five.
 >
 > Several minutes. That's long enough to be frightening, long enough to damage buildings, and long enough that you'd want to know exactly what to do.
@@ -195,6 +197,8 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 >
 > In Washington, a state assessment of the outer coast said people may have only 10 to 15 minutes once the ground stops shaking to reach high ground.
 >
+> Take the city of Seaside, Oregon. The resilience plan found that 83 percent of its population, 89 percent of its employees, and almost all of its critical facilities sit inside the tsunami zone.
+>
 > And in some places, there isn't any high ground close enough. So Washington has started building towers. In 2016, a school near Westport called Ocosta Elementary unveiled the first tsunami vertical evacuation structure in North America: a place to climb, instead of somewhere to run to. The state's assessment found that dozens more are needed on the outer coast.
 >
 > The sources disagree a little on exact times, so treat them as a window, not a countdown. Check the evacuation map where you live.
@@ -203,17 +207,25 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 
 **[8:30, Chapter 7: After the quake] VISUAL: damaged bridge illustration, fuel gauge, empty tap; label "illustration".**
 
-> Here it is. An Oregon transportation official put it in one sentence: you can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.
+> Here it is. A 2019 Oregon Department of Transportation presentation put it in one sentence: you can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.
 >
-> Think about what that means. Most of the bridges in western Oregon are susceptible to serious damage, and much of the state's highway system would not be usable right away. Trucks can't deliver fuel. And Oregon depends on fuel brought in from Washington, which sits on the same fault.
+> Think about what that means. Most of the bridges in western Oregon are susceptible to serious damage. Oregon gets almost all of its liquid fuel from suppliers in Washington, by pipeline and river, a state that sits on the same fault. And once it arrives, the fuel is stored in a single six-mile stretch of the lower Willamette River, on riverside soil that can turn liquid when it shakes.
 >
-> That's why the 2013 Oregon Resilience Plan, the state's own assessment, reached a blunt overall finding: Oregon is far from resilient to a great Cascadia earthquake and tsunami today.
+> That's why the 2013 Oregon Resilience Plan, written for the state legislature, began with a blunt finding: Oregon is far from resilient to a great Cascadia earthquake and tsunami today.
 >
-> Recovery: the plan said that, as things stood in 2013, buildings and services could not be restored within a month, and it warned of possible permanent population loss. Estimates of how long services would take to return range from about one month to three years, depending on the service and the area.
+> Its numbers: available studies estimate deaths from 1,250 to more than 10,000, from the shaking and the tsunami combined. Tens of thousands of buildings destroyed or damaged so badly they'd need months to years of repair. Tens of thousands of households displaced. More than 30 billion dollars in losses, close to a fifth of the state's economy. And more than a million dump-truck loads of debris.
 >
-> And the money: sources quote losses of tens of billions of dollars, on the order of a fifth of the state's yearly economic output.
+> **[VISUAL: on-screen table, "If it happened today", from the plan's recovery table]**
+>
+> And here's how long recovery would take under today's conditions. Electricity: one to three months in the Willamette Valley, three to six months on the coast. Police and fire stations in the valley: two to four months. Drinking water and sewer: one month to a year in the valley, one to three years on the coast. Hospitals: about a year and a half in the valley, and three years on the coast.
+>
+> The plan says businesses usually plan to survive about two weeks without essential services. Under present conditions, it warns, outages could last much longer, in some cases 18 to 36 months or more.
+>
+> Now compare that with what other countries did. After Japan's magnitude 9.0 earthquake in 2011, more than 90 percent of the power was back in ten days, 90 percent of phone lines in two weeks, and 90 percent of cell stations in 19 days. After Chile's magnitude 8.8 quake in 2010, 95 percent of power returned within two weeks.
+>
+> That gap, between months to years and days to weeks, is what Oregon's plan was written to close.
 
-*[Do NOT say one figure for deaths, or for dollars. Sources conflict: "$30 billion" vs "at least $32 billion"; "more than 7,800 deaths and injuries" vs "thousands". The exact numbers need the plan PDF. **[VERIFY]**]*
+*[All figures in this chapter are from the Oregon Resilience Plan Executive Summary (Feb 2013), p. 6, except the ODOT 2019 quote, which came from a web-search summary of an ODOT presentation. **[VERIFY]** that quote's exact wording against the presentation. The plan's fatality figure is a range: always say "1,250 to more than 10,000", never one number. These are 2013 estimates "under present conditions" of 2013.]*
 
 **[10:00, Chapter 8: Schools and old buildings] VISUAL: a brick school building, seismic retrofit work; label "illustration" unless real footage is licensed.**
 
@@ -235,9 +247,9 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 
 > Which brings us to the only part of this you control.
 >
-> The old advice was to prepare for 72 hours. The state's resilience plan says that after a Cascadia earthquake, restoring utilities will certainly take longer than that. So keep water, food, and essentials at home for more than a weekend.
+> The old advice was to prepare for 72 hours. Oregon's resilience plan recommends updating that: prepare for a minimum of two weeks, and possibly more.
 >
-> **[VERIFY]** *Say a specific kit duration (for example "two weeks") only after confirming current wording from Oregon Emergency Management or Oregon State Extension.*
+> *[From the plan's recommendations, p. 7. Current Oregon Emergency Management wording may differ; confirm before recording. **[VERIFY]**]*
 >
 > And here's the one thing to do today, before this video ends. If you live near the coast, find your tsunami evacuation route and the nearest high ground. Open your county's evacuation map, and walk the route once.
 >
@@ -251,7 +263,7 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 >
 > Find your route today. And tell me in the comments where you live and where your high ground is, because someone reading this might need it.
 
-**Do NOT say:** "overdue", "The Big One is coming", "10,000 deaths", "I-5 corridor", a ShakeAlert warning-time figure for Cascadia, one fixed tsunami arrival time, or a ghost forest as proof.
+**Do NOT say:** "overdue", "The Big One is coming", a single death figure (say "1,250 to more than 10,000"), "I-5 corridor", a ShakeAlert warning-time figure for Cascadia, one fixed tsunami arrival time, or a ghost forest as proof.
 **Sources to cite on screen:** USGS Pacific Northwest earthquake probabilities fact sheet (2025), NOAA Cascadia subduction zone page, USGS ShakeAlert overview, DOGAMI tsunami materials, Washington Emergency Management Division vertical-evacuation assessment, Oregon Resilience Plan (2013).
 **Thumbnail idea:** a calm coastline with a thin crack running through the water; text "CASCADIA".
 **Pinned comment:** "Know your evacuation route? Post your city and nearest high ground, so others can learn."
@@ -261,10 +273,7 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 
 ## Before recording: remaining checks
 1. **Yellowstone (not yet expanded, about 4 min):** USGS wording on "overdue", hydrothermal explosions vs supereruption likelihood, monitoring and warning time, and whether the first-hours destruction distance has a sourced figure.
-2. **Cascadia (expanded to about 8.5 min):**
-   - Oregon Resilience Plan exact numbers (deaths, dollars, recovery times per service). The PDF host (oregon.gov) is blocked in this session. Allow it, or paste the executive summary, and the [VERIFY] number notes can be replaced with exact figures.
-   - Seismic grant program start date (2002 vs 2007 vs 2009 across sources) and the current project count.
-   - ShakeAlert: no sourced warning-time figure for a Cascadia event; Oregon and Washington launch dates not confirmed.
-   - Ghost-forest footage: disputed, so left out.
-   - Recommended kit duration (current Oregon Emergency Management wording).
-3. **Source level:** everything here is from web-search summaries of secondary sources. For a final cut, open the primary documents listed under "Sources to cite on screen".
+2. **Cascadia (expanded):**
+   - Oregon Resilience Plan numbers: DONE from the primary Executive Summary. (Correction: an earlier search summary claimed a "more than 7,800 deaths and injuries" figure and I told you my "10,000" figure was wrong. The plan's own wording is "1,250 to more than 10,000" fatalities, so that earlier correction was itself mistaken.)
+   - Still open: ODOT 2019 trap quote wording; seismic grant program start date and current project count; ShakeAlert warning times for Cascadia; ghost-forest footage (disputed, left out).
+3. **Source level:** Oregon plan numbers are primary; everything else is from web-search summaries of secondary sources. For a final cut, open the other primary documents listed under "Sources to cite on screen".
