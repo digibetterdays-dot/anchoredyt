@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=1080, height=1920" />
+<script src="assets/vendor/gsap.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#101826}
+#root{position:relative;width:100%;height:100%;font-family:sans-serif;color:#fff;overflow:hidden}
+.abs{position:absolute}
+.scene{left:0;top:0;width:1080px;height:1920px;overflow:hidden;background:#101826}
+.pic{position:absolute;left:50%;top:50%;width:1290px;height:1920px;margin-left:-645px;margin-top:-960px;object-fit:cover}
+.wide{position:absolute;left:0;top:0;height:1920px;width:auto}
+.cap{left:40px;width:1000px;top:1120px;text-align:center}
+.cap span{display:inline-block;background:rgba(10,16,28,.78);padding:18px 30px;border-radius:24px;font-size:62px;font-weight:800;line-height:1.15}
+#tag{left:40px;top:190px;font-size:30px;font-weight:700;background:rgba(10,16,28,.7);padding:8px 18px;border-radius:14px}
+#signs{background:#e9dfcc}
+.sh{position:absolute;top:620px;width:170px;height:170px;background:#8a93a3}
+#s1{left:70px;border-radius:50%}
+#s2{left:260px;clip-path:polygon(50% 0,100% 50%,50% 100%,0 50%)}
+#s3{left:450px;width:170px;height:170px}
+#s4{left:640px;clip-path:polygon(50% 0,100% 100%,0 100%)}
+#s5{left:830px;clip-path:polygon(30% 0,70% 0,100% 30%,100% 70%,70% 100%,30% 100%,0 70%,0 30%)}
+#yr{position:absolute;left:0;top:380px;width:1080px;text-align:center;font-size:120px;font-weight:900;color:#2b3445}
+</style></head><body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="34.5" data-width="1080" data-height="1920">
+      <audio id="v1" src="assets/audio/v1.wav" data-start="0" data-duration="2.9" data-track-index="9"></audio>
+      <audio id="v2" src="assets/audio/v2.wav" data-start="3.2" data-duration="6.0" data-track-index="9"></audio>
+      <audio id="v3" src="assets/audio/v3.wav" data-start="9.5" data-duration="9.7" data-track-index="9"></audio>
+      <audio id="v4" src="assets/audio/v4.wav" data-start="19.5" data-duration="7.9" data-track-index="9"></audio>
+      <audio id="v5" src="assets/audio/v5.wav" data-start="27.7" data-duration="6.3" data-track-index="9"></audio>
+
+      <div id="a1" class="scene abs clip" data-start="0" data-duration="3.4" data-track-index="1"><img class="pic" id="a1i" src="assets/shot01.png"></div>
+      <div id="a2" class="scene abs clip" data-start="3.2" data-duration="6.5" data-track-index="1"><img class="pic" id="a2i" src="assets/shot02.png"></div>
+
+      <div id="signs" class="scene abs clip" data-start="9.5" data-duration="10.2" data-track-index="1">
+        <div id="s1" class="sh"></div><div id="s2" class="sh"></div><div id="s3" class="sh"></div><div id="s4" class="sh"></div><div id="s5" class="sh"></div>
+        <div id="yr">1920s</div>
+      </div>
+      <div id="a5" class="scene abs clip" data-start="19.5" data-duration="4.5" data-track-index="1"><img class="pic" id="a5i" src="assets/shot05.png"></div>
+      <div id="a6" class="scene abs clip" data-start="24.0" data-duration="3.9" data-track-index="1"><img class="pic" id="a6i" src="assets/shot06.png"></div>
+
+      <div id="a7" class="scene abs clip" data-start="27.7" data-duration="6.8" data-track-index="1"><img class="wide" id="a7i" src="assets/shot07.png"></div>
+      <div id="tag" class="abs clip" data-start="3.2" data-duration="24.5" data-track-index="6">Illustration</div>
+      <div id="c0" class="cap abs clip" data-start="0" data-duration="3.2" data-track-index="5"><span>Stop signs weren't always red.<br>Or eight-sided.</span></div>
+      <div id="c1" class="cap abs clip" data-start="3.2" data-duration="3.0" data-track-index="5"><span>Early stop signs were yellow.</span></div>
+      <div id="c2" class="cap abs clip" data-start="6.2" data-duration="3.3" data-track-index="5"><span>Fade-proof red paint<br>wasn't available yet.</span></div>
+      <div id="c3" class="cap abs clip" data-start="9.5" data-duration="5.0" data-track-index="5"><span>In the 1920s, highway officials<br>standardized road signs.</span></div>
+      <div id="c4" class="cap abs clip" data-start="14.5" data-duration="5.0" data-track-index="5"><span>And gave the stop sign<br>a shape no other sign used.</span></div>
+      <div id="c5" class="cap abs clip" data-start="19.5" data-duration="4.3" data-track-index="5"><span>A unique shape tells you what<br>a sign says before you read it.</span></div>
+      <div id="c6" class="cap abs clip" data-start="23.8" data-duration="3.9" data-track-index="5"><span>Even at night, when early<br>signs weren't reflective.</span></div>
+      <div id="c7" class="cap abs clip" data-start="27.7" data-duration="6.8" data-track-index="5"><span>A shape designed to be unmistakable,<br>about a century ago.</span></div>
+</div>
+<script>
+const tl=gsap.timeline({paused:true});
+const fade=(s,t)=>tl.fromTo(s,{opacity:0},{opacity:1,duration:0.35,ease:"power1.out"},t);
+tl.fromTo("#a1i",{scale:1},{scale:1.08,duration:3.4,ease:"none"},0);
+fade("#a2",3.2); tl.fromTo("#a2i",{scale:1.08,x:-30},{scale:1.0,x:30,duration:6.5,ease:"none"},3.2);
+fade("#signs",9.5);
+tl.fromTo("#s1",{x:200},{x:0,duration:0.9,ease:"power2.out"},9.7);
+tl.fromTo("#s2",{x:100},{x:0,duration:0.9,ease:"power2.out"},9.7);
+tl.fromTo("#s4",{x:-100},{x:0,duration:0.9,ease:"power2.out"},9.7);
+tl.fromTo("#s5",{x:-200},{x:0,duration:0.9,ease:"power2.out"},9.7);
+
+tl.fromTo("#yr",{y:30},{y:0,duration:0.4,ease:"power3.out"},9.8);
+tl.fromTo("#s5",{scale:1,backgroundColor:"#8a93a3"},{scale:2.1,x:-375,backgroundColor:"#b3202e",duration:0.8,ease:"back.out(1.6)"},14.6);
+["#s1","#s2","#s3","#s4"].forEach(s=>tl.fromTo(s,{opacity:1},{opacity:0.25,duration:0.6},14.7));
+fade("#a5",19.5); tl.fromTo("#a5i",{scale:1},{scale:1.1,duration:4.5,ease:"none"},19.5);
+fade("#a6",24.0); tl.fromTo("#a6i",{scale:1},{scale:1.08,duration:3.9,ease:"none"},24.0);
+fade("#a7",27.7); tl.fromTo("#a7i",{x:-560},{x:-1700,duration:6.2,ease:"sine.inOut"},27.9);
+const pop=(s,t)=>tl.fromTo(s,{opacity:1,y:24},{y:0,duration:0.3,ease:"power3.out"},t);
+pop("#c0",0);pop("#c1",3.2);pop("#c2",6.2);pop("#c3",9.5);pop("#c4",14.5);pop("#c5",19.5);pop("#c6",23.8);pop("#c7",27.7);
+window.__timelines["main"]=tl;tl.seek(0);
+</script></body></html>
