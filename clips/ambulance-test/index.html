@@ -5,67 +5,112 @@
     <meta name="viewport" content="width=1080, height=1920" />
     <script src="assets/vendor/gsap.min.js"></script>
     <style>
-      :root { --ground:#0e1a2b; --ink:#ffffff; --red:#c1121f; --amber:#ffb703; --font-display: sans-serif; }
+      :root { --ground:#0e1a2b; --ink:#ffffff; --red:#c1121f; --font-display: sans-serif; }
       * { margin:0; padding:0; box-sizing:border-box; }
       html, body { width:1080px; height:1920px; overflow:hidden; background:var(--ground); }
       #root { position:relative; width:100%; height:100%; font-family:var(--font-display); color:var(--ink); }
       .abs { position:absolute; }
-      #road { left:0; top:1330px; width:1080px; height:590px; background:#1b2a41; }
-      #q { left:60px; width:960px; top:190px; text-align:center; font-size:80px; font-weight:800; line-height:1.05; }
+      .full { left:0; top:0; width:1080px; height:1920px; }
+      .cap { left:60px; width:960px; text-align:center; font-size:68px; font-weight:800; line-height:1.1; }
+      #ground { left:0; top:1440px; width:1080px; height:480px; background:#1b2a41; }
+      /* ambulance front */
       #body { left:90px; top:430px; width:900px; height:560px; background:#f4f6f8; border-radius:36px; }
       #stripe { left:90px; top:760px; width:900px; height:70px; background:var(--red); }
       #lightL, #lightR { top:400px; width:150px; height:70px; border-radius:20px; }
-      #lightL { left:170px; background:#2a6df4; }
-      #lightR { left:760px; background:var(--red); }
+      #lightL { left:170px; background:#2a6df4; } #lightR { left:760px; background:#e63946; }
       #plate { left:190px; top:520px; width:700px; height:200px; display:flex; align-items:center; justify-content:center; }
       #plate .flip { font-size:96px; font-weight:900; letter-spacing:3px; color:var(--red); display:inline-block; transform:scaleX(-1); }
       #wheelL, #wheelR { top:950px; width:150px; height:150px; border-radius:50%; background:#111; border:14px solid #555; }
       #wheelL { left:190px; } #wheelR { left:740px; }
-      #mirror { left:140px; top:500px; width:800px; height:640px; border-radius:60px; border:22px solid #c8d0da; background:#25364f; overflow:hidden; }
-      #mirror .glass { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; }
-      #mirror .flip2 { display:inline-block; }
-      #mirror .word { font-size:84px; font-weight:900; letter-spacing:2px; color:#ff8a8a; display:inline-block; transform:scaleX(-1); }
-      .cap { left:60px; width:960px; text-align:center; font-size:76px; font-weight:800; line-height:1.1; top:1210px; }
+      /* mirror */
+      .mirror { left:140px; top:500px; width:800px; height:640px; border-radius:60px; border:22px solid #c8d0da; background:#25364f; overflow:hidden; }
+      .mirror .glass { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; }
+      .word { font-size:84px; font-weight:900; letter-spacing:2px; color:#ff8a8a; display:inline-block; }
+      .word.mir { transform:scaleX(-1); }
+      /* road scene */
+      #road { left:340px; top:450px; width:400px; height:880px; background:#3a4556; }
+      .dash { left:534px; width:12px; height:70px; background:#cfd6df; }
+      #carF { left:430px; top:700px; width:150px; height:260px; border-radius:30px; background:#2a9d8f; }
+      #amb { left:420px; top:1340px; width:170px; height:300px; border-radius:30px; background:#f4f6f8; border:6px solid var(--red); }
+      #ambL, #ambR { top:1350px; width:60px; height:30px; border-radius:10px; }
+      #badge { left:770px; top:470px; width:270px; height:150px; border-radius:30px; border:12px solid #c8d0da; background:#25364f; display:flex; align-items:center; justify-content:center; font-size:34px; font-weight:900; color:#ff8a8a; }
+      /* one-second scene */
+      #ring { left:280px; top:420px; width:520px; height:520px; border-radius:50%; border:26px solid #ffd166; display:flex; align-items:center; justify-content:center; font-size:190px; font-weight:900; }
+      #glowL, #glowR { top:1000px; width:300px; height:120px; border-radius:60px; }
+      #glowL { left:180px; background:#2a6df4; } #glowR { left:600px; background:#e63946; }
     </style>
   </head>
   <body>
-    <div id="root" data-composition-id="main" data-start="0" data-duration="14" data-width="1080" data-height="1920">
-      <div id="road" class="abs"></div>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="34" data-width="1080" data-height="1920">
+      <div id="ground" class="abs"></div>
 
-      <div id="q" class="abs clip" data-start="0" data-duration="3.2" data-track-index="1">Why is AMBULANCE written backwards?</div>
-
-      <div id="truck" class="abs clip" data-start="0" data-duration="6.4" data-track-index="2" style="left:0;top:80px;width:1080px;height:1920px;">
-        <div id="body" class="abs"></div>
-        <div id="stripe" class="abs"></div>
-        <div id="lightL" class="abs"></div>
-        <div id="lightR" class="abs"></div>
+      <!-- A 0-8 -->
+      <div id="q" class="cap abs clip" data-start="0" data-duration="3.2" data-track-index="1" style="top:190px;font-size:80px;font-weight:800;">Why is AMBULANCE written backwards?</div>
+      <div id="truck" class="abs full clip" data-start="0" data-duration="8" data-track-index="2" style="top:80px;">
+        <div id="body" class="abs"></div><div id="stripe" class="abs"></div>
+        <div id="lightL" class="abs"></div><div id="lightR" class="abs"></div>
         <div id="plate" class="abs"><span class="flip">AMBULANCE</span></div>
-        <div id="wheelL" class="abs"></div>
-        <div id="wheelR" class="abs"></div>
+        <div id="wheelL" class="abs"></div><div id="wheelR" class="abs"></div>
+      </div>
+      <div id="cap1" class="cap abs clip" data-start="3.2" data-duration="4.8" data-track-index="3" style="top:1210px;">That word isn't for you.<br />It's for the driver in front.</div>
+
+      <!-- B 8-19 -->
+      <div id="mirror" class="mirror abs clip" data-start="8" data-duration="11" data-track-index="2">
+        <div id="glass" class="glass"><div id="flipwrap" style="display:inline-block;"><span class="word mir">AMBULANCE</span></div></div>
+      </div>
+      <div id="cap2a" class="cap abs clip" data-start="8.4" data-duration="5.2" data-track-index="3" style="top:1210px;">In a rearview mirror,<br />everything is flipped.</div>
+      <div id="cap2b" class="cap abs clip" data-start="13.6" data-duration="5.4" data-track-index="3" style="top:1210px;">The word is flipped first.<br />The mirror flips it back.</div>
+
+      <!-- C 19-26 -->
+      <div id="capC" class="cap abs clip" data-start="19" data-duration="7" data-track-index="3" style="top:190px;">The driver reads it<br />instantly, and moves over.</div>
+      <div id="roadScene" class="abs full clip" data-start="19" data-duration="7" data-track-index="2">
+        <div id="road" class="abs"></div>
+        <div class="dash abs" style="top:500px;"></div><div class="dash abs" style="top:700px;"></div><div class="dash abs" style="top:900px;"></div><div class="dash abs" style="top:1100px;"></div>
+        <div id="carF" class="abs"></div>
+        <div id="amb" class="abs"></div>
+        <div id="ambL" class="abs" style="left:430px;background:#2a6df4;"></div>
+        <div id="ambR" class="abs" style="left:520px;background:#e63946;"></div>
+        <div id="badge" class="abs">AMBULANCE</div>
       </div>
 
-      <div id="cap1" class="cap abs clip" data-start="3.2" data-duration="3.2" data-track-index="3">Not for you.<br />For the driver in front.</div>
-
-      <div id="mirror" class="abs clip" data-start="6.4" data-duration="5.2" data-track-index="2">
-        <div id="glass" class="glass"><div id="flipwrap" class="flip2"><span class="word">AMBULANCE</span></div></div>
+      <!-- D 26-31.5 -->
+      <div id="sceneD" class="abs full clip" data-start="26" data-duration="5.5" data-track-index="2">
+        <div id="ring" class="abs">1s</div>
+        <div id="glowL" class="abs"></div><div id="glowR" class="abs"></div>
       </div>
-      <div id="cap2" class="cap abs clip" data-start="7.2" data-duration="4.4" data-track-index="3">The mirror flips it back.<br />Instant read.</div>
+      <div id="capD" class="cap abs clip" data-start="26" data-duration="5.5" data-track-index="3" style="top:1210px;">That one second matters.<br />No time to puzzle it out.</div>
 
-      <div id="cap3" class="abs clip" data-start="11.6" data-duration="2.4" data-track-index="3" style="left:60px;width:960px;top:560px;text-align:center;font-size:104px;font-weight:900;line-height:1.1;">Check your mirror.</div>
+      <!-- E 31.5-34 -->
+      <div id="mirror2" class="mirror abs clip" data-start="31.5" data-duration="2.5" data-track-index="2">
+        <div class="glass"><span class="word">AMBULANCE</span></div>
+      </div>
+      <div id="capE" class="cap abs clip" data-start="31.5" data-duration="2.5" data-track-index="3" style="top:1210px;font-weight:900;">Check your mirror.<br />Notice anything?</div>
     </div>
     <script>
       const tl = gsap.timeline({ paused: true });
-      tl.fromTo("#q", { opacity:1, y:30 }, { opacity:1, y:0, duration:0.3, ease:"power3.out" }, 0);
-      tl.fromTo("#truck", { x:-120, opacity:1 }, { x:0, opacity:1, duration:0.5, ease:"power3.out" }, 0);
-      tl.fromTo("#lightL", { opacity:1 }, { opacity:0.25, duration:0.25, repeat:11, yoyo:true, ease:"none" }, 0.2);
-      tl.fromTo("#lightR", { opacity:0.25 }, { opacity:1, duration:0.25, repeat:11, yoyo:true, ease:"none" }, 0.2);
-      tl.fromTo("#cap1", { opacity:0, y:30 }, { opacity:1, y:0, duration:0.3, ease:"power3.out" }, 3.2);
-      tl.fromTo("#mirror", { opacity:0, scale:0.9 }, { opacity:1, scale:1, duration:0.4, ease:"power3.out" }, 6.4);
-      // the mirror flips the mirrored word: tween the wrapper from normal (-1 net = unreadable) to flipped (readable)
-      tl.fromTo("#flipwrap", { scaleX:1 }, { scaleX:-1, duration:0.9, ease:"power2.inOut" }, 7.0);
-      tl.fromTo("#cap2", { opacity:0, y:30 }, { opacity:1, y:0, duration:0.3, ease:"power3.out" }, 7.2);
-      tl.fromTo("#cap3", { opacity:0, scale:0.9 }, { opacity:1, scale:1, duration:0.3, ease:"back.out(2)" }, 11.6);
-      tl.fromTo("#glass", { scale:1 }, { scale:1.05, duration:0.8, repeat:3, yoyo:true, ease:"sine.inOut" }, 8.0);
+      const pop = (sel, t, y=30) => tl.fromTo(sel, { opacity:1, y:y }, { y:0, duration:0.3, ease:"power3.out" }, t);
+      pop("#q", 0);
+      tl.fromTo("#truck", { x:-120 }, { x:0, duration:0.5, ease:"power3.out" }, 0);
+      tl.fromTo("#lightL", { opacity:1 }, { opacity:0.25, duration:0.25, repeat:15, yoyo:true, ease:"none" }, 0.2);
+      tl.fromTo("#lightR", { opacity:0.25 }, { opacity:1, duration:0.25, repeat:15, yoyo:true, ease:"none" }, 0.2);
+      pop("#cap1", 3.2);
+      tl.fromTo("#plate", { scale:1 }, { scale:1.06, duration:4.4, ease:"sine.inOut" }, 3.6);
+      tl.fromTo("#mirror", { scale:0.9 }, { scale:1, duration:0.4, ease:"power3.out" }, 8);
+      tl.fromTo("#flipwrap", { scaleX:1 }, { scaleX:-1, duration:1.2, ease:"power2.inOut" }, 9.2);
+      pop("#cap2a", 8.4); pop("#cap2b", 13.6);
+      tl.fromTo("#glass", { scale:1 }, { scale:1.05, duration:0.8, repeat:9, yoyo:true, ease:"sine.inOut" }, 11);
+      pop("#capC", 19, -30);
+      tl.fromTo("#badge", { scale:0.85, opacity:1 }, { scale:1, duration:0.3, ease:"back.out(2)" }, 19.6);
+      tl.fromTo("#amb", { y:0 }, { y:-2100, duration:5.2, ease:"power1.in" }, 19.4);
+      tl.fromTo("#ambL", { y:0 }, { y:-2100, duration:5.2, ease:"power1.in" }, 19.4);
+      tl.fromTo("#ambR", { y:0 }, { y:-2100, duration:5.2, ease:"power1.in" }, 19.4);
+      tl.fromTo("#carF", { x:0 }, { x:330, duration:1.0, ease:"power2.inOut" }, 21.0);
+      tl.fromTo("#ring", { scale:0.9 }, { scale:1.08, duration:0.5, repeat:9, yoyo:true, ease:"sine.inOut" }, 26);
+      tl.fromTo("#glowL", { opacity:1 }, { opacity:0.2, duration:0.25, repeat:21, yoyo:true, ease:"none" }, 26);
+      tl.fromTo("#glowR", { opacity:0.2 }, { opacity:1, duration:0.25, repeat:21, yoyo:true, ease:"none" }, 26);
+      pop("#capD", 26);
+      tl.fromTo("#mirror2", { scale:0.92 }, { scale:1, duration:0.4, ease:"power3.out" }, 31.5);
+      pop("#capE", 31.5);
       window.__timelines["main"] = tl;
       tl.seek(0);
     </script>
