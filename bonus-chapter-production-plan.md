@@ -59,6 +59,7 @@ Fact-check status: **OK** = sources agree. **CAUTION** = say it carefully. **UNV
 ### 5. Asteroid hits New York: **UNVERIFIED numbers**
 - Sandia modeled a roughly 1.4 km asteroid hitting the ocean. It vaporizes, throws up water vapor and debris, and the shock wave levels much of New England.
 - The crater, blast radius and casualty figures found in this pass were from consumer simulators and a fictional NASA tabletop. **Do not script numbers from them.**
+- **Cross-check status: NOT DONE.** The Imperial calculator host (impact.ese.ic.ac.uk) and NASA CNEOS (cneos.jpl.nasa.gov) are blocked by this session's network settings, so I could not run the calculator. The table below is my own calculation only. Allow those two hosts in the session's network settings and I will rerun it, or run the same inputs yourself.
 - **Own estimate (Collins et al. 2005 scaling equations, implemented by me, NOT the online calculator):** 1 km stony asteroid (3,000 kg/m3), 45 degrees, land target (2,500 kg/m3):
 
 | Impact speed | Energy | Final crater | Seismic magnitude (approx.) |
@@ -70,7 +71,7 @@ Fact-check status: **OK** = sources agree. **CAUTION** = say it carefully. **UNV
   The crater agrees with the roughly 12 km figure in the French Asteroid Launcher report. **Before it goes in a script:** rerun the same inputs in the Imperial/Purdue Earth Impact Effects Program and use its crater, fireball, thermal, overpressure and seismic distances (I did not compute those). The New York site is coastal, so decide land vs ocean. An ocean impact adds a tsunami and changes the crater.
 - **Safe to use now:** Sandia's modeling (about 1.4 km, off the coast): the asteroid vaporizes, hundreds of cubic miles of water vapor, melted rock and debris go into the upper atmosphere, and the shock wave levels much of New England.
 - **DART (checked):** 2022, Dimorphos's orbit shortened from 11 h 55 min to about 11 h 23 min (about 32-33 min; mission needed only 73 seconds). Researchers stress warning time (years) is the key.
-- **UNVERIFIED:** "95% of 1 km near-Earth asteroids are cataloged". No source found. Check NASA's Planetary Defense Coordination Office before saying it. Until then say "NASA tracks near-Earth asteroids and none this size is known to threaten Earth".
+- **"95% cataloged" (checked, soft):** a search summary of a NASA August 2025 snapshot gave 874 discovered near-Earth asteroids over 1 km with about 50 estimated still undiscovered. That is about 94-95%, but the percentage is a calculation from those two numbers, not a NASA statement, and I could not open the NASA CNEOS page. **Script: "NASA says it has found the large majority of near-Earth asteroids this size, and none is known to threaten Earth."**
 
 ---
 
@@ -83,7 +84,14 @@ Fact-check status: **OK** = sources agree. **CAUTION** = say it carefully. **UNV
 ### 7. Cascadia: **OK**
 - USGS 2025 fact sheet: roughly 10-15% chance of a magnitude ~9 full-margin rupture in the next 50 years (about 10% time-independent, about 15% accounting for the 1700 event). The 1-in-3 figure from older work (Oregon State, 2010) covers a broader class of large quakes, so do not mix them up.
 - Last full rupture: January 1700 (also recorded in Japanese "orphan tsunami" records). Recurrence about 500 years on average, with a wide spread.
-- **To verify before scripting:** shaking duration (commonly cited at several minutes), tsunami arrival times, and the Oregon/Washington resilience plan fatality and recovery figures. The Oregon Resilience Plan claim is only secondhand here.
+- **Checked this round (secondary sources; no primary report opened):**
+  - **Shaking:** 2013 DOGAMI slides say 3-5 minutes. A newer DOGAMI release says "several minutes". Script: "several minutes (DOGAMI has said 3-5)".
+  - **Tsunami arrival on the Oregon coast:** sources conflict: 10-30 min (newer DOGAMI release), 15-20 min (2013 DOGAMI slides), "as early as 15 min" (2004 PNSN), about 20 min (OSU Extension). **Script: "roughly 10 to 30 minutes after shaking begins, depending on where you are."** Do not give one number.
+  - **Fault length:** NOAA says about 700 miles (1,100 km), Cape Mendocino to northern Vancouver Island. The 1700 rupture is quoted at about 620 miles. Other sites say 1,000 km. Use NOAA's 700 miles and say "about".
+  - **1700 event:** the wave hit Japan's Honshu coast around midnight on Jan 26-27, 1700 (sources say Jan 27 local time), 6-10 ft high, with no shaking felt, hence "orphan tsunami". Estimated magnitude about 9.0. NOAA: more than 40 quakes above M8 along the zone in the past 10,000 years.
+  - **Oregon Resilience Plan (2013):** sources conflict on casualties (one says "more than 7,800 deaths and injuries", one says "thousands of deaths") and on cost. **My earlier "10,000" figure was wrong; do not use it.** Safe, supported themes: most western-Oregon bridges are vulnerable, liquid fuel could be out for months (one estimate says about 6 months), services take 1 to 36 months to recover, and "72 hours" prep guidance is considered too short. No source tied findings specifically to I-5. Say "western Oregon", not "the I-5 corridor", until the plan itself is read.
+  - **ShakeAlert:** nothing found this round. Check USGS before including it.
+  - **STILL OPEN:** the plan's original executive summary was not opened. Read it before quoting any casualty or cost number.
 
 ### 8. Stop signs: **CAUTION, the payoff is unconfirmed**
 - William Phelps Eno is credited with the concept (1900 article, per one source). Michigan used early stop signs around 1914-1915 (sources differ on year). The 1922 AASHO committee standardized the octagon.
@@ -223,21 +231,22 @@ Verify the 1915 "square" claim before use, or say "early stop signs".
 
 ### LONG 7: What if Cascadia went? (10-12 min)
 - Open: a quiet Seattle or Portland morning.
-- Ch.1: the fault. The Juan de Fuca plate sliding under North America (a subduction zone, 1,000 km long, Northern California to Vancouver Island; VERIFY length).
+- Ch.1: the fault. The Juan de Fuca plate sliding under North America: a subduction zone about 700 miles long (NOAA), Cape Mendocino to northern Vancouver Island.
 - Ch.2: the evidence. January 1700, ghost forests and Japan's tsunami records.
 - Ch.3: the odds. USGS 2025: about 10-15% in 50 years for the full margin. Be exact. This is not a "overdue" claim.
-- Ch.4: minute 0-5: the shaking. VERIFY the duration and intensity.
-- Ch.5: minute 15-30: the tsunami. VERIFY arrival times.
-- Ch.6: the I-5 corridor: bridges, fuel, water, power. VERIFY the Oregon Resilience Plan numbers from the original.
+- Ch.4: the shaking: several minutes (DOGAMI has said 3-5). Do not give an intensity number until sourced.
+- Ch.5: the tsunami: roughly 10 to 30 minutes after shaking begins on the Oregon coast, depending on location (sources differ).
+- Ch.6: western Oregon: bridges, fuel, water, power. Use only the supported themes (see fact-check 7); no casualty number until the plan itself is read.
 - Ch.7: what's being done. Early warning (ShakeAlert), building codes, tsunami sirens.
 - Close: practical: two-weeks kit. A useful, non-fearful ending.
 
 ---
 
 ## 5. Open items before production
-1. Asteroid: cross-check my numbers in the Earth Impact Effects Program, add blast/thermal distances, choose land vs ocean. Verify the 95% cataloged claim.
-2. 911: reasons are secondary-sourced only (see fact-check). Still open: the Haleyville setup time (under a week vs five weeks). Check NENA's own history page.
-3. Decide the stop-sign framing (option a recommended).
-4. School bus: peripheral-vision claim stays OUT (no source found).
-5. Pull primary sources for Cascadia timings, and the eggs vaccination dates.
-6. Brand the channel before any recording (this repo currently has no CLAUDE.md or brand notes).
+1. **Asteroid:** my numbers are not cross-checked (calculator host blocked). Needs blast/thermal distances and a land-vs-ocean decision. Wording for the "found" claim is settled (see fact-check 5).
+2. **911:** reasons are secondary-sourced only (hedge the wording). Haleyville setup time (under a week vs five weeks) still open; check NENA's history page.
+3. **Stop sign:** settled. "From behind" dropped, committee wording softened to "1920s, highway officials".
+4. **School bus:** settled. Peripheral-vision claim out, "no national standard before 1939" wording.
+5. **Cascadia:** timings settled as ranges (see fact-check 7). Still open: the Oregon Resilience Plan executive summary for casualty and cost numbers, and ShakeAlert.
+6. **Eggs:** vaccination dates (UK Lion Code start year) and the UK case-count figure still unchecked.
+7. Brand the channel before any recording (this repo currently has no CLAUDE.md or brand notes).
