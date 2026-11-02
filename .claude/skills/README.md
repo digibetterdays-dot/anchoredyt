@@ -8,12 +8,12 @@ Installed from public GitHub repos after a manual code review (shell/Python/JS s
 | `claude-animation-base` | JohnHeibel/ClaudeAnimationBase | MIT | 0ac8bf2b31942376cb6b8c4074715595d512acd2 | Upstream has no SKILL.md; `SKILL.md` here is written locally. Lockfile omitted |
 | `lemo-opuscar` | lemomo-ai/lemo-opuscar (`plugin/skills/lemo-opuscar`) | MIT | bebbbe1aa92a3cb4bb6f83500e61b23a17d1aa00 | Fetches the style library from GitHub on first use and runs `npm install`. **Local change:** `scripts/setup.sh` is pinned to the reviewed commit instead of following upstream `main` (override with `LEMO_OPUSCAR_REF`) |
 | `eian-collage-broll` | YIAN6557/eian-collage-broll | MIT | 9e6dd8b6c53a8d82a47c80aac3bd9eadf9806dbe | Paper-collage b-roll prompt packs (blank first frame, confirmed last frame, video prompt). Needs an image generator (upstream assumes Codex `image_gen`; here use an available image tool). No API key in the skill. Written in Chinese; Gate 1 / Gate 2 approvals are required |
+| `gbro-collage-broll` | pyang5166/gbro-collage-broll | MIT | a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91 | Halftone paper-collage b-roll, 3 gates (metaphor, still, then video). **Paid:** step 3 calls Gemini (`gemini-omni-flash-preview`) with `GEMINI_API_KEY`, billed to that Google account. Scripts only talk to generativelanguage.googleapis.com and ffmpeg. Chinese-language instructions. Same trigger phrases as `eian-collage-broll`: name the one you want |
 
 ## Deliberately NOT installed
 
 - **onetake** (feitangyuan/onetake): licensed **PolyForm Noncommercial 1.0.0**. A monetized channel is commercial use, so it was left out. Install only if the channel is non-commercial or the author grants permission.
 - **paper-collage-animation** (cameronha): no license file and no SKILL.md.
-- **gbro-collage-broll** (pyang5166): MIT, but it calls Gemini video generation with a paid `GEMINI_API_KEY`; skipped to avoid a second collage skill with the same trigger phrases and surprise costs. Available at github.com/pyang5166/gbro-collage-broll if wanted.
 
 ## Rules for using these skills
 
