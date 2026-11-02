@@ -96,14 +96,15 @@ Chapter timestamps below are for the 10-minute target, not the current draft; re
 
 ---
 
-# VIDEO 2: What If the Cascadia Fault Ruptured Tomorrow?
+# VIDEO 2: What If the Cascadia Fault Ruptured Tomorrow? (EXPANDED DRAFT 2)
 
 **Working title:** What If the Cascadia Fault Ruptured Tomorrow? (vidIQ 90; "cascadia earthquake" about 38,800 searches a month, +447%)
-**Length as written:** about 793 narrated words, about 5.3 minutes. The 10-11 minute target needs the **[VERIFY]** sections filled with sourced material (see end of file).
+**Length as written (measured):** about 1,280 narrated words, about 8.5 minutes at 150 wpm (up from about 793 words / 5.3 min). Chapter timestamps are estimates; re-time after the cut.
 **Companion Short:** 50s cut from Chapters 2-3.
+**Source level:** every claim below comes from secondary sources found by web search. The Oregon Resilience Plan PDF itself could not be opened (oregon.gov is blocked in this session), so no plan number is quoted as exact.
 
 ### Chapter list
-Chapter timestamps below are for the 11-minute target, not the current draft; re-time after the final cut.
+0:00 A quiet morning · 0:50 The fault · 2:00 The proof: January 1700 · 3:30 The odds · 4:40 The shaking · 5:40 Early warning: what ShakeAlert can and can't do · 7:00 The wave · 8:30 After the quake: bridges, fuel, recovery · 10:00 Schools and old buildings · 11:00 What you can do
 
 ### Narration
 
@@ -123,17 +124,25 @@ Chapter timestamps below are for the 11-minute target, not the current draft; re
 >
 > The plates don't slide smoothly. They stick, and pressure builds. Eventually the stuck section lets go, all at once, and that's the earthquake.
 
-**[2:20, Chapter 2: The proof] VISUAL: Japanese historical record, wave sweeping a coastline, then ghost forest.**
+**[2:00, Chapter 2: The proof] VISUAL: Japanese historical record, wave sweeping a coastline.**
 
 > How do we know it's happened? Because of a tsunami that struck Japan with no earthquake to explain it.
 >
 > Around midnight on January 26th and 27th in the year 1700, a wave about six to ten feet high hit Japan's Honshu coast. Nobody there felt any shaking. Japanese records called it the "orphan tsunami", a wave with no parent earthquake.
 >
-> Researchers later connected it to Cascadia, and used those records to pin the date. The quake is estimated at about magnitude 9.
+> Researchers later connected it to Cascadia, and used those records to pin the date. The wave would have taken roughly ten hours to cross the Pacific, which puts the earthquake at about nine o'clock on the night of January 26th. The quake is estimated at about magnitude 9.
 >
 > And it's not a one-off. According to NOAA, geologic evidence shows more than 40 earthquakes above magnitude 8 along this zone over the last 10,000 years.
 
-**[3:50, Chapter 3: The odds] VISUAL: simple bar showing 10-15%, labeled "next 50 years".**
+**[3:15, Chapter 2b: The land itself remembers] VISUAL: coastal marsh, buried soil layers diagram. *Do NOT use the Neskowin ghost forest as proof (see note).***
+
+> The land itself keeps a record. In the 1980s and 1990s, scientists doing fieldwork found evidence that coastal land in the Northwest had dropped suddenly in the past, and was then flooded by tsunami waves and mud.
+>
+> That's what happens when a stuck plate lets go: the coast can sink in an instant.
+
+*[Note: Oregon's "ghost forests", like the one at Neskowin, are often shown as proof of this. One account says not all geologists agree that forest was killed by an earthquake, and some credit sea-level change and migrating sand. Leave ghost-forest footage out, or say "some" and mention the dispute, until a paleoseismology source is checked. **[VERIFY]**]*
+
+**[3:30, Chapter 3: The odds] VISUAL: simple bar showing 10-15%, labeled "next 50 years".**
 
 > So how likely is it? Here's the careful answer.
 >
@@ -143,60 +152,88 @@ Chapter timestamps below are for the 11-minute target, not the current draft; re
 >
 > What does that mean? Not tomorrow, and not "overdue". Just a real, serious chance in the lifetime of a child born today.
 
-**[5:10, Chapter 4: The shaking] VISUAL: shaking POV in an office, then a long unbroken timer.**
+**[4:40, Chapter 4: The shaking] VISUAL: shaking POV in an office, then a long unbroken timer.**
 
 > Now, back to our morning. What would the shaking feel like?
 >
 > The key difference from a typical California quake is how long it lasts. State geologists in Oregon have said shaking could last several minutes. Some of their briefings have said three to five.
 >
 > Several minutes. That's long enough to be frightening, long enough to damage buildings, and long enough that you'd want to know exactly what to do.
->
-> **[VERIFY]** *No sourced description of intensity by city yet. Leave city-by-city shaking out of the narration.*
 
-**[6:30, Chapter 5: The wave] VISUAL: coastline, a siren, a mapped evacuation route; no gore.**
+**[5:40, Chapter 5: Early warning] VISUAL: sensors, a phone alert, two animated waves racing.**
+
+> Could your phone warn you first? Sometimes, yes. There's a system called ShakeAlert, run by the USGS.
+>
+> It doesn't predict earthquakes. It detects one that has already started, and works out where it is and how big, within seconds. Then it sends an alert, and the alert travels almost instantly, much faster than the shaking itself, which moves at just a few kilometers per second.
+>
+> That's a gap measured in seconds, and seconds are enough to Drop, Cover, and Hold On, or to let automated systems act. The USGS lists California, Oregon, and Washington as covered states.
+>
+> But there's an honest limit. For every earthquake, there's a zone near the epicenter where the alert arrives after the shaking has started. People close to it may get little or no warning.
+
+*[Do NOT say how many seconds Cascadia would give anyone. Cascadia's rupture is offshore, so warning time on the coast vs. inland differs, but no sourced figure was found. **[VERIFY]**]*
+
+**[7:00, Chapter 6: The wave] VISUAL: coastline, a siren, a mapped evacuation route; no gore.**
 
 > Here's where the coast is different from everywhere else.
 >
-> Right after the shaking stops, a tsunami heads for the shore. Depending on the source and the location, estimates for the Oregon coast range from roughly 10 to 30 minutes after the shaking begins.
+> Right after the shaking stops, a tsunami heads for the shore. Estimates for the Oregon coast range from roughly 10 to 30 minutes after the shaking begins, depending on the source and the place.
 >
-> That gap is the whole story. On the coast, your warning isn't a siren. The warning is the shaking itself. If the ground shakes for a long time, you go to high ground right away.
+> In Washington, a state assessment of the outer coast said people may have only 10 to 15 minutes once the ground stops shaking to reach high ground.
 >
-> The sources disagree a little on the exact time, so treat it as a window, not a countdown. Check the evacuation map where you live.
+> And in some places, there isn't any high ground close enough. So Washington has started building towers. In 2016, a school near Westport called Ocosta Elementary unveiled the first tsunami vertical evacuation structure in North America: a place to climb, instead of somewhere to run to. The state's assessment found that dozens more are needed on the outer coast.
+>
+> The sources disagree a little on exact times, so treat them as a window, not a countdown. Check the evacuation map where you live.
 
-**[8:00, Chapter 6: After the quake] VISUAL: damaged bridge illustration, fuel gauge, empty tap; label "illustration".**
+**[8:30, Chapter 7: After the quake] VISUAL: damaged bridge illustration, fuel gauge, empty tap; label "illustration".**
 
 > Then comes the part that lasts months.
 >
-> In 2013, the State of Oregon published the Oregon Resilience Plan to estimate what would happen. Its themes keep coming up in later briefings.
+> In 2013, the State of Oregon published the Oregon Resilience Plan to find out how ready it was. Its overall finding was blunt: Oregon is far from resilient to a great Cascadia earthquake and tsunami today.
 >
-> Bridges: most of the bridges in western Oregon are susceptible to serious damage.
+> Bridges: most of the bridges in western Oregon are susceptible to serious damage, and much of the state's highway system would not be usable right away.
 >
-> Fuel: the state flagged liquid fuel as a major weakness. One estimate said the public could be without normal fuel supplies for months. And an Oregon transportation official summed up the trap: you can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.
+> Fuel: the plan flagged liquid fuel as a particular weakness, because Oregon depends on fuel transported in from Washington, which is also exposed to the same earthquake. And an Oregon transportation official summed up the trap: you can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.
 >
-> Recovery: services like power, water, and fuel could take anywhere from one month to three years to return to functioning levels, depending on the service and the area.
+> Recovery: the plan said that, as things stood in 2013, buildings and services could not be restored within a month, and it warned of possible permanent population loss. Estimates of how long services would take to return range from about one month to three years, depending on the service and the area.
 >
-> **[VERIFY]** *Do NOT say a casualty number. Sources disagree (7,800 deaths and injuries vs "thousands") and the plan itself has not been opened. Add the number only after reading the executive summary.*
+> And the money: sources quote losses of tens of billions of dollars, on the order of a fifth of the state's yearly economic output.
 
-**[9:50, Chapter 7: What you can do] VISUAL: simple checklist graphic.**
+*[Do NOT say one figure for deaths, or for dollars. Sources conflict: "$30 billion" vs "at least $32 billion"; "more than 7,800 deaths and injuries" vs "thousands". The exact numbers need the plan PDF. **[VERIFY]**]*
+
+**[10:00, Chapter 8: Schools and old buildings] VISUAL: a brick school building, seismic retrofit work; label "illustration" unless real footage is licensed.**
+
+> One thing that can change the outcome is the buildings themselves.
+>
+> Oregon created a Seismic Rehabilitation Grant Program to retrofit critical public buildings, especially schools and emergency facilities. The sources disagree on the start date, between 2002 and 2009, so we'll say "created in the 2000s".
+>
+> By the time of the 2013 resilience plan, the program had funded retrofits at 22 schools, about two percent of the need the state had documented.
+>
+> According to 2025 testimony to the state legislature, the program has since awarded 346 school projects, totaling close to 600 million dollars.
+>
+> The hardest buildings to fix are unreinforced masonry, brick or block with nothing holding it together inside. They're the most vulnerable in an earthquake and among the most expensive to retrofit, and Portland has the biggest concentration in the state. In 2019, Oregon passed a law creating a separate program for those non-school buildings.
+
+*[Counts may have changed since 2025; confirm the latest figure with the Oregon Department of Geology and Mineral Industries or the state program page before recording. **[VERIFY]**]*
+
+**[11:00, Chapter 9: What you can do] VISUAL: simple checklist graphic.**
 
 > The good news is that this is one of the few disasters you can partly prepare for.
 >
-> Officials used to say to prepare for 72 hours. Today, the guidance is that you should plan for much longer, because help may not arrive quickly when bridges and roads are out.
+> The old advice was to prepare for 72 hours. The state's resilience plan says that after a Cascadia earthquake, restoring utilities will certainly take longer than that.
 >
-> Learn your tsunami evacuation route if you live near the coast. Know where high ground is. Keep water, food, and essentials at home.
+> So: learn your tsunami evacuation route if you live near the coast, and know where high ground is. Keep water, food, and essentials at home for more than a weekend.
 >
 > **[VERIFY]** *Say a specific kit duration (for example "two weeks") only after confirming current wording from Oregon Emergency Management or Oregon State Extension.*
 
-**[10:30, Close]**
+**[11:40, Close]**
 
-> So, what if the Cascadia fault ruptured tomorrow? We'd have several minutes of shaking, a tsunami in minutes, and a recovery that takes months or years.
+> So, what if the Cascadia fault ruptured tomorrow? We'd have several minutes of shaking, a tsunami within minutes of it, and a recovery that takes months or years.
 >
 > It's not a prediction. It's a risk, with a real number, from scientists who've studied the evidence. Know your route. Know your plan.
 >
 > And if you live in the Pacific Northwest, tell me in the comments what your coast or city's plan looks like. Someone reading this might need it.
 
-**Do NOT say:** "overdue", "The Big One is coming", "10,000 deaths", "I-5 corridor", any ShakeAlert claim (not yet sourced), or one fixed tsunami arrival time.
-**Sources to cite on screen:** USGS Pacific Northwest earthquake probabilities fact sheet (2025), NOAA Cascadia subduction zone page, DOGAMI tsunami materials, Oregon Resilience Plan (2013).
+**Do NOT say:** "overdue", "The Big One is coming", "10,000 deaths", "I-5 corridor", a ShakeAlert warning-time figure for Cascadia, one fixed tsunami arrival time, or a ghost forest as proof.
+**Sources to cite on screen:** USGS Pacific Northwest earthquake probabilities fact sheet (2025), NOAA Cascadia subduction zone page, USGS ShakeAlert overview, DOGAMI tsunami materials, Washington Emergency Management Division vertical-evacuation assessment, Oregon Resilience Plan (2013).
 **Thumbnail idea:** a calm coastline with a thin crack running through the water; text "CASCADIA".
 **Pinned comment:** "Know your evacuation route? Post your city and nearest high ground, so others can learn."
 **Tone:** calm, factual. No fear music in the cold open; save tension for the shaking.
@@ -204,6 +241,11 @@ Chapter timestamps below are for the 11-minute target, not the current draft; re
 ---
 
 ## Before recording: remaining checks
-1. Yellowstone: USGS wording on "overdue", hydrothermal explosions vs supereruption likelihood, monitoring and warning time, and whether the first-hours destruction distance has a sourced figure.
-2. Cascadia: read the Oregon Resilience Plan executive summary for casualty, fuel and recovery numbers; confirm "preparation beyond 72 hours" wording and kit duration; check ShakeAlert.
-3. **Length (measured, not estimated):** Yellowstone is about 612 words (about 4 min) and Cascadia about 793 words (about 5.3 min) of sourced narration. Padding with unsourced claims would break this channel's fact-check rule, so either (a) publish as tighter 4-6 minute videos, or (b) research the [VERIFY] items below and expand. Items that would add verified length: Yellowstone: hydrothermal explosion history and examples, Yellowstone Volcano Observatory monitoring, USGS on far-field ash effects on aviation and roads; Cascadia: Oregon Resilience Plan details, ShakeAlert, building-code and tsunami-sign history, Washington's equivalent plan.
+1. **Yellowstone (not yet expanded, about 4 min):** USGS wording on "overdue", hydrothermal explosions vs supereruption likelihood, monitoring and warning time, and whether the first-hours destruction distance has a sourced figure.
+2. **Cascadia (expanded to about 8.5 min):**
+   - Oregon Resilience Plan exact numbers (deaths, dollars, recovery times per service). The PDF host (oregon.gov) is blocked in this session. Allow it, or paste the executive summary, and the [VERIFY] number notes can be replaced with exact figures.
+   - Seismic grant program start date (2002 vs 2007 vs 2009 across sources) and the current project count.
+   - ShakeAlert: no sourced warning-time figure for a Cascadia event; Oregon and Washington launch dates not confirmed.
+   - Ghost-forest footage: disputed, so left out.
+   - Recommended kit duration (current Oregon Emergency Management wording).
+3. **Source level:** everything here is from web-search summaries of secondary sources. For a final cut, open the primary documents listed under "Sources to cite on screen".
