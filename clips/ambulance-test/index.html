@@ -41,8 +41,15 @@
     </style>
   </head>
   <body>
-    <div id="root" data-composition-id="main" data-start="0" data-duration="34" data-width="1080" data-height="1920">
+    <div id="root" data-composition-id="main" data-start="0" data-duration="35" data-width="1080" data-height="1920">
       <div id="ground" class="abs"></div>
+
+      <audio id="v1" src="assets/audio/v1.wav" data-start="0" data-duration="3.0" data-track-index="9"></audio>
+      <audio id="v2" src="assets/audio/v2.wav" data-start="3.2" data-duration="3.7" data-track-index="9"></audio>
+      <audio id="v3" src="assets/audio/v3.wav" data-start="8.4" data-duration="7.0" data-track-index="9"></audio>
+      <audio id="v4" src="assets/audio/v4.wav" data-start="19.2" data-duration="2.6" data-track-index="9"></audio>
+      <audio id="v5" src="assets/audio/v5.wav" data-start="26" data-duration="4.8" data-track-index="9"></audio>
+      <audio id="v6" src="assets/audio/v6.wav" data-start="31.4" data-duration="3.3" data-track-index="9"></audio>
 
       <!-- A 0-8 -->
       <div id="q" class="cap abs clip" data-start="0" data-duration="3.2" data-track-index="1" style="top:190px;font-size:80px;font-weight:800;">Why is AMBULANCE written backwards?</div>
@@ -74,17 +81,17 @@
       </div>
 
       <!-- D 26-31.5 -->
-      <div id="sceneD" class="abs full clip" data-start="26" data-duration="5.5" data-track-index="2">
+      <div id="sceneD" class="abs full clip" data-start="26" data-duration="5.4" data-track-index="2">
         <div id="ring" class="abs">1s</div>
         <div id="glowL" class="abs"></div><div id="glowR" class="abs"></div>
       </div>
-      <div id="capD" class="cap abs clip" data-start="26" data-duration="5.5" data-track-index="3" style="top:1210px;">That one second matters.<br />No time to puzzle it out.</div>
+      <div id="capD" class="cap abs clip" data-start="26" data-duration="5.4" data-track-index="3" style="top:1210px;">That one second matters.<br />No time to puzzle it out.</div>
 
       <!-- E 31.5-34 -->
-      <div id="mirror2" class="mirror abs clip" data-start="31.5" data-duration="2.5" data-track-index="2">
+      <div id="mirror2" class="mirror abs clip" data-start="31.4" data-duration="3.6" data-track-index="2">
         <div class="glass"><span class="word">AMBULANCE</span></div>
       </div>
-      <div id="capE" class="cap abs clip" data-start="31.5" data-duration="2.5" data-track-index="3" style="top:1210px;font-weight:900;">Check your mirror.<br />Notice anything?</div>
+      <div id="capE" class="cap abs clip" data-start="31.4" data-duration="3.6" data-track-index="3" style="top:1210px;font-weight:900;">Check your mirror.<br />Notice anything?</div>
     </div>
     <script>
       const tl = gsap.timeline({ paused: true });
@@ -109,8 +116,8 @@
       tl.fromTo("#glowL", { opacity:1 }, { opacity:0.2, duration:0.25, repeat:21, yoyo:true, ease:"none" }, 26);
       tl.fromTo("#glowR", { opacity:0.2 }, { opacity:1, duration:0.25, repeat:21, yoyo:true, ease:"none" }, 26);
       pop("#capD", 26);
-      tl.fromTo("#mirror2", { scale:0.92 }, { scale:1, duration:0.4, ease:"power3.out" }, 31.5);
-      pop("#capE", 31.5);
+      tl.fromTo("#mirror2", { scale:0.92 }, { scale:1, duration:0.4, ease:"power3.out" }, 31.4);
+      pop("#capE", 31.4);
       window.__timelines["main"] = tl;
       tl.seek(0);
     </script>
