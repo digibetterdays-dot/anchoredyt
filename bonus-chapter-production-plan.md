@@ -46,21 +46,33 @@ Fact-check status: **OK** = sources agree. **CAUTION** = say it carefully. **UNV
 - Cyr displayed shades of yellow to orange. The chosen color was "National School Bus Chrome", now "National School Bus Glossy Yellow".
 - Reason: visibility and contrast with black lettering. Cyr reportedly thought it was closer to orange.
 - Minnesota was the last holdout (1974 per one source).
-- **To verify:** the "peripheral vision / yellow is seen faster than red" claim, which is often repeated. Check a Teachers College or NHTSA source before using it.
+- **Peripheral vision claim (checked):** the "yellow is seen 1.24x better than red in peripheral vision" figure is widely repeated but no original study was found, and it is not tied to the 1939 conference. **Leave it out.** The safe reason is "visibility and contrast with black lettering".
 
 ### 4. 911: **OK on dates, CAUTION on "why 911"**
 - 1967: the President's Commission on Law Enforcement recommended one national number. One source attributes the FCC referral to a different commission, so avoid naming which commission referred it.
 - Jan 12, 1968: AT&T announced 911 (Bell system only).
 - Feb 16, 1968: first call, Haleyville, Alabama (Alabama Telephone Co., an independent). Rankin Fite called Tom Bevill. It was a ceremonial call, **not a real emergency**.
 - Other early cities: Nome, Alaska (Feb 22, 1968) and Huntington, Indiana (Mar 1, 1968, AT&T's first).
-- **UNVERIFIED in this pass:** the reasons for choosing 911 (short, easy to remember, never used as an area or exchange code, fast to dial on rotary phones). They are widely repeated, so confirm with the NENA or FCC history page before scripting.
+- **Reasons for 911 (second check):** secondary sources agree it was short, easy to remember, and unused as an area, exchange or service code. Use those, worded as "chosen because" only with a hedge ("according to NENA's account"). **Do NOT use any rotary-dial claim:** sources contradict each other. No primary AT&T/FCC document found.
 - Also verify: how many Haleyville days or weeks the setup took (sources say "under a week" and "five weeks").
 
 ### 5. Asteroid hits New York: **UNVERIFIED numbers**
 - Sandia modeled a roughly 1.4 km asteroid hitting the ocean. It vaporizes, throws up water vapor and debris, and the shock wave levels much of New England.
 - The crater, blast radius and casualty figures found in this pass were from consumer simulators and a fictional NASA tabletop. **Do not script numbers from them.**
-- **Required before scripting:** run the Collins, Melosh and Marcus Earth Impact Effects Program (Imperial College/Purdue) with: 1 km diameter, 17-20 km/s, 45 degrees, land vs water at a NYC target. Record crater size, fireball, thermal, overpressure and seismic effects by distance. Script from that output only.
-- Also state that no known 1 km asteroid is on a collision course. Mention NASA's planetary defense tracking (a calm, reassuring ending).
+- **Own estimate (Collins et al. 2005 scaling equations, implemented by me, NOT the online calculator):** 1 km stony asteroid (3,000 kg/m3), 45 degrees, land target (2,500 kg/m3):
+
+| Impact speed | Energy | Final crater | Seismic magnitude (approx.) |
+|---|---|---|---|
+| 12 km/s | about 27,000 Mt TNT | about 12 km | about 7.6 |
+| 17 km/s | about 54,000 Mt | about 14.5 km | about 7.8 |
+| 20 km/s | about 75,000 Mt | about 16 km | about 7.9 |
+
+  The crater agrees with the roughly 12 km figure in the French Asteroid Launcher report. **Before it goes in a script:** rerun the same inputs in the Imperial/Purdue Earth Impact Effects Program and use its crater, fireball, thermal, overpressure and seismic distances (I did not compute those). The New York site is coastal, so decide land vs ocean. An ocean impact adds a tsunami and changes the crater.
+- **Safe to use now:** Sandia's modeling (about 1.4 km, off the coast): the asteroid vaporizes, hundreds of cubic miles of water vapor, melted rock and debris go into the upper atmosphere, and the shock wave levels much of New England.
+- **DART (checked):** 2022, Dimorphos's orbit shortened from 11 h 55 min to about 11 h 23 min (about 32-33 min; mission needed only 73 seconds). Researchers stress warning time (years) is the key.
+- **UNVERIFIED:** "95% of 1 km near-Earth asteroids are cataloged". No source found. Check NASA's Planetary Defense Coordination Office before saying it. Until then say "NASA tracks near-Earth asteroids and none this size is known to threaten Earth".
+
+---
 
 ### 6. AMBULANCE backwards: **OK on the reason, UNVERIFIED on origin**
 - Mirror reversal makes the word readable in a driver's rearview mirror. This is well documented and consistent.
@@ -77,7 +89,7 @@ Fact-check status: **OK** = sources agree. **CAUTION** = say it carefully. **UNV
 - William Phelps Eno is credited with the concept (1900 article, per one source). Michigan used early stop signs around 1914-1915 (sources differ on year). The 1922 AASHO committee standardized the octagon.
 - Original signs were yellow, because fade-resistant red was not available. Red came later.
 - The planned payoff ("recognizable from behind") was **not confirmed by any source found**. The sources point to a different reason: a distinct shape that is identifiable at night, when signs were not reflective. Rear-lit signs showing the shape is a related note.
-- **Decision needed:** either (a) script it as "one popular explanation is that the unique shape is recognizable from the back or in the dark; sources are thin", or (b) drop the "from behind" claim and lead only with the sourced story (yellow first, 1922 octagon, shape readable at night). Recommended: (a) with the hedge, or (b) if you want zero risk.
+- **DECIDED: the "from behind" claim is dropped.** The Short leads only with the sourced story (yellow first, 1922 octagon, a shape readable at night).
 
 ---
 
@@ -114,7 +126,29 @@ Fact-check status: **OK** = sources agree. **CAUTION** = say it carefully. **UNV
 | 7 | What If the Cascadia Fault Ruptured Tomorrow? | long | **90** |
 | 8 | Why Stop Signs Are Octagons | short | 83 |
 
-Only one wording per topic was scored (40 credits). Next step if wanted: run `generate_titles` on #2 and #8 (the lowest scores) and A/B the thumbnails.
+Only one wording per topic was scored in the first pass. `generate_titles` was then run on the two lowest scorers:
+
+**#2 Yellowstone (long), original 82:**
+| Title | Score |
+|---|---|
+| Surviving a Yellowstone Eruption: Is It Possible? | 93 |
+| Could Yellowstone Destroy Civilization? | 91 |
+| The Truth About a Yellowstone Super-Eruption | 89 |
+| If Yellowstone Erupted Tomorrow, This Is What Happens | 89 |
+| Yellowstone Erupts: The End of America? | 88 |
+
+Recommendation: "If Yellowstone Erupted Tomorrow, This Is What Happens" keeps the "what if" search phrase (89). "Destroy Civilization" and "End of America" overstate what USGS says, so avoid them given this channel's fact-check standard.
+
+**#8 Stop signs (Short), original 83:**
+| Title | Score |
+|---|---|
+| The weird reason stop signs look like this | 94 |
+| The hidden logic behind stop sign shapes | 91 |
+| Why you never see a round stop sign | 90 |
+| The real story behind the 8-sided stop sign | 90 |
+| The secret reason stop signs are octagons | 88 |
+
+(vidIQ added hashtags; strip them from the title and put them in the description.) Recommendation: "The real story behind the 8-sided stop sign" (90). It promises only what the sourced story delivers. "The weird reason" scores higher but over-promises.
 Note: the topic list says "What if the Cascadia fault went?" The working title above is clearer. "Tomorrow" is slightly clickbaity; consider "What If" + a time-neutral phrasing and test.
 
 ---
@@ -146,8 +180,8 @@ Do not include the "peripheral vision" claim until verified.
 3. "They were yellow, because red paint faded back then." [VISUAL: yellow sign]
 4. "In 1922 a standards committee gave the sign its own shape: the octagon. No other sign uses it."
 5. "The idea is simple: a unique shape tells you something before you can read it, at night, or in the glare."
-6. CLOSE: "Many people say you could even tell it from behind. Honestly? Sources on that are thin."
-Rewrite with option (a) from the fact-check. Verify the 1915 "square" claim before use.
+6. CLOSE: "So the next time you stop, you're obeying a shape that was designed in 1922 to be unmistakable." (Final line is a safe summary; no "from behind" claim.)
+Verify the 1915 "square" claim before use, or say "early stop signs".
 
 ### LONG 1: Why Americans refrigerate eggs and Brits don't (8-10 min)
 - Cold open (0:00-0:30): both fridges. "One of these is wrong. Neither is."
@@ -201,9 +235,9 @@ Rewrite with option (a) from the fact-check. Verify the 1915 "square" claim befo
 ---
 
 ## 5. Open items before production
-1. Run the impact calculator and fill topic 5.
-2. Check the 911 "why three digits" reasons and the Haleyville timeline.
+1. Asteroid: cross-check my numbers in the Earth Impact Effects Program, add blast/thermal distances, choose land vs ocean. Verify the 95% cataloged claim.
+2. 911: reasons are secondary-sourced only (see fact-check). Still open: the Haleyville setup time (under a week vs five weeks). Check NENA's own history page.
 3. Decide the stop-sign framing (option a recommended).
-4. Verify the school bus "peripheral vision" claim, or leave it out.
+4. School bus: peripheral-vision claim stays OUT (no source found).
 5. Pull primary sources for Cascadia timings, and the eggs vaccination dates.
 6. Brand the channel before any recording (this repo currently has no CLAUDE.md or brand notes).
