@@ -14,6 +14,7 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#fdf0d8}
 .mb{position:absolute;width:170px;height:300px;border-radius:26px}
 #yr{position:absolute;left:0;top:560px;width:1080px;text-align:center;font-size:260px;font-weight:900;color:#2b3445}
 #sub{position:absolute;left:0;top:880px;width:1080px;text-align:center;font-size:60px;font-weight:800;color:#2b3445}
+.wide2{position:absolute;left:0;top:-80px;height:1500px;width:auto}
 .sw{position:absolute;left:230px;width:620px;height:150px;border-radius:14px}
 </style></head><body>
 <div id="root" data-composition-id="main" data-start="0" data-duration="44" data-width="1080" data-height="1920">
@@ -26,9 +27,10 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#fdf0d8}
 
       <div id="a1" class="scene abs clip" data-start="0" data-duration="4.6" data-track-index="1"><img class="pic" id="a1i" src="assets/shot01.png"></div>
 
-      <div id="a2" class="scene abs clip" data-start="4.4" data-duration="4.8" data-track-index="1"><div class="mb" id="mb0" style="left:40px;top:720px;background:#4f7a5a"></div><div class="mb" id="mb1" style="left:240px;top:760px;background:#3d6fa5"></div><div class="mb" id="mb2" style="left:440px;top:720px;background:#b5483c"></div><div class="mb" id="mb3" style="left:640px;top:760px;background:#7a5a3a"></div><div class="mb" id="mb4" style="left:840px;top:720px;background:#8a8f99"></div></div>
-      <div id="a3" class="scene abs clip" data-start="9.0" data-duration="8.9" data-track-index="1"><div id="yr">1939</div><div id="sub">Teachers College,<br>Columbia University</div></div>
-      <div id="a4" class="scene abs clip" data-start="17.7" data-duration="6.4" data-track-index="1"><div class="sw" id="sw0" style="top:300px;background:#f7e463"></div><div class="sw" id="sw1" style="top:460px;background:#f5cf3c"></div><div class="sw" id="sw2" style="top:620px;background:#f4b72c"></div><div class="sw" id="sw3" style="top:780px;background:#f19b22"></div><div class="sw" id="sw4" style="top:940px;background:#ec7d1b"></div><div class="sw" id="sw5" style="top:1100px;background:#df5f14"></div></div>
+      <div id="a2" class="scene abs clip" data-start="4.4" data-duration="4.8" data-track-index="1" style="background:#fbf8f3"><img class="wide2" id="a2i" src="assets/shot02.png"></div>
+      <div id="a3" class="scene abs clip" data-start="9.0" data-duration="4.5" data-track-index="1"><img class="pic" id="a3i" src="assets/shot03.png"></div>
+      <div id="a3b" class="scene abs clip" data-start="13.3" data-duration="4.6" data-track-index="1"><img class="pic" id="a3bi" src="assets/shot04.png"></div>
+      <div id="a4" class="scene abs clip" data-start="17.7" data-duration="6.4" data-track-index="1"><img class="pic" id="a4i" src="assets/shot05.png"></div>
       <div id="a5" class="scene abs clip" data-start="23.9" data-duration="5.3" data-track-index="1"><img class="pic" id="a5i" src="assets/shot06.png"></div>
       <div id="a6" class="scene abs clip" data-start="29.0" data-duration="5.5" data-track-index="1"><img class="pic" id="a6i" src="assets/shot07.png"></div>
       <div id="a7" class="scene abs clip" data-start="34.3" data-duration="4.0" data-track-index="1"><img class="pic" id="a7i" src="assets/shot08.png"></div>
@@ -50,10 +52,10 @@ const tl=gsap.timeline({paused:true});
 const fade=(s,t)=>tl.fromTo(s,{opacity:0},{opacity:1,duration:0.35,ease:"power1.out"},t);
 tl.fromTo("#a1i",{scale:1},{scale:1.08,duration:4.6,ease:"none"},0);
 fade("#a2",4.4);
-for(let i=0;i<5;i++) tl.fromTo("#mb"+i,{y:60,opacity:0},{y:0,opacity:1,duration:0.4,ease:"power2.out"},4.6+i*0.25);
-fade("#a3",9.0); tl.fromTo("#yr",{scale:0.8},{scale:1,duration:0.6,ease:"back.out(1.6)"},9.2);
-fade("#a4",17.7);
-for(let i=0;i<6;i++) tl.fromTo("#sw"+i,{x:-300,opacity:0},{x:0,opacity:1,duration:0.5,ease:"power2.out"},17.9+i*0.2);
+tl.fromTo("#a2i",{x:0},{x:-1500,duration:4.8,ease:"sine.inOut"},4.4);
+fade("#a3",9.0); tl.fromTo("#a3i",{scale:1},{scale:1.08,duration:4.5,ease:"none"},9.0);
+fade("#a3b",13.3); tl.fromTo("#a3bi",{scale:1.08},{scale:1,duration:4.6,ease:"none"},13.3);
+fade("#a4",17.7); tl.fromTo("#a4i",{scale:1},{scale:1.08,duration:6.4,ease:"none"},17.7);
 fade("#a5",23.9); tl.fromTo("#a5i",{scale:1},{scale:1.08,duration:5.3,ease:"none"},23.9);
 fade("#a6",29.0); tl.fromTo("#a6i",{scale:1},{scale:1.1,duration:5.5,ease:"none"},29.0);
 fade("#a7",34.3); tl.fromTo("#a7i",{scale:1.08},{scale:1,duration:4.0,ease:"none"},34.3);
