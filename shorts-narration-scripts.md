@@ -100,7 +100,7 @@ Common format: vertical 9:16, first line on screen within 1 second, loop-friendl
 | 3-12s | "Early stop signs were yellow... red came later." | `Yellow first` | Yellow-toned sign. Label any illustration as a recreation |
 | 12-24s | "Then, in the 1920s... the octagon." | `1920s: the octagon` | Silhouettes of road signs of many shapes; only the octagon stays |
 | 24-35s | "The thinking was simple... weren't reflective." | `Shape beats words` | Night road, signs as silhouettes |
-| 35-42s | "So when you stop at that corner... a hundred years ago." | `Designed to be unmistakable` | Stop sign at a corner, holds for loop |
+| 35-42s | "So when you stop at that corner... about a century ago." | `Designed to be unmistakable` | Stop sign at a corner, holds for loop |
 
 **Facts used, and their status**
 - Yellow early signs because fade-resistant red was unavailable: sourced (one source).

@@ -56,10 +56,10 @@ Fact-check status: **OK** = sources agree. **CAUTION** = say it carefully. **UNV
 - **Reasons for 911 (second check):** secondary sources agree it was short, easy to remember, and unused as an area, exchange or service code. Use those, worded as "chosen because" only with a hedge ("according to NENA's account"). **Do NOT use any rotary-dial claim:** sources contradict each other. No primary AT&T/FCC document found.
 - Also verify: how many Haleyville days or weeks the setup took (sources say "under a week" and "five weeks").
 
-### 5. Asteroid hits New York: **UNVERIFIED numbers**
+### 5. Asteroid hits New York: **model results, with stated limits**
 - Sandia modeled a roughly 1.4 km asteroid hitting the ocean. It vaporizes, throws up water vapor and debris, and the shock wave levels much of New England.
 - The crater, blast radius and casualty figures found in this pass were from consumer simulators and a fictional NASA tabletop. **Do not script numbers from them.**
-- **Cross-check status: NOT DONE.** The Imperial calculator host (impact.ese.ic.ac.uk) and NASA CNEOS (cneos.jpl.nasa.gov) are blocked by this session's network settings, so I could not run the calculator. The table below is my own calculation only. Allow those two hosts in the session's network settings and I will rerun it, or run the same inputs yourself.
+- **Status (updated):** the web calculator is still unreachable, but the Collins, Melosh and Marcus (2005) paper was supplied and its equations are implemented in `asteroid_impact_model.py`, validated against the paper's Table 6. Results (1 km stony, 45 deg, 17 km/s, bedrock): about 54,000 Mt, final crater about 14 km, magnitude about 7.8, fireball radius about 12 km. See `longform-scripts-eggs-911-asteroid.md` for rings and caveats (blast likely overestimated 2-5x above about 10,000 Mt; no tsunami model; no global effects).
 - **Own estimate (Collins et al. 2005 scaling equations, implemented by me, NOT the online calculator):** 1 km stony asteroid (3,000 kg/m3), 45 degrees, land target (2,500 kg/m3):
 
 | Impact speed | Energy | Final crater | Seismic magnitude (approx.) |
@@ -243,7 +243,7 @@ Verify the 1915 "square" claim before use, or say "early stop signs".
 ---
 
 ## 5. Open items before production
-1. **Asteroid:** my numbers are not cross-checked (calculator host blocked). Needs blast/thermal distances and a land-vs-ocean decision. Wording for the "found" claim is settled (see fact-check 5).
+1. **Asteroid:** impact figures computed from the paper's equations (see fact-check 5). Still open: web-calculator cross-check, ground zero and land-vs-ocean choice, a sourced aftermath section, and whether any known 1 km asteroid has a non-zero impact probability (not verified).
 2. **911:** reasons are secondary-sourced only (hedge the wording). Haleyville setup time (under a week vs five weeks) still open; check NENA's history page.
 3. **Stop sign:** settled. "From behind" dropped, committee wording softened to "1920s, highway officials".
 4. **School bus:** settled. Peripheral-vision claim out, "no national standard before 1939" wording.

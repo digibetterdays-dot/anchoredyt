@@ -21,7 +21,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 | 5:30 | Pattern interrupt: roof-weight comparison, then "the ash isn't the real climate problem" | Ch. 4-5 |
 | 7:00 | Payoff of open loop: hydrothermal explosions | Ch. 6 |
 | 8:10 | Monitoring: "what the warning would look like" | Ch. 7 |
-| 9:00 | Concrete action: where to check Yellowstone's status each month | Close |
+| 9:00 | Concrete action: where to check Yellowstone's status | Close |
 
 ### Chapter list (estimated; re-time after the cut)
 0:00 Biscuit Basin, July 2024 · 1:00 A caldera, not a cone · 1:50 Three giant eruptions · 2:30 The odds, and two myths · 4:10 If it did happen: the ash · 5:30 Beyond the ash: the climate question · 6:50 What really happens at Yellowstone · 8:10 How we'd know first · 9:00 Where to check
@@ -96,7 +96,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 
 > So here's the payoff I promised. What actually happens at Yellowstone?
 >
-> Hydrothermal explosions. The USGS says they're Yellowstone's most common geologic hazard, and its most frequent but least destructive hazard, compared with big earthquakes, lava flows, and caldera-forming eruptions. On average, a few of them happen somewhere in the park every year, often in the backcountry, where nobody notices.
+> Hydrothermal explosions. The USGS says they're the most frequent hazard at Yellowstone, and the least destructive, compared with big earthquakes, lava flows, and caldera-forming eruptions. On average, a few of them happen somewhere in the park every year, often in the backcountry, where nobody notices.
 >
 > The mechanism is simple. Hot water underground is under pressure. If that pressure drops suddenly, the water flashes to steam, and the ground above blows apart. That's what happened at Black Diamond Pool in Biscuit Basin in 2024. And in September 1989, at Porkchop Geyser, in one of the park's most famous explosions.
 >
@@ -124,7 +124,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 >
 > If you want to check on Yellowstone yourself, the YVO posts regular updates. Look at the alert level. It says Normal. And if that ever changes, you'll hear it from them first.
 >
-> Next up: the fault that scientists do say is a matter of when, not if. Cascadia.
+> Next up: a fault that scientists take very seriously, with real numbers behind it. Cascadia.
 
 **Do NOT say:** "overdue", "end of civilization", "End of America", a per-year probability, a temperature or crop figure for a Yellowstone winter, "weeks to months of warning", or a destruction distance for pyroclastic flows (no sourced figure).
 **Sources to cite on screen:** USGS Yellowstone Volcano Observatory (alert level, July 23, 2024 Biscuit Basin report, hazards pages), USGS Ash3d study (Mastin, Van Eaton and Lowenstern, 2014), USGS ashfall fact sheet (FS 027-00), University of Utah 2015 magma-chamber study.
@@ -136,7 +136,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 # VIDEO 2: What If the Cascadia Fault Ruptured Tomorrow? (EXPANDED DRAFT 2)
 
 **Working title:** What If the Cascadia Fault Ruptured Tomorrow? (vidIQ 90; "cascadia earthquake" about 38,800 searches a month, +447%)
-**Length as written (measured):** about 1,650 narrated words, about 11 minutes at 150 wpm (up from about 793 words / 5.3 min originally). Chapter timestamps are estimates; re-time after the cut.
+**Length as written (measured):** about 1,700 narrated words, about 11.3 minutes at 150 wpm (up from about 793 words / 5.3 min originally). Chapter timestamps are estimates; re-time after the cut.
 **Companion Short:** 50s cut from Chapters 2-3.
 **Source level:** Oregon Resilience Plan numbers are now taken **directly from the plan's Executive Summary (Feb 2013, OSSPAC), pages 2-7**, which you supplied. Everything else (USGS, NOAA, DOGAMI, Washington, ShakeAlert) is still from secondary web-search summaries.
 
@@ -166,7 +166,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 >
 > This is what scientists call a Cascadia earthquake. And it isn't science fiction. It has happened before.
 >
-> Most videos on this stop at the shaking. But the thing that turns a disaster into a months-long crisis isn't the shaking, or even the wave. It's a trap, one sentence from an Oregon transportation official, and I'll show you exactly where it hides, later in this video.
+> Most videos on this stop at the shaking. But one of the things that turns a disaster into a months-long crisis isn't the shaking, or even the wave. It's a trap, one sentence from an Oregon transportation official, and I'll show you exactly where it hides, later in this video.
 
 **[0:50, Chapter 1: The fault] VISUAL: animated plate cutaway: Juan de Fuca plate sliding under North America.**
 
@@ -174,17 +174,17 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 >
 > NOAA puts it at about 700 miles long, running from Cape Mendocino in Northern California to northern Vancouver Island in Canada, mostly offshore.
 
-*[**CONFIRMED from NOAA JetStream page you supplied:** "lies mostly off shore and extends approximately 700 miles (1,100 kilometers) from Cape Mendocino in Northern California to Northern Vancouver Island, Canada."]*
->
 > The plates don't slide smoothly. They stick, and pressure builds. Eventually the stuck section lets go, all at once, and that's the earthquake.
+
+*[**CONFIRMED from NOAA JetStream page you supplied:** "lies mostly off shore and extends approximately 700 miles (1,100 kilometers) from Cape Mendocino in Northern California to Northern Vancouver Island, Canada."]*
 
 **[2:00, Chapter 2: The proof] VISUAL: Japanese historical record, wave sweeping a coastline.**
 
 > How do we know it's happened? Because of a tsunami that struck Japan with no earthquake to explain it.
 >
-> Around midnight on January 26th and 27th in the year 1700, a wave about six to ten feet high hit Japan's Honshu coast. Nobody there felt any shaking. Japanese records called it the "orphan tsunami", a wave with no parent earthquake.
+> In January of the year 1700, a wave about six to ten feet high hit Japan's Honshu coast. Nobody there felt any shaking. Japanese records called it the "orphan tsunami", a wave with no parent earthquake.
 >
-> Researchers later connected it to Cascadia, and used those records to pin the date. The wave would have taken roughly ten hours to cross the Pacific, which puts the earthquake at about nine o'clock on the night of January 26th. The quake is estimated at about magnitude 9.
+> Researchers later connected it to Cascadia, and used those records, and how long a wave takes to cross the Pacific, to pin the quake to the night of January 26th, at about nine o'clock. It's estimated at about magnitude 9.
 >
 > And it's not a one-off. According to NOAA, geologic evidence shows more than 40 earthquakes above magnitude 8 along this zone over the last 10,000 years.
 
@@ -240,7 +240,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 >
 > And here's the problem. Along many parts of Washington's outer coast, the same assessment says it can take an hour or more to walk to high ground, or out of the tsunami zone. Ten to fifteen minutes of warning, an hour of walking.
 >
-> Take the city of Seaside, Oregon. The resilience plan found that 83 percent of its population, 89 percent of its employees, and almost all of its critical facilities sit inside the tsunami zone.
+> Take the city of Seaside, Oregon. The resilience plan cites a study finding that 83 percent of its population, 89 percent of its employees, and almost all of its critical facilities sit inside the tsunami zone.
 >
 > And in some places, there isn't any high ground close enough. So Washington has started building towers. In 2016, a school near Westport called Ocosta Elementary unveiled the first tsunami vertical evacuation structure in North America: a place to climb, instead of somewhere to run to. The state's assessment found that dozens more are needed on the outer coast.
 >
@@ -250,7 +250,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 
 *[**CONFIRMED from the Washington Emergency Management Division page you supplied:** the assessment (by the University of Washington's Institute for Hazards Mitigation Planning and Research, funded by a NOAA grant, covering Pacific, Grays Harbor and Clallam counties) used walk-time estimates for a magnitude 9.0 Cascadia quake; "people on the outer coast may only have 10 to 15 minutes once the ground stops shaking to reach high ground before a tsunami arrives"; "along many parts of Washington's outer coast, it can take an hour or more to walk to high ground or out of the tsunami inundation zone"; dozens of vertical evacuation structures are needed. Note the 10-15 minutes is counted from when shaking STOPS; Oregon's 10-30 minutes is counted from when shaking BEGINS. Do not mix them on screen.]*
 
-**[8:30, Chapter 7: After the quake] VISUAL: damaged bridge illustration, fuel gauge, empty tap; label "illustration".**
+**[8:30, Chapter 7: After the quake] VISUAL: damaged bridge illustration, fuel gauge, empty tap; label "illustration". When the recovery times are read, show an on-screen table, "If it happened today", from the plan's recovery table.**
 
 > Here it is. A 2019 Oregon Department of Transportation presentation put it in one sentence: you can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.
 >
@@ -259,8 +259,6 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 > That's why the 2013 Oregon Resilience Plan, written for the state legislature, began with a blunt finding: Oregon is far from resilient to a great Cascadia earthquake and tsunami today.
 >
 > Its numbers: available studies estimate deaths from 1,250 to more than 10,000, from the shaking and the tsunami combined. Tens of thousands of buildings destroyed or damaged so badly they'd need months to years of repair. Tens of thousands of households displaced. More than 30 billion dollars in losses, close to a fifth of the state's economy. And more than a million dump-truck loads of debris.
->
-> **[VISUAL: on-screen table, "If it happened today", from the plan's recovery table]**
 >
 > And here's how long recovery would take under today's conditions. Electricity: one to three months in the Willamette Valley, three to six months on the coast. Police and fire stations in the valley: two to four months. Drinking water and sewer: one month to a year in the valley, one to three years on the coast. Hospitals: about a year and a half in the valley, and three years on the coast.
 >
@@ -286,7 +284,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 >
 > So: a fault that can't be stopped, and a state slowly, expensively making what's on top of it stronger.
 
-*[Counts may have changed since 2025; confirm the latest figure with the Oregon Department of Geology and Mineral Industries or the state program page before recording. **[VERIFY]**]*
+*[The "22 schools, about 2 percent of the need" figure is from a search summary of the plan's schools chapter, NOT from the Executive Summary you supplied. **[VERIFY]** against the full plan. The 346 projects and about $597 million are from 2025 legislative testimony, also via search summary. Counts may have changed; confirm with the state program page before recording.]*
 
 **[11:00, Chapter 9: What you can do] VISUAL: phone screen showing a tsunami evacuation map; then a checklist graphic.**
 
@@ -294,11 +292,11 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 >
 > The old advice was to prepare for 72 hours. Oregon's resilience plan recommends updating that: prepare for a minimum of two weeks, and possibly more.
 >
-> *[From the plan's recommendations, p. 7. Current Oregon Emergency Management wording may differ; confirm before recording. **[VERIFY]**]*
->
 > And here's the one thing to do today, before this video ends. If you live near the coast, find your tsunami evacuation route and the nearest high ground. Open your county's evacuation map, and walk the route once.
 >
 > That's the difference between a window of ten minutes and a plan for it.
+
+*[Two-week recommendation is from the plan's recommendations, p. 7. Current Oregon Emergency Management wording may differ; confirm before recording. **[VERIFY]**]*
 
 **[11:50, Close]**
 

@@ -7,8 +7,9 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 # VIDEO 3: Why Americans Refrigerate Eggs (and Brits Don't)
 
 **Working title:** Why Americans Refrigerate Eggs (and Brits Don't) (vidIQ 90; target keyword "why americans refrigerate eggs", about 9,300 searches a month, competition 57)
-**Length as written (measured):** about 690 narrated words, about 4.6 minutes at 150 wpm.
+**Length as written (measured):** about 810 narrated words, about 5.4 minutes at 150 wpm.
 **Companion Short:** 45s cut from Chapters 2-3, ending on the comment question.
+**Timing note:** the chapter and retention timestamps below were set for a longer cut; at the measured length the video runs shorter. Re-time them after the final edit.
 **Tone:** neutral. Neither country is wrong, and the video must never tell viewers to change how they store eggs.
 
 ### Retention plan
@@ -18,7 +19,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 | 0:30 | Open loop: "the surprising thing is the egg isn't the difference, the washing is" | Cold open |
 | 2:00 | Reveal: the cuticle, an invisible coating | Ch. 1 |
 | 3:30 | Twist: the UK changed its safety advice in 2017 | Ch. 3 |
-| 5:00 | Counter-twist: it only applies to Lion eggs | Ch. 3 |
+| 5:00 | Counter-twist: it only applies to Lion Code (or equivalent) eggs | Ch. 3 |
 | 6:00 | Practical: what to do when you travel | Ch. 5 |
 | 6:40 | Comment bait: "Where do YOU keep your eggs?" | Close |
 
@@ -40,9 +41,9 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 **[2:00, Chapter 2: The American way] VISUAL: an egg-washing line (use licensed footage or a clearly labeled animation).**
 
-> In the United States, commercial eggs are washed before they're sold. That's the rule, and it cleans the shell.
+> In the United States, commercial eggs are washed before they're sold. That's standard practice, and it cleans the shell.
 >
-> But washing also takes off the cuticle. Without that seal, the shell is more permeable. So refrigeration steps in as the safeguard: cold slows bacterial growth, and US eggs are kept cold from the farm to your kitchen.
+> But washing also takes off the cuticle. Without that seal, the shell is more permeable. So refrigeration steps in as the safeguard: cold slows bacterial growth. FDA rules require eggs be kept at 45 degrees Fahrenheit or below, starting 36 hours after they're laid, and US eggs are kept cold from the farm to your kitchen.
 >
 > One consequence you may have noticed: a cold egg left on a warm counter can get wet with condensation. Some sources say that moisture can help bacteria move through the shell, which is one reason food-safety guidance says to keep US eggs cold once they've been chilled.
 
@@ -50,13 +51,13 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 **[3:30, Chapter 3: The British way] VISUAL: British hens in a barn, a red Lion stamp on a shell.**
 
-> Britain does it differently. Eggs there aren't washed, so the cuticle stays on, and the egg keeps its own seal.
+> Britain does it differently. Eggs there generally aren't washed, so the cuticle stays on, and the egg keeps its own seal.
 >
 > That's not just a British habit. Across the European Union, the marketing rules for top-grade, Class A eggs say they must not be washed or cleaned, because washing can damage the shell, which the rules call an effective barrier against bacteria. There's a narrow exception where a country authorized washing before 2003, and those eggs have to be labeled "washed eggs".
 >
 > But that only works if the hen is healthy to begin with. So since 1998, a scheme called the British Lion Code of Practice has done the work earlier in the chain. Hens are vaccinated against salmonella. Hens, eggs, and feed are traceable. Rodents are strictly controlled. And Lion eggs carry a best-before date stamped on the shell.
 >
-> It worked well enough that in October 2017, the UK's Food Standards Agency changed its advice. Since the 1988 salmonella scare, pregnant women, babies, and older people had been told to avoid runny or raw eggs. The FSA said British Lion eggs were now safe for them to eat runny, even raw.
+> It worked well enough that in October 2017, the UK's Food Standards Agency changed its advice. Since the 1988 salmonella scare, pregnant women, babies, and older people had been told to avoid runny or raw eggs. The FSA said eggs produced under the Lion Code were now safe for them to eat runny, even raw.
 >
 > Let that sink in. In one country, the advice is: keep every egg cold. In the other, the advice is that a vaccinated hen's egg can be eaten raw by a pregnant woman.
 >
@@ -74,9 +75,9 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 **[6:00, Chapter 5: What to do when you travel] VISUAL: a suitcase, a hotel breakfast, a supermarket shelf.**
 
-> So what should you do? Follow the system you're in.
+> So which one is right? Each, for its own system.
 >
-> If you buy eggs in the US, keep them in the fridge. If you're in the UK and your eggs are sold at room temperature and unwashed, storing them in a cool place is the normal practice there.
+> If you buy eggs in the US, they've been washed and chilled, and they stay cold. If you're in the UK and your eggs are sold at room temperature and unwashed, that's the normal practice there. Whatever country you're in, follow the packaging and your local food-safety guidance.
 >
 > The one rule that holds in both: once an egg has been chilled, it's better to keep it chilled, because of that condensation problem.
 
@@ -88,7 +89,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 >
 > Now I want to know: where do you keep your eggs, and in which country? Tell me in the comments. We're going to read the best ones in a follow-up.
 
-**Do NOT say:** that either country is "wrong" or "dirty"; the UK case-count figures; which US agency owns the refrigeration rule; that viewers should change how they store eggs; that raw eggs are safe in general (the UK advice applies to Lion eggs only).
+**Do NOT say:** that either country is "wrong" or "dirty"; the UK case-count figures; which US agency owns the refrigeration rule; that viewers should change how they store eggs; that raw eggs are safe in general (the UK advice applies to Lion Code or equivalent-scheme eggs only).
 **Sources to cite on screen:** UK Food Standards Agency announcement (Oct 2017), British Lion Code of Practice (British Egg Industry Council), USDA/FDA shell-egg guidance.
 **Thumbnail idea:** an egg split down the middle, a Union Jack shelf on one side, a US fridge on the other; text "WHY?".
 **Pinned comment:** "Where are you, and where do you keep your eggs?"
@@ -98,8 +99,9 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 # VIDEO 4: Why 911 Is the Emergency Number
 
 **Working title:** Why 911 Is the Emergency Number (vidIQ 85; low direct search, so build packaging around the story hook: "The first 911 call wasn't an emergency")
-**Length as written (measured):** about 570 narrated words, about 3.8 minutes at 150 wpm.
+**Length as written (measured):** about 630 narrated words, about 4.2 minutes at 150 wpm.
 **Companion Short:** 40s cut: "The first 911 call wasn't an emergency".
+**Timing note:** the chapter and retention timestamps below were set for a longer cut; at the measured length the video runs shorter. Re-time them after the final edit.
 
 ### Retention plan
 | Time | Device | Where |
@@ -135,7 +137,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 > On January 12th, 1968, AT&T announced it: 911 would be the universal emergency number. But AT&T's plan covered only the Bell system, and rolling it out nationwide would take time.
 >
-> Enter a small independent company, the Alabama Telephone Company. Its president, Bob Gallagher, read about AT&T's announcement in the Wall Street Journal, and decided his company would be first.
+> Enter a small independent company, the Alabama Telephone Company. Its president, Bob Gallagher, read about AT&T's plan in the Wall Street Journal, and decided his company would be first.
 >
 > The system's designer, Robert Fitzgerald, built it in less than a week, according to NPR. And 35 days after AT&T's announcement, it was ready.
 
@@ -147,9 +149,9 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 >
 > A short distance away, at the police station, U.S. Representative Tom Bevill answered.
 >
-> "Hello," Fite is said to have said. It was a ceremonial call, planned for the cameras. And the system worked.
+> It was a ceremonial call, planned for the cameras. And the system worked.
 >
-> The red phone is still around: it was a gift to the city from the Alabama Telephone Company, and sources say it's on display, with one noting a Smithsonian exhibit. Haleyville's system is still in use.
+> The red phone is still around: it was a gift to the city from the Alabama Telephone Company, and sources say it's on display. Haleyville's system is still in use.
 
 *[Speaker vs "state senator" varies by outlet; most say House Speaker. Do NOT put quoted dialogue on screen as fact; "said to have said" only if sourced. **[VERIFY]**. Display location of the phone differs by source (city hall, Smithsonian). Leave it as "on display".]*
 
@@ -171,7 +173,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 **[5:50, Chapter 6: What 911 is now] VISUAL: dispatch center, phone map.**
 
-> Today, the United States has more than 5,700 911 call centers, called public safety answering points, covering more than 3,100 counties. The National Emergency Number Association estimates about 240 million calls to 911 every year, and in many areas 80 percent or more come from cell phones.
+> As of 2021, the United States had more than 5,700 911 call centers, called public safety answering points, covering more than 3,100 counties. The National Emergency Number Association estimates about 240 million calls to 911 every year, and in many areas 80 percent or more come from cell phones.
 >
 > The FCC's latest fee report, as summarized by one outlet, counted about 213 million voice calls to 911 in 2024 from the states and territories that reported, with about 71 percent from wireless phones. Texts to 911 rose to about 2.2 million, nearly double the year before, but that's still only about one percent of voice calls.
 
@@ -196,13 +198,14 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 # VIDEO 5: What If a 1-km Asteroid Hit New York?
 
 **Working title:** What If a 1-km Asteroid Hit New York? (vidIQ 90)
-**Length as written (measured):** about 620 narrated words, about 4.1 minutes at 150 wpm.
+**Length as written (measured):** about 850 narrated words, about 5.7 minutes at 150 wpm.
+**Timing note:** the chapter and retention timestamps below were set for a longer cut; at the measured length the video runs shorter. Re-time them after the final edit.
 **Status:** impact numbers are now computed from the Collins, Melosh and Marcus (2005) equations (paper supplied by you), validated against the paper's Table 6. They are a model, not the website, and the paper lists real limits (see notes). Ocean impact, tsunami, and any global or climate effect are NOT modeled and are not claimed.
 
 ### Retention plan
 | Time | Device | Where |
 |---|---|---|
-| 0:00 | Clock hook: "you have about 20 seconds from the sky to the ground" | Cold open |
+| 0:00 | Clock hook: "from the top of the atmosphere to the ground takes seconds" | Cold open |
 | 0:40 | Open loop: "and the scariest part isn't what hits the ground. I'll show you at the end." | Cold open |
 | 1:30 | Size comparison: 1 km next to the Empire State Building | Ch. 1 |
 | 3:00 | The clock: seconds to years | Ch. 3-6 |
@@ -237,9 +240,9 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 **[3:00, Chapter 3: Second zero] VISUAL: a countdown clock, "T = 0".**
 
-> At impact, a crater opens. On land, the equations give a final crater about 14 kilometers across, nine miles. Manhattan is about 13 miles long; this crater would be most of its width, and then some. Ground shock is equivalent to a magnitude 7.8 earthquake.
+> At impact, a crater opens. On land, the equations give a final crater about 14 kilometers across, nine miles. Manhattan is about 13 miles long; a crater nine miles across would swallow most of it. Ground shock is equivalent to a magnitude 7.8 earthquake.
 >
-> Within about 10 kilometers, six miles, the thrown-out rock lands as a layer roughly 100 meters deep, taller than a 30-story building.
+> Within about 10 kilometers, six miles, the thrown-out rock lands as a layer roughly 100 meters deep, about the height of a 30-story building.
 
 *[Crater: 13.9 km (bedrock) or 14.4 km (sedimentary); range about 12-16 km across 12-20 km/s. Magnitude 7.8 (7.6-7.9). Ejecta at 10 km: about 97 m at 17 km/s. Ground zero assumed central Manhattan; the actual site is a script choice.]*
 
@@ -263,7 +266,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 >
 > But here's what the research says, and it may surprise you. One older modeling study found that for a basin-crossing tsunami, an asteroid would need to be more than about two kilometers across. A kilometer-wide impact would be devastating near where it hits, but the wave wouldn't cross the entire ocean.
 >
-> That's local, not global, and it still means the whole coastline around New York is in trouble.
+> That's local, not global, but it would still mean serious trouble for the nearby coast.
 
 *[Source: Crawford and Mader (Sandia-linked, late 1990s); dated, and the 2010 Wünnemann/Collins review calls the destructive power of ocean-impact waves controversial. Present as "one study". **[VERIFY]** with a current source.]*
 
@@ -277,7 +280,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 > Now, the part I promised. A kilometer-wide asteroid is the size we are best at finding.
 >
-> NASA says it has found the large majority of near-Earth asteroids this size. NASA's infographic, with data as of December 1, 2025, lists 876 found, with about 50 estimated still to be found. And none of the known ones is predicted to threaten Earth.
+> NASA says it has found the large majority of near-Earth asteroids this size. NASA's infographic, with data as of December 1, 2025, lists 876 found, with about 50 estimated still to be found. The objects it has found are tracked, and that information is public.
 >
 > That's not the same as zero. But it means that this video is about an extremely unlikely event, and one we are looking for.
 
@@ -295,7 +298,7 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 >
 > If you want to follow it, NASA's planetary defense pages post what's known. Check them yourself, and tell me which city you want me to do next.
 
-**Do NOT say:** any blast radius, casualty, or temperature figure until the calculator is run; "95% found" as a NASA statement; a climate or crop effect figure; that an impact is imminent or likely.
+**Do NOT say:** a casualty figure or a blast radius beyond the model's stated limits; "95% found" as a NASA statement; that no known asteroid threatens Earth (not verified this session); a climate or crop effect figure; that an impact is imminent or likely.
 **Sources to cite on screen:** Sandia National Laboratories (impact simulation), NASA Planetary Defense Coordination Office / CNEOS, NASA DART results, Collins, Melosh and Marcus (2005) Earth Impact Effects Program.
 **Thumbnail idea:** a bright streak over the Manhattan skyline, text "1 KM".
 
