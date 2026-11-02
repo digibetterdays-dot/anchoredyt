@@ -173,6 +173,8 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 > Just off the coast, a piece of the Pacific sea floor, the Juan de Fuca plate, is slowly sliding under North America. Where they meet is called the Cascadia subduction zone.
 >
 > NOAA puts it at about 700 miles long, running from Cape Mendocino in Northern California to northern Vancouver Island in Canada, mostly offshore.
+
+*[**CONFIRMED from NOAA JetStream page you supplied:** "lies mostly off shore and extends approximately 700 miles (1,100 kilometers) from Cape Mendocino in Northern California to Northern Vancouver Island, Canada."]*
 >
 > The plates don't slide smoothly. They stick, and pressure builds. Eventually the stuck section lets go, all at once, and that's the earthquake.
 
@@ -204,6 +206,8 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 >
 > What does that mean? Not tomorrow, and not "overdue". Just a real, serious chance in the lifetime of a child born today.
 
+*[**USGS method confirmed from the fact-sheet page you supplied:** USGS computes these as chances over 50 years, using a time-independent ("Poissonian") model, P = 1 - e^(-t/tau), in which an earthquake is equally likely on any day. USGS itself says that assumption "is likely an incorrect assumption for individual faults" but a reasonable way to compute hazard where past dates are uncertain. Your screenshot did not show the 10-15% numbers themselves; they still come from the earlier search summary of the 2025 fact sheet. **[VERIFY]** the exact percentages and the phrase "about 15 percent if you factor in the 1700 date" on the fact sheet before recording.]*
+
 **[4:40, Chapter 4: The shaking] VISUAL: shaking POV in an office, then a real on-screen timer that runs for a full 3:00 with no cuts while the narration continues. Hold the shot. The silence is the point.**
 
 > Now, back to our morning. What would the shaking feel like?
@@ -232,7 +236,9 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 >
 > Right after the shaking stops, a tsunami heads for the shore. Estimates for the Oregon coast range from roughly 10 to 30 minutes after the shaking begins, depending on the source and the place.
 >
-> In Washington, a state assessment of the outer coast said people may have only 10 to 15 minutes once the ground stops shaking to reach high ground.
+> In Washington, a state assessment of the outer coast, built on walk-time estimates for a magnitude 9 quake, found that people may have only 10 to 15 minutes once the ground stops shaking to reach high ground.
+>
+> And here's the problem. Along many parts of Washington's outer coast, the same assessment says it can take an hour or more to walk to high ground, or out of the tsunami zone. Ten to fifteen minutes of warning, an hour of walking.
 >
 > Take the city of Seaside, Oregon. The resilience plan found that 83 percent of its population, 89 percent of its employees, and almost all of its critical facilities sit inside the tsunami zone.
 >
@@ -241,6 +247,8 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 > The sources disagree a little on exact times, so treat them as a window, not a countdown. Check the evacuation map where you live.
 >
 > Now let's say you made it to high ground. You're alive. The shaking has stopped, the wave has passed. And this is where the trap I mentioned closes.
+
+*[**CONFIRMED from the Washington Emergency Management Division page you supplied:** the assessment (by the University of Washington's Institute for Hazards Mitigation Planning and Research, funded by a NOAA grant, covering Pacific, Grays Harbor and Clallam counties) used walk-time estimates for a magnitude 9.0 Cascadia quake; "people on the outer coast may only have 10 to 15 minutes once the ground stops shaking to reach high ground before a tsunami arrives"; "along many parts of Washington's outer coast, it can take an hour or more to walk to high ground or out of the tsunami inundation zone"; dozens of vertical evacuation structures are needed. Note the 10-15 minutes is counted from when shaking STOPS; Oregon's 10-30 minutes is counted from when shaking BEGINS. Do not mix them on screen.]*
 
 **[8:30, Chapter 7: After the quake] VISUAL: damaged bridge illustration, fuel gauge, empty tap; label "illustration".**
 

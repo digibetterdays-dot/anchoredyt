@@ -169,10 +169,11 @@ Narration at about 150 words per minute. Claims are limited to what web-search s
 
 **[5:50, Chapter 6: What 911 is now] VISUAL: dispatch center, phone map.**
 
-> Today, the National Emergency Number Association estimates about 240 million calls to 911 in the U.S. every year, and in many areas 80 percent or more of those come from cell phones.
+> Today, the United States has more than 5,700 911 call centers, called public safety answering points, covering more than 3,100 counties. The National Emergency Number Association estimates about 240 million calls to 911 every year, and in many areas 80 percent or more come from cell phones.
 >
 > The FCC's latest fee report, as summarized by one outlet, counted about 213 million voice calls to 911 in 2024 from the states and territories that reported, with about 71 percent from wireless phones. Texts to 911 rose to about 2.2 million, nearly double the year before, but that's still only about one percent of voice calls.
 
+*[**NENA figures CONFIRMED from the NENA 9-1-1 Statistics page you supplied:** "As of February 2021, the United States has 5,748 primary and secondary PSAPs and 3,135 counties"; "An estimated 240 million calls are made to 9-1-1 in the U.S. each year. In many areas, 80% or more are from wireless devices." Also on that page: 93% of counties with 911 coverage have enhanced 911, and 98.9% of the population has some Phase I and Phase II wireless service (that is wireless location capability, not simply "access to 911"). The page's data is dated February 2021, so say "as of 2021" for the PSAP count.]*
 *[**PARTLY CONFIRMED:** the FCC numbers (212,910,794 voice calls; 71.3% wireless; about 2.24 million texts, up about 89%; 3,967 text-capable centers) are consistent across several summaries, but all trace to one aggregator citing the FCC's 17th Annual 911 Fee Report; the FCC report itself was not found. The FCC total covers reporting jurisdictions only (about 55 states and territories), which is why NENA's older estimate (about 240 million calls a year) is higher. Say "reported" and attribute each figure. **[VERIFY]** on the FCC site before putting numbers on screen.]*
 
 **[6:40, Close and action]**
