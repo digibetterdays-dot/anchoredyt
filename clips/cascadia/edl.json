@@ -24,7 +24,7 @@
   },
   {
    "id": "s003",
-   "src": "assets/shots/s003.png",
+   "src": "assets/shots/s003.jpg",
    "anchor": "Kids are heading to",
    "prompt": "Children with backpacks walking along a wet suburban sidewalk toward a yellow school bus, tall fir trees, drizzle",
    "allow_short": true,
@@ -35,7 +35,7 @@
   },
   {
    "id": "s004",
-   "src": "assets/shots/s004.png",
+   "src": "assets/shots/s004.jpg",
    "anchor": "And then the ground",
    "prompt": "Close-up of a coffee cup on a cafe table by a rainy window, rings of ripples spreading across the coffee",
    "emphasis": true,
@@ -46,7 +46,7 @@
   },
   {
    "id": "s005",
-   "src": "assets/shots/s005.png",
+   "src": "assets/shots/s005.jpg",
    "anchor": "It doesn't stop in",
    "prompt": "A residential street with power lines swinging, trees bending, people crouching on the sidewalk, parked cars tilted",
    "start": 9.889,
@@ -56,7 +56,7 @@
   },
   {
    "id": "s006",
-   "src": "assets/shots/s006.png",
+   "src": "assets/shots/s006.jpg",
    "anchor": "This is what scientists",
    "prompt": "A seismograph drum with a needle drawing very large waves on paper, close-up, no numbers or writing",
    "start": 13.121,
@@ -66,7 +66,7 @@
   },
   {
    "id": "s007",
-   "src": "assets/shots/s007.png",
+   "src": "assets/shots/s007.jpg",
    "anchor": "And it isn't science",
    "prompt": "A wild coastline at night centuries ago: ancient cedar forest, moonlight on the sea, no buildings",
    "start": 16.695,
@@ -76,7 +76,7 @@
   },
   {
    "id": "s008a",
-   "src": "assets/shots/s008.png",
+   "src": "assets/shots/s008.jpg",
    "anchor": "Most videos on this",
    "prompt": "A highway split by a long crack, a few stopped cars, grey sky",
    "start": 19.957,
@@ -87,7 +87,7 @@
   },
   {
    "id": "s008b",
-   "src": "assets/shots/s008.png",
+   "src": "assets/shots/s008.jpg",
    "anchor": "Most videos on this",
    "prompt": "A highway split by a long crack, a few stopped cars, grey sky",
    "start": 24.616,
@@ -99,7 +99,7 @@
   },
   {
    "id": "s009a",
-   "src": "assets/shots/s009.png",
+   "src": "assets/shots/s009.jpg",
    "anchor": "It's a trap, one",
    "prompt": "A highway bridge over a river broken in the middle at dusk, a fuel tanker truck stopped before the gap",
    "emphasis": true,
@@ -111,7 +111,7 @@
   },
   {
    "id": "s009b",
-   "src": "assets/shots/s009.png",
+   "src": "assets/shots/s009.jpg",
    "anchor": "It's a trap, one",
    "prompt": "A highway bridge over a river broken in the middle at dusk, a fuel tanker truck stopped before the gap",
    "emphasis": true,
@@ -136,7 +136,7 @@
   },
   {
    "id": "s010",
-   "src": "assets/shots/s010.png",
+   "src": "assets/shots/s010.jpg",
    "anchor": "is slowly sliding under",
    "prompt": "Cross-section of the earth like stacked paper layers: an ocean plate sliding beneath a continental plate, sea above, mountains on the land side, no labels",
    "label": null,
@@ -147,7 +147,7 @@
   },
   {
    "id": "s011",
-   "src": "assets/shots/s011.png",
+   "src": "assets/shots/s011.jpg",
    "anchor": "Where they meet is",
    "prompt": "View from above of a rugged forested coastline with a long dark undersea trench running parallel offshore",
    "label": null,
@@ -169,7 +169,7 @@
   },
   {
    "id": "s012",
-   "src": "assets/shots/s012.png",
+   "src": "assets/shots/s012.jpg",
    "anchor": "running from Cape Mendocino",
    "prompt": "Simplified map-like illustration of the North American west coast from northern California (bottom of frame) up to Vancouver Island (top of frame), north at the top, land in sage green, sea in slate blue, a thin rust-red line just offshore along the whole length, no labels or text",
    "aspect": "9:16 tall map, 1080x1920, north at the top",
@@ -183,7 +183,7 @@
   },
   {
    "id": "s013",
-   "src": "assets/shots/s013.png",
+   "src": "assets/shots/s013.jpg",
    "anchor": "The plates don't slide",
    "prompt": "Close-up cross-section: two rough paper layers pressed hard together at an angle, the upper one bending and buckling",
    "label": null,
@@ -194,7 +194,7 @@
   },
   {
    "id": "s014",
-   "src": "assets/shots/s014.png",
+   "src": "assets/shots/s014.jpg",
    "anchor": "They stick, and pressure",
    "prompt": "Cross-section: the edge of the upper plate bulging upward like a bent ruler, compressed layers, a faint glow of stress",
    "label": null,
@@ -205,7 +205,7 @@
   },
   {
    "id": "s015",
-   "src": "assets/shots/s015.png",
+   "src": "assets/shots/s015.jpg",
    "anchor": "Eventually the stuck section",
    "prompt": "Cross-section: the bent plate edge snapping free, the sea floor lurching up, a dome of water lifting above it",
    "emphasis": true,
@@ -229,7 +229,7 @@
   },
   {
    "id": "s016",
-   "src": "assets/shots/s016.png",
+   "src": "assets/shots/s016.jpg",
    "anchor": "with no earthquake to",
    "prompt": "A Japanese coastal fishing village around the year 1700: wooden houses with thatched roofs, small boats pulled up on the beach, calm evening",
    "start": 71.58,
@@ -239,7 +239,7 @@
   },
   {
    "id": "s017",
-   "src": "assets/shots/s017.png",
+   "src": "assets/shots/s017.jpg",
    "anchor": "In January of the",
    "prompt": "A wave about two to three metres high washing over the beach and into rice fields of an Edo-period village, villagers watching safely from a hillside",
    "start": 73.745,
@@ -249,7 +249,7 @@
   },
   {
    "id": "s018",
-   "src": "assets/shots/s018.png",
+   "src": "assets/shots/s018.jpg",
    "anchor": "Nobody there felt any",
    "prompt": "Edo-period villagers holding lanterns, looking out at a calm sea in puzzlement, still night",
    "allow_short": true,
@@ -270,7 +270,7 @@
   },
   {
    "id": "s020a",
-   "src": "assets/shots/s020.png",
+   "src": "assets/shots/s020.jpg",
    "anchor": "Researchers later connected it",
    "prompt": "Stylized view of the whole Pacific Ocean, Japan at the far left and the North American coast at the far right, a single thin wave arc travelling across the water from right to left, no labels",
    "aspect": "3:1 panorama, 3240x1080, Japan left, America right",
@@ -284,7 +284,7 @@
   },
   {
    "id": "s020b",
-   "src": "assets/shots/s020.png",
+   "src": "assets/shots/s020.jpg",
    "anchor": "Researchers later connected it",
    "prompt": "Stylized view of the whole Pacific Ocean, Japan at the far left and the North American coast at the far right, a single thin wave arc travelling across the water from right to left, no labels",
    "aspect": "3:1 panorama, 3240x1080, Japan left, America right",
@@ -331,7 +331,7 @@
   },
   {
    "id": "s023",
-   "src": "assets/shots/s023.png",
+   "src": "assets/shots/s023.jpg",
    "anchor": "The land itself keeps",
    "prompt": "A Pacific Northwest tidal marsh at low tide, winding channels, grasses, grey sky",
    "section_start": true,
@@ -352,7 +352,7 @@
   },
   {
    "id": "s025",
-   "src": "assets/shots/s025.png",
+   "src": "assets/shots/s025.jpg",
    "anchor": "coastal land in the",
    "prompt": "Cross-section of a riverbank: a dark buried soil layer, covered by a pale sand layer, then grey mud on top",
    "move": "tilt_down",
@@ -363,7 +363,7 @@
   },
   {
    "id": "s026",
-   "src": "assets/shots/s026.png",
+   "src": "assets/shots/s026.jpg",
    "anchor": "That's what happens when",
    "prompt": "A coastal meadow suddenly flooded by the sea, water spreading between fence posts, no dead trees",
    "start": 124.565,
@@ -447,7 +447,7 @@
   },
   {
    "id": "s031",
-   "src": "assets/shots/s031.png",
+   "src": "assets/shots/s031.jpg",
    "anchor": "Just a real, serious",
    "prompt": "A small child and a parent walking on a Pacific Northwest beach, looking out at the ocean, sea stacks in the distance",
    "start": 168.561,
@@ -469,7 +469,7 @@
   },
   {
    "id": "s032",
-   "src": "assets/shots/s032.png",
+   "src": "assets/shots/s032.jpg",
    "anchor": "What would the shaking",
    "prompt": "An open-plan office during an earthquake: ceiling lights swinging, monitors sliding, workers taking cover under desks",
    "start": 175.522,
@@ -489,7 +489,7 @@
   },
   {
    "id": "s034a",
-   "src": "assets/shots/s034.png",
+   "src": "assets/shots/s034.jpg",
    "anchor": "The authors of Oregon's",
    "prompt": "A busy Oregon beach town on a sunny July morning: families on the sand, kites, a boardwalk, a headland in the distance",
    "start": 182.149,
@@ -500,7 +500,7 @@
   },
   {
    "id": "s034b",
-   "src": "assets/shots/s034.png",
+   "src": "assets/shots/s034.jpg",
    "anchor": "The authors of Oregon's",
    "prompt": "A busy Oregon beach town on a sunny July morning: families on the sand, kites, a boardwalk, a headland in the distance",
    "start": 187.704,
@@ -545,7 +545,7 @@
   },
   {
    "id": "s038",
-   "src": "assets/shots/s038.png",
+   "src": "assets/shots/s038.jpg",
    "anchor": "Several minutes. That's long",
    "prompt": "A living room shaking: a bookshelf toppling, a lamp falling, cracks in the wall, a family sheltering under a sturdy table",
    "start": 204.469,
@@ -577,7 +577,7 @@
   },
   {
    "id": "s041",
-   "src": "assets/shots/s041.png",
+   "src": "assets/shots/s041.jpg",
    "anchor": "There's a system called",
    "prompt": "A small seismic sensor station in a forest clearing: a metal box, a solar panel and a short mast, ferns around it",
    "start": 215.416,
@@ -587,7 +587,7 @@
   },
   {
    "id": "s042",
-   "src": "assets/shots/s042.png",
+   "src": "assets/shots/s042.jpg",
    "anchor": "It doesn't predict earthquakes.",
    "prompt": "Map-like view of a region at night with many glowing sensor dots linked by thin lines of light, no labels",
    "label": null,
@@ -598,7 +598,7 @@
   },
   {
    "id": "s043",
-   "src": "assets/shots/s043.png",
+   "src": "assets/shots/s043.jpg",
    "anchor": "Then it sends an",
    "prompt": "A smartphone on a kitchen counter lighting up with a bright alert, blank glowing screen, no text, morning light",
    "start": 225.627,
@@ -608,7 +608,7 @@
   },
   {
    "id": "s044",
-   "src": "assets/shots/s044.png",
+   "src": "assets/shots/s044.jpg",
    "anchor": "much faster than the",
    "prompt": "A landscape where a thin bright pulse of light races across the sky far ahead of a slow rolling wave in the ground, left to right",
    "aspect": "3:1 panorama, 3240x1080",
@@ -818,7 +818,7 @@
   },
   {
    "id": "s057a",
-   "src": "assets/shots/s057.png",
+   "src": "assets/shots/s057.jpg",
    "anchor": "a school near Westport",
    "prompt": "A one-storey elementary school on a flat coast with a raised, reinforced rooftop refuge platform above the gym",
    "start": 316.949,
@@ -829,7 +829,7 @@
   },
   {
    "id": "s057b",
-   "src": "assets/shots/s057.png",
+   "src": "assets/shots/s057.jpg",
    "anchor": "a school near Westport",
    "prompt": "A one-storey elementary school on a flat coast with a raised, reinforced rooftop refuge platform above the gym",
    "start": 321.019,
@@ -841,7 +841,7 @@
   },
   {
    "id": "s058",
-   "src": "assets/shots/s058.png",
+   "src": "assets/shots/s058.jpg",
    "anchor": "a place to climb,",
    "prompt": "Teachers leading a line of children calmly up wide stairs to a rooftop refuge during a drill",
    "start": 325.26,
@@ -851,7 +851,7 @@
   },
   {
    "id": "s059",
-   "src": "assets/shots/s059.png",
+   "src": "assets/shots/s059.jpg",
    "anchor": "The state's assessment found",
    "prompt": "A long flat coastline seen from above, with a few small refuge towers spaced far apart along it",
    "aspect": "3:1 panorama, 3240x1080",
@@ -863,7 +863,7 @@
   },
   {
    "id": "s060",
-   "src": "assets/shots/s060.png",
+   "src": "assets/shots/s060.jpg",
    "anchor": "The sources disagree a",
    "prompt": "A blue and white route sign shaped like a curving arrow on a post, pointing uphill along a road, no letters",
    "start": 332.395,
@@ -873,7 +873,7 @@
   },
   {
    "id": "s061",
-   "src": "assets/shots/s061.png",
+   "src": "assets/shots/s061.jpg",
    "anchor": "Check the evacuation map",
    "prompt": "A hand holding a phone showing a simple map with a highlighted route uphill, no text",
    "start": 337.684,
@@ -893,7 +893,7 @@
   },
   {
    "id": "s063",
-   "src": "assets/shots/s009.png",
+   "src": "assets/shots/s009.jpg",
    "anchor": "And this is where",
    "emphasis": true,
    "note": "reuses s009 (the trap callback)",
@@ -928,7 +928,7 @@
   },
   {
    "id": "s065",
-   "src": "assets/shots/s065.png",
+   "src": "assets/shots/s065.jpg",
    "anchor": "Most of the bridges",
    "prompt": "A river valley with several road bridges, some cracked and sagging, morning mist",
    "start": 361.252,
@@ -938,7 +938,7 @@
   },
   {
    "id": "s066",
-   "src": "assets/shots/s066.png",
+   "src": "assets/shots/s066.jpg",
    "anchor": "Oregon gets almost all",
    "prompt": "A fuel pipeline running across green countryside toward a river with a tanker barge on it",
    "start": 365.196,
@@ -948,7 +948,7 @@
   },
   {
    "id": "s067",
-   "src": "assets/shots/s067.png",
+   "src": "assets/shots/s067.jpg",
    "anchor": "a state that sits",
    "prompt": "A shoreline fuel terminal with storage tanks and a dock, evergreen hills behind",
    "start": 370.127,
@@ -958,7 +958,7 @@
   },
   {
    "id": "s068",
-   "src": "assets/shots/s068.png",
+   "src": "assets/shots/s068.jpg",
    "anchor": "And once it arrives,",
    "prompt": "A long row of large white fuel storage tanks along a riverbank, stretching into the distance",
    "aspect": "3:1 panorama, 3240x1080",
@@ -969,10 +969,14 @@
   },
   {
    "id": "s069",
-   "src": "assets/shots/s069.png",
+   "src": "assets/shots/s069.jpg",
    "anchor": "on riverside soil that",
    "prompt": "Ground near a riverbank turning to wet mud, sand boils bubbling up, a storage tank beginning to tilt",
    "emphasis": true,
+   "focus": [
+    0.62,
+    0.55
+   ],
    "start": 377.25,
    "end": 380.31,
    "dur": 3.06,
@@ -980,7 +984,7 @@
   },
   {
    "id": "s070",
-   "src": "assets/shots/s070.png",
+   "src": "assets/shots/s070.jpg",
    "anchor": "That's why the 2013",
    "prompt": "An empty state legislature chamber: rows of wooden desks, tall windows, flags without symbols",
    "start": 380.31,
@@ -1012,7 +1016,7 @@
   },
   {
    "id": "s071",
-   "src": "assets/shots/s071.png",
+   "src": "assets/shots/s071.jpg",
    "anchor": "Tens of thousands of buildings",
    "prompt": "A residential block of damaged houses: collapsed porches, chimneys down, crooked walls, no people hurt",
    "start": 401.261,
@@ -1022,7 +1026,7 @@
   },
   {
    "id": "s072",
-   "src": "assets/shots/s072.png",
+   "src": "assets/shots/s072.jpg",
    "anchor": "Tens of thousands of households",
    "prompt": "A school gym turned into a shelter: rows of cots, families with suitcases, volunteers",
    "start": 408.187,
@@ -1043,7 +1047,7 @@
   },
   {
    "id": "s073",
-   "src": "assets/shots/s073.png",
+   "src": "assets/shots/s073.jpg",
    "anchor": "And more than a",
    "prompt": "Mountains of debris with a long line of dump trucks waiting beside them",
    "start": 416.173,
@@ -1162,7 +1166,7 @@
   },
   {
    "id": "s077",
-   "src": "assets/shots/s077.png",
+   "src": "assets/shots/s077.jpg",
    "anchor": "After Chile's magnitude 8.8",
    "prompt": "A Chilean coastal town street in sunshine, workers repairing power lines, people walking",
    "start": 469.419,
@@ -1194,7 +1198,7 @@
   },
   {
    "id": "s078",
-   "src": "assets/shots/s078.png",
+   "src": "assets/shots/s078.jpg",
    "anchor": "Here's a number that",
    "prompt": "An older two-storey brick school building on a grey morning, children's bicycles outside",
    "start": 484.712,
@@ -1239,7 +1243,7 @@
   },
   {
    "id": "s079a",
-   "src": "assets/shots/s079.png",
+   "src": "assets/shots/s079.jpg",
    "anchor": "That program, created in",
    "prompt": "Construction workers bolting steel cross-braces to the walls inside a school gym",
    "start": 510.018,
@@ -1250,7 +1254,7 @@
   },
   {
    "id": "s079b",
-   "src": "assets/shots/s079.png",
+   "src": "assets/shots/s079.jpg",
    "anchor": "That program, created in",
    "prompt": "Construction workers bolting steel cross-braces to the walls inside a school gym",
    "start": 516.306,
@@ -1262,7 +1266,7 @@
   },
   {
    "id": "s080a",
-   "src": "assets/shots/s080.png",
+   "src": "assets/shots/s080.jpg",
    "anchor": "The hardest buildings to",
    "prompt": "Close-up of an old unreinforced brick wall, crumbling mortar, a crack running through it",
    "start": 522.48,
@@ -1273,7 +1277,7 @@
   },
   {
    "id": "s080b",
-   "src": "assets/shots/s080.png",
+   "src": "assets/shots/s080.jpg",
    "anchor": "The hardest buildings to",
    "prompt": "Close-up of an old unreinforced brick wall, crumbling mortar, a crack running through it",
    "start": 527.72,
@@ -1285,7 +1289,7 @@
   },
   {
    "id": "s081a",
-   "src": "assets/shots/s081.png",
+   "src": "assets/shots/s081.jpg",
    "anchor": "Portland has the biggest",
    "prompt": "A city street lined with old brick buildings, a streetcar, overcast",
    "aspect": "3:1 panorama, 3240x1080",
@@ -1297,7 +1301,7 @@
   },
   {
    "id": "s081b",
-   "src": "assets/shots/s081.png",
+   "src": "assets/shots/s081.jpg",
    "anchor": "Portland has the biggest",
    "prompt": "A city street lined with old brick buildings, a streetcar, overcast",
    "aspect": "3:1 panorama, 3240x1080",
@@ -1310,7 +1314,7 @@
   },
   {
    "id": "s082",
-   "src": "assets/shots/s082.png",
+   "src": "assets/shots/s082.jpg",
    "anchor": "So: a fault that",
    "prompt": "Wide view of a coastline with a town, and a faint rust-red line glowing offshore under the sea",
    "move": "pull_out",
@@ -1354,7 +1358,7 @@
   },
   {
    "id": "s084a",
-   "src": "assets/shots/s084.png",
+   "src": "assets/shots/s084.jpg",
    "anchor": "And here's the one",
    "prompt": "A person at a kitchen table looking at a phone showing a simple route map, no text",
    "start": 559.501,
@@ -1365,7 +1369,7 @@
   },
   {
    "id": "s084b",
-   "src": "assets/shots/s084.png",
+   "src": "assets/shots/s084.jpg",
    "anchor": "And here's the one",
    "prompt": "A person at a kitchen table looking at a phone showing a simple route map, no text",
    "start": 563.594,
