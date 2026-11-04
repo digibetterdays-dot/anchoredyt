@@ -1,0 +1,146 @@
+# Cascadia voiceover script
+
+Read calmly and factually. No fear in the cold open; tension only from Chapter 4. Pause about 1.5 s at each chapter break (where the chapter cards go), and about 0.4 s before each reveal.
+
+## Cold open
+
+It's an ordinary morning in the Pacific Northwest. Ferries are crossing. Kids are heading to school.
+
+And then the ground starts to move. It doesn't stop in a few seconds. It keeps going.
+
+This is what scientists call a Cascadia earthquake. And it isn't science fiction. It has happened before.
+
+Most videos on this stop at the shaking. But one of the things that turns a disaster into a months-long crisis isn't the shaking, or even the wave. It's a trap, one sentence from an Oregon transportation official, and I'll show you exactly where it hides, later in this video.
+
+
+## Chapter 1: The fault
+
+Just off the coast, a piece of the Pacific sea floor, the Juan de Fuca plate, is slowly sliding under North America. Where they meet is called the Cascadia subduction zone.
+
+NOAA puts it at about 700 miles long, running from Cape Mendocino in Northern California to northern Vancouver Island in Canada, mostly offshore.
+
+The plates don't slide smoothly. They stick, and pressure builds. Eventually the stuck section lets go, all at once, and that's the earthquake.
+
+
+## Chapter 2: The proof
+
+How do we know it's happened? Because of a tsunami that struck Japan with no earthquake to explain it.
+
+In January of the year 1700, a wave about six to ten feet high hit Japan's Honshu coast. Nobody there felt any shaking. Japanese records called it the "orphan tsunami", a wave with no parent earthquake.
+
+Researchers later connected it to Cascadia, and used those records, and how long a wave takes to cross the Pacific, to pin the quake to the night of January 26th, at about nine o'clock. It's estimated at about magnitude 9.
+
+And it's not a one-off. According to NOAA, geologic evidence shows more than 40 earthquakes above magnitude 8 along this zone over the last 10,000 years.
+
+
+## Chapter 2b: The land itself remembers
+
+The land itself keeps a record. In the 1980s and 1990s, scientists doing fieldwork found evidence that coastal land in the Northwest had dropped suddenly in the past, and was then flooded by tsunami waves and mud.
+
+That's what happens when a stuck plate lets go: the coast can sink in an instant.
+
+
+## Chapter 3: The odds
+
+So how likely is it? Here's the careful answer.
+
+A recent USGS fact sheet puts the chance of a roughly magnitude 9 earthquake along the whole zone at about 10 to 15 percent over the next 50 years. About 10 percent if you assume earthquakes happen at random, and about 15 percent if you factor in that the last big one was in 1700.
+
+You'll see higher numbers, like one in three, in older work. Those cover a broader group of large earthquakes, not just a full magnitude 9 rupture. They're not the same question.
+
+What does that mean? Not tomorrow, and not "overdue". Just a real, serious chance in the lifetime of a child born today.
+
+
+## Chapter 4: The shaking
+
+Now, back to our morning. What would the shaking feel like?
+
+The last one struck around nine o'clock on a late January night in 1700. The authors of Oregon's own resilience plan point out the next one could just as easily shake a mid-July morning, with hundreds of thousands of Oregonians and visitors at the coast. No one can predict it.
+
+The key difference from a typical California quake is how long it lasts. State geologists in Oregon have said shaking could last several minutes. Some of their briefings have said three to five.
+
+Several minutes. That's long enough to be frightening, long enough to damage buildings, and long enough that you'd want to know exactly what to do.
+
+
+## Chapter 5: Early warning
+
+Could your phone warn you first? Sometimes, yes. There's a system called ShakeAlert, run by the USGS.
+
+It doesn't predict earthquakes. It detects one that has already started, and works out where it is and how big, within seconds. Then it sends an alert, and the alert travels almost instantly, much faster than the shaking itself, which moves at just a few kilometers per second.
+
+That's a gap measured in seconds, and seconds are enough to Drop, Cover, and Hold On, or to let automated systems act. The USGS lists California, Oregon, and Washington as covered states.
+
+But there's an honest limit. For every earthquake, there's a zone near the epicenter where the alert arrives after the shaking has started. People close to it may get little or no warning.
+
+
+## Chapter 6: The wave
+
+Here's where the coast is different from everywhere else.
+
+Right after the shaking stops, a tsunami heads for the shore. Estimates for the Oregon coast range from roughly 10 to 30 minutes after the shaking begins, depending on the source and the place.
+
+In Washington, a state assessment of the outer coast, built on walk-time estimates for a magnitude 9 quake, found that people may have only 10 to 15 minutes once the ground stops shaking to reach high ground.
+
+And here's the problem. Along many parts of Washington's outer coast, the same assessment says it can take an hour or more to walk to high ground, or out of the tsunami zone. Ten to fifteen minutes of warning, an hour of walking.
+
+Take the city of Seaside, Oregon. The resilience plan cites a study finding that 83 percent of its population, 89 percent of its employees, and almost all of its critical facilities sit inside the tsunami zone.
+
+And in some places, there isn't any high ground close enough. So Washington has started building towers. In 2016, a school near Westport called Ocosta Elementary unveiled the first tsunami vertical evacuation structure in North America: a place to climb, instead of somewhere to run to. The state's assessment found that dozens more are needed on the outer coast.
+
+The sources disagree a little on exact times, so treat them as a window, not a countdown. Check the evacuation map where you live.
+
+Now let's say you made it to high ground. You're alive. The shaking has stopped, the wave has passed. And this is where the trap I mentioned closes.
+
+
+## Chapter 7: After the quake
+
+Here it is. A 2019 Oregon Department of Transportation presentation put it in one sentence: you can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.
+
+Think about what that means. Most of the bridges in western Oregon are susceptible to serious damage. Oregon gets almost all of its liquid fuel from suppliers in Washington, by pipeline and river, a state that sits on the same fault. And once it arrives, the fuel is stored in a single six-mile stretch of the lower Willamette River, on riverside soil that can turn liquid when it shakes.
+
+That's why the 2013 Oregon Resilience Plan, written for the state legislature, began with a blunt finding: Oregon is far from resilient to a great Cascadia earthquake and tsunami today.
+
+Its numbers: available studies estimate deaths from 1,250 to more than 10,000, from the shaking and the tsunami combined. Tens of thousands of buildings destroyed or damaged so badly they'd need months to years of repair. Tens of thousands of households displaced. More than 30 billion dollars in losses, close to a fifth of the state's economy. And more than a million dump-truck loads of debris.
+
+And here's how long recovery would take under today's conditions. Electricity: one to three months in the Willamette Valley, three to six months on the coast. Police and fire stations in the valley: two to four months. Drinking water and sewer: one month to a year in the valley, one to three years on the coast. Hospitals: about a year and a half in the valley, and three years on the coast.
+
+The plan says businesses usually plan to survive about two weeks without essential services. Under present conditions, it warns, outages could last much longer, in some cases 18 to 36 months or more.
+
+Now compare that with what other countries did. After Japan's magnitude 9.0 earthquake in 2011, more than 90 percent of the power was back in ten days, 90 percent of phone lines in two weeks, and 90 percent of cell stations in 19 days. After Chile's magnitude 8.8 quake in 2010, 95 percent of power returned within two weeks.
+
+That gap, between months to years and days to weeks, is what Oregon's plan was written to close.
+
+
+## Chapter 8: Schools and old buildings
+
+But the story doesn't end in that trap. Here's a number that shows what's possible.
+
+In 2013, Oregon's resilience plan reported that the state's seismic grant program had retrofitted 22 schools. That sounded like a start. It was about two percent of the need the state had documented.
+
+Now compare that to 2025 testimony to the state legislature: 346 school projects awarded, close to 600 million dollars. From 22 to 346.
+
+That program, created in the 2000s, funds retrofits for critical public buildings, especially schools and emergency facilities. Sources disagree on the exact start date, so we'll leave it there.
+
+The hardest buildings to fix are unreinforced masonry: brick or block with nothing holding it together inside. They're the most vulnerable in an earthquake and among the most expensive to retrofit. Portland has the biggest concentration in the state, and in 2019 Oregon created a separate program for those non-school buildings.
+
+So: a fault that can't be stopped, and a state slowly, expensively making what's on top of it stronger.
+
+
+## Chapter 9: What you can do
+
+Which brings us to the only part of this you control.
+
+The old advice was to prepare for 72 hours. Oregon's resilience plan recommends updating that: prepare for a minimum of two weeks, and possibly more.
+
+And here's the one thing to do today, before this video ends. If you live near the coast, find your tsunami evacuation route and the nearest high ground. Open your county's evacuation map, and walk the route once.
+
+That's the difference between a window of ten minutes and a plan for it.
+
+
+## Close
+
+So, what if the Cascadia fault ruptured tomorrow? Several minutes of shaking, a wave minutes behind it, and a recovery that takes months or years.
+
+It's not a prediction. It's a risk, with a real number. And you just heard the trap. Now you know where the plan has to start.
+
+Find your route today. And tell me in the comments where you live and where your high ground is, because someone reading this might need it.
