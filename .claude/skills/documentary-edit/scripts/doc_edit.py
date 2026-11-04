@@ -16,8 +16,8 @@ import argparse, html, json, os, re, subprocess, sys
 FORMATS = {
     # max_shot: longest a single still may hold before a punch-in split
     # min_shot: shortest shot allowed (merge into neighbour if shorter)
-    "long":  {"w": 1920, "h": 1080, "max_shot": 7.0, "min_shot": 2.0, "captions": False},
-    "short": {"w": 1080, "h": 1920, "max_shot": 3.5, "min_shot": 1.2, "captions": True},
+    "long":  {"w": 1920, "h": 1080, "max_shot": 7.0, "max_card": 13.0, "min_shot": 2.0, "captions": False},
+    "short": {"w": 1080, "h": 1920, "max_shot": 3.5, "max_card": 6.0, "min_shot": 1.2, "captions": True},
 }
 MOVES = ["push_in", "pan_right", "pull_out", "pan_left", "tilt_down", "push_in", "tilt_up", "pan_right"]
 LEAD = 0.08        # cut this many seconds before the anchor word starts
@@ -107,13 +107,13 @@ def cmd_prompts(a):
            "No text, letters, logos or watermarks in any image. Leave headroom around the subject: the edit zooms and pans.", ""]
     n = 0
     for s in spec["shots"]:
-        if s.get("type", "image") != "image":
-            continue
+        if s.get("type", "image") != "image" or not s.get("prompt"):
+            continue   # cards, and shots that reuse an earlier image
         n += 1
-        out.append(f"## {s['id']} -> `{s.get('src', '')}`")
+        out.append(f"## {s['id']} -> `{s.get('src', '')}`" + (f" ({s['aspect']})" if s.get("aspect") else ""))
         out.append(f"Line: \"{s.get('anchor') or '(opening)'}...\"")
         out.append("")
-        out.append(f"Prompt: {s.get('prompt', '(write prompt)')}" + (f" {style}" if style else ""))
+        out.append(f"Prompt: {s.get('prompt', '(write prompt)')}" + (f", {style}" if style else ""))
         if s.get("video_prompt"):
             out.append(f"Optional image-to-video: {s['video_prompt']}")
         out.append("")
@@ -228,7 +228,8 @@ def cmd_plan(a):
     print(f"voice {vdur or 0:.1f}s, timeline {end_t:.1f}s, {len(segs)} segments from {len(timed)} shots")
     if durs:
         print(f"shot length: min {min(durs):.1f}s, avg {sum(durs)/len(durs):.1f}s, max {max(durs):.1f}s")
-        long_ = [s["id"] for s in segs if s["dur"] > fmt["max_shot"] + 0.5 and s.get("move") != "scan"]
+        long_ = [s["id"] for s in segs if s.get("move") != "scan" and s["dur"] > 0.5 +
+                 (fmt["max_card"] if s.get("type") == "card" else fmt["max_shot"])]
         if long_:
             print("still over max after split:", ", ".join(long_))
     for p in problems:
@@ -313,11 +314,13 @@ def cmd_build(a):
         if xf:
             js.append(f'tl.fromTo("#{cid}",{{opacity:0}},{{opacity:1,duration:{xf},ease:"power1.inOut"}},{start:.3f});')
         if scan:
-            js.append(f'tl.fromTo("#{cid}i",{{{scan[1]}:0}},{{{scan[1]}:{scan[2]:.0f},duration:{dur},ease:"sine.inOut"}},{start:.3f});')
+            a0, a1 = (scan[2], 0) if s.get("reverse") else (0, scan[2])
+            js.append(f'tl.fromTo("#{cid}i",{{{scan[1]}:{a0:.0f}}},{{{scan[1]}:{a1:.0f},duration:{dur},ease:"sine.inOut"}},{start:.3f});')
         elif s.get("type", "image") == "image":
             js.append(move_js(f"#{cid}i", s["move"], start, dur, *(s.get("focus") or [0.5, 0.5])))
         else:
             js.append(f'tl.fromTo("#{cid} .cardtxt",{{opacity:0,y:30}},{{opacity:1,y:0,duration:0.6,ease:"power2.out"}},{start + 0.15:.3f});')
+            js.append(f'tl.fromTo("#{cid} .card",{{scale:1}},{{scale:1.04,duration:{dur},ease:"none"}},{start:.3f});')
         label = s.get("label", edl["label_default"]) if s.get("type", "image") == "image" else None
         if label:
             clips.append(f'<div class="tag clip" id="{cid}tag" data-start="{s["start"]:.3f}" data-duration="{s["dur"]:.3f}" '
@@ -356,8 +359,8 @@ html,body{{width:{W}px;height:{H}px;overflow:hidden;background:#0d0f14}}
 .pic{{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}}
 .scanpic{{position:absolute;max-width:none}}
 .card{{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#0d0f14;padding:0 10%}}
-.cardtxt{{font-size:{86 if short else 72}px;line-height:1.15;text-align:center;letter-spacing:.01em}}
-.cardsub{{margin-top:28px;font:600 {34 if short else 28}px/1.3 sans-serif;color:#b9c0cc;text-align:center;letter-spacing:.08em;text-transform:uppercase}}
+.cardtxt{{font-size:{86 if short else 88}px;line-height:1.15;text-align:center;letter-spacing:.01em}}
+.cardsub{{margin-top:28px;font:600 {34 if short else 34}px/1.3 sans-serif;color:#b9c0cc;text-align:center;letter-spacing:.08em;text-transform:uppercase}}
 .tag{{position:absolute;left:{40 if short else 48}px;top:{190 if short else 40}px;font:700 {28 if short else 22}px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#e8e8e8}}
 .src{{position:absolute;right:48px;bottom:{260 if short else 40}px;font:500 {24 if short else 20}px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#d8d8d8;max-width:60%}}
 .cap{{position:absolute;left:5%;width:90%;top:{cap_top}px;text-align:center}}

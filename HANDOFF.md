@@ -19,7 +19,7 @@ Known issues: audio never listened to (frames checked only). Stills only, slow z
 ### Pipeline (5 long videos; scripts done, no visuals/voice/render yet)
 | Order | Video | Script | Narrated length | Status |
 |---|---|---|---|---|
-| 1 | Cascadia ("What If the Cascadia Fault Ruptured Tomorrow?") | `longform-scripts-yellowstone-cascadia.md` | ~11.3 min | Next: image/video prompt list |
+| 1 | Cascadia ("What If the Cascadia Fault Ruptured Tomorrow?") | `longform-scripts-yellowstone-cascadia.md` | ~11.3 min | Shot list + 85 image prompts done (`clips/cascadia/`); waiting on owner stills and 5 fact checks; see `clips/cascadia/NOTES.md` |
 | 2 | Yellowstone ("If Yellowstone Erupted Tomorrow, This Is What Happens") | same file | ~7.8 min | Queued |
 | 3 | Eggs ("Why Americans Refrigerate Eggs (and Brits Don't)") | `longform-scripts-eggs-911-asteroid.md` | ~5.4 min | Queued |
 | 4 | 911 ("Why 911 Is the Emergency Number") | same file | ~4.2 min | Queued |
@@ -59,7 +59,7 @@ Still open: Haleyville names/spellings, 1967 commission, FCC report, USDA washin
 Never say: "overdue", per-year Yellowstone odds, single Cascadia death figure, "I-5 corridor", "from behind" (stop sign), "1.24x peripheral vision" (bus), rotary-dial 911 explanations, UK egg case counts, inventor/year for ambulance lettering.
 
 ## Next steps
-1. Cascadia: write shot-by-shot image + video prompt list (same format as `clips/PROMPTS-stop-sign-and-school-bus.md`), owner generates stills, then voice + build + render.
+1. Cascadia: owner generates the stills in `clips/cascadia/PROMPTS.md`; clear the 5 on-screen fact checks in `clips/cascadia/NOTES.md`; record voice; then run the `documentary-edit` skill steps 2-5.
 2. Repeat for Yellowstone, eggs, 911.
 3. Asteroid: get the three decisions first.
 4. Optional: replace smooth-style shots, swap in real image-to-video clips, listen to all audio, upload package (titles, descriptions, tags, pinned comments, sources).

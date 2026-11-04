@@ -15,6 +15,8 @@ These are the rules `doc_edit.py plan` encodes, plus the ones that need judgment
 | Hard max on one framing | 7 s | 3.5 s |
 | Hook (first 15 s / first 3 s) | 2-3 s | 1-1.5 s |
 
+Cards (chapter titles, figures) may hold up to 13 s long-form / 6 s Shorts while the sentence explaining the figure plays; they drift slowly so the frame never freezes. Past that, follow the card with an image.
+
 A still held past the max gets a **punch-in**: same image, cut to a tighter crop (scale ~1.35) on a phrase break. That reads as a new shot without needing new art. More than two punch-ins on one image means the shot list needs another image.
 
 ## 3. Camera moves on stills

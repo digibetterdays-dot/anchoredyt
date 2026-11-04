@@ -1,0 +1,824 @@
+{
+ "title": "What If the Cascadia Fault Ruptured Tomorrow?",
+ "format": "long",
+ "voice": "assets/audio/voice.wav",
+ "music": "assets/audio/music.mp3",
+ "style": "layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark",
+ "label": "Illustration",
+ "shots": [
+  {
+   "id": "s001",
+   "src": "assets/shots/s001.png",
+   "anchor": "",
+   "prompt": "Calm Pacific Northwest morning: fog lying on a wide sound, a large white car ferry crossing calm grey water, evergreen hills, soft dawn light",
+   "move": "push_in"
+  },
+  {
+   "id": "s003",
+   "src": "assets/shots/s003.png",
+   "anchor": "Kids are heading to",
+   "prompt": "Children with backpacks walking along a wet suburban sidewalk toward a yellow school bus, tall fir trees, drizzle"
+  },
+  {
+   "id": "s004",
+   "src": "assets/shots/s004.png",
+   "anchor": "And then the ground",
+   "prompt": "Close-up of a coffee cup on a cafe table by a rainy window, rings of ripples spreading across the coffee",
+   "emphasis": true
+  },
+  {
+   "id": "s005",
+   "src": "assets/shots/s005.png",
+   "anchor": "It doesn't stop in",
+   "prompt": "A residential street with power lines swinging, trees bending, people crouching on the sidewalk, parked cars tilted"
+  },
+  {
+   "id": "s006",
+   "src": "assets/shots/s006.png",
+   "anchor": "This is what scientists",
+   "prompt": "A seismograph drum with a needle drawing very large waves on paper, close-up, no numbers or writing"
+  },
+  {
+   "id": "s007",
+   "src": "assets/shots/s007.png",
+   "anchor": "And it isn't science",
+   "prompt": "A wild coastline at night centuries ago: ancient cedar forest, moonlight on the sea, no buildings"
+  },
+  {
+   "id": "s008",
+   "src": "assets/shots/s008.png",
+   "anchor": "Most videos on this",
+   "prompt": "A highway split by a long crack, a few stopped cars, grey sky"
+  },
+  {
+   "id": "s009",
+   "src": "assets/shots/s009.png",
+   "anchor": "It's a trap, one",
+   "prompt": "A highway bridge over a river broken in the middle at dusk, a fuel tanker truck stopped before the gap",
+   "emphasis": true
+  },
+  {
+   "id": "c01",
+   "type": "card",
+   "anchor": "Just off the coast,",
+   "text": "Chapter 1",
+   "sub": "The fault",
+   "section_start": true
+  },
+  {
+   "id": "s010",
+   "src": "assets/shots/s010.png",
+   "anchor": "is slowly sliding under",
+   "prompt": "Cross-section of the earth like stacked paper layers: an ocean plate sliding beneath a continental plate, sea above, mountains on the land side, no labels",
+   "label": null
+  },
+  {
+   "id": "s011",
+   "src": "assets/shots/s011.png",
+   "anchor": "Where they meet is",
+   "prompt": "View from above of a rugged forested coastline with a long dark undersea trench running parallel offshore",
+   "label": null
+  },
+  {
+   "id": "c02",
+   "type": "card",
+   "anchor": "NOAA puts it at",
+   "text": "About 700 miles long",
+   "sub": "Cascadia subduction zone · NOAA"
+  },
+  {
+   "id": "s012",
+   "src": "assets/shots/s012.png",
+   "anchor": "running from Cape Mendocino",
+   "prompt": "Simplified map-like illustration of the North American west coast from northern California (bottom of frame) up to Vancouver Island (top of frame), north at the top, land in sage green, sea in slate blue, a thin rust-red line just offshore along the whole length, no labels or text",
+   "aspect": "9:16 tall map, 1080x1920, north at the top",
+   "reverse": true,
+   "source": "NOAA",
+   "label": null
+  },
+  {
+   "id": "s013",
+   "src": "assets/shots/s013.png",
+   "anchor": "The plates don't slide",
+   "prompt": "Close-up cross-section: two rough paper layers pressed hard together at an angle, the upper one bending and buckling",
+   "label": null
+  },
+  {
+   "id": "s014",
+   "src": "assets/shots/s014.png",
+   "anchor": "They stick, and pressure",
+   "prompt": "Cross-section: the edge of the upper plate bulging upward like a bent ruler, compressed layers, a faint glow of stress",
+   "label": null
+  },
+  {
+   "id": "s015",
+   "src": "assets/shots/s015.png",
+   "anchor": "Eventually the stuck section",
+   "prompt": "Cross-section: the bent plate edge snapping free, the sea floor lurching up, a dome of water lifting above it",
+   "emphasis": true,
+   "label": null
+  },
+  {
+   "id": "c03",
+   "type": "card",
+   "anchor": "How do we know",
+   "text": "January 1700",
+   "sub": "The proof",
+   "section_start": true
+  },
+  {
+   "id": "s016",
+   "src": "assets/shots/s016.png",
+   "anchor": "Because of a tsunami",
+   "prompt": "A Japanese coastal fishing village around the year 1700: wooden houses with thatched roofs, small boats pulled up on the beach, calm evening"
+  },
+  {
+   "id": "s017",
+   "src": "assets/shots/s017.png",
+   "anchor": "In January of the",
+   "prompt": "A wave about two to three metres high washing over the beach and into rice fields of an Edo-period village, villagers watching safely from a hillside"
+  },
+  {
+   "id": "s018",
+   "src": "assets/shots/s018.png",
+   "anchor": "Nobody there felt any",
+   "prompt": "Edo-period villagers holding lanterns, looking out at a calm sea in puzzlement, still night"
+  },
+  {
+   "id": "s019",
+   "src": "assets/shots/s019.png",
+   "anchor": "Japanese records called it",
+   "prompt": "A closed paper scroll tied with cord beside an ink stone and brush on a low wooden desk, warm lamp light, no visible writing"
+  },
+  {
+   "id": "s020",
+   "src": "assets/shots/s020.png",
+   "anchor": "Researchers later connected it",
+   "prompt": "Stylized view of the whole Pacific Ocean, Japan at the far left and the North American coast at the far right, a single thin wave arc travelling across the water from right to left, no labels",
+   "aspect": "3:1 panorama, 3240x1080, Japan left, America right",
+   "reverse": true,
+   "label": null
+  },
+  {
+   "id": "s021",
+   "src": "assets/shots/s021.png",
+   "anchor": "to pin the quake",
+   "prompt": "The Pacific Northwest coast on a winter night in 1700: moonlit cedar forest at the shoreline, the sea pulling back from the beach"
+  },
+  {
+   "id": "c04",
+   "type": "card",
+   "anchor": "It's estimated at about",
+   "text": "About magnitude 9",
+   "sub": "January 26, 1700, about 9 p.m."
+  },
+  {
+   "id": "s022",
+   "src": "assets/shots/s022.png",
+   "anchor": "And it's not a",
+   "prompt": "Cross-section of coastal ground showing many alternating bands of dark soil and pale sand, like pages of a book",
+   "label": null
+  },
+  {
+   "id": "c05",
+   "type": "card",
+   "anchor": "According to NOAA, geologic",
+   "text": "More than 40",
+   "sub": "earthquakes above magnitude 8 in the last 10,000 years · NOAA"
+  },
+  {
+   "id": "s023",
+   "src": "assets/shots/s023.png",
+   "anchor": "The land itself keeps",
+   "prompt": "A Pacific Northwest tidal marsh at low tide, winding channels, grasses, grey sky",
+   "section_start": true
+  },
+  {
+   "id": "s024",
+   "src": "assets/shots/s024.png",
+   "anchor": "In the 1980s and",
+   "prompt": "Two field scientists kneeling at a muddy riverbank, cutting a clean face into the layered bank with a spade, notebook on the ground, no writing visible"
+  },
+  {
+   "id": "s025",
+   "src": "assets/shots/s025.png",
+   "anchor": "coastal land in the",
+   "prompt": "Cross-section of a riverbank: a dark buried soil layer, covered by a pale sand layer, then grey mud on top",
+   "move": "tilt_down",
+   "label": null
+  },
+  {
+   "id": "s026",
+   "src": "assets/shots/s026.png",
+   "anchor": "That's what happens when",
+   "prompt": "A coastal meadow suddenly flooded by the sea, water spreading between fence posts, no dead trees"
+  },
+  {
+   "id": "c06",
+   "type": "card",
+   "anchor": "So how likely is",
+   "text": "Chapter 3",
+   "sub": "The odds",
+   "section_start": true
+  },
+  {
+   "id": "c07",
+   "type": "card",
+   "anchor": "A recent USGS fact",
+   "text": "10 to 15%",
+   "sub": "chance of a ~magnitude 9 on the whole zone in the next 50 years · USGS"
+  },
+  {
+   "id": "s027",
+   "src": "assets/shots/s027.png",
+   "anchor": "About 10 percent if",
+   "prompt": "Two paper-cut dice tumbling in mid-air above a wooden table, soft light"
+  },
+  {
+   "id": "s028",
+   "src": "assets/shots/s028.png",
+   "anchor": "and about 15 percent",
+   "prompt": "An hourglass with sand running, a quiet coastline visible through the window behind it"
+  },
+  {
+   "id": "s029",
+   "src": "assets/shots/s029.png",
+   "anchor": "You'll see higher numbers,",
+   "prompt": "A stack of old research reports and binders on a desk, a desk lamp, no readable text"
+  },
+  {
+   "id": "c08",
+   "type": "card",
+   "anchor": "Those cover a broader",
+   "text": "Not the same question",
+   "sub": "older one-in-three figures cover a broader group of large earthquakes"
+  },
+  {
+   "id": "s030",
+   "src": "assets/shots/s030.png",
+   "anchor": "What does that mean?",
+   "prompt": "A newborn baby's hand holding a parent's finger, soft window light"
+  },
+  {
+   "id": "s031",
+   "src": "assets/shots/s031.png",
+   "anchor": "Just a real, serious",
+   "prompt": "A small child and a parent walking on a Pacific Northwest beach, looking out at the ocean, sea stacks in the distance"
+  },
+  {
+   "id": "c09",
+   "type": "card",
+   "anchor": "Now, back to our",
+   "text": "Chapter 4",
+   "sub": "The shaking",
+   "section_start": true
+  },
+  {
+   "id": "s032",
+   "src": "assets/shots/s032.png",
+   "anchor": "What would the shaking",
+   "prompt": "An open-plan office during an earthquake: ceiling lights swinging, monitors sliding, workers taking cover under desks"
+  },
+  {
+   "id": "s033",
+   "src": "assets/shots/s021.png",
+   "anchor": "The last one struck",
+   "note": "reuses s021 (1700 night coast)"
+  },
+  {
+   "id": "s034",
+   "src": "assets/shots/s034.png",
+   "anchor": "The authors of Oregon's",
+   "prompt": "A busy Oregon beach town on a sunny July morning: families on the sand, kites, a boardwalk, a headland in the distance"
+  },
+  {
+   "id": "s035",
+   "src": "assets/shots/s035.png",
+   "anchor": "No one can predict",
+   "prompt": "The same kind of sunny beach, people looking up as a flock of seabirds suddenly scatters into the sky"
+  },
+  {
+   "id": "s036",
+   "src": "assets/shots/s036.png",
+   "anchor": "The key difference from",
+   "prompt": "A very long ribbon of seismograph paper unrolled across a table, the trace going on and on in big waves from left to right, no numbers",
+   "aspect": "3:1 panorama, 3240x1080",
+   "label": null
+  },
+  {
+   "id": "s037",
+   "src": "assets/shots/s037.png",
+   "anchor": "State geologists in Oregon",
+   "prompt": "Geologists in a briefing room, one pointing at a large projected map of a coastline, no readable text"
+  },
+  {
+   "id": "c10",
+   "type": "card",
+   "anchor": "Some of their briefings",
+   "text": "Several minutes",
+   "sub": "Oregon state geologists; some briefings: three to five"
+  },
+  {
+   "id": "s038",
+   "src": "assets/shots/s038.png",
+   "anchor": "Several minutes. That's long",
+   "prompt": "A living room shaking: a bookshelf toppling, a lamp falling, cracks in the wall, a family sheltering under a sturdy table"
+  },
+  {
+   "id": "s040",
+   "src": "assets/shots/s040.png",
+   "anchor": "and long enough that",
+   "prompt": "A person in the Drop, Cover and Hold On position under a sturdy wooden table, holding a table leg"
+  },
+  {
+   "id": "c11",
+   "type": "card",
+   "anchor": "Could your phone warn",
+   "text": "Chapter 5",
+   "sub": "What early warning can and can't do",
+   "section_start": true
+  },
+  {
+   "id": "s041",
+   "src": "assets/shots/s041.png",
+   "anchor": "There's a system called",
+   "prompt": "A small seismic sensor station in a forest clearing: a metal box, a solar panel and a short mast, ferns around it"
+  },
+  {
+   "id": "s042",
+   "src": "assets/shots/s042.png",
+   "anchor": "It doesn't predict earthquakes.",
+   "prompt": "Map-like view of a region at night with many glowing sensor dots linked by thin lines of light, no labels",
+   "label": null
+  },
+  {
+   "id": "s043",
+   "src": "assets/shots/s043.png",
+   "anchor": "Then it sends an",
+   "prompt": "A smartphone on a kitchen counter lighting up with a bright alert, blank glowing screen, no text, morning light"
+  },
+  {
+   "id": "s044",
+   "src": "assets/shots/s044.png",
+   "anchor": "much faster than the",
+   "prompt": "A landscape where a thin bright pulse of light races across the sky far ahead of a slow rolling wave in the ground, left to right",
+   "aspect": "3:1 panorama, 3240x1080"
+  },
+  {
+   "id": "s045",
+   "src": "assets/shots/s045.png",
+   "anchor": "That's a gap measured",
+   "prompt": "A classroom of children ducking under their desks in an earthquake drill, a teacher crouching with them"
+  },
+  {
+   "id": "s046",
+   "src": "assets/shots/s046.png",
+   "anchor": "or to let automated",
+   "prompt": "A commuter train braking on an elevated track, sparks at the wheels, traffic lights below turning red"
+  },
+  {
+   "id": "s047",
+   "src": "assets/shots/s047.png",
+   "anchor": "The USGS lists California,",
+   "prompt": "Simplified map of the US west coast states (California, Oregon, Washington) in a warm highlight colour, the rest of the continent pale, no labels or text",
+   "aspect": "9:16 tall map, 1080x1920",
+   "source": "USGS",
+   "label": null
+  },
+  {
+   "id": "s048",
+   "src": "assets/shots/s048.png",
+   "anchor": "But there's an honest",
+   "prompt": "Map-like view of a coast with concentric rings spreading from an offshore point, the innermost ring filled rust-red, no labels",
+   "emphasis": true,
+   "label": null
+  },
+  {
+   "id": "s049",
+   "src": "assets/shots/s049.png",
+   "anchor": "People close to it",
+   "prompt": "A coastal town street right by the sea, shelves already falling inside a shop as a phone lights up on the counter"
+  },
+  {
+   "id": "c12",
+   "type": "card",
+   "anchor": "Here's where the coast",
+   "text": "Chapter 6",
+   "sub": "The wave",
+   "section_start": true
+  },
+  {
+   "id": "s050",
+   "src": "assets/shots/s050.png",
+   "anchor": "Right after the shaking",
+   "prompt": "The ocean pulling back from a beach, exposing wet sea floor, small boats left sitting on the sand"
+  },
+  {
+   "id": "c13",
+   "type": "card",
+   "anchor": "Estimates for the Oregon",
+   "text": "10 to 30 minutes",
+   "sub": "Oregon coast estimates, counted from when shaking begins"
+  },
+  {
+   "id": "s051",
+   "src": "assets/shots/s051.png",
+   "anchor": "In Washington, a state",
+   "prompt": "The low, flat outer coast of Washington: dunes, a small town of low houses, no hills nearby, overcast"
+  },
+  {
+   "id": "c14",
+   "type": "card",
+   "anchor": "found that people may",
+   "text": "10 to 15 minutes",
+   "sub": "Washington outer coast, counted from when shaking stops"
+  },
+  {
+   "id": "s052",
+   "src": "assets/shots/s052.png",
+   "anchor": "And here's the problem.",
+   "prompt": "A long straight road through flat coastal lowland, a family walking along it, hills very far away on the horizon",
+   "aspect": "3:1 panorama, 3240x1080"
+  },
+  {
+   "id": "c15",
+   "type": "card",
+   "anchor": "Along many parts of",
+   "text": "An hour or more",
+   "sub": "to walk to high ground in parts of Washington's outer coast"
+  },
+  {
+   "id": "s053",
+   "src": "assets/shots/s053.png",
+   "anchor": "of warning, an hour",
+   "prompt": "A family walking fast on an empty coastal road, looking back over their shoulders at the sea",
+   "emphasis": true
+  },
+  {
+   "id": "s054",
+   "src": "assets/shots/s054.png",
+   "anchor": "Take the city of",
+   "prompt": "A small Oregon beach town: a seaside promenade, low buildings, a river mouth and a wide beach, seen from above"
+  },
+  {
+   "id": "c16",
+   "type": "card",
+   "anchor": "The resilience plan cites",
+   "text": "83%",
+   "sub": "of Seaside's population lives inside the tsunami zone · Oregon Resilience Plan"
+  },
+  {
+   "id": "s055",
+   "src": "assets/shots/s055.png",
+   "anchor": "And in some places,",
+   "prompt": "A long flat sandy peninsula with ocean on both sides and no high ground anywhere, seen from above",
+   "label": null
+  },
+  {
+   "id": "s056",
+   "src": "assets/shots/s056.png",
+   "anchor": "So Washington has started",
+   "prompt": "A tall concrete tsunami refuge tower with railings and stairs rising above a flat coastal landscape"
+  },
+  {
+   "id": "s057",
+   "src": "assets/shots/s057.png",
+   "anchor": "a school near Westport",
+   "prompt": "A one-storey elementary school on a flat coast with a raised, reinforced rooftop refuge platform above the gym"
+  },
+  {
+   "id": "s058",
+   "src": "assets/shots/s058.png",
+   "anchor": "a place to climb,",
+   "prompt": "Teachers leading a line of children calmly up wide stairs to a rooftop refuge during a drill"
+  },
+  {
+   "id": "s059",
+   "src": "assets/shots/s059.png",
+   "anchor": "The state's assessment found",
+   "prompt": "A long flat coastline seen from above, with a few small refuge towers spaced far apart along it",
+   "aspect": "3:1 panorama, 3240x1080",
+   "label": null
+  },
+  {
+   "id": "s060",
+   "src": "assets/shots/s060.png",
+   "anchor": "The sources disagree a",
+   "prompt": "A blue and white route sign shaped like a curving arrow on a post, pointing uphill along a road, no letters"
+  },
+  {
+   "id": "s061",
+   "src": "assets/shots/s061.png",
+   "anchor": "Check the evacuation map",
+   "prompt": "A hand holding a phone showing a simple map with a highlighted route uphill, no text"
+  },
+  {
+   "id": "s062",
+   "src": "assets/shots/s062.png",
+   "anchor": "Now let's say you",
+   "prompt": "People standing on a forested hilltop at dusk, looking down at flooded lowland, calm and quiet"
+  },
+  {
+   "id": "s063",
+   "src": "assets/shots/s009.png",
+   "anchor": "And this is where",
+   "emphasis": true,
+   "note": "reuses s009 (the trap callback)"
+  },
+  {
+   "id": "c17",
+   "type": "card",
+   "anchor": "Here it is. A",
+   "text": "Chapter 7",
+   "sub": "The trap",
+   "section_start": true
+  },
+  {
+   "id": "c18",
+   "type": "card",
+   "anchor": "you can't get fuel",
+   "text": "You can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.",
+   "sub": "ODOT presentation, 2019",
+   "needs_verify": "quote wording (HANDOFF: VERIFY)"
+  },
+  {
+   "id": "s064",
+   "src": "assets/shots/s064.png",
+   "anchor": "Think about what that",
+   "prompt": "A fuel tanker truck stopped at a collapsed bridge approach, the road ending in a gap over a river"
+  },
+  {
+   "id": "s065",
+   "src": "assets/shots/s065.png",
+   "anchor": "Most of the bridges",
+   "prompt": "A river valley with several road bridges, some cracked and sagging, morning mist"
+  },
+  {
+   "id": "s066",
+   "src": "assets/shots/s066.png",
+   "anchor": "Oregon gets almost all",
+   "prompt": "A fuel pipeline running across green countryside toward a river with a tanker barge on it"
+  },
+  {
+   "id": "s067",
+   "src": "assets/shots/s067.png",
+   "anchor": "a state that sits",
+   "prompt": "A shoreline fuel terminal with storage tanks and a dock, evergreen hills behind"
+  },
+  {
+   "id": "s068",
+   "src": "assets/shots/s068.png",
+   "anchor": "And once it arrives,",
+   "prompt": "A long row of large white fuel storage tanks along a riverbank, stretching into the distance",
+   "aspect": "3:1 panorama, 3240x1080"
+  },
+  {
+   "id": "s069",
+   "src": "assets/shots/s069.png",
+   "anchor": "on riverside soil that",
+   "prompt": "Ground near a riverbank turning to wet mud, sand boils bubbling up, a storage tank beginning to tilt",
+   "emphasis": true
+  },
+  {
+   "id": "s070",
+   "src": "assets/shots/s070.png",
+   "anchor": "That's why the 2013",
+   "prompt": "An empty state legislature chamber: rows of wooden desks, tall windows, flags without symbols"
+  },
+  {
+   "id": "c19",
+   "type": "card",
+   "anchor": "Oregon is far from",
+   "text": "Far from resilient",
+   "sub": "Oregon Resilience Plan, 2013"
+  },
+  {
+   "id": "c20",
+   "type": "card",
+   "anchor": "Its numbers: available studies",
+   "text": "1,250 to more than 10,000",
+   "sub": "estimated deaths, shaking and tsunami combined · Oregon Resilience Plan (2013)"
+  },
+  {
+   "id": "s071",
+   "src": "assets/shots/s071.png",
+   "anchor": "Tens of thousands of buildings",
+   "prompt": "A residential block of damaged houses: collapsed porches, chimneys down, crooked walls, no people hurt"
+  },
+  {
+   "id": "s072",
+   "src": "assets/shots/s072.png",
+   "anchor": "Tens of thousands of households",
+   "prompt": "A school gym turned into a shelter: rows of cots, families with suitcases, volunteers"
+  },
+  {
+   "id": "c21",
+   "type": "card",
+   "anchor": "More than 30 billion",
+   "text": "More than $30 billion",
+   "sub": "in losses, close to a fifth of the state's economy"
+  },
+  {
+   "id": "s073",
+   "src": "assets/shots/s073.png",
+   "anchor": "And more than a",
+   "prompt": "Mountains of debris with a long line of dump trucks waiting beside them"
+  },
+  {
+   "id": "s074",
+   "src": "assets/shots/s074.png",
+   "anchor": "And here's how long",
+   "prompt": "A town at night with power lines down and every window dark, a single flashlight beam"
+  },
+  {
+   "id": "c22",
+   "type": "card",
+   "anchor": "Electricity: one to three",
+   "text": "Electricity",
+   "sub": "1–3 months in the Willamette Valley · 3–6 months on the coast"
+  },
+  {
+   "id": "c23",
+   "type": "card",
+   "anchor": "Police and fire stations",
+   "text": "Police and fire stations",
+   "sub": "2–4 months in the valley"
+  },
+  {
+   "id": "c24",
+   "type": "card",
+   "anchor": "Drinking water and sewer",
+   "text": "Drinking water and sewer",
+   "sub": "1 month to 1 year in the valley · 1–3 years on the coast"
+  },
+  {
+   "id": "c25",
+   "type": "card",
+   "anchor": "Hospitals: about a year",
+   "text": "Hospitals",
+   "sub": "about 1.5 years in the valley · 3 years on the coast"
+  },
+  {
+   "id": "s075",
+   "src": "assets/shots/s075.png",
+   "anchor": "The plan says businesses",
+   "prompt": "A small shop owner standing in a dark store holding a flashlight, shelves stocked but no power"
+  },
+  {
+   "id": "c26",
+   "type": "card",
+   "anchor": "in some cases 18",
+   "text": "18 to 36 months or more",
+   "sub": "possible outages under present conditions · Oregon Resilience Plan"
+  },
+  {
+   "id": "s076",
+   "src": "assets/shots/s076.png",
+   "anchor": "Now compare that with",
+   "prompt": "A Japanese city at night, line crews on bucket trucks, lights coming back on block by block"
+  },
+  {
+   "id": "c27",
+   "type": "card",
+   "anchor": "more than 90 percent",
+   "text": "90% of power back in 10 days",
+   "sub": "Japan, after the 2011 magnitude 9.0 earthquake"
+  },
+  {
+   "id": "s077",
+   "src": "assets/shots/s077.png",
+   "anchor": "After Chile's magnitude 8.8",
+   "prompt": "A Chilean coastal town street in sunshine, workers repairing power lines, people walking"
+  },
+  {
+   "id": "c28",
+   "type": "card",
+   "anchor": "That gap, between months",
+   "text": "Months to years vs. days to weeks"
+  },
+  {
+   "id": "c29",
+   "type": "card",
+   "anchor": "But the story doesn't",
+   "text": "Chapter 8",
+   "sub": "Schools and old buildings",
+   "section_start": true
+  },
+  {
+   "id": "s078",
+   "src": "assets/shots/s078.png",
+   "anchor": "Here's a number that",
+   "prompt": "An older two-storey brick school building on a grey morning, children's bicycles outside"
+  },
+  {
+   "id": "c30",
+   "type": "card",
+   "anchor": "In 2013, Oregon's resilience",
+   "text": "22 schools",
+   "sub": "retrofitted by 2013, about 2% of the documented need",
+   "needs_verify": "22 schools / 2% (HANDOFF: VERIFY)"
+  },
+  {
+   "id": "s078b",
+   "src": "assets/shots/s078b.png",
+   "anchor": "That sounded like a",
+   "prompt": "A grid of many small paper-cut school buildings seen from above, only two or three of them glowing warm, the rest grey",
+   "label": null
+  },
+  {
+   "id": "c31",
+   "type": "card",
+   "anchor": "Now compare that to",
+   "text": "346 school projects",
+   "sub": "awarded by 2025, close to $600 million",
+   "needs_verify": "346 / ~$597M (HANDOFF: VERIFY)"
+  },
+  {
+   "id": "s079",
+   "src": "assets/shots/s079.png",
+   "anchor": "That program, created in",
+   "prompt": "Construction workers bolting steel cross-braces to the walls inside a school gym"
+  },
+  {
+   "id": "s080",
+   "src": "assets/shots/s080.png",
+   "anchor": "The hardest buildings to",
+   "prompt": "Close-up of an old unreinforced brick wall, crumbling mortar, a crack running through it"
+  },
+  {
+   "id": "s081",
+   "src": "assets/shots/s081.png",
+   "anchor": "Portland has the biggest",
+   "prompt": "A city street lined with old brick buildings, a streetcar, overcast",
+   "aspect": "3:1 panorama, 3240x1080"
+  },
+  {
+   "id": "s082",
+   "src": "assets/shots/s082.png",
+   "anchor": "So: a fault that",
+   "prompt": "Wide view of a coastline with a town, and a faint rust-red line glowing offshore under the sea",
+   "move": "pull_out"
+  },
+  {
+   "id": "c32",
+   "type": "card",
+   "anchor": "Which brings us to",
+   "text": "Chapter 9",
+   "sub": "What you can do",
+   "section_start": true
+  },
+  {
+   "id": "s083",
+   "src": "assets/shots/s083.png",
+   "anchor": "The old advice was",
+   "prompt": "An emergency kit laid out on a table: water jugs, a flashlight, canned food, a radio, a first-aid box, no labels"
+  },
+  {
+   "id": "c33",
+   "type": "card",
+   "anchor": "prepare for a minimum",
+   "text": "Two weeks, at minimum",
+   "sub": "Oregon Resilience Plan recommendation",
+   "needs_verify": "current OEM wording"
+  },
+  {
+   "id": "s084",
+   "src": "assets/shots/s084.png",
+   "anchor": "And here's the one",
+   "prompt": "A person at a kitchen table looking at a phone showing a simple route map, no text"
+  },
+  {
+   "id": "s085",
+   "src": "assets/shots/s085.png",
+   "anchor": "Open your county's evacuation",
+   "prompt": "A family walking up a forest trail past a blank blue route arrow sign"
+  },
+  {
+   "id": "s086",
+   "src": "assets/shots/s086.png",
+   "anchor": "That's the difference between",
+   "prompt": "A family standing on high ground above the coast on a calm morning, looking out at the sea"
+  },
+  {
+   "id": "s087",
+   "src": "assets/shots/s001.png",
+   "anchor": "So, what if the",
+   "section_start": true,
+   "move": "pull_out",
+   "note": "reuses s001 (opening callback)"
+  },
+  {
+   "id": "s088",
+   "src": "assets/shots/s088.png",
+   "anchor": "It's not a prediction.",
+   "prompt": "A lighthouse on a headland under moving clouds, waves below"
+  },
+  {
+   "id": "s089",
+   "src": "assets/shots/s089.png",
+   "anchor": "Find your route today.",
+   "prompt": "A hiker on a ridge above the coast at sunrise, a trail marker post beside them",
+   "move": "pull_out"
+  }
+ ]
+}

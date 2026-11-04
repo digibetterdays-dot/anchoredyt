@@ -44,6 +44,8 @@ Paths are relative to the folder holding `shots.json` (the HyperFrames project).
 | `src` | image path (images) |
 | `prompt`, `video_prompt` | for the owner's prompt list |
 | `move` | `auto` (default) or one of `push_in push_fast pull_out pan_left pan_right tilt_up tilt_down hold scan` |
+| `aspect` | shown in the prompt list when the art is not the frame shape, e.g. `3:1 panorama` or `9:16 tall map`; such art gets an automatic `scan` |
+| `reverse` | `true` = scan right-to-left (or bottom-to-top) |
 | `focus` | `[x, y]` 0-1 zoom origin, default centre |
 | `emphasis` | `true` = hard push for a key line |
 | `section_start` | `true` = crossfade in (new chapter or time jump) |
