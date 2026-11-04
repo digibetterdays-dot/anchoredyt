@@ -11,7 +11,11 @@
    "src": "assets/shots/s001.png",
    "anchor": "",
    "prompt": "Calm Pacific Northwest morning: fog lying on a wide sound, a large white car ferry crossing calm grey water, evergreen hills, soft dawn light",
-   "move": "push_in"
+   "move": "push_in",
+   "focus": [
+    0.7,
+    0.62
+   ]
   },
   {
    "id": "s003",
@@ -805,7 +809,11 @@
    "anchor": "So, what if the",
    "section_start": true,
    "move": "pull_out",
-   "note": "reuses s001 (opening callback)"
+   "note": "reuses s001 (opening callback)",
+   "focus": [
+    0.7,
+    0.62
+   ]
   },
   {
    "id": "s088",
