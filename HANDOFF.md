@@ -59,6 +59,7 @@ Still open: Haleyville names/spellings, 1967 commission, FCC report, USDA washin
 Never say: "overdue", per-year Yellowstone odds, single Cascadia death figure, "I-5 corridor", "from behind" (stop sign), "1.24x peripheral vision" (bus), rotary-dial 911 explanations, UK egg case counts, inventor/year for ambulance lettering.
 
 ## Next steps
+0. Cascadia timing check (if huggingface.co is now reachable: `curl -sI https://huggingface.co`): in `clips/cascadia`, run `npx --yes hyperframes@0.9.6 transcribe assets/audio/voice.wav --model small.en --engine whisper`, save the words as `words-whisper.json`, compare anchor times against `words.json` (from script-to-pause alignment), switch to the transcript if they differ, re-run `doc_edit.py plan` + `build`, and report which cuts moved.
 1. Cascadia: owner generates the stills in `clips/cascadia/PROMPTS.md`; clear the 5 on-screen fact checks in `clips/cascadia/NOTES.md`; record voice; then run the `documentary-edit` skill steps 2-5.
 2. Repeat for Yellowstone, eggs, 911.
 3. Asteroid: get the three decisions first.
