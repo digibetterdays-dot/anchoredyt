@@ -1,6 +1,6 @@
 # Handoff: Bonus Chapter Channel (8 videos)
 
-Repo: `digibetterdays-dot/anchoredyt`, branch `claude/sharp-ride-lwydum`. Everything below is committed there. Start the new chat by telling Claude to read this file first.
+Repo: `digibetterdays-dot/anchoredyt`, branch **`claude/great-fermat-0hw2w1`** (latest; includes the older `claude/sharp-ride-lwydum` work). Everything below is committed there. Start the new chat by telling Claude to read this file first.
 
 ## Goal
 Eight faceless explainer videos for the "bonus chapter" channel, US audience: 3 Shorts and 5 long videos. Illustrated (paper-cut), free local voiceover, fact-checked scripts. Rule: illustrations are labeled "Illustration" and are never presented as archival footage.
@@ -58,8 +58,19 @@ Secondary only (web-search summaries): most USGS claims (10-15% in 50 yrs, Yello
 Still open: Haleyville names/spellings, 1967 commission, FCC report, USDA washing rule (7 CFR 56), UK law on washing, ShakeAlert Cascadia warning time (not used), ghost-forest evidence (left out, disputed), Yellowstone magma-melt percentages and YVO warning wording, Pinatubo cooling figure.
 Never say: "overdue", per-year Yellowstone odds, single Cascadia death figure, "I-5 corridor", "from behind" (stop sign), "1.24x peripheral vision" (bus), rotary-dial 911 explanations, UK egg case counts, inventor/year for ambulance lettering.
 
-## Next steps
-0. Cascadia timing check (if huggingface.co is now reachable: `curl -sI https://huggingface.co`): in `clips/cascadia`, run `npx --yes hyperframes@0.9.6 transcribe assets/audio/voice.wav --model small.en --engine whisper`, save the words as `words-whisper.json`, compare anchor times against `words.json` (from script-to-pause alignment), switch to the transcript if they differ, re-run `doc_edit.py plan` + `build`, and report which cuts moved.
+## START HERE (local session on the owner's computer, Nov 2026)
+Cascadia is moving to a session on the owner's computer because the stills are too large to upload to the cloud session. Status: voice recorded and timed, edit planned, animatic rendered and approved for review. Only the stills are missing.
+
+1. **Get the stills.** Ask the owner for the folder path. Copy each into `clips/cascadia/assets/shots/` as `sNNN.png` (convert JPG/WebP with ffmpeg; downscale anything over 2x the frame: normal stills to 1920 wide, panoramas `s020 s036 s044 s052 s059 s068 s081` to 3240 wide, tall maps `s012 s047` to 1080 wide). 82 expected (s001 already there); s022, s035, s064 were dropped. Check each: right aspect (`PROMPTS.md` lists the odd ones), no text or watermark, style matches `s001.png`. List missing or doubtful ones for the owner.
+2. **Timing re-check (optional, needs internet):** `words.json` came from script-to-pause alignment (`.claude/skills/documentary-edit/scripts/align_text.py`) because the cloud session couldn't download Whisper. Locally, run `npx --yes hyperframes@0.9.6 transcribe assets/audio/voice.wav --model small.en --engine whisper` (ask before the ~466 MB model download), compare anchor times, and switch if cuts move by more than ~0.3 s.
+3. **Build and render** with the `documentary-edit` skill, steps 4-5 (`SKILL.md`): `plan` -> `build` -> `npx --yes hyperframes@0.9.6 check --json` -> snapshots -> `render` -> `finish_audio.sh` -> `contact_sheet.sh` -> `srt`. Set `focus` in `shots.json` for off-centre subjects after looking at each still. Keep `DO_NOT_TRACK=1 HYPERFRAMES_NO_TELEMETRY=1`.
+4. **Before publishing:** the 5 on-screen fact checks in `clips/cascadia/NOTES.md` are still open; the owner hasn't listened to the full mix yet.
+5. Commit and push to `claude/great-fermat-0hw2w1` (renders can stay local if large).
+
+Tools needed locally: Node 22+, ffmpeg/ffprobe, Python 3, Chrome (HyperFrames uses it). Ask before installing anything.
+
+## Next steps (after Cascadia)
+0. (done: see START HERE) Cascadia timing check (if huggingface.co is now reachable: `curl -sI https://huggingface.co`): in `clips/cascadia`, run `npx --yes hyperframes@0.9.6 transcribe assets/audio/voice.wav --model small.en --engine whisper`, save the words as `words-whisper.json`, compare anchor times against `words.json` (from script-to-pause alignment), switch to the transcript if they differ, re-run `doc_edit.py plan` + `build`, and report which cuts moved.
 1. Cascadia: owner generates the stills in `clips/cascadia/PROMPTS.md`; clear the 5 on-screen fact checks in `clips/cascadia/NOTES.md`; record voice; then run the `documentary-edit` skill steps 2-5.
 2. Repeat for Yellowstone, eggs, 911.
 3. Asteroid: get the three decisions first.
