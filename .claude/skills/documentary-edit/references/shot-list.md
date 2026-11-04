@@ -48,6 +48,7 @@ Paths are relative to the folder holding `shots.json` (the HyperFrames project).
 | `reverse` | `true` = scan right-to-left (or bottom-to-top) |
 | `focus` | `[x, y]` 0-1 zoom origin, default centre |
 | `emphasis` | `true` = hard push for a key line |
+| `allow_short` | `true` = accept a shot up to 15% under the minimum (fast hook cuts) |
 | `section_start` | `true` = crossfade in (new chapter or time jump) |
 | `text`, `sub` | card title and subtitle |
 | `label` | override the tag; `null` hides it (maps, graphics, cards) |

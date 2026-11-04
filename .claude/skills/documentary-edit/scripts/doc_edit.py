@@ -161,7 +161,7 @@ def cmd_plan(a):
 
     # too-short shots: warn (merging would discard owner art)
     for s in timed:
-        if s["dur"] < fmt["min_shot"]:
+        if s["dur"] < fmt["min_shot"] and not (s.get("allow_short") and s["dur"] >= fmt["min_shot"] * 0.85):
             problems.append(f"{s['id']}: only {s['dur']:.2f}s on screen (min {fmt['min_shot']}s); move its anchor or drop it")
 
     # images far off the frame aspect travel across their full width/height

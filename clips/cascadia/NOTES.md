@@ -3,14 +3,16 @@
 Built with the `documentary-edit` skill (`.claude/skills/documentary-edit/`). Script: `longform-scripts-yellowstone-cascadia.md`, Video 2.
 
 ## Status
-- [x] Shot list: `shots.json`, 121 shots (85 new images, 33 cards, 3 reused images)
+- [x] Shot list: `shots.json`, 118 shots (82 new images, 33 cards, 3 reused images). `shots.json` is the source of truth.
 - [x] Prompt list for the owner: `PROMPTS.md`
 - [x] Anchors tested against the narration text (all found; estimated 12.0 min, 144 segments, average 5.0 s, no shot under 2 s)
-- [ ] Owner: generate the 85 stills into `assets/shots/` (names as in `PROMPTS.md`)
+- [ ] Owner: generate the 82 stills (s001 done) into `assets/shots/` (names as in `PROMPTS.md`)
 - [ ] Fact checks below, **before recording**
-- [ ] Voiceover: one file at `assets/audio/voice.wav`
+- [x] Voiceover: `assets/audio/voice.wav` (owner's two files joined with 0.6 s gap; 9:58)
+- [x] Word timings: `words.json` from **script-to-pause alignment** (`align_text.py`), not transcription: huggingface.co is blocked here. Fit: median 12% per stretch, 3 stretches over 50%. Re-run with `hyperframes transcribe` if that host is allowed.
+- [x] Edit plan: `edl.json`, 131 segments, average 4.6 s, shortest 1.9 s. Dropped s022, s035, s064 (too short at the real VO pace)
 - [ ] Music bed (optional): `assets/audio/music.mp3`, a licence the owner confirms
-- [ ] Transcribe, plan, build, render, finish audio, QA (skill steps 2-5)
+- [ ] Build, render, finish audio, QA once the stills are in
 
 ## Must verify before recording (these appear on screen)
 | Card | Claim | Why open |

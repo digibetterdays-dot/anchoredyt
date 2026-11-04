@@ -74,7 +74,7 @@ Line: "Eventually the stuck section..."
 Prompt: Cross-section: the bent plate edge snapping free, the sea floor lurching up, a dome of water lifting above it, layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark
 
 ## s016 -> `assets/shots/s016.png`
-Line: "Because of a tsunami..."
+Line: "with no earthquake to..."
 
 Prompt: A Japanese coastal fishing village around the year 1700: wooden houses with thatched roofs, small boats pulled up on the beach, calm evening, layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark
 
@@ -102,11 +102,6 @@ Prompt: Stylized view of the whole Pacific Ocean, Japan at the far left and the 
 Line: "to pin the quake..."
 
 Prompt: The Pacific Northwest coast on a winter night in 1700: moonlit cedar forest at the shoreline, the sea pulling back from the beach, layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark
-
-## s022 -> `assets/shots/s022.png`
-Line: "And it's not a..."
-
-Prompt: Cross-section of coastal ground showing many alternating bands of dark soil and pale sand, like pages of a book, layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark
 
 ## s023 -> `assets/shots/s023.png`
 Line: "The land itself keeps..."
@@ -162,11 +157,6 @@ Prompt: An open-plan office during an earthquake: ceiling lights swinging, monit
 Line: "The authors of Oregon's..."
 
 Prompt: A busy Oregon beach town on a sunny July morning: families on the sand, kites, a boardwalk, a headland in the distance, layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark
-
-## s035 -> `assets/shots/s035.png`
-Line: "No one can predict..."
-
-Prompt: The same kind of sunny beach, people looking up as a flock of seabirds suddenly scatters into the sky, layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark
 
 ## s036 -> `assets/shots/s036.png` (3:1 panorama, 3240x1080)
 Line: "The key difference from..."
@@ -298,11 +288,6 @@ Line: "Now let's say you..."
 
 Prompt: People standing on a forested hilltop at dusk, looking down at flooded lowland, calm and quiet, layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark
 
-## s064 -> `assets/shots/s064.png`
-Line: "Think about what that..."
-
-Prompt: A fuel tanker truck stopped at a collapsed bridge approach, the road ending in a gap over a river, layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark
-
 ## s065 -> `assets/shots/s065.png`
 Line: "Most of the bridges..."
 
@@ -428,4 +413,4 @@ Line: "Find your route today...."
 
 Prompt: A hiker on a ridge above the coast at sunrise, a trail marker post beside them, layered paper-cut illustration, soft paper grain, muted slate-teal and fog-grey palette with one rust-red accent, soft side light, clean shapes, no text, no letters, no numbers, no logos, no watermark
 
-_85 images._
+_82 images._

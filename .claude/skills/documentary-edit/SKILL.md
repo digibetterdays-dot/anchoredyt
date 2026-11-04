@@ -36,6 +36,12 @@ cd clips/<name> && npx --yes hyperframes@0.9.6 transcribe assets/audio/voice.wav
 ```
 The first run downloads a whisper model (~466 MB): **tell the owner before starting it**. Save the word array as `words.json`. Spot-check 3 words against the audio; if the transcript is off by more than ~0.2 s, re-run with `medium.en`.
 
+**If transcription can't run** (e.g. huggingface.co blocked by the network policy) and the VO follows the script word for word, align the script to the audio's pauses instead:
+```bash
+python3 -I <SKILL>/scripts/align_text.py VO-SCRIPT.txt assets/audio/voice.wav -o words.json
+```
+It prints the fit error per stretch and warns where the VO seems to differ from the script. Sentence and clause starts land on real pauses; mid-clause words are interpolated, so prefer anchors that start a sentence or follow a comma. Tell the owner the timings came from alignment, not transcription.
+
 Concatenating Kokoro lines into one file (0.35 s pause between lines):
 ```bash
 ffmpeg -f lavfi -t 0.35 -i anullsrc=r=24000:cl=mono -y gap.wav

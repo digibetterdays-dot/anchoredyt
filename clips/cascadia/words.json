@@ -1,0 +1,10208 @@
+[
+{
+"id": "w0",
+"text": "It's",
+"start": 0.235,
+"end": 0.431
+},
+{
+"id": "w1",
+"text": "an",
+"start": 0.448,
+"end": 0.595
+},
+{
+"id": "w2",
+"text": "ordinary",
+"start": 0.608,
+"end": 1.05
+},
+{
+"id": "w3",
+"text": "morning",
+"start": 1.088,
+"end": 1.481
+},
+{
+"id": "w4",
+"text": "in",
+"start": 1.515,
+"end": 1.662
+},
+{
+"id": "w5",
+"text": "the",
+"start": 1.675,
+"end": 1.871
+},
+{
+"id": "w6",
+"text": "Pacific",
+"start": 1.888,
+"end": 2.28
+},
+{
+"id": "w7",
+"text": "Northwest.",
+"start": 2.314,
+"end": 2.805
+},
+{
+"id": "w8",
+"text": "Ferries",
+"start": 3.54,
+"end": 3.852
+},
+{
+"id": "w9",
+"text": "are",
+"start": 3.879,
+"end": 4.034
+},
+{
+"id": "w10",
+"text": "crossing.",
+"start": 4.048,
+"end": 4.398
+},
+{
+"id": "w11",
+"text": "Kids",
+"start": 4.788,
+"end": 5.015
+},
+{
+"id": "w12",
+"text": "are",
+"start": 5.035,
+"end": 5.216
+},
+{
+"id": "w13",
+"text": "heading",
+"start": 5.232,
+"end": 5.595
+},
+{
+"id": "w14",
+"text": "to",
+"start": 5.626,
+"end": 5.763
+},
+{
+"id": "w15",
+"text": "school.",
+"start": 5.774,
+"end": 6.092
+},
+{
+"id": "w16",
+"text": "And",
+"start": 6.927,
+"end": 7.21
+},
+{
+"id": "w17",
+"text": "then",
+"start": 7.235,
+"end": 7.588
+},
+{
+"id": "w18",
+"text": "the",
+"start": 7.619,
+"end": 7.902
+},
+{
+"id": "w19",
+"text": "ground",
+"start": 7.927,
+"end": 8.422
+},
+{
+"id": "w20",
+"text": "starts",
+"start": 8.465,
+"end": 8.96
+},
+{
+"id": "w21",
+"text": "to",
+"start": 9.003,
+"end": 9.215
+},
+{
+"id": "w22",
+"text": "move.",
+"start": 9.234,
+"end": 9.587
+},
+{
+"id": "w23",
+"text": "It",
+"start": 10.191,
+"end": 10.333
+},
+{
+"id": "w24",
+"text": "doesn't",
+"start": 10.346,
+"end": 10.677
+},
+{
+"id": "w25",
+"text": "stop",
+"start": 10.706,
+"end": 10.942
+},
+{
+"id": "w26",
+"text": "in",
+"start": 10.963,
+"end": 11.104
+},
+{
+"id": "w27",
+"text": "a",
+"start": 11.117,
+"end": 11.211
+},
+{
+"id": "w28",
+"text": "few",
+"start": 11.22,
+"end": 11.409
+},
+{
+"id": "w29",
+"text": "seconds.",
+"start": 11.425,
+"end": 11.804
+},
+{
+"id": "w30",
+"text": "It",
+"start": 12.003,
+"end": 12.164
+},
+{
+"id": "w31",
+"text": "keeps",
+"start": 12.178,
+"end": 12.5
+},
+{
+"id": "w32",
+"text": "going.",
+"start": 12.528,
+"end": 12.851
+},
+{
+"id": "w33",
+"text": "This",
+"start": 13.391,
+"end": 13.673
+},
+{
+"id": "w34",
+"text": "is",
+"start": 13.698,
+"end": 13.867
+},
+{
+"id": "w35",
+"text": "what",
+"start": 13.882,
+"end": 14.164
+},
+{
+"id": "w36",
+"text": "scientists",
+"start": 14.188,
+"end": 14.809
+},
+{
+"id": "w37",
+"text": "call",
+"start": 14.863,
+"end": 15.144
+},
+{
+"id": "w38",
+"text": "a",
+"start": 15.169,
+"end": 15.282
+},
+{
+"id": "w39",
+"text": "Cascadia",
+"start": 15.292,
+"end": 15.799
+},
+{
+"id": "w40",
+"text": "earthquake.",
+"start": 15.843,
+"end": 16.464
+},
+{
+"id": "w41",
+"text": "And",
+"start": 16.927,
+"end": 17.071
+},
+{
+"id": "w42",
+"text": "it",
+"start": 17.084,
+"end": 17.191
+},
+{
+"id": "w43",
+"text": "isn't",
+"start": 17.201,
+"end": 17.38
+},
+{
+"id": "w44",
+"text": "science",
+"start": 17.396,
+"end": 17.683
+},
+{
+"id": "w45",
+"text": "fiction.",
+"start": 17.708,
+"end": 17.995
+},
+{
+"id": "w46",
+"text": "It",
+"start": 18.283,
+"end": 18.453
+},
+{
+"id": "w47",
+"text": "has",
+"start": 18.468,
+"end": 18.696
+},
+{
+"id": "w48",
+"text": "happened",
+"start": 18.715,
+"end": 19.227
+},
+{
+"id": "w49",
+"text": "before.",
+"start": 19.271,
+"end": 19.669
+},
+{
+"id": "w50",
+"text": "Most",
+"start": 20.246,
+"end": 20.506
+},
+{
+"id": "w51",
+"text": "videos",
+"start": 20.528,
+"end": 20.892
+},
+{
+"id": "w52",
+"text": "on",
+"start": 20.923,
+"end": 21.079
+},
+{
+"id": "w53",
+"text": "this",
+"start": 21.093,
+"end": 21.352
+},
+{
+"id": "w54",
+"text": "stop",
+"start": 21.375,
+"end": 21.635
+},
+{
+"id": "w55",
+"text": "at",
+"start": 21.657,
+"end": 21.813
+},
+{
+"id": "w56",
+"text": "the",
+"start": 21.826,
+"end": 22.034
+},
+{
+"id": "w57",
+"text": "shaking.",
+"start": 22.052,
+"end": 22.468
+},
+{
+"id": "w58",
+"text": "But",
+"start": 22.824,
+"end": 23.033
+},
+{
+"id": "w59",
+"text": "one",
+"start": 23.051,
+"end": 23.26
+},
+{
+"id": "w60",
+"text": "of",
+"start": 23.278,
+"end": 23.435
+},
+{
+"id": "w61",
+"text": "the",
+"start": 23.448,
+"end": 23.657
+},
+{
+"id": "w62",
+"text": "things",
+"start": 23.675,
+"end": 24.041
+},
+{
+"id": "w63",
+"text": "that",
+"start": 24.072,
+"end": 24.333
+},
+{
+"id": "w64",
+"text": "turns",
+"start": 24.356,
+"end": 24.669
+},
+{
+"id": "w65",
+"text": "a",
+"start": 24.696,
+"end": 24.801
+},
+{
+"id": "w66",
+"text": "disaster",
+"start": 24.81,
+"end": 25.279
+},
+{
+"id": "w67",
+"text": "into",
+"start": 25.32,
+"end": 25.581
+},
+{
+"id": "w68",
+"text": "a",
+"start": 25.604,
+"end": 25.708
+},
+{
+"id": "w69",
+"text": "months-long",
+"start": 25.717,
+"end": 26.291
+},
+{
+"id": "w70",
+"text": "crisis",
+"start": 26.341,
+"end": 26.707
+},
+{
+"id": "w71",
+"text": "isn't",
+"start": 26.738,
+"end": 26.999
+},
+{
+"id": "w72",
+"text": "the",
+"start": 27.022,
+"end": 27.231
+},
+{
+"id": "w73",
+"text": "shaking,",
+"start": 27.249,
+"end": 27.666
+},
+{
+"id": "w74",
+"text": "or",
+"start": 28.068,
+"end": 28.241
+},
+{
+"id": "w75",
+"text": "even",
+"start": 28.256,
+"end": 28.545
+},
+{
+"id": "w76",
+"text": "the",
+"start": 28.57,
+"end": 28.801
+},
+{
+"id": "w77",
+"text": "wave.",
+"start": 28.821,
+"end": 29.11
+},
+{
+"id": "w78",
+"text": "It's",
+"start": 29.41,
+"end": 29.66
+},
+{
+"id": "w79",
+"text": "a",
+"start": 29.682,
+"end": 29.807
+},
+{
+"id": "w80",
+"text": "trap,",
+"start": 29.818,
+"end": 30.131
+},
+{
+"id": "w81",
+"text": "one",
+"start": 30.459,
+"end": 30.664
+},
+{
+"id": "w82",
+"text": "sentence",
+"start": 30.682,
+"end": 31.144
+},
+{
+"id": "w83",
+"text": "from",
+"start": 31.185,
+"end": 31.441
+},
+{
+"id": "w84",
+"text": "an",
+"start": 31.464,
+"end": 31.618
+},
+{
+"id": "w85",
+"text": "Oregon",
+"start": 31.631,
+"end": 31.99
+},
+{
+"id": "w86",
+"text": "transportation",
+"start": 32.022,
+"end": 32.792
+},
+{
+"id": "w87",
+"text": "official,",
+"start": 32.859,
+"end": 33.321
+},
+{
+"id": "w88",
+"text": "and",
+"start": 33.492,
+"end": 33.667
+},
+{
+"id": "w89",
+"text": "I'll",
+"start": 33.682,
+"end": 33.857
+},
+{
+"id": "w90",
+"text": "show",
+"start": 33.872,
+"end": 34.091
+},
+{
+"id": "w91",
+"text": "you",
+"start": 34.11,
+"end": 34.285
+},
+{
+"id": "w92",
+"text": "exactly",
+"start": 34.3,
+"end": 34.65
+},
+{
+"id": "w93",
+"text": "where",
+"start": 34.68,
+"end": 34.943
+},
+{
+"id": "w94",
+"text": "it",
+"start": 34.966,
+"end": 35.097
+},
+{
+"id": "w95",
+"text": "hides,",
+"start": 35.108,
+"end": 35.37
+},
+{
+"id": "w96",
+"text": "later",
+"start": 35.518,
+"end": 35.785
+},
+{
+"id": "w97",
+"text": "in",
+"start": 35.808,
+"end": 35.941
+},
+{
+"id": "w98",
+"text": "this",
+"start": 35.953,
+"end": 36.176
+},
+{
+"id": "w99",
+"text": "video.",
+"start": 36.195,
+"end": 36.462
+},
+{
+"id": "w100",
+"text": "Just",
+"start": 37.169,
+"end": 37.429
+},
+{
+"id": "w101",
+"text": "off",
+"start": 37.452,
+"end": 37.66
+},
+{
+"id": "w102",
+"text": "the",
+"start": 37.678,
+"end": 37.886
+},
+{
+"id": "w103",
+"text": "coast,",
+"start": 37.904,
+"end": 38.216
+},
+{
+"id": "w104",
+"text": "a",
+"start": 38.243,
+"end": 38.347
+},
+{
+"id": "w105",
+"text": "piece",
+"start": 38.356,
+"end": 38.668
+},
+{
+"id": "w106",
+"text": "of",
+"start": 38.695,
+"end": 38.851
+},
+{
+"id": "w107",
+"text": "the",
+"start": 38.865,
+"end": 39.073
+},
+{
+"id": "w108",
+"text": "Pacific",
+"start": 39.091,
+"end": 39.507
+},
+{
+"id": "w109",
+"text": "sea",
+"start": 39.543,
+"end": 39.751
+},
+{
+"id": "w110",
+"text": "floor,",
+"start": 39.769,
+"end": 40.081
+},
+{
+"id": "w111",
+"text": "the",
+"start": 40.298,
+"end": 40.527
+},
+{
+"id": "w112",
+"text": "Juan",
+"start": 40.547,
+"end": 40.833
+},
+{
+"id": "w113",
+"text": "de",
+"start": 40.858,
+"end": 41.029
+},
+{
+"id": "w114",
+"text": "Fuca",
+"start": 41.044,
+"end": 41.33
+},
+{
+"id": "w115",
+"text": "plate,",
+"start": 41.355,
+"end": 41.698
+},
+{
+"id": "w116",
+"text": "is",
+"start": 41.728,
+"end": 41.899
+},
+{
+"id": "w117",
+"text": "slowly",
+"start": 41.914,
+"end": 42.314
+},
+{
+"id": "w118",
+"text": "sliding",
+"start": 42.349,
+"end": 42.806
+},
+{
+"id": "w119",
+"text": "under",
+"start": 42.846,
+"end": 43.189
+},
+{
+"id": "w120",
+"text": "North",
+"start": 43.219,
+"end": 43.562
+},
+{
+"id": "w121",
+"text": "America.",
+"start": 43.592,
+"end": 44.049
+},
+{
+"id": "w122",
+"text": "Where",
+"start": 44.509,
+"end": 44.804
+},
+{
+"id": "w123",
+"text": "they",
+"start": 44.829,
+"end": 45.075
+},
+{
+"id": "w124",
+"text": "meet",
+"start": 45.096,
+"end": 45.342
+},
+{
+"id": "w125",
+"text": "is",
+"start": 45.363,
+"end": 45.51
+},
+{
+"id": "w126",
+"text": "called",
+"start": 45.523,
+"end": 45.867
+},
+{
+"id": "w127",
+"text": "the",
+"start": 45.897,
+"end": 46.093
+},
+{
+"id": "w128",
+"text": "Cascadia",
+"start": 46.11,
+"end": 46.552
+},
+{
+"id": "w129",
+"text": "subduction",
+"start": 46.591,
+"end": 47.131
+},
+{
+"id": "w130",
+"text": "zone.",
+"start": 47.178,
+"end": 47.423
+},
+{
+"id": "w131",
+"text": "NOAA",
+"start": 48.011,
+"end": 48.387
+},
+{
+"id": "w132",
+"text": "puts",
+"start": 48.42,
+"end": 48.797
+},
+{
+"id": "w133",
+"text": "it",
+"start": 48.829,
+"end": 49.055
+},
+{
+"id": "w134",
+"text": "at",
+"start": 49.075,
+"end": 49.301
+},
+{
+"id": "w135",
+"text": "about",
+"start": 49.32,
+"end": 49.772
+},
+{
+"id": "w136",
+"text": "700",
+"start": 49.811,
+"end": 50.112
+},
+{
+"id": "w137",
+"text": "miles",
+"start": 50.139,
+"end": 50.59
+},
+{
+"id": "w138",
+"text": "long,",
+"start": 50.629,
+"end": 51.006
+},
+{
+"id": "w139",
+"text": "running",
+"start": 51.232,
+"end": 51.65
+},
+{
+"id": "w140",
+"text": "from",
+"start": 51.687,
+"end": 51.948
+},
+{
+"id": "w141",
+"text": "Cape",
+"start": 51.971,
+"end": 52.233
+},
+{
+"id": "w142",
+"text": "Mendocino",
+"start": 52.255,
+"end": 52.779
+},
+{
+"id": "w143",
+"text": "in",
+"start": 52.824,
+"end": 52.981
+},
+{
+"id": "w144",
+"text": "Northern",
+"start": 52.995,
+"end": 53.465
+},
+{
+"id": "w145",
+"text": "California",
+"start": 53.506,
+"end": 54.082
+},
+{
+"id": "w146",
+"text": "to",
+"start": 54.132,
+"end": 54.289
+},
+{
+"id": "w147",
+"text": "northern",
+"start": 54.302,
+"end": 54.773
+},
+{
+"id": "w148",
+"text": "Vancouver",
+"start": 54.814,
+"end": 55.337
+},
+{
+"id": "w149",
+"text": "Island",
+"start": 55.383,
+"end": 55.749
+},
+{
+"id": "w150",
+"text": "in",
+"start": 55.781,
+"end": 55.937
+},
+{
+"id": "w151",
+"text": "Canada,",
+"start": 55.951,
+"end": 56.317
+},
+{
+"id": "w152",
+"text": "mostly",
+"start": 56.586,
+"end": 56.92
+},
+{
+"id": "w153",
+"text": "offshore.",
+"start": 56.949,
+"end": 57.379
+},
+{
+"id": "w154",
+"text": "The",
+"start": 57.866,
+"end": 58.114
+},
+{
+"id": "w155",
+"text": "plates",
+"start": 58.136,
+"end": 58.57
+},
+{
+"id": "w156",
+"text": "don't",
+"start": 58.608,
+"end": 58.918
+},
+{
+"id": "w157",
+"text": "slide",
+"start": 58.945,
+"end": 59.317
+},
+{
+"id": "w158",
+"text": "smoothly.",
+"start": 59.349,
+"end": 59.907
+},
+{
+"id": "w159",
+"text": "They",
+"start": 60.185,
+"end": 60.44
+},
+{
+"id": "w160",
+"text": "stick,",
+"start": 60.462,
+"end": 60.767
+},
+{
+"id": "w161",
+"text": "and",
+"start": 61.078,
+"end": 61.27
+},
+{
+"id": "w162",
+"text": "pressure",
+"start": 61.286,
+"end": 61.718
+},
+{
+"id": "w163",
+"text": "builds.",
+"start": 61.755,
+"end": 62.091
+},
+{
+"id": "w164",
+"text": "Eventually",
+"start": 62.646,
+"end": 63.259
+},
+{
+"id": "w165",
+"text": "the",
+"start": 63.313,
+"end": 63.536
+},
+{
+"id": "w166",
+"text": "stuck",
+"start": 63.555,
+"end": 63.889
+},
+{
+"id": "w167",
+"text": "section",
+"start": 63.919,
+"end": 64.364
+},
+{
+"id": "w168",
+"text": "lets",
+"start": 64.403,
+"end": 64.682
+},
+{
+"id": "w169",
+"text": "go,",
+"start": 64.706,
+"end": 64.873
+},
+{
+"id": "w170",
+"text": "all",
+"start": 65.182,
+"end": 65.363
+},
+{
+"id": "w171",
+"text": "at",
+"start": 65.379,
+"end": 65.514
+},
+{
+"id": "w172",
+"text": "once,",
+"start": 65.526,
+"end": 65.751
+},
+{
+"id": "w173",
+"text": "and",
+"start": 66.309,
+"end": 66.449
+},
+{
+"id": "w174",
+"text": "that's",
+"start": 66.461,
+"end": 66.671
+},
+{
+"id": "w175",
+"text": "the",
+"start": 66.69,
+"end": 66.83
+},
+{
+"id": "w176",
+"text": "earthquake.",
+"start": 66.842,
+"end": 67.227
+},
+{
+"id": "w177",
+"text": "How",
+"start": 68.022,
+"end": 68.152
+},
+{
+"id": "w178",
+"text": "do",
+"start": 68.163,
+"end": 68.26
+},
+{
+"id": "w179",
+"text": "we",
+"start": 68.268,
+"end": 68.365
+},
+{
+"id": "w180",
+"text": "know",
+"start": 68.373,
+"end": 68.535
+},
+{
+"id": "w181",
+"text": "it's",
+"start": 68.549,
+"end": 68.678
+},
+{
+"id": "w182",
+"text": "happened?",
+"start": 68.689,
+"end": 68.979
+},
+{
+"id": "w183",
+"text": "Because",
+"start": 69.418,
+"end": 69.841
+},
+{
+"id": "w184",
+"text": "of",
+"start": 69.877,
+"end": 70.036
+},
+{
+"id": "w185",
+"text": "a",
+"start": 70.05,
+"end": 70.156
+},
+{
+"id": "w186",
+"text": "tsunami",
+"start": 70.165,
+"end": 70.588
+},
+{
+"id": "w187",
+"text": "that",
+"start": 70.625,
+"end": 70.889
+},
+{
+"id": "w188",
+"text": "struck",
+"start": 70.912,
+"end": 71.282
+},
+{
+"id": "w189",
+"text": "Japan",
+"start": 71.315,
+"end": 71.632
+},
+{
+"id": "w190",
+"text": "with",
+"start": 71.66,
+"end": 71.924
+},
+{
+"id": "w191",
+"text": "no",
+"start": 71.947,
+"end": 72.106
+},
+{
+"id": "w192",
+"text": "earthquake",
+"start": 72.119,
+"end": 72.701
+},
+{
+"id": "w193",
+"text": "to",
+"start": 72.752,
+"end": 72.91
+},
+{
+"id": "w194",
+"text": "explain",
+"start": 72.924,
+"end": 73.347
+},
+{
+"id": "w195",
+"text": "it.",
+"start": 73.384,
+"end": 73.543
+},
+{
+"id": "w196",
+"text": "In",
+"start": 73.948,
+"end": 74.176
+},
+{
+"id": "w197",
+"text": "January",
+"start": 74.196,
+"end": 74.804
+},
+{
+"id": "w198",
+"text": "of",
+"start": 74.856,
+"end": 75.085
+},
+{
+"id": "w199",
+"text": "the",
+"start": 75.104,
+"end": 75.408
+},
+{
+"id": "w200",
+"text": "year",
+"start": 75.435,
+"end": 75.815
+},
+{
+"id": "w201",
+"text": "1700,",
+"start": 75.848,
+"end": 76.228
+},
+{
+"id": "w202",
+"text": "a",
+"start": 76.458,
+"end": 76.574
+},
+{
+"id": "w203",
+"text": "wave",
+"start": 76.585,
+"end": 76.876
+},
+{
+"id": "w204",
+"text": "about",
+"start": 76.901,
+"end": 77.251
+},
+{
+"id": "w205",
+"text": "six",
+"start": 77.281,
+"end": 77.514
+},
+{
+"id": "w206",
+"text": "to",
+"start": 77.534,
+"end": 77.709
+},
+{
+"id": "w207",
+"text": "ten",
+"start": 77.724,
+"end": 77.957
+},
+{
+"id": "w208",
+"text": "feet",
+"start": 77.977,
+"end": 78.269
+},
+{
+"id": "w209",
+"text": "high",
+"start": 78.294,
+"end": 78.585
+},
+{
+"id": "w210",
+"text": "hit",
+"start": 78.611,
+"end": 78.843
+},
+{
+"id": "w211",
+"text": "Japan's",
+"start": 78.864,
+"end": 79.271
+},
+{
+"id": "w212",
+"text": "Honshu",
+"start": 79.307,
+"end": 79.715
+},
+{
+"id": "w213",
+"text": "coast.",
+"start": 79.75,
+"end": 80.1
+},
+{
+"id": "w214",
+"text": "Nobody",
+"start": 80.795,
+"end": 81.098
+},
+{
+"id": "w215",
+"text": "there",
+"start": 81.125,
+"end": 81.385
+},
+{
+"id": "w216",
+"text": "felt",
+"start": 81.407,
+"end": 81.624
+},
+{
+"id": "w217",
+"text": "any",
+"start": 81.643,
+"end": 81.816
+},
+{
+"id": "w218",
+"text": "shaking.",
+"start": 81.831,
+"end": 82.177
+},
+{
+"id": "w219",
+"text": "Japanese",
+"start": 82.667,
+"end": 83.092
+},
+{
+"id": "w220",
+"text": "records",
+"start": 83.129,
+"end": 83.507
+},
+{
+"id": "w221",
+"text": "called",
+"start": 83.54,
+"end": 83.871
+},
+{
+"id": "w222",
+"text": "it",
+"start": 83.9,
+"end": 84.041
+},
+{
+"id": "w223",
+"text": "the",
+"start": 84.054,
+"end": 84.243
+},
+{
+"id": "w224",
+"text": "\"orphan",
+"start": 84.259,
+"end": 84.59
+},
+{
+"id": "w225",
+"text": "tsunami\",",
+"start": 84.619,
+"end": 84.997
+},
+{
+"id": "w226",
+"text": "a",
+"start": 85.204,
+"end": 85.323
+},
+{
+"id": "w227",
+"text": "wave",
+"start": 85.334,
+"end": 85.634
+},
+{
+"id": "w228",
+"text": "with",
+"start": 85.66,
+"end": 85.959
+},
+{
+"id": "w229",
+"text": "no",
+"start": 85.985,
+"end": 86.165
+},
+{
+"id": "w230",
+"text": "parent",
+"start": 86.181,
+"end": 86.601
+},
+{
+"id": "w231",
+"text": "earthquake.",
+"start": 86.637,
+"end": 87.296
+},
+{
+"id": "w232",
+"text": "Researchers",
+"start": 87.779,
+"end": 88.473
+},
+{
+"id": "w233",
+"text": "later",
+"start": 88.533,
+"end": 88.88
+},
+{
+"id": "w234",
+"text": "connected",
+"start": 88.91,
+"end": 89.488
+},
+{
+"id": "w235",
+"text": "it",
+"start": 89.539,
+"end": 89.712
+},
+{
+"id": "w236",
+"text": "to",
+"start": 89.727,
+"end": 89.901
+},
+{
+"id": "w237",
+"text": "Cascadia,",
+"start": 89.916,
+"end": 90.436
+},
+{
+"id": "w238",
+"text": "and",
+"start": 90.664,
+"end": 90.904
+},
+{
+"id": "w239",
+"text": "used",
+"start": 90.924,
+"end": 91.224
+},
+{
+"id": "w240",
+"text": "those",
+"start": 91.25,
+"end": 91.609
+},
+{
+"id": "w241",
+"text": "records,",
+"start": 91.64,
+"end": 92.119
+},
+{
+"id": "w242",
+"text": "and",
+"start": 92.161,
+"end": 92.4
+},
+{
+"id": "w243",
+"text": "how",
+"start": 92.421,
+"end": 92.661
+},
+{
+"id": "w244",
+"text": "long",
+"start": 92.681,
+"end": 92.981
+},
+{
+"id": "w245",
+"text": "a",
+"start": 93.007,
+"end": 93.127
+},
+{
+"id": "w246",
+"text": "wave",
+"start": 93.137,
+"end": 93.436
+},
+{
+"id": "w247",
+"text": "takes",
+"start": 93.462,
+"end": 93.822
+},
+{
+"id": "w248",
+"text": "to",
+"start": 93.853,
+"end": 94.032
+},
+{
+"id": "w249",
+"text": "cross",
+"start": 94.048,
+"end": 94.407
+},
+{
+"id": "w250",
+"text": "the",
+"start": 94.438,
+"end": 94.678
+},
+{
+"id": "w251",
+"text": "Pacific,",
+"start": 94.699,
+"end": 95.178
+},
+{
+"id": "w252",
+"text": "to",
+"start": 95.426,
+"end": 95.543
+},
+{
+"id": "w253",
+"text": "pin",
+"start": 95.553,
+"end": 95.707
+},
+{
+"id": "w254",
+"text": "the",
+"start": 95.721,
+"end": 95.876
+},
+{
+"id": "w255",
+"text": "quake",
+"start": 95.889,
+"end": 96.121
+},
+{
+"id": "w256",
+"text": "to",
+"start": 96.142,
+"end": 96.258
+},
+{
+"id": "w257",
+"text": "the",
+"start": 96.268,
+"end": 96.423
+},
+{
+"id": "w258",
+"text": "night",
+"start": 96.436,
+"end": 96.668
+},
+{
+"id": "w259",
+"text": "of",
+"start": 96.689,
+"end": 96.805
+},
+{
+"id": "w260",
+"text": "January",
+"start": 96.815,
+"end": 97.125
+},
+{
+"id": "w261",
+"text": "26th,",
+"start": 97.151,
+"end": 97.345
+},
+{
+"id": "w262",
+"text": "at",
+"start": 97.689,
+"end": 97.861
+},
+{
+"id": "w263",
+"text": "about",
+"start": 97.876,
+"end": 98.22
+},
+{
+"id": "w264",
+"text": "nine",
+"start": 98.25,
+"end": 98.537
+},
+{
+"id": "w265",
+"text": "o'clock.",
+"start": 98.562,
+"end": 98.963
+},
+{
+"id": "w266",
+"text": "It's",
+"start": 99.427,
+"end": 99.659
+},
+{
+"id": "w267",
+"text": "estimated",
+"start": 99.679,
+"end": 100.259
+},
+{
+"id": "w268",
+"text": "at",
+"start": 100.31,
+"end": 100.484
+},
+{
+"id": "w269",
+"text": "about",
+"start": 100.499,
+"end": 100.848
+},
+{
+"id": "w270",
+"text": "magnitude",
+"start": 100.878,
+"end": 101.458
+},
+{
+"id": "w271",
+"text": "9.",
+"start": 101.509,
+"end": 101.625
+},
+{
+"id": "w272",
+"text": "And",
+"start": 102.532,
+"end": 102.702
+},
+{
+"id": "w273",
+"text": "it's",
+"start": 102.717,
+"end": 102.886
+},
+{
+"id": "w274",
+"text": "not",
+"start": 102.901,
+"end": 103.071
+},
+{
+"id": "w275",
+"text": "a",
+"start": 103.086,
+"end": 103.171
+},
+{
+"id": "w276",
+"text": "one-off.",
+"start": 103.178,
+"end": 103.475
+},
+{
+"id": "w277",
+"text": "According",
+"start": 103.842,
+"end": 104.391
+},
+{
+"id": "w278",
+"text": "to",
+"start": 104.439,
+"end": 104.604
+},
+{
+"id": "w279",
+"text": "NOAA,",
+"start": 104.618,
+"end": 104.893
+},
+{
+"id": "w280",
+"text": "geologic",
+"start": 104.917,
+"end": 105.412
+},
+{
+"id": "w281",
+"text": "evidence",
+"start": 105.455,
+"end": 105.949
+},
+{
+"id": "w282",
+"text": "shows",
+"start": 105.992,
+"end": 106.322
+},
+{
+"id": "w283",
+"text": "more",
+"start": 106.35,
+"end": 106.625
+},
+{
+"id": "w284",
+"text": "than",
+"start": 106.649,
+"end": 106.924
+},
+{
+"id": "w285",
+"text": "40",
+"start": 106.948,
+"end": 107.113
+},
+{
+"id": "w286",
+"text": "earthquakes",
+"start": 107.127,
+"end": 107.786
+},
+{
+"id": "w287",
+"text": "above",
+"start": 107.844,
+"end": 108.173
+},
+{
+"id": "w288",
+"text": "magnitude",
+"start": 108.202,
+"end": 108.751
+},
+{
+"id": "w289",
+"text": "8",
+"start": 108.799,
+"end": 108.909
+},
+{
+"id": "w290",
+"text": "along",
+"start": 108.919,
+"end": 109.248
+},
+{
+"id": "w291",
+"text": "this",
+"start": 109.277,
+"end": 109.552
+},
+{
+"id": "w292",
+"text": "zone",
+"start": 109.576,
+"end": 109.85
+},
+{
+"id": "w293",
+"text": "over",
+"start": 109.874,
+"end": 110.149
+},
+{
+"id": "w294",
+"text": "the",
+"start": 110.173,
+"end": 110.393
+},
+{
+"id": "w295",
+"text": "last",
+"start": 110.412,
+"end": 110.686
+},
+{
+"id": "w296",
+"text": "10,000",
+"start": 110.71,
+"end": 111.04
+},
+{
+"id": "w297",
+"text": "years.",
+"start": 111.069,
+"end": 111.398
+},
+{
+"id": "w298",
+"text": "The",
+"start": 111.993,
+"end": 112.196
+},
+{
+"id": "w299",
+"text": "land",
+"start": 112.214,
+"end": 112.468
+},
+{
+"id": "w300",
+"text": "itself",
+"start": 112.49,
+"end": 112.846
+},
+{
+"id": "w301",
+"text": "keeps",
+"start": 112.877,
+"end": 113.181
+},
+{
+"id": "w302",
+"text": "a",
+"start": 113.208,
+"end": 113.31
+},
+{
+"id": "w303",
+"text": "record.",
+"start": 113.318,
+"end": 113.674
+},
+{
+"id": "w304",
+"text": "In",
+"start": 114.038,
+"end": 114.199
+},
+{
+"id": "w305",
+"text": "the",
+"start": 114.213,
+"end": 114.428
+},
+{
+"id": "w306",
+"text": "1980s",
+"start": 114.447,
+"end": 114.769
+},
+{
+"id": "w307",
+"text": "and",
+"start": 114.797,
+"end": 115.011
+},
+{
+"id": "w308",
+"text": "1990s,",
+"start": 115.03,
+"end": 115.352
+},
+{
+"id": "w309",
+"text": "scientists",
+"start": 115.38,
+"end": 115.971
+},
+{
+"id": "w310",
+"text": "doing",
+"start": 116.022,
+"end": 116.344
+},
+{
+"id": "w311",
+"text": "fieldwork",
+"start": 116.372,
+"end": 116.909
+},
+{
+"id": "w312",
+"text": "found",
+"start": 116.956,
+"end": 117.278
+},
+{
+"id": "w313",
+"text": "evidence",
+"start": 117.306,
+"end": 117.789
+},
+{
+"id": "w314",
+"text": "that",
+"start": 117.831,
+"end": 118.1
+},
+{
+"id": "w315",
+"text": "coastal",
+"start": 118.123,
+"end": 118.553
+},
+{
+"id": "w316",
+"text": "land",
+"start": 118.59,
+"end": 118.859
+},
+{
+"id": "w317",
+"text": "in",
+"start": 118.882,
+"end": 119.043
+},
+{
+"id": "w318",
+"text": "the",
+"start": 119.057,
+"end": 119.272
+},
+{
+"id": "w319",
+"text": "Northwest",
+"start": 119.29,
+"end": 119.827
+},
+{
+"id": "w320",
+"text": "had",
+"start": 119.874,
+"end": 120.089
+},
+{
+"id": "w321",
+"text": "dropped",
+"start": 120.108,
+"end": 120.537
+},
+{
+"id": "w322",
+"text": "suddenly",
+"start": 120.574,
+"end": 121.058
+},
+{
+"id": "w323",
+"text": "in",
+"start": 121.1,
+"end": 121.261
+},
+{
+"id": "w324",
+"text": "the",
+"start": 121.275,
+"end": 121.49
+},
+{
+"id": "w325",
+"text": "past,",
+"start": 121.508,
+"end": 121.777
+},
+{
+"id": "w326",
+"text": "and",
+"start": 122.122,
+"end": 122.296
+},
+{
+"id": "w327",
+"text": "was",
+"start": 122.311,
+"end": 122.485
+},
+{
+"id": "w328",
+"text": "then",
+"start": 122.5,
+"end": 122.718
+},
+{
+"id": "w329",
+"text": "flooded",
+"start": 122.737,
+"end": 123.085
+},
+{
+"id": "w330",
+"text": "by",
+"start": 123.115,
+"end": 123.246
+},
+{
+"id": "w331",
+"text": "tsunami",
+"start": 123.257,
+"end": 123.605
+},
+{
+"id": "w332",
+"text": "waves",
+"start": 123.636,
+"end": 123.897
+},
+{
+"id": "w333",
+"text": "and",
+"start": 123.92,
+"end": 124.094
+},
+{
+"id": "w334",
+"text": "mud.",
+"start": 124.109,
+"end": 124.283
+},
+{
+"id": "w335",
+"text": "That's",
+"start": 124.847,
+"end": 125.195
+},
+{
+"id": "w336",
+"text": "what",
+"start": 125.225,
+"end": 125.515
+},
+{
+"id": "w337",
+"text": "happens",
+"start": 125.54,
+"end": 126.004
+},
+{
+"id": "w338",
+"text": "when",
+"start": 126.045,
+"end": 126.335
+},
+{
+"id": "w339",
+"text": "a",
+"start": 126.36,
+"end": 126.476
+},
+{
+"id": "w340",
+"text": "stuck",
+"start": 126.486,
+"end": 126.834
+},
+{
+"id": "w341",
+"text": "plate",
+"start": 126.864,
+"end": 127.212
+},
+{
+"id": "w342",
+"text": "lets",
+"start": 127.243,
+"end": 127.533
+},
+{
+"id": "w343",
+"text": "go:",
+"start": 127.558,
+"end": 127.732
+},
+{
+"id": "w344",
+"text": "the",
+"start": 127.934,
+"end": 128.169
+},
+{
+"id": "w345",
+"text": "coast",
+"start": 128.189,
+"end": 128.542
+},
+{
+"id": "w346",
+"text": "can",
+"start": 128.572,
+"end": 128.807
+},
+{
+"id": "w347",
+"text": "sink",
+"start": 128.828,
+"end": 129.122
+},
+{
+"id": "w348",
+"text": "in",
+"start": 129.147,
+"end": 129.323
+},
+{
+"id": "w349",
+"text": "an",
+"start": 129.339,
+"end": 129.515
+},
+{
+"id": "w350",
+"text": "instant.",
+"start": 129.53,
+"end": 130.0
+},
+{
+"id": "w351",
+"text": "So",
+"start": 130.819,
+"end": 131.014
+},
+{
+"id": "w352",
+"text": "how",
+"start": 131.031,
+"end": 131.291
+},
+{
+"id": "w353",
+"text": "likely",
+"start": 131.314,
+"end": 131.769
+},
+{
+"id": "w354",
+"text": "is",
+"start": 131.808,
+"end": 132.003
+},
+{
+"id": "w355",
+"text": "it?",
+"start": 132.02,
+"end": 132.215
+},
+{
+"id": "w356",
+"text": "Here's",
+"start": 132.913,
+"end": 133.168
+},
+{
+"id": "w357",
+"text": "the",
+"start": 133.19,
+"end": 133.359
+},
+{
+"id": "w358",
+"text": "careful",
+"start": 133.374,
+"end": 133.714
+},
+{
+"id": "w359",
+"text": "answer.",
+"start": 133.743,
+"end": 134.04
+},
+{
+"id": "w360",
+"text": "A",
+"start": 134.325,
+"end": 134.45
+},
+{
+"id": "w361",
+"text": "recent",
+"start": 134.461,
+"end": 134.899
+},
+{
+"id": "w362",
+"text": "USGS",
+"start": 134.937,
+"end": 135.25
+},
+{
+"id": "w363",
+"text": "fact",
+"start": 135.277,
+"end": 135.59
+},
+{
+"id": "w364",
+"text": "sheet",
+"start": 135.617,
+"end": 135.993
+},
+{
+"id": "w365",
+"text": "puts",
+"start": 136.025,
+"end": 136.338
+},
+{
+"id": "w366",
+"text": "the",
+"start": 136.365,
+"end": 136.615
+},
+{
+"id": "w367",
+"text": "chance",
+"start": 136.637,
+"end": 137.075
+},
+{
+"id": "w368",
+"text": "of",
+"start": 137.113,
+"end": 137.301
+},
+{
+"id": "w369",
+"text": "a",
+"start": 137.317,
+"end": 137.442
+},
+{
+"id": "w370",
+"text": "roughly",
+"start": 137.453,
+"end": 137.954
+},
+{
+"id": "w371",
+"text": "magnitude",
+"start": 137.997,
+"end": 138.623
+},
+{
+"id": "w372",
+"text": "9",
+"start": 138.677,
+"end": 138.803
+},
+{
+"id": "w373",
+"text": "earthquake",
+"start": 138.813,
+"end": 139.502
+},
+{
+"id": "w374",
+"text": "along",
+"start": 139.562,
+"end": 139.937
+},
+{
+"id": "w375",
+"text": "the",
+"start": 139.97,
+"end": 140.22
+},
+{
+"id": "w376",
+"text": "whole",
+"start": 140.242,
+"end": 140.617
+},
+{
+"id": "w377",
+"text": "zone",
+"start": 140.65,
+"end": 140.962
+},
+{
+"id": "w378",
+"text": "at",
+"start": 140.99,
+"end": 141.177
+},
+{
+"id": "w379",
+"text": "about",
+"start": 141.194,
+"end": 141.569
+},
+{
+"id": "w380",
+"text": "10",
+"start": 141.602,
+"end": 141.789
+},
+{
+"id": "w381",
+"text": "to",
+"start": 141.806,
+"end": 141.993
+},
+{
+"id": "w382",
+"text": "15",
+"start": 142.01,
+"end": 142.197
+},
+{
+"id": "w383",
+"text": "percent",
+"start": 142.214,
+"end": 142.714
+},
+{
+"id": "w384",
+"text": "over",
+"start": 142.758,
+"end": 143.071
+},
+{
+"id": "w385",
+"text": "the",
+"start": 143.098,
+"end": 143.348
+},
+{
+"id": "w386",
+"text": "next",
+"start": 143.37,
+"end": 143.683
+},
+{
+"id": "w387",
+"text": "50",
+"start": 143.71,
+"end": 143.898
+},
+{
+"id": "w388",
+"text": "years.",
+"start": 143.914,
+"end": 144.289
+},
+{
+"id": "w389",
+"text": "About",
+"start": 144.639,
+"end": 144.977
+},
+{
+"id": "w390",
+"text": "10",
+"start": 145.006,
+"end": 145.175
+},
+{
+"id": "w391",
+"text": "percent",
+"start": 145.19,
+"end": 145.641
+},
+{
+"id": "w392",
+"text": "if",
+"start": 145.68,
+"end": 145.849
+},
+{
+"id": "w393",
+"text": "you",
+"start": 145.863,
+"end": 146.089
+},
+{
+"id": "w394",
+"text": "assume",
+"start": 146.108,
+"end": 146.503
+},
+{
+"id": "w395",
+"text": "earthquakes",
+"start": 146.537,
+"end": 147.213
+},
+{
+"id": "w396",
+"text": "happen",
+"start": 147.271,
+"end": 147.666
+},
+{
+"id": "w397",
+"text": "at",
+"start": 147.7,
+"end": 147.869
+},
+{
+"id": "w398",
+"text": "random,",
+"start": 147.884,
+"end": 148.278
+},
+{
+"id": "w399",
+"text": "and",
+"start": 148.312,
+"end": 148.537
+},
+{
+"id": "w400",
+"text": "about",
+"start": 148.557,
+"end": 148.895
+},
+{
+"id": "w401",
+"text": "15",
+"start": 148.924,
+"end": 149.093
+},
+{
+"id": "w402",
+"text": "percent",
+"start": 149.108,
+"end": 149.559
+},
+{
+"id": "w403",
+"text": "if",
+"start": 149.598,
+"end": 149.767
+},
+{
+"id": "w404",
+"text": "you",
+"start": 149.781,
+"end": 150.007
+},
+{
+"id": "w405",
+"text": "factor",
+"start": 150.026,
+"end": 150.421
+},
+{
+"id": "w406",
+"text": "in",
+"start": 150.455,
+"end": 150.624
+},
+{
+"id": "w407",
+"text": "that",
+"start": 150.639,
+"end": 150.92
+},
+{
+"id": "w408",
+"text": "the",
+"start": 150.945,
+"end": 151.17
+},
+{
+"id": "w409",
+"text": "last",
+"start": 151.19,
+"end": 151.471
+},
+{
+"id": "w410",
+"text": "big",
+"start": 151.496,
+"end": 151.721
+},
+{
+"id": "w411",
+"text": "one",
+"start": 151.74,
+"end": 151.966
+},
+{
+"id": "w412",
+"text": "was",
+"start": 151.985,
+"end": 152.211
+},
+{
+"id": "w413",
+"text": "in",
+"start": 152.23,
+"end": 152.399
+},
+{
+"id": "w414",
+"text": "1700.",
+"start": 152.414,
+"end": 152.696
+},
+{
+"id": "w415",
+"text": "You'll",
+"start": 153.029,
+"end": 153.41
+},
+{
+"id": "w416",
+"text": "see",
+"start": 153.443,
+"end": 153.698
+},
+{
+"id": "w417",
+"text": "higher",
+"start": 153.72,
+"end": 154.165
+},
+{
+"id": "w418",
+"text": "numbers,",
+"start": 154.203,
+"end": 154.712
+},
+{
+"id": "w419",
+"text": "like",
+"start": 154.756,
+"end": 155.073
+},
+{
+"id": "w420",
+"text": "one",
+"start": 155.101,
+"end": 155.355
+},
+{
+"id": "w421",
+"text": "in",
+"start": 155.377,
+"end": 155.568
+},
+{
+"id": "w422",
+"text": "three,",
+"start": 155.585,
+"end": 155.966
+},
+{
+"id": "w423",
+"text": "in",
+"start": 155.999,
+"end": 156.19
+},
+{
+"id": "w424",
+"text": "older",
+"start": 156.206,
+"end": 156.587
+},
+{
+"id": "w425",
+"text": "work.",
+"start": 156.621,
+"end": 156.938
+},
+{
+"id": "w426",
+"text": "Those",
+"start": 157.194,
+"end": 157.474
+},
+{
+"id": "w427",
+"text": "cover",
+"start": 157.499,
+"end": 157.779
+},
+{
+"id": "w428",
+"text": "a",
+"start": 157.803,
+"end": 157.897
+},
+{
+"id": "w429",
+"text": "broader",
+"start": 157.905,
+"end": 158.279
+},
+{
+"id": "w430",
+"text": "group",
+"start": 158.311,
+"end": 158.591
+},
+{
+"id": "w431",
+"text": "of",
+"start": 158.616,
+"end": 158.756
+},
+{
+"id": "w432",
+"text": "large",
+"start": 158.768,
+"end": 159.048
+},
+{
+"id": "w433",
+"text": "earthquakes,",
+"start": 159.073,
+"end": 159.633
+},
+{
+"id": "w434",
+"text": "not",
+"start": 159.818,
+"end": 160.047
+},
+{
+"id": "w435",
+"text": "just",
+"start": 160.066,
+"end": 160.352
+},
+{
+"id": "w436",
+"text": "a",
+"start": 160.377,
+"end": 160.491
+},
+{
+"id": "w437",
+"text": "full",
+"start": 160.501,
+"end": 160.787
+},
+{
+"id": "w438",
+"text": "magnitude",
+"start": 160.812,
+"end": 161.383
+},
+{
+"id": "w439",
+"text": "9",
+"start": 161.433,
+"end": 161.547
+},
+{
+"id": "w440",
+"text": "rupture.",
+"start": 161.557,
+"end": 162.014
+},
+{
+"id": "w441",
+"text": "They're",
+"start": 162.252,
+"end": 162.497
+},
+{
+"id": "w442",
+"text": "not",
+"start": 162.518,
+"end": 162.658
+},
+{
+"id": "w443",
+"text": "the",
+"start": 162.67,
+"end": 162.81
+},
+{
+"id": "w444",
+"text": "same",
+"start": 162.823,
+"end": 162.997
+},
+{
+"id": "w445",
+"text": "question.",
+"start": 163.013,
+"end": 163.328
+},
+{
+"id": "w446",
+"text": "What",
+"start": 164.086,
+"end": 164.321
+},
+{
+"id": "w447",
+"text": "does",
+"start": 164.341,
+"end": 164.577
+},
+{
+"id": "w448",
+"text": "that",
+"start": 164.597,
+"end": 164.832
+},
+{
+"id": "w449",
+"text": "mean?",
+"start": 164.852,
+"end": 165.088
+},
+{
+"id": "w450",
+"text": "Not",
+"start": 165.586,
+"end": 165.87
+},
+{
+"id": "w451",
+"text": "tomorrow,",
+"start": 165.894,
+"end": 166.533
+},
+{
+"id": "w452",
+"text": "and",
+"start": 166.915,
+"end": 167.25
+},
+{
+"id": "w453",
+"text": "not",
+"start": 167.279,
+"end": 167.614
+},
+{
+"id": "w454",
+"text": "\"overdue\".",
+"start": 167.643,
+"end": 168.313
+},
+{
+"id": "w455",
+"text": "Just",
+"start": 168.809,
+"end": 169.089
+},
+{
+"id": "w456",
+"text": "a",
+"start": 169.113,
+"end": 169.225
+},
+{
+"id": "w457",
+"text": "real,",
+"start": 169.235,
+"end": 169.515
+},
+{
+"id": "w458",
+"text": "serious",
+"start": 169.539,
+"end": 169.987
+},
+{
+"id": "w459",
+"text": "chance",
+"start": 170.026,
+"end": 170.417
+},
+{
+"id": "w460",
+"text": "in",
+"start": 170.451,
+"end": 170.619
+},
+{
+"id": "w461",
+"text": "the",
+"start": 170.634,
+"end": 170.858
+},
+{
+"id": "w462",
+"text": "lifetime",
+"start": 170.877,
+"end": 171.381
+},
+{
+"id": "w463",
+"text": "of",
+"start": 171.425,
+"end": 171.593
+},
+{
+"id": "w464",
+"text": "a",
+"start": 171.607,
+"end": 171.719
+},
+{
+"id": "w465",
+"text": "child",
+"start": 171.729,
+"end": 172.065
+},
+{
+"id": "w466",
+"text": "born",
+"start": 172.094,
+"end": 172.374
+},
+{
+"id": "w467",
+"text": "today.",
+"start": 172.398,
+"end": 172.734
+},
+{
+"id": "w468",
+"text": "Now,",
+"start": 173.798,
+"end": 174.213
+},
+{
+"id": "w469",
+"text": "back",
+"start": 174.395,
+"end": 174.63
+},
+{
+"id": "w470",
+"text": "to",
+"start": 174.65,
+"end": 174.791
+},
+{
+"id": "w471",
+"text": "our",
+"start": 174.803,
+"end": 174.991
+},
+{
+"id": "w472",
+"text": "morning.",
+"start": 175.008,
+"end": 175.383
+},
+{
+"id": "w473",
+"text": "What",
+"start": 175.66,
+"end": 175.874
+},
+{
+"id": "w474",
+"text": "would",
+"start": 175.893,
+"end": 176.15
+},
+{
+"id": "w475",
+"text": "the",
+"start": 176.172,
+"end": 176.344
+},
+{
+"id": "w476",
+"text": "shaking",
+"start": 176.359,
+"end": 176.701
+},
+{
+"id": "w477",
+"text": "feel",
+"start": 176.731,
+"end": 176.945
+},
+{
+"id": "w478",
+"text": "like?",
+"start": 176.964,
+"end": 177.178
+},
+{
+"id": "w479",
+"text": "The",
+"start": 177.475,
+"end": 177.712
+},
+{
+"id": "w480",
+"text": "last",
+"start": 177.733,
+"end": 178.029
+},
+{
+"id": "w481",
+"text": "one",
+"start": 178.055,
+"end": 178.292
+},
+{
+"id": "w482",
+"text": "struck",
+"start": 178.312,
+"end": 178.727
+},
+{
+"id": "w483",
+"text": "around",
+"start": 178.763,
+"end": 179.178
+},
+{
+"id": "w484",
+"text": "nine",
+"start": 179.214,
+"end": 179.511
+},
+{
+"id": "w485",
+"text": "o'clock",
+"start": 179.537,
+"end": 179.951
+},
+{
+"id": "w486",
+"text": "on",
+"start": 179.987,
+"end": 180.165
+},
+{
+"id": "w487",
+"text": "a",
+"start": 180.181,
+"end": 180.299
+},
+{
+"id": "w488",
+"text": "late",
+"start": 180.31,
+"end": 180.606
+},
+{
+"id": "w489",
+"text": "January",
+"start": 180.632,
+"end": 181.106
+},
+{
+"id": "w490",
+"text": "night",
+"start": 181.147,
+"end": 181.503
+},
+{
+"id": "w491",
+"text": "in",
+"start": 181.534,
+"end": 181.711
+},
+{
+"id": "w492",
+"text": "1700.",
+"start": 181.727,
+"end": 182.023
+},
+{
+"id": "w493",
+"text": "The",
+"start": 182.274,
+"end": 182.471
+},
+{
+"id": "w494",
+"text": "authors",
+"start": 182.488,
+"end": 182.882
+},
+{
+"id": "w495",
+"text": "of",
+"start": 182.916,
+"end": 183.064
+},
+{
+"id": "w496",
+"text": "Oregon's",
+"start": 183.076,
+"end": 183.47
+},
+{
+"id": "w497",
+"text": "own",
+"start": 183.504,
+"end": 183.701
+},
+{
+"id": "w498",
+"text": "resilience",
+"start": 183.718,
+"end": 184.26
+},
+{
+"id": "w499",
+"text": "plan",
+"start": 184.307,
+"end": 184.553
+},
+{
+"id": "w500",
+"text": "point",
+"start": 184.574,
+"end": 184.87
+},
+{
+"id": "w501",
+"text": "out",
+"start": 184.895,
+"end": 185.092
+},
+{
+"id": "w502",
+"text": "the",
+"start": 185.109,
+"end": 185.306
+},
+{
+"id": "w503",
+"text": "next",
+"start": 185.323,
+"end": 185.569
+},
+{
+"id": "w504",
+"text": "one",
+"start": 185.591,
+"end": 185.788
+},
+{
+"id": "w505",
+"text": "could",
+"start": 185.805,
+"end": 186.1
+},
+{
+"id": "w506",
+"text": "just",
+"start": 186.126,
+"end": 186.372
+},
+{
+"id": "w507",
+"text": "as",
+"start": 186.393,
+"end": 186.541
+},
+{
+"id": "w508",
+"text": "easily",
+"start": 186.554,
+"end": 186.898
+},
+{
+"id": "w509",
+"text": "shake",
+"start": 186.928,
+"end": 187.223
+},
+{
+"id": "w510",
+"text": "a",
+"start": 187.249,
+"end": 187.348
+},
+{
+"id": "w511",
+"text": "mid-July",
+"start": 187.356,
+"end": 187.75
+},
+{
+"id": "w512",
+"text": "morning,",
+"start": 187.784,
+"end": 188.178
+},
+{
+"id": "w513",
+"text": "with",
+"start": 188.355,
+"end": 188.584
+},
+{
+"id": "w514",
+"text": "hundreds",
+"start": 188.604,
+"end": 189.015
+},
+{
+"id": "w515",
+"text": "of",
+"start": 189.051,
+"end": 189.188
+},
+{
+"id": "w516",
+"text": "thousands",
+"start": 189.2,
+"end": 189.658
+},
+{
+"id": "w517",
+"text": "of",
+"start": 189.697,
+"end": 189.835
+},
+{
+"id": "w518",
+"text": "Oregonians",
+"start": 189.846,
+"end": 190.35
+},
+{
+"id": "w519",
+"text": "and",
+"start": 190.393,
+"end": 190.576
+},
+{
+"id": "w520",
+"text": "visitors",
+"start": 190.592,
+"end": 191.004
+},
+{
+"id": "w521",
+"text": "at",
+"start": 191.04,
+"end": 191.177
+},
+{
+"id": "w522",
+"text": "the",
+"start": 191.189,
+"end": 191.372
+},
+{
+"id": "w523",
+"text": "coast.",
+"start": 191.388,
+"end": 191.662
+},
+{
+"id": "w524",
+"text": "No",
+"start": 192.113,
+"end": 192.234
+},
+{
+"id": "w525",
+"text": "one",
+"start": 192.245,
+"end": 192.407
+},
+{
+"id": "w526",
+"text": "can",
+"start": 192.421,
+"end": 192.583
+},
+{
+"id": "w527",
+"text": "predict",
+"start": 192.597,
+"end": 192.921
+},
+{
+"id": "w528",
+"text": "it.",
+"start": 192.949,
+"end": 193.07
+},
+{
+"id": "w529",
+"text": "The",
+"start": 193.617,
+"end": 193.839
+},
+{
+"id": "w530",
+"text": "key",
+"start": 193.858,
+"end": 194.08
+},
+{
+"id": "w531",
+"text": "difference",
+"start": 194.099,
+"end": 194.709
+},
+{
+"id": "w532",
+"text": "from",
+"start": 194.763,
+"end": 195.04
+},
+{
+"id": "w533",
+"text": "a",
+"start": 195.064,
+"end": 195.175
+},
+{
+"id": "w534",
+"text": "typical",
+"start": 195.185,
+"end": 195.628
+},
+{
+"id": "w535",
+"text": "California",
+"start": 195.667,
+"end": 196.277
+},
+{
+"id": "w536",
+"text": "quake",
+"start": 196.33,
+"end": 196.663
+},
+{
+"id": "w537",
+"text": "is",
+"start": 196.692,
+"end": 196.858
+},
+{
+"id": "w538",
+"text": "how",
+"start": 196.873,
+"end": 197.095
+},
+{
+"id": "w539",
+"text": "long",
+"start": 197.114,
+"end": 197.391
+},
+{
+"id": "w540",
+"text": "it",
+"start": 197.415,
+"end": 197.582
+},
+{
+"id": "w541",
+"text": "lasts.",
+"start": 197.596,
+"end": 197.929
+},
+{
+"id": "w542",
+"text": "State",
+"start": 198.138,
+"end": 198.427
+},
+{
+"id": "w543",
+"text": "geologists",
+"start": 198.452,
+"end": 198.982
+},
+{
+"id": "w544",
+"text": "in",
+"start": 199.028,
+"end": 199.172
+},
+{
+"id": "w545",
+"text": "Oregon",
+"start": 199.185,
+"end": 199.522
+},
+{
+"id": "w546",
+"text": "have",
+"start": 199.551,
+"end": 199.792
+},
+{
+"id": "w547",
+"text": "said",
+"start": 199.813,
+"end": 200.053
+},
+{
+"id": "w548",
+"text": "shaking",
+"start": 200.074,
+"end": 200.46
+},
+{
+"id": "w549",
+"text": "could",
+"start": 200.493,
+"end": 200.782
+},
+{
+"id": "w550",
+"text": "last",
+"start": 200.807,
+"end": 201.048
+},
+{
+"id": "w551",
+"text": "several",
+"start": 201.069,
+"end": 201.454
+},
+{
+"id": "w552",
+"text": "minutes.",
+"start": 201.487,
+"end": 201.873
+},
+{
+"id": "w553",
+"text": "Some",
+"start": 202.22,
+"end": 202.419
+},
+{
+"id": "w554",
+"text": "of",
+"start": 202.436,
+"end": 202.556
+},
+{
+"id": "w555",
+"text": "their",
+"start": 202.566,
+"end": 202.805
+},
+{
+"id": "w556",
+"text": "briefings",
+"start": 202.826,
+"end": 203.224
+},
+{
+"id": "w557",
+"text": "have",
+"start": 203.258,
+"end": 203.458
+},
+{
+"id": "w558",
+"text": "said",
+"start": 203.475,
+"end": 203.674
+},
+{
+"id": "w559",
+"text": "three",
+"start": 203.691,
+"end": 203.93
+},
+{
+"id": "w560",
+"text": "to",
+"start": 203.951,
+"end": 204.07
+},
+{
+"id": "w561",
+"text": "five.",
+"start": 204.081,
+"end": 204.28
+},
+{
+"id": "w562",
+"text": "Several",
+"start": 204.659,
+"end": 205.003
+},
+{
+"id": "w563",
+"text": "minutes.",
+"start": 205.032,
+"end": 205.376
+},
+{
+"id": "w564",
+"text": "That's",
+"start": 205.968,
+"end": 206.196
+},
+{
+"id": "w565",
+"text": "long",
+"start": 206.216,
+"end": 206.406
+},
+{
+"id": "w566",
+"text": "enough",
+"start": 206.423,
+"end": 206.689
+},
+{
+"id": "w567",
+"text": "to",
+"start": 206.712,
+"end": 206.827
+},
+{
+"id": "w568",
+"text": "be",
+"start": 206.837,
+"end": 206.951
+},
+{
+"id": "w569",
+"text": "frightening,",
+"start": 206.961,
+"end": 207.417
+},
+{
+"id": "w570",
+"text": "long",
+"start": 207.58,
+"end": 207.783
+},
+{
+"id": "w571",
+"text": "enough",
+"start": 207.8,
+"end": 208.084
+},
+{
+"id": "w572",
+"text": "to",
+"start": 208.108,
+"end": 208.23
+},
+{
+"id": "w573",
+"text": "damage",
+"start": 208.24,
+"end": 208.524
+},
+{
+"id": "w574",
+"text": "buildings,",
+"start": 208.549,
+"end": 208.954
+},
+{
+"id": "w575",
+"text": "and",
+"start": 209.247,
+"end": 209.401
+},
+{
+"id": "w576",
+"text": "long",
+"start": 209.414,
+"end": 209.607
+},
+{
+"id": "w577",
+"text": "enough",
+"start": 209.624,
+"end": 209.893
+},
+{
+"id": "w578",
+"text": "that",
+"start": 209.917,
+"end": 210.109
+},
+{
+"id": "w579",
+"text": "you'd",
+"start": 210.126,
+"end": 210.318
+},
+{
+"id": "w580",
+"text": "want",
+"start": 210.335,
+"end": 210.527
+},
+{
+"id": "w581",
+"text": "to",
+"start": 210.544,
+"end": 210.66
+},
+{
+"id": "w582",
+"text": "know",
+"start": 210.67,
+"end": 210.862
+},
+{
+"id": "w583",
+"text": "exactly",
+"start": 210.879,
+"end": 211.187
+},
+{
+"id": "w584",
+"text": "what",
+"start": 211.214,
+"end": 211.406
+},
+{
+"id": "w585",
+"text": "to",
+"start": 211.423,
+"end": 211.538
+},
+{
+"id": "w586",
+"text": "do.",
+"start": 211.548,
+"end": 211.664
+},
+{
+"id": "w587",
+"text": "Could",
+"start": 212.579,
+"end": 212.811
+},
+{
+"id": "w588",
+"text": "your",
+"start": 212.831,
+"end": 213.024
+},
+{
+"id": "w589",
+"text": "phone",
+"start": 213.041,
+"end": 213.272
+},
+{
+"id": "w590",
+"text": "warn",
+"start": 213.292,
+"end": 213.486
+},
+{
+"id": "w591",
+"text": "you",
+"start": 213.502,
+"end": 213.657
+},
+{
+"id": "w592",
+"text": "first?",
+"start": 213.67,
+"end": 213.902
+},
+{
+"id": "w593",
+"text": "Sometimes,",
+"start": 214.282,
+"end": 214.893
+},
+{
+"id": "w594",
+"text": "yes.",
+"start": 214.946,
+"end": 215.191
+},
+{
+"id": "w595",
+"text": "There's",
+"start": 215.641,
+"end": 216.022
+},
+{
+"id": "w596",
+"text": "a",
+"start": 216.055,
+"end": 216.164
+},
+{
+"id": "w597",
+"text": "system",
+"start": 216.174,
+"end": 216.555
+},
+{
+"id": "w598",
+"text": "called",
+"start": 216.588,
+"end": 216.969
+},
+{
+"id": "w599",
+"text": "ShakeAlert,",
+"start": 217.003,
+"end": 217.602
+},
+{
+"id": "w600",
+"text": "run",
+"start": 217.654,
+"end": 217.872
+},
+{
+"id": "w601",
+"text": "by",
+"start": 217.891,
+"end": 218.054
+},
+{
+"id": "w602",
+"text": "the",
+"start": 218.068,
+"end": 218.286
+},
+{
+"id": "w603",
+"text": "USGS.",
+"start": 218.305,
+"end": 218.577
+},
+{
+"id": "w604",
+"text": "It",
+"start": 219.006,
+"end": 219.138
+},
+{
+"id": "w605",
+"text": "doesn't",
+"start": 219.149,
+"end": 219.456
+},
+{
+"id": "w606",
+"text": "predict",
+"start": 219.483,
+"end": 219.833
+},
+{
+"id": "w607",
+"text": "earthquakes.",
+"start": 219.864,
+"end": 220.39
+},
+{
+"id": "w608",
+"text": "It",
+"start": 220.703,
+"end": 220.843
+},
+{
+"id": "w609",
+"text": "detects",
+"start": 220.856,
+"end": 221.23
+},
+{
+"id": "w610",
+"text": "one",
+"start": 221.262,
+"end": 221.45
+},
+{
+"id": "w611",
+"text": "that",
+"start": 221.466,
+"end": 221.7
+},
+{
+"id": "w612",
+"text": "has",
+"start": 221.72,
+"end": 221.907
+},
+{
+"id": "w613",
+"text": "already",
+"start": 221.924,
+"end": 222.298
+},
+{
+"id": "w614",
+"text": "started,",
+"start": 222.331,
+"end": 222.705
+},
+{
+"id": "w615",
+"text": "and",
+"start": 222.737,
+"end": 222.925
+},
+{
+"id": "w616",
+"text": "works",
+"start": 222.941,
+"end": 223.222
+},
+{
+"id": "w617",
+"text": "out",
+"start": 223.246,
+"end": 223.433
+},
+{
+"id": "w618",
+"text": "where",
+"start": 223.449,
+"end": 223.73
+},
+{
+"id": "w619",
+"text": "it",
+"start": 223.755,
+"end": 223.895
+},
+{
+"id": "w620",
+"text": "is",
+"start": 223.907,
+"end": 224.048
+},
+{
+"id": "w621",
+"text": "and",
+"start": 224.06,
+"end": 224.247
+},
+{
+"id": "w622",
+"text": "how",
+"start": 224.263,
+"end": 224.45
+},
+{
+"id": "w623",
+"text": "big,",
+"start": 224.467,
+"end": 224.654
+},
+{
+"id": "w624",
+"text": "within",
+"start": 224.67,
+"end": 224.998
+},
+{
+"id": "w625",
+"text": "seconds.",
+"start": 225.026,
+"end": 225.4
+},
+{
+"id": "w626",
+"text": "Then",
+"start": 225.854,
+"end": 226.052
+},
+{
+"id": "w627",
+"text": "it",
+"start": 226.069,
+"end": 226.187
+},
+{
+"id": "w628",
+"text": "sends",
+"start": 226.198,
+"end": 226.435
+},
+{
+"id": "w629",
+"text": "an",
+"start": 226.455,
+"end": 226.574
+},
+{
+"id": "w630",
+"text": "alert,",
+"start": 226.584,
+"end": 226.821
+},
+{
+"id": "w631",
+"text": "and",
+"start": 226.974,
+"end": 227.158
+},
+{
+"id": "w632",
+"text": "the",
+"start": 227.174,
+"end": 227.359
+},
+{
+"id": "w633",
+"text": "alert",
+"start": 227.375,
+"end": 227.651
+},
+{
+"id": "w634",
+"text": "travels",
+"start": 227.675,
+"end": 228.044
+},
+{
+"id": "w635",
+"text": "almost",
+"start": 228.076,
+"end": 228.398
+},
+{
+"id": "w636",
+"text": "instantly,",
+"start": 228.426,
+"end": 228.887
+},
+{
+"id": "w637",
+"text": "much",
+"start": 229.101,
+"end": 229.329
+},
+{
+"id": "w638",
+"text": "faster",
+"start": 229.349,
+"end": 229.669
+},
+{
+"id": "w639",
+"text": "than",
+"start": 229.697,
+"end": 229.925
+},
+{
+"id": "w640",
+"text": "the",
+"start": 229.945,
+"end": 230.128
+},
+{
+"id": "w641",
+"text": "shaking",
+"start": 230.143,
+"end": 230.509
+},
+{
+"id": "w642",
+"text": "itself,",
+"start": 230.541,
+"end": 230.86
+},
+{
+"id": "w643",
+"text": "which",
+"start": 231.211,
+"end": 231.46
+},
+{
+"id": "w644",
+"text": "moves",
+"start": 231.482,
+"end": 231.731
+},
+{
+"id": "w645",
+"text": "at",
+"start": 231.753,
+"end": 231.878
+},
+{
+"id": "w646",
+"text": "just",
+"start": 231.888,
+"end": 232.096
+},
+{
+"id": "w647",
+"text": "a",
+"start": 232.114,
+"end": 232.197
+},
+{
+"id": "w648",
+"text": "few",
+"start": 232.205,
+"end": 232.371
+},
+{
+"id": "w649",
+"text": "kilometers",
+"start": 232.385,
+"end": 232.842
+},
+{
+"id": "w650",
+"text": "per",
+"start": 232.882,
+"end": 233.048
+},
+{
+"id": "w651",
+"text": "second.",
+"start": 233.063,
+"end": 233.354
+},
+{
+"id": "w652",
+"text": "That's",
+"start": 233.958,
+"end": 234.271
+},
+{
+"id": "w653",
+"text": "a",
+"start": 234.298,
+"end": 234.403
+},
+{
+"id": "w654",
+"text": "gap",
+"start": 234.412,
+"end": 234.62
+},
+{
+"id": "w655",
+"text": "measured",
+"start": 234.639,
+"end": 235.108
+},
+{
+"id": "w656",
+"text": "in",
+"start": 235.149,
+"end": 235.306
+},
+{
+"id": "w657",
+"text": "seconds,",
+"start": 235.319,
+"end": 235.737
+},
+{
+"id": "w658",
+"text": "and",
+"start": 236.003,
+"end": 236.176
+},
+{
+"id": "w659",
+"text": "seconds",
+"start": 236.191,
+"end": 236.538
+},
+{
+"id": "w660",
+"text": "are",
+"start": 236.568,
+"end": 236.741
+},
+{
+"id": "w661",
+"text": "enough",
+"start": 236.756,
+"end": 237.059
+},
+{
+"id": "w662",
+"text": "to",
+"start": 237.085,
+"end": 237.215
+},
+{
+"id": "w663",
+"text": "Drop,",
+"start": 237.227,
+"end": 237.443
+},
+{
+"id": "w664",
+"text": "Cover,",
+"start": 237.6,
+"end": 237.933
+},
+{
+"id": "w665",
+"text": "and",
+"start": 237.962,
+"end": 238.184
+},
+{
+"id": "w666",
+"text": "Hold",
+"start": 238.204,
+"end": 238.482
+},
+{
+"id": "w667",
+"text": "On,",
+"start": 238.506,
+"end": 238.672
+},
+{
+"id": "w668",
+"text": "or",
+"start": 238.687,
+"end": 238.853
+},
+{
+"id": "w669",
+"text": "to",
+"start": 238.868,
+"end": 239.035
+},
+{
+"id": "w670",
+"text": "let",
+"start": 239.049,
+"end": 239.271
+},
+{
+"id": "w671",
+"text": "automated",
+"start": 239.291,
+"end": 239.846
+},
+{
+"id": "w672",
+"text": "systems",
+"start": 239.894,
+"end": 240.339
+},
+{
+"id": "w673",
+"text": "act.",
+"start": 240.377,
+"end": 240.6
+},
+{
+"id": "w674",
+"text": "The",
+"start": 241.265,
+"end": 241.486
+},
+{
+"id": "w675",
+"text": "USGS",
+"start": 241.505,
+"end": 241.781
+},
+{
+"id": "w676",
+"text": "lists",
+"start": 241.805,
+"end": 242.137
+},
+{
+"id": "w677",
+"text": "California,",
+"start": 242.165,
+"end": 242.773
+},
+{
+"id": "w678",
+"text": "Oregon,",
+"start": 242.826,
+"end": 243.212
+},
+{
+"id": "w679",
+"text": "and",
+"start": 243.246,
+"end": 243.467
+},
+{
+"id": "w680",
+"text": "Washington",
+"start": 243.486,
+"end": 244.094
+},
+{
+"id": "w681",
+"text": "as",
+"start": 244.146,
+"end": 244.312
+},
+{
+"id": "w682",
+"text": "covered",
+"start": 244.327,
+"end": 244.768
+},
+{
+"id": "w683",
+"text": "states.",
+"start": 244.807,
+"end": 245.193
+},
+{
+"id": "w684",
+"text": "But",
+"start": 245.455,
+"end": 245.657
+},
+{
+"id": "w685",
+"text": "there's",
+"start": 245.674,
+"end": 246.028
+},
+{
+"id": "w686",
+"text": "an",
+"start": 246.058,
+"end": 246.21
+},
+{
+"id": "w687",
+"text": "honest",
+"start": 246.223,
+"end": 246.576
+},
+{
+"id": "w688",
+"text": "limit.",
+"start": 246.607,
+"end": 246.91
+},
+{
+"id": "w689",
+"text": "For",
+"start": 247.192,
+"end": 247.391
+},
+{
+"id": "w690",
+"text": "every",
+"start": 247.408,
+"end": 247.706
+},
+{
+"id": "w691",
+"text": "earthquake,",
+"start": 247.732,
+"end": 248.278
+},
+{
+"id": "w692",
+"text": "there's",
+"start": 248.325,
+"end": 248.673
+},
+{
+"id": "w693",
+"text": "a",
+"start": 248.703,
+"end": 248.803
+},
+{
+"id": "w694",
+"text": "zone",
+"start": 248.811,
+"end": 249.059
+},
+{
+"id": "w695",
+"text": "near",
+"start": 249.081,
+"end": 249.329
+},
+{
+"id": "w696",
+"text": "the",
+"start": 249.351,
+"end": 249.55
+},
+{
+"id": "w697",
+"text": "epicenter",
+"start": 249.567,
+"end": 250.063
+},
+{
+"id": "w698",
+"text": "where",
+"start": 250.107,
+"end": 250.404
+},
+{
+"id": "w699",
+"text": "the",
+"start": 250.43,
+"end": 250.629
+},
+{
+"id": "w700",
+"text": "alert",
+"start": 250.646,
+"end": 250.944
+},
+{
+"id": "w701",
+"text": "arrives",
+"start": 250.97,
+"end": 251.367
+},
+{
+"id": "w702",
+"text": "after",
+"start": 251.402,
+"end": 251.7
+},
+{
+"id": "w703",
+"text": "the",
+"start": 251.726,
+"end": 251.924
+},
+{
+"id": "w704",
+"text": "shaking",
+"start": 251.942,
+"end": 252.339
+},
+{
+"id": "w705",
+"text": "has",
+"start": 252.373,
+"end": 252.572
+},
+{
+"id": "w706",
+"text": "started.",
+"start": 252.589,
+"end": 252.986
+},
+{
+"id": "w707",
+"text": "People",
+"start": 253.182,
+"end": 253.569
+},
+{
+"id": "w708",
+"text": "close",
+"start": 253.603,
+"end": 253.935
+},
+{
+"id": "w709",
+"text": "to",
+"start": 253.964,
+"end": 254.13
+},
+{
+"id": "w710",
+"text": "it",
+"start": 254.144,
+"end": 254.31
+},
+{
+"id": "w711",
+"text": "may",
+"start": 254.325,
+"end": 254.546
+},
+{
+"id": "w712",
+"text": "get",
+"start": 254.565,
+"end": 254.787
+},
+{
+"id": "w713",
+"text": "little",
+"start": 254.806,
+"end": 255.193
+},
+{
+"id": "w714",
+"text": "or",
+"start": 255.227,
+"end": 255.393
+},
+{
+"id": "w715",
+"text": "no",
+"start": 255.407,
+"end": 255.573
+},
+{
+"id": "w716",
+"text": "warning.",
+"start": 255.588,
+"end": 256.031
+},
+{
+"id": "w717",
+"text": "Here's",
+"start": 256.362,
+"end": 256.685
+},
+{
+"id": "w718",
+"text": "where",
+"start": 256.713,
+"end": 257.035
+},
+{
+"id": "w719",
+"text": "the",
+"start": 257.063,
+"end": 257.278
+},
+{
+"id": "w720",
+"text": "coast",
+"start": 257.297,
+"end": 257.619
+},
+{
+"id": "w721",
+"text": "is",
+"start": 257.647,
+"end": 257.809
+},
+{
+"id": "w722",
+"text": "different",
+"start": 257.823,
+"end": 258.36
+},
+{
+"id": "w723",
+"text": "from",
+"start": 258.407,
+"end": 258.676
+},
+{
+"id": "w724",
+"text": "everywhere",
+"start": 258.699,
+"end": 259.29
+},
+{
+"id": "w725",
+"text": "else.",
+"start": 259.342,
+"end": 259.611
+},
+{
+"id": "w726",
+"text": "Right",
+"start": 260.313,
+"end": 260.592
+},
+{
+"id": "w727",
+"text": "after",
+"start": 260.616,
+"end": 260.894
+},
+{
+"id": "w728",
+"text": "the",
+"start": 260.919,
+"end": 261.104
+},
+{
+"id": "w729",
+"text": "shaking",
+"start": 261.12,
+"end": 261.492
+},
+{
+"id": "w730",
+"text": "stops,",
+"start": 261.524,
+"end": 261.803
+},
+{
+"id": "w731",
+"text": "a",
+"start": 261.967,
+"end": 262.064
+},
+{
+"id": "w732",
+"text": "tsunami",
+"start": 262.072,
+"end": 262.459
+},
+{
+"id": "w733",
+"text": "heads",
+"start": 262.493,
+"end": 262.783
+},
+{
+"id": "w734",
+"text": "for",
+"start": 262.808,
+"end": 263.002
+},
+{
+"id": "w735",
+"text": "the",
+"start": 263.018,
+"end": 263.212
+},
+{
+"id": "w736",
+"text": "shore.",
+"start": 263.229,
+"end": 263.519
+},
+{
+"id": "w737",
+"text": "Estimates",
+"start": 263.745,
+"end": 264.23
+},
+{
+"id": "w738",
+"text": "for",
+"start": 264.272,
+"end": 264.466
+},
+{
+"id": "w739",
+"text": "the",
+"start": 264.483,
+"end": 264.677
+},
+{
+"id": "w740",
+"text": "Oregon",
+"start": 264.694,
+"end": 265.034
+},
+{
+"id": "w741",
+"text": "coast",
+"start": 265.063,
+"end": 265.354
+},
+{
+"id": "w742",
+"text": "range",
+"start": 265.379,
+"end": 265.67
+},
+{
+"id": "w743",
+"text": "from",
+"start": 265.696,
+"end": 265.938
+},
+{
+"id": "w744",
+"text": "roughly",
+"start": 265.959,
+"end": 266.347
+},
+{
+"id": "w745",
+"text": "10",
+"start": 266.381,
+"end": 266.527
+},
+{
+"id": "w746",
+"text": "to",
+"start": 266.539,
+"end": 266.685
+},
+{
+"id": "w747",
+"text": "30",
+"start": 266.697,
+"end": 266.843
+},
+{
+"id": "w748",
+"text": "minutes",
+"start": 266.856,
+"end": 267.244
+},
+{
+"id": "w749",
+"text": "after",
+"start": 267.277,
+"end": 267.568
+},
+{
+"id": "w750",
+"text": "the",
+"start": 267.594,
+"end": 267.788
+},
+{
+"id": "w751",
+"text": "shaking",
+"start": 267.805,
+"end": 268.193
+},
+{
+"id": "w752",
+"text": "begins,",
+"start": 268.226,
+"end": 268.566
+},
+{
+"id": "w753",
+"text": "depending",
+"start": 268.596,
+"end": 269.081
+},
+{
+"id": "w754",
+"text": "on",
+"start": 269.123,
+"end": 269.268
+},
+{
+"id": "w755",
+"text": "the",
+"start": 269.281,
+"end": 269.475
+},
+{
+"id": "w756",
+"text": "source",
+"start": 269.492,
+"end": 269.831
+},
+{
+"id": "w757",
+"text": "and",
+"start": 269.861,
+"end": 270.055
+},
+{
+"id": "w758",
+"text": "the",
+"start": 270.072,
+"end": 270.266
+},
+{
+"id": "w759",
+"text": "place.",
+"start": 270.283,
+"end": 270.574
+},
+{
+"id": "w760",
+"text": "In",
+"start": 272.025,
+"end": 272.182
+},
+{
+"id": "w761",
+"text": "Washington,",
+"start": 272.195,
+"end": 272.77
+},
+{
+"id": "w762",
+"text": "a",
+"start": 272.82,
+"end": 272.925
+},
+{
+"id": "w763",
+"text": "state",
+"start": 272.934,
+"end": 273.247
+},
+{
+"id": "w764",
+"text": "assessment",
+"start": 273.274,
+"end": 273.849
+},
+{
+"id": "w765",
+"text": "of",
+"start": 273.899,
+"end": 274.056
+},
+{
+"id": "w766",
+"text": "the",
+"start": 274.069,
+"end": 274.278
+},
+{
+"id": "w767",
+"text": "outer",
+"start": 274.297,
+"end": 274.61
+},
+{
+"id": "w768",
+"text": "coast,",
+"start": 274.637,
+"end": 274.951
+},
+{
+"id": "w769",
+"text": "built",
+"start": 274.978,
+"end": 275.292
+},
+{
+"id": "w770",
+"text": "on",
+"start": 275.319,
+"end": 275.476
+},
+{
+"id": "w771",
+"text": "walk-time",
+"start": 275.489,
+"end": 275.959
+},
+{
+"id": "w772",
+"text": "estimates",
+"start": 276.0,
+"end": 276.523
+},
+{
+"id": "w773",
+"text": "for",
+"start": 276.568,
+"end": 276.777
+},
+{
+"id": "w774",
+"text": "a",
+"start": 276.795,
+"end": 276.9
+},
+{
+"id": "w775",
+"text": "magnitude",
+"start": 276.909,
+"end": 277.431
+},
+{
+"id": "w776",
+"text": "9",
+"start": 277.477,
+"end": 277.581
+},
+{
+"id": "w777",
+"text": "quake,",
+"start": 277.59,
+"end": 277.904
+},
+{
+"id": "w778",
+"text": "found",
+"start": 277.931,
+"end": 278.245
+},
+{
+"id": "w779",
+"text": "that",
+"start": 278.272,
+"end": 278.533
+},
+{
+"id": "w780",
+"text": "people",
+"start": 278.556,
+"end": 278.921
+},
+{
+"id": "w781",
+"text": "may",
+"start": 278.953,
+"end": 279.162
+},
+{
+"id": "w782",
+"text": "have",
+"start": 279.18,
+"end": 279.442
+},
+{
+"id": "w783",
+"text": "only",
+"start": 279.464,
+"end": 279.726
+},
+{
+"id": "w784",
+"text": "10",
+"start": 279.748,
+"end": 279.905
+},
+{
+"id": "w785",
+"text": "to",
+"start": 279.919,
+"end": 280.075
+},
+{
+"id": "w786",
+"text": "15",
+"start": 280.089,
+"end": 280.246
+},
+{
+"id": "w787",
+"text": "minutes",
+"start": 280.259,
+"end": 280.677
+},
+{
+"id": "w788",
+"text": "once",
+"start": 280.714,
+"end": 280.975
+},
+{
+"id": "w789",
+"text": "the",
+"start": 280.998,
+"end": 281.207
+},
+{
+"id": "w790",
+"text": "ground",
+"start": 281.225,
+"end": 281.591
+},
+{
+"id": "w791",
+"text": "stops",
+"start": 281.622,
+"end": 281.936
+},
+{
+"id": "w792",
+"text": "shaking",
+"start": 281.963,
+"end": 282.381
+},
+{
+"id": "w793",
+"text": "to",
+"start": 282.417,
+"end": 282.574
+},
+{
+"id": "w794",
+"text": "reach",
+"start": 282.588,
+"end": 282.901
+},
+{
+"id": "w795",
+"text": "high",
+"start": 282.929,
+"end": 283.19
+},
+{
+"id": "w796",
+"text": "ground.",
+"start": 283.212,
+"end": 283.578
+},
+{
+"id": "w797",
+"text": "And",
+"start": 283.771,
+"end": 284.009
+},
+{
+"id": "w798",
+"text": "here's",
+"start": 284.03,
+"end": 284.387
+},
+{
+"id": "w799",
+"text": "the",
+"start": 284.418,
+"end": 284.656
+},
+{
+"id": "w800",
+"text": "problem.",
+"start": 284.677,
+"end": 285.153
+},
+{
+"id": "w801",
+"text": "Along",
+"start": 285.395,
+"end": 285.692
+},
+{
+"id": "w802",
+"text": "many",
+"start": 285.718,
+"end": 285.965
+},
+{
+"id": "w803",
+"text": "parts",
+"start": 285.987,
+"end": 286.284
+},
+{
+"id": "w804",
+"text": "of",
+"start": 286.309,
+"end": 286.458
+},
+{
+"id": "w805",
+"text": "Washington's",
+"start": 286.471,
+"end": 287.065
+},
+{
+"id": "w806",
+"text": "outer",
+"start": 287.116,
+"end": 287.413
+},
+{
+"id": "w807",
+"text": "coast,",
+"start": 287.439,
+"end": 287.736
+},
+{
+"id": "w808",
+"text": "the",
+"start": 287.762,
+"end": 287.96
+},
+{
+"id": "w809",
+"text": "same",
+"start": 287.977,
+"end": 288.224
+},
+{
+"id": "w810",
+"text": "assessment",
+"start": 288.246,
+"end": 288.79
+},
+{
+"id": "w811",
+"text": "says",
+"start": 288.838,
+"end": 289.085
+},
+{
+"id": "w812",
+"text": "it",
+"start": 289.106,
+"end": 289.255
+},
+{
+"id": "w813",
+"text": "can",
+"start": 289.268,
+"end": 289.466
+},
+{
+"id": "w814",
+"text": "take",
+"start": 289.483,
+"end": 289.73
+},
+{
+"id": "w815",
+"text": "an",
+"start": 289.752,
+"end": 289.9
+},
+{
+"id": "w816",
+"text": "hour",
+"start": 289.913,
+"end": 290.161
+},
+{
+"id": "w817",
+"text": "or",
+"start": 290.182,
+"end": 290.331
+},
+{
+"id": "w818",
+"text": "more",
+"start": 290.344,
+"end": 290.591
+},
+{
+"id": "w819",
+"text": "to",
+"start": 290.613,
+"end": 290.761
+},
+{
+"id": "w820",
+"text": "walk",
+"start": 290.774,
+"end": 291.021
+},
+{
+"id": "w821",
+"text": "to",
+"start": 291.043,
+"end": 291.191
+},
+{
+"id": "w822",
+"text": "high",
+"start": 291.204,
+"end": 291.452
+},
+{
+"id": "w823",
+"text": "ground,",
+"start": 291.473,
+"end": 291.82
+},
+{
+"id": "w824",
+"text": "or",
+"start": 291.85,
+"end": 291.998
+},
+{
+"id": "w825",
+"text": "out",
+"start": 292.011,
+"end": 292.209
+},
+{
+"id": "w826",
+"text": "of",
+"start": 292.226,
+"end": 292.375
+},
+{
+"id": "w827",
+"text": "the",
+"start": 292.388,
+"end": 292.586
+},
+{
+"id": "w828",
+"text": "tsunami",
+"start": 292.603,
+"end": 292.999
+},
+{
+"id": "w829",
+"text": "zone.",
+"start": 293.033,
+"end": 293.28
+},
+{
+"id": "w830",
+"text": "Ten",
+"start": 293.699,
+"end": 293.891
+},
+{
+"id": "w831",
+"text": "to",
+"start": 293.908,
+"end": 294.052
+},
+{
+"id": "w832",
+"text": "fifteen",
+"start": 294.064,
+"end": 294.449
+},
+{
+"id": "w833",
+"text": "minutes",
+"start": 294.482,
+"end": 294.866
+},
+{
+"id": "w834",
+"text": "of",
+"start": 294.9,
+"end": 295.044
+},
+{
+"id": "w835",
+"text": "warning,",
+"start": 295.056,
+"end": 295.441
+},
+{
+"id": "w836",
+"text": "an",
+"start": 295.762,
+"end": 295.948
+},
+{
+"id": "w837",
+"text": "hour",
+"start": 295.965,
+"end": 296.275
+},
+{
+"id": "w838",
+"text": "of",
+"start": 296.302,
+"end": 296.489
+},
+{
+"id": "w839",
+"text": "walking.",
+"start": 296.505,
+"end": 297.002
+},
+{
+"id": "w840",
+"text": "Take",
+"start": 297.427,
+"end": 297.774
+},
+{
+"id": "w841",
+"text": "the",
+"start": 297.804,
+"end": 298.082
+},
+{
+"id": "w842",
+"text": "city",
+"start": 298.106,
+"end": 298.453
+},
+{
+"id": "w843",
+"text": "of",
+"start": 298.483,
+"end": 298.691
+},
+{
+"id": "w844",
+"text": "Seaside,",
+"start": 298.709,
+"end": 299.265
+},
+{
+"id": "w845",
+"text": "Oregon.",
+"start": 299.313,
+"end": 299.799
+},
+{
+"id": "w846",
+"text": "The",
+"start": 300.002,
+"end": 300.211
+},
+{
+"id": "w847",
+"text": "resilience",
+"start": 300.229,
+"end": 300.805
+},
+{
+"id": "w848",
+"text": "plan",
+"start": 300.855,
+"end": 301.116
+},
+{
+"id": "w849",
+"text": "cites",
+"start": 301.139,
+"end": 301.453
+},
+{
+"id": "w850",
+"text": "a",
+"start": 301.48,
+"end": 301.584
+},
+{
+"id": "w851",
+"text": "study",
+"start": 301.594,
+"end": 301.907
+},
+{
+"id": "w852",
+"text": "finding",
+"start": 301.935,
+"end": 302.353
+},
+{
+"id": "w853",
+"text": "that",
+"start": 302.389,
+"end": 302.651
+},
+{
+"id": "w854",
+"text": "83",
+"start": 302.674,
+"end": 302.83
+},
+{
+"id": "w855",
+"text": "percent",
+"start": 302.844,
+"end": 303.262
+},
+{
+"id": "w856",
+"text": "of",
+"start": 303.299,
+"end": 303.456
+},
+{
+"id": "w857",
+"text": "its",
+"start": 303.469,
+"end": 303.679
+},
+{
+"id": "w858",
+"text": "population,",
+"start": 303.697,
+"end": 304.272
+},
+{
+"id": "w859",
+"text": "89",
+"start": 304.51,
+"end": 304.677
+},
+{
+"id": "w860",
+"text": "percent",
+"start": 304.692,
+"end": 305.138
+},
+{
+"id": "w861",
+"text": "of",
+"start": 305.177,
+"end": 305.344
+},
+{
+"id": "w862",
+"text": "its",
+"start": 305.358,
+"end": 305.581
+},
+{
+"id": "w863",
+"text": "employees,",
+"start": 305.601,
+"end": 306.158
+},
+{
+"id": "w864",
+"text": "and",
+"start": 306.207,
+"end": 306.43
+},
+{
+"id": "w865",
+"text": "almost",
+"start": 306.449,
+"end": 306.84
+},
+{
+"id": "w866",
+"text": "all",
+"start": 306.873,
+"end": 307.096
+},
+{
+"id": "w867",
+"text": "of",
+"start": 307.116,
+"end": 307.283
+},
+{
+"id": "w868",
+"text": "its",
+"start": 307.298,
+"end": 307.521
+},
+{
+"id": "w869",
+"text": "critical",
+"start": 307.54,
+"end": 308.042
+},
+{
+"id": "w870",
+"text": "facilities",
+"start": 308.086,
+"end": 308.699
+},
+{
+"id": "w871",
+"text": "sit",
+"start": 308.752,
+"end": 308.975
+},
+{
+"id": "w872",
+"text": "inside",
+"start": 308.995,
+"end": 309.385
+},
+{
+"id": "w873",
+"text": "the",
+"start": 309.419,
+"end": 309.642
+},
+{
+"id": "w874",
+"text": "tsunami",
+"start": 309.661,
+"end": 310.107
+},
+{
+"id": "w875",
+"text": "zone.",
+"start": 310.146,
+"end": 310.425
+},
+{
+"id": "w876",
+"text": "And",
+"start": 310.768,
+"end": 311.009
+},
+{
+"id": "w877",
+"text": "in",
+"start": 311.029,
+"end": 311.21
+},
+{
+"id": "w878",
+"text": "some",
+"start": 311.226,
+"end": 311.526
+},
+{
+"id": "w879",
+"text": "places,",
+"start": 311.552,
+"end": 311.973
+},
+{
+"id": "w880",
+"text": "there",
+"start": 312.151,
+"end": 312.401
+},
+{
+"id": "w881",
+"text": "isn't",
+"start": 312.423,
+"end": 312.632
+},
+{
+"id": "w882",
+"text": "any",
+"start": 312.65,
+"end": 312.817
+},
+{
+"id": "w883",
+"text": "high",
+"start": 312.832,
+"end": 313.04
+},
+{
+"id": "w884",
+"text": "ground",
+"start": 313.059,
+"end": 313.351
+},
+{
+"id": "w885",
+"text": "close",
+"start": 313.376,
+"end": 313.627
+},
+{
+"id": "w886",
+"text": "enough.",
+"start": 313.648,
+"end": 313.941
+},
+{
+"id": "w887",
+"text": "So",
+"start": 314.313,
+"end": 314.447
+},
+{
+"id": "w888",
+"text": "Washington",
+"start": 314.459,
+"end": 314.951
+},
+{
+"id": "w889",
+"text": "has",
+"start": 314.993,
+"end": 315.172
+},
+{
+"id": "w890",
+"text": "started",
+"start": 315.188,
+"end": 315.545
+},
+{
+"id": "w891",
+"text": "building",
+"start": 315.576,
+"end": 315.979
+},
+{
+"id": "w892",
+"text": "towers.",
+"start": 316.014,
+"end": 316.327
+},
+{
+"id": "w893",
+"text": "In",
+"start": 316.495,
+"end": 316.679
+},
+{
+"id": "w894",
+"text": "2016,",
+"start": 316.695,
+"end": 317.002
+},
+{
+"id": "w895",
+"text": "a",
+"start": 317.029,
+"end": 317.152
+},
+{
+"id": "w896",
+"text": "school",
+"start": 317.162,
+"end": 317.592
+},
+{
+"id": "w897",
+"text": "near",
+"start": 317.629,
+"end": 317.936
+},
+{
+"id": "w898",
+"text": "Westport",
+"start": 317.963,
+"end": 318.516
+},
+{
+"id": "w899",
+"text": "called",
+"start": 318.564,
+"end": 318.993
+},
+{
+"id": "w900",
+"text": "Ocosta",
+"start": 319.031,
+"end": 319.461
+},
+{
+"id": "w901",
+"text": "Elementary",
+"start": 319.498,
+"end": 320.173
+},
+{
+"id": "w902",
+"text": "unveiled",
+"start": 320.232,
+"end": 320.784
+},
+{
+"id": "w903",
+"text": "the",
+"start": 320.832,
+"end": 321.078
+},
+{
+"id": "w904",
+"text": "first",
+"start": 321.099,
+"end": 321.468
+},
+{
+"id": "w905",
+"text": "tsunami",
+"start": 321.5,
+"end": 321.991
+},
+{
+"id": "w906",
+"text": "vertical",
+"start": 322.034,
+"end": 322.586
+},
+{
+"id": "w907",
+"text": "evacuation",
+"start": 322.634,
+"end": 323.31
+},
+{
+"id": "w908",
+"text": "structure",
+"start": 323.368,
+"end": 323.982
+},
+{
+"id": "w909",
+"text": "in",
+"start": 324.036,
+"end": 324.22
+},
+{
+"id": "w910",
+"text": "North",
+"start": 324.236,
+"end": 324.604
+},
+{
+"id": "w911",
+"text": "America:",
+"start": 324.636,
+"end": 325.127
+},
+{
+"id": "w912",
+"text": "a",
+"start": 325.392,
+"end": 325.522
+},
+{
+"id": "w913",
+"text": "place",
+"start": 325.534,
+"end": 325.925
+},
+{
+"id": "w914",
+"text": "to",
+"start": 325.959,
+"end": 326.154
+},
+{
+"id": "w915",
+"text": "climb,",
+"start": 326.171,
+"end": 326.562
+},
+{
+"id": "w916",
+"text": "instead",
+"start": 326.817,
+"end": 327.149
+},
+{
+"id": "w917",
+"text": "of",
+"start": 327.178,
+"end": 327.302
+},
+{
+"id": "w918",
+"text": "somewhere",
+"start": 327.313,
+"end": 327.728
+},
+{
+"id": "w919",
+"text": "to",
+"start": 327.764,
+"end": 327.888
+},
+{
+"id": "w920",
+"text": "run",
+"start": 327.899,
+"end": 328.065
+},
+{
+"id": "w921",
+"text": "to.",
+"start": 328.08,
+"end": 328.204
+},
+{
+"id": "w922",
+"text": "The",
+"start": 328.452,
+"end": 328.638
+},
+{
+"id": "w923",
+"text": "state's",
+"start": 328.655,
+"end": 328.981
+},
+{
+"id": "w924",
+"text": "assessment",
+"start": 329.009,
+"end": 329.521
+},
+{
+"id": "w925",
+"text": "found",
+"start": 329.566,
+"end": 329.845
+},
+{
+"id": "w926",
+"text": "that",
+"start": 329.87,
+"end": 330.102
+},
+{
+"id": "w927",
+"text": "dozens",
+"start": 330.123,
+"end": 330.449
+},
+{
+"id": "w928",
+"text": "more",
+"start": 330.477,
+"end": 330.71
+},
+{
+"id": "w929",
+"text": "are",
+"start": 330.73,
+"end": 330.917
+},
+{
+"id": "w930",
+"text": "needed",
+"start": 330.933,
+"end": 331.259
+},
+{
+"id": "w931",
+"text": "on",
+"start": 331.287,
+"end": 331.427
+},
+{
+"id": "w932",
+"text": "the",
+"start": 331.439,
+"end": 331.625
+},
+{
+"id": "w933",
+"text": "outer",
+"start": 331.641,
+"end": 331.921
+},
+{
+"id": "w934",
+"text": "coast.",
+"start": 331.945,
+"end": 332.225
+},
+{
+"id": "w935",
+"text": "The",
+"start": 332.566,
+"end": 332.779
+},
+{
+"id": "w936",
+"text": "sources",
+"start": 332.797,
+"end": 333.222
+},
+{
+"id": "w937",
+"text": "disagree",
+"start": 333.259,
+"end": 333.737
+},
+{
+"id": "w938",
+"text": "a",
+"start": 333.779,
+"end": 333.885
+},
+{
+"id": "w939",
+"text": "little",
+"start": 333.894,
+"end": 334.266
+},
+{
+"id": "w940",
+"text": "on",
+"start": 334.298,
+"end": 334.458
+},
+{
+"id": "w941",
+"text": "exact",
+"start": 334.472,
+"end": 334.79
+},
+{
+"id": "w942",
+"text": "times,",
+"start": 334.818,
+"end": 335.137
+},
+{
+"id": "w943",
+"text": "so",
+"start": 335.165,
+"end": 335.324
+},
+{
+"id": "w944",
+"text": "treat",
+"start": 335.338,
+"end": 335.657
+},
+{
+"id": "w945",
+"text": "them",
+"start": 335.684,
+"end": 335.95
+},
+{
+"id": "w946",
+"text": "as",
+"start": 335.973,
+"end": 336.132
+},
+{
+"id": "w947",
+"text": "a",
+"start": 336.146,
+"end": 336.253
+},
+{
+"id": "w948",
+"text": "window,",
+"start": 336.262,
+"end": 336.634
+},
+{
+"id": "w949",
+"text": "not",
+"start": 336.666,
+"end": 336.879
+},
+{
+"id": "w950",
+"text": "a",
+"start": 336.897,
+"end": 337.003
+},
+{
+"id": "w951",
+"text": "countdown.",
+"start": 337.013,
+"end": 337.544
+},
+{
+"id": "w952",
+"text": "Check",
+"start": 337.764,
+"end": 338.022
+},
+{
+"id": "w953",
+"text": "the",
+"start": 338.045,
+"end": 338.217
+},
+{
+"id": "w954",
+"text": "evacuation",
+"start": 338.232,
+"end": 338.705
+},
+{
+"id": "w955",
+"text": "map",
+"start": 338.746,
+"end": 338.918
+},
+{
+"id": "w956",
+"text": "where",
+"start": 338.933,
+"end": 339.191
+},
+{
+"id": "w957",
+"text": "you",
+"start": 339.213,
+"end": 339.385
+},
+{
+"id": "w958",
+"text": "live.",
+"start": 339.4,
+"end": 339.615
+},
+{
+"id": "w959",
+"text": "Now",
+"start": 340.124,
+"end": 340.305
+},
+{
+"id": "w960",
+"text": "let's",
+"start": 340.321,
+"end": 340.547
+},
+{
+"id": "w961",
+"text": "say",
+"start": 340.566,
+"end": 340.747
+},
+{
+"id": "w962",
+"text": "you",
+"start": 340.763,
+"end": 340.944
+},
+{
+"id": "w963",
+"text": "made",
+"start": 340.96,
+"end": 341.186
+},
+{
+"id": "w964",
+"text": "it",
+"start": 341.205,
+"end": 341.341
+},
+{
+"id": "w965",
+"text": "to",
+"start": 341.353,
+"end": 341.488
+},
+{
+"id": "w966",
+"text": "high",
+"start": 341.5,
+"end": 341.726
+},
+{
+"id": "w967",
+"text": "ground.",
+"start": 341.746,
+"end": 342.062
+},
+{
+"id": "w968",
+"text": "You're",
+"start": 342.262,
+"end": 342.537
+},
+{
+"id": "w969",
+"text": "alive.",
+"start": 342.56,
+"end": 342.835
+},
+{
+"id": "w970",
+"text": "The",
+"start": 342.99,
+"end": 343.151
+},
+{
+"id": "w971",
+"text": "shaking",
+"start": 343.165,
+"end": 343.487
+},
+{
+"id": "w972",
+"text": "has",
+"start": 343.514,
+"end": 343.675
+},
+{
+"id": "w973",
+"text": "stopped,",
+"start": 343.689,
+"end": 344.011
+},
+{
+"id": "w974",
+"text": "the",
+"start": 344.24,
+"end": 344.418
+},
+{
+"id": "w975",
+"text": "wave",
+"start": 344.434,
+"end": 344.657
+},
+{
+"id": "w976",
+"text": "has",
+"start": 344.677,
+"end": 344.855
+},
+{
+"id": "w977",
+"text": "passed.",
+"start": 344.871,
+"end": 345.183
+},
+{
+"id": "w978",
+"text": "And",
+"start": 345.389,
+"end": 345.543
+},
+{
+"id": "w979",
+"text": "this",
+"start": 345.557,
+"end": 345.75
+},
+{
+"id": "w980",
+"text": "is",
+"start": 345.766,
+"end": 345.882
+},
+{
+"id": "w981",
+"text": "where",
+"start": 345.892,
+"end": 346.124
+},
+{
+"id": "w982",
+"text": "the",
+"start": 346.144,
+"end": 346.298
+},
+{
+"id": "w983",
+"text": "trap",
+"start": 346.312,
+"end": 346.504
+},
+{
+"id": "w984",
+"text": "I",
+"start": 346.521,
+"end": 346.598
+},
+{
+"id": "w985",
+"text": "mentioned",
+"start": 346.605,
+"end": 346.991
+},
+{
+"id": "w986",
+"text": "closes.",
+"start": 347.024,
+"end": 347.295
+},
+{
+"id": "w987",
+"text": "Here",
+"start": 347.603,
+"end": 347.894
+},
+{
+"id": "w988",
+"text": "it",
+"start": 347.92,
+"end": 348.095
+},
+{
+"id": "w989",
+"text": "is.",
+"start": 348.11,
+"end": 348.285
+},
+{
+"id": "w990",
+"text": "A",
+"start": 348.661,
+"end": 348.792
+},
+{
+"id": "w991",
+"text": "2019",
+"start": 348.803,
+"end": 349.13
+},
+{
+"id": "w992",
+"text": "Oregon",
+"start": 349.159,
+"end": 349.616
+},
+{
+"id": "w993",
+"text": "Department",
+"start": 349.656,
+"end": 350.375
+},
+{
+"id": "w994",
+"text": "of",
+"start": 350.438,
+"end": 350.634
+},
+{
+"id": "w995",
+"text": "Transportation",
+"start": 350.651,
+"end": 351.632
+},
+{
+"id": "w996",
+"text": "presentation",
+"start": 351.717,
+"end": 352.567
+},
+{
+"id": "w997",
+"text": "put",
+"start": 352.641,
+"end": 352.903
+},
+{
+"id": "w998",
+"text": "it",
+"start": 352.926,
+"end": 353.122
+},
+{
+"id": "w999",
+"text": "in",
+"start": 353.139,
+"end": 353.335
+},
+{
+"id": "w1000",
+"text": "one",
+"start": 353.352,
+"end": 353.614
+},
+{
+"id": "w1001",
+"text": "sentence:",
+"start": 353.636,
+"end": 354.225
+},
+{
+"id": "w1002",
+"text": "you",
+"start": 354.454,
+"end": 354.651
+},
+{
+"id": "w1003",
+"text": "can't",
+"start": 354.668,
+"end": 354.914
+},
+{
+"id": "w1004",
+"text": "get",
+"start": 354.936,
+"end": 355.133
+},
+{
+"id": "w1005",
+"text": "fuel",
+"start": 355.15,
+"end": 355.396
+},
+{
+"id": "w1006",
+"text": "until",
+"start": 355.417,
+"end": 355.713
+},
+{
+"id": "w1007",
+"text": "the",
+"start": 355.739,
+"end": 355.935
+},
+{
+"id": "w1008",
+"text": "bridges",
+"start": 355.953,
+"end": 356.347
+},
+{
+"id": "w1009",
+"text": "are",
+"start": 356.381,
+"end": 356.578
+},
+{
+"id": "w1010",
+"text": "fixed,",
+"start": 356.595,
+"end": 356.89
+},
+{
+"id": "w1011",
+"text": "but",
+"start": 357.357,
+"end": 357.536
+},
+{
+"id": "w1012",
+"text": "you",
+"start": 357.552,
+"end": 357.731
+},
+{
+"id": "w1013",
+"text": "can't",
+"start": 357.747,
+"end": 357.971
+},
+{
+"id": "w1014",
+"text": "fix",
+"start": 357.991,
+"end": 358.17
+},
+{
+"id": "w1015",
+"text": "the",
+"start": 358.186,
+"end": 358.365
+},
+{
+"id": "w1016",
+"text": "bridges",
+"start": 358.38,
+"end": 358.739
+},
+{
+"id": "w1017",
+"text": "without",
+"start": 358.77,
+"end": 359.129
+},
+{
+"id": "w1018",
+"text": "fuel.",
+"start": 359.16,
+"end": 359.385
+},
+{
+"id": "w1019",
+"text": "Think",
+"start": 360.215,
+"end": 360.395
+},
+{
+"id": "w1020",
+"text": "about",
+"start": 360.411,
+"end": 360.591
+},
+{
+"id": "w1021",
+"text": "what",
+"start": 360.607,
+"end": 360.757
+},
+{
+"id": "w1022",
+"text": "that",
+"start": 360.771,
+"end": 360.921
+},
+{
+"id": "w1023",
+"text": "means.",
+"start": 360.934,
+"end": 361.114
+},
+{
+"id": "w1024",
+"text": "Most",
+"start": 361.332,
+"end": 361.572
+},
+{
+"id": "w1025",
+"text": "of",
+"start": 361.593,
+"end": 361.737
+},
+{
+"id": "w1026",
+"text": "the",
+"start": 361.75,
+"end": 361.942
+},
+{
+"id": "w1027",
+"text": "bridges",
+"start": 361.959,
+"end": 362.343
+},
+{
+"id": "w1028",
+"text": "in",
+"start": 362.377,
+"end": 362.521
+},
+{
+"id": "w1029",
+"text": "western",
+"start": 362.533,
+"end": 362.918
+},
+{
+"id": "w1030",
+"text": "Oregon",
+"start": 362.951,
+"end": 363.288
+},
+{
+"id": "w1031",
+"text": "are",
+"start": 363.317,
+"end": 363.509
+},
+{
+"id": "w1032",
+"text": "susceptible",
+"start": 363.526,
+"end": 364.103
+},
+{
+"id": "w1033",
+"text": "to",
+"start": 364.153,
+"end": 364.297
+},
+{
+"id": "w1034",
+"text": "serious",
+"start": 364.309,
+"end": 364.694
+},
+{
+"id": "w1035",
+"text": "damage.",
+"start": 364.727,
+"end": 365.064
+},
+{
+"id": "w1036",
+"text": "Oregon",
+"start": 365.327,
+"end": 365.665
+},
+{
+"id": "w1037",
+"text": "gets",
+"start": 365.694,
+"end": 365.936
+},
+{
+"id": "w1038",
+"text": "almost",
+"start": 365.957,
+"end": 366.295
+},
+{
+"id": "w1039",
+"text": "all",
+"start": 366.324,
+"end": 366.517
+},
+{
+"id": "w1040",
+"text": "of",
+"start": 366.534,
+"end": 366.679
+},
+{
+"id": "w1041",
+"text": "its",
+"start": 366.691,
+"end": 366.884
+},
+{
+"id": "w1042",
+"text": "liquid",
+"start": 366.901,
+"end": 367.239
+},
+{
+"id": "w1043",
+"text": "fuel",
+"start": 367.268,
+"end": 367.51
+},
+{
+"id": "w1044",
+"text": "from",
+"start": 367.531,
+"end": 367.772
+},
+{
+"id": "w1045",
+"text": "suppliers",
+"start": 367.793,
+"end": 368.276
+},
+{
+"id": "w1046",
+"text": "in",
+"start": 368.318,
+"end": 368.463
+},
+{
+"id": "w1047",
+"text": "Washington,",
+"start": 368.475,
+"end": 369.006
+},
+{
+"id": "w1048",
+"text": "by",
+"start": 369.053,
+"end": 369.197
+},
+{
+"id": "w1049",
+"text": "pipeline",
+"start": 369.21,
+"end": 369.644
+},
+{
+"id": "w1050",
+"text": "and",
+"start": 369.682,
+"end": 369.875
+},
+{
+"id": "w1051",
+"text": "river,",
+"start": 369.892,
+"end": 370.182
+},
+{
+"id": "w1052",
+"text": "a",
+"start": 370.207,
+"end": 370.304
+},
+{
+"id": "w1053",
+"text": "state",
+"start": 370.312,
+"end": 370.602
+},
+{
+"id": "w1054",
+"text": "that",
+"start": 370.627,
+"end": 370.868
+},
+{
+"id": "w1055",
+"text": "sits",
+"start": 370.889,
+"end": 371.13
+},
+{
+"id": "w1056",
+"text": "on",
+"start": 371.151,
+"end": 371.296
+},
+{
+"id": "w1057",
+"text": "the",
+"start": 371.309,
+"end": 371.502
+},
+{
+"id": "w1058",
+"text": "same",
+"start": 371.519,
+"end": 371.76
+},
+{
+"id": "w1059",
+"text": "fault.",
+"start": 371.781,
+"end": 372.071
+},
+{
+"id": "w1060",
+"text": "And",
+"start": 372.33,
+"end": 372.511
+},
+{
+"id": "w1061",
+"text": "once",
+"start": 372.527,
+"end": 372.753
+},
+{
+"id": "w1062",
+"text": "it",
+"start": 372.773,
+"end": 372.909
+},
+{
+"id": "w1063",
+"text": "arrives,",
+"start": 372.921,
+"end": 373.283
+},
+{
+"id": "w1064",
+"text": "the",
+"start": 373.315,
+"end": 373.496
+},
+{
+"id": "w1065",
+"text": "fuel",
+"start": 373.512,
+"end": 373.738
+},
+{
+"id": "w1066",
+"text": "is",
+"start": 373.758,
+"end": 373.894
+},
+{
+"id": "w1067",
+"text": "stored",
+"start": 373.906,
+"end": 374.223
+},
+{
+"id": "w1068",
+"text": "in",
+"start": 374.25,
+"end": 374.386
+},
+{
+"id": "w1069",
+"text": "a",
+"start": 374.398,
+"end": 374.489
+},
+{
+"id": "w1070",
+"text": "single",
+"start": 374.496,
+"end": 374.814
+},
+{
+"id": "w1071",
+"text": "six-mile",
+"start": 374.841,
+"end": 375.203
+},
+{
+"id": "w1072",
+"text": "stretch",
+"start": 375.235,
+"end": 375.597
+},
+{
+"id": "w1073",
+"text": "of",
+"start": 375.629,
+"end": 375.765
+},
+{
+"id": "w1074",
+"text": "the",
+"start": 375.777,
+"end": 375.958
+},
+{
+"id": "w1075",
+"text": "lower",
+"start": 375.974,
+"end": 376.245
+},
+{
+"id": "w1076",
+"text": "Willamette",
+"start": 376.269,
+"end": 376.767
+},
+{
+"id": "w1077",
+"text": "River,",
+"start": 376.811,
+"end": 377.082
+},
+{
+"id": "w1078",
+"text": "on",
+"start": 377.419,
+"end": 377.553
+},
+{
+"id": "w1079",
+"text": "riverside",
+"start": 377.565,
+"end": 378.012
+},
+{
+"id": "w1080",
+"text": "soil",
+"start": 378.05,
+"end": 378.274
+},
+{
+"id": "w1081",
+"text": "that",
+"start": 378.293,
+"end": 378.517
+},
+{
+"id": "w1082",
+"text": "can",
+"start": 378.536,
+"end": 378.715
+},
+{
+"id": "w1083",
+"text": "turn",
+"start": 378.731,
+"end": 378.954
+},
+{
+"id": "w1084",
+"text": "liquid",
+"start": 378.973,
+"end": 379.286
+},
+{
+"id": "w1085",
+"text": "when",
+"start": 379.313,
+"end": 379.537
+},
+{
+"id": "w1086",
+"text": "it",
+"start": 379.556,
+"end": 379.69
+},
+{
+"id": "w1087",
+"text": "shakes.",
+"start": 379.702,
+"end": 380.015
+},
+{
+"id": "w1088",
+"text": "That's",
+"start": 380.606,
+"end": 380.929
+},
+{
+"id": "w1089",
+"text": "why",
+"start": 380.958,
+"end": 381.173
+},
+{
+"id": "w1090",
+"text": "the",
+"start": 381.192,
+"end": 381.408
+},
+{
+"id": "w1091",
+"text": "2013",
+"start": 381.426,
+"end": 381.696
+},
+{
+"id": "w1092",
+"text": "Oregon",
+"start": 381.719,
+"end": 382.097
+},
+{
+"id": "w1093",
+"text": "Resilience",
+"start": 382.129,
+"end": 382.722
+},
+{
+"id": "w1094",
+"text": "Plan,",
+"start": 382.774,
+"end": 383.044
+},
+{
+"id": "w1095",
+"text": "written",
+"start": 383.286,
+"end": 383.69
+},
+{
+"id": "w1096",
+"text": "for",
+"start": 383.725,
+"end": 383.927
+},
+{
+"id": "w1097",
+"text": "the",
+"start": 383.945,
+"end": 384.147
+},
+{
+"id": "w1098",
+"text": "state",
+"start": 384.165,
+"end": 384.468
+},
+{
+"id": "w1099",
+"text": "legislature,",
+"start": 384.494,
+"end": 385.1
+},
+{
+"id": "w1100",
+"text": "began",
+"start": 385.153,
+"end": 385.456
+},
+{
+"id": "w1101",
+"text": "with",
+"start": 385.483,
+"end": 385.735
+},
+{
+"id": "w1102",
+"text": "a",
+"start": 385.757,
+"end": 385.858
+},
+{
+"id": "w1103",
+"text": "blunt",
+"start": 385.867,
+"end": 386.17
+},
+{
+"id": "w1104",
+"text": "finding:",
+"start": 386.197,
+"end": 386.601
+},
+{
+"id": "w1105",
+"text": "Oregon",
+"start": 387.084,
+"end": 387.491
+},
+{
+"id": "w1106",
+"text": "is",
+"start": 387.526,
+"end": 387.701
+},
+{
+"id": "w1107",
+"text": "far",
+"start": 387.716,
+"end": 387.949
+},
+{
+"id": "w1108",
+"text": "from",
+"start": 387.969,
+"end": 388.26
+},
+{
+"id": "w1109",
+"text": "resilient",
+"start": 388.285,
+"end": 388.866
+},
+{
+"id": "w1110",
+"text": "to",
+"start": 388.917,
+"end": 389.091
+},
+{
+"id": "w1111",
+"text": "a",
+"start": 389.107,
+"end": 389.223
+},
+{
+"id": "w1112",
+"text": "great",
+"start": 389.233,
+"end": 389.582
+},
+{
+"id": "w1113",
+"text": "Cascadia",
+"start": 389.612,
+"end": 390.136
+},
+{
+"id": "w1114",
+"text": "earthquake",
+"start": 390.181,
+"end": 390.821
+},
+{
+"id": "w1115",
+"text": "and",
+"start": 390.876,
+"end": 391.109
+},
+{
+"id": "w1116",
+"text": "tsunami",
+"start": 391.129,
+"end": 391.594
+},
+{
+"id": "w1117",
+"text": "today.",
+"start": 391.635,
+"end": 391.984
+},
+{
+"id": "w1118",
+"text": "Its",
+"start": 392.398,
+"end": 392.635
+},
+{
+"id": "w1119",
+"text": "numbers:",
+"start": 392.656,
+"end": 393.13
+},
+{
+"id": "w1120",
+"text": "available",
+"start": 393.548,
+"end": 394.07
+},
+{
+"id": "w1121",
+"text": "studies",
+"start": 394.116,
+"end": 394.533
+},
+{
+"id": "w1122",
+"text": "estimate",
+"start": 394.57,
+"end": 395.04
+},
+{
+"id": "w1123",
+"text": "deaths",
+"start": 395.081,
+"end": 395.446
+},
+{
+"id": "w1124",
+"text": "from",
+"start": 395.478,
+"end": 395.739
+},
+{
+"id": "w1125",
+"text": "1,250",
+"start": 395.762,
+"end": 396.023
+},
+{
+"id": "w1126",
+"text": "to",
+"start": 396.046,
+"end": 396.202
+},
+{
+"id": "w1127",
+"text": "more",
+"start": 396.216,
+"end": 396.477
+},
+{
+"id": "w1128",
+"text": "than",
+"start": 396.5,
+"end": 396.761
+},
+{
+"id": "w1129",
+"text": "10,000,",
+"start": 396.783,
+"end": 397.097
+},
+{
+"id": "w1130",
+"text": "from",
+"start": 397.396,
+"end": 397.804
+},
+{
+"id": "w1131",
+"text": "the",
+"start": 397.84,
+"end": 398.166
+},
+{
+"id": "w1132",
+"text": "shaking",
+"start": 398.194,
+"end": 398.847
+},
+{
+"id": "w1133",
+"text": "and",
+"start": 398.904,
+"end": 399.231
+},
+{
+"id": "w1134",
+"text": "the",
+"start": 399.259,
+"end": 399.585
+},
+{
+"id": "w1135",
+"text": "tsunami",
+"start": 399.614,
+"end": 400.267
+},
+{
+"id": "w1136",
+"text": "combined.",
+"start": 400.324,
+"end": 401.058
+},
+{
+"id": "w1137",
+"text": "Tens",
+"start": 401.465,
+"end": 401.773
+},
+{
+"id": "w1138",
+"text": "of",
+"start": 401.8,
+"end": 401.985
+},
+{
+"id": "w1139",
+"text": "thousands",
+"start": 402.001,
+"end": 402.618
+},
+{
+"id": "w1140",
+"text": "of",
+"start": 402.672,
+"end": 402.857
+},
+{
+"id": "w1141",
+"text": "buildings",
+"start": 402.873,
+"end": 403.489
+},
+{
+"id": "w1142",
+"text": "destroyed",
+"start": 403.543,
+"end": 404.16
+},
+{
+"id": "w1143",
+"text": "or",
+"start": 404.213,
+"end": 404.398
+},
+{
+"id": "w1144",
+"text": "damaged",
+"start": 404.414,
+"end": 404.908
+},
+{
+"id": "w1145",
+"text": "so",
+"start": 404.951,
+"end": 405.136
+},
+{
+"id": "w1146",
+"text": "badly",
+"start": 405.152,
+"end": 405.522
+},
+{
+"id": "w1147",
+"text": "they'd",
+"start": 405.554,
+"end": 405.924
+},
+{
+"id": "w1148",
+"text": "need",
+"start": 405.956,
+"end": 406.264
+},
+{
+"id": "w1149",
+"text": "months",
+"start": 406.291,
+"end": 406.723
+},
+{
+"id": "w1150",
+"text": "to",
+"start": 406.76,
+"end": 406.945
+},
+{
+"id": "w1151",
+"text": "years",
+"start": 406.962,
+"end": 407.332
+},
+{
+"id": "w1152",
+"text": "of",
+"start": 407.364,
+"end": 407.549
+},
+{
+"id": "w1153",
+"text": "repair.",
+"start": 407.565,
+"end": 407.996
+},
+{
+"id": "w1154",
+"text": "Tens",
+"start": 408.377,
+"end": 408.655
+},
+{
+"id": "w1155",
+"text": "of",
+"start": 408.679,
+"end": 408.846
+},
+{
+"id": "w1156",
+"text": "thousands",
+"start": 408.86,
+"end": 409.416
+},
+{
+"id": "w1157",
+"text": "of",
+"start": 409.464,
+"end": 409.631
+},
+{
+"id": "w1158",
+"text": "households",
+"start": 409.646,
+"end": 410.257
+},
+{
+"id": "w1159",
+"text": "displaced.",
+"start": 410.31,
+"end": 410.866
+},
+{
+"id": "w1160",
+"text": "More",
+"start": 411.098,
+"end": 411.428
+},
+{
+"id": "w1161",
+"text": "than",
+"start": 411.456,
+"end": 411.786
+},
+{
+"id": "w1162",
+"text": "30",
+"start": 411.815,
+"end": 412.013
+},
+{
+"id": "w1163",
+"text": "billion",
+"start": 412.03,
+"end": 412.558
+},
+{
+"id": "w1164",
+"text": "dollars",
+"start": 412.604,
+"end": 413.131
+},
+{
+"id": "w1165",
+"text": "in",
+"start": 413.177,
+"end": 413.375
+},
+{
+"id": "w1166",
+"text": "losses,",
+"start": 413.392,
+"end": 413.854
+},
+{
+"id": "w1167",
+"text": "close",
+"start": 414.041,
+"end": 414.317
+},
+{
+"id": "w1168",
+"text": "to",
+"start": 414.341,
+"end": 414.479
+},
+{
+"id": "w1169",
+"text": "a",
+"start": 414.491,
+"end": 414.582
+},
+{
+"id": "w1170",
+"text": "fifth",
+"start": 414.59,
+"end": 414.866
+},
+{
+"id": "w1171",
+"text": "of",
+"start": 414.89,
+"end": 415.028
+},
+{
+"id": "w1172",
+"text": "the",
+"start": 415.04,
+"end": 415.224
+},
+{
+"id": "w1173",
+"text": "state's",
+"start": 415.24,
+"end": 415.561
+},
+{
+"id": "w1174",
+"text": "economy.",
+"start": 415.589,
+"end": 415.957
+},
+{
+"id": "w1175",
+"text": "And",
+"start": 416.39,
+"end": 416.633
+},
+{
+"id": "w1176",
+"text": "more",
+"start": 416.654,
+"end": 416.957
+},
+{
+"id": "w1177",
+"text": "than",
+"start": 416.983,
+"end": 417.287
+},
+{
+"id": "w1178",
+"text": "a",
+"start": 417.313,
+"end": 417.434
+},
+{
+"id": "w1179",
+"text": "million",
+"start": 417.445,
+"end": 417.93
+},
+{
+"id": "w1180",
+"text": "dump-truck",
+"start": 417.973,
+"end": 418.579
+},
+{
+"id": "w1181",
+"text": "loads",
+"start": 418.632,
+"end": 418.996
+},
+{
+"id": "w1182",
+"text": "of",
+"start": 419.028,
+"end": 419.21
+},
+{
+"id": "w1183",
+"text": "debris.",
+"start": 419.225,
+"end": 419.65
+},
+{
+"id": "w1184",
+"text": "And",
+"start": 420.418,
+"end": 420.6
+},
+{
+"id": "w1185",
+"text": "here's",
+"start": 420.616,
+"end": 420.888
+},
+{
+"id": "w1186",
+"text": "how",
+"start": 420.912,
+"end": 421.094
+},
+{
+"id": "w1187",
+"text": "long",
+"start": 421.11,
+"end": 421.337
+},
+{
+"id": "w1188",
+"text": "recovery",
+"start": 421.357,
+"end": 421.766
+},
+{
+"id": "w1189",
+"text": "would",
+"start": 421.802,
+"end": 422.074
+},
+{
+"id": "w1190",
+"text": "take",
+"start": 422.098,
+"end": 422.325
+},
+{
+"id": "w1191",
+"text": "under",
+"start": 422.345,
+"end": 422.618
+},
+{
+"id": "w1192",
+"text": "today's",
+"start": 422.642,
+"end": 422.96
+},
+{
+"id": "w1193",
+"text": "conditions.",
+"start": 422.987,
+"end": 423.488
+},
+{
+"id": "w1194",
+"text": "Electricity:",
+"start": 423.84,
+"end": 424.563
+},
+{
+"id": "w1195",
+"text": "one",
+"start": 424.909,
+"end": 425.06
+},
+{
+"id": "w1196",
+"text": "to",
+"start": 425.073,
+"end": 425.186
+},
+{
+"id": "w1197",
+"text": "three",
+"start": 425.196,
+"end": 425.422
+},
+{
+"id": "w1198",
+"text": "months",
+"start": 425.441,
+"end": 425.705
+},
+{
+"id": "w1199",
+"text": "in",
+"start": 425.728,
+"end": 425.841
+},
+{
+"id": "w1200",
+"text": "the",
+"start": 425.851,
+"end": 426.002
+},
+{
+"id": "w1201",
+"text": "Willamette",
+"start": 426.015,
+"end": 426.429
+},
+{
+"id": "w1202",
+"text": "Valley,",
+"start": 426.465,
+"end": 426.729
+},
+{
+"id": "w1203",
+"text": "three",
+"start": 426.972,
+"end": 427.237
+},
+{
+"id": "w1204",
+"text": "to",
+"start": 427.26,
+"end": 427.393
+},
+{
+"id": "w1205",
+"text": "six",
+"start": 427.404,
+"end": 427.581
+},
+{
+"id": "w1206",
+"text": "months",
+"start": 427.596,
+"end": 427.906
+},
+{
+"id": "w1207",
+"text": "on",
+"start": 427.933,
+"end": 428.065
+},
+{
+"id": "w1208",
+"text": "the",
+"start": 428.077,
+"end": 428.253
+},
+{
+"id": "w1209",
+"text": "coast.",
+"start": 428.269,
+"end": 428.534
+},
+{
+"id": "w1210",
+"text": "Police",
+"start": 428.779,
+"end": 429.096
+},
+{
+"id": "w1211",
+"text": "and",
+"start": 429.123,
+"end": 429.304
+},
+{
+"id": "w1212",
+"text": "fire",
+"start": 429.32,
+"end": 429.546
+},
+{
+"id": "w1213",
+"text": "stations",
+"start": 429.566,
+"end": 429.973
+},
+{
+"id": "w1214",
+"text": "in",
+"start": 430.008,
+"end": 430.144
+},
+{
+"id": "w1215",
+"text": "the",
+"start": 430.156,
+"end": 430.337
+},
+{
+"id": "w1216",
+"text": "valley:",
+"start": 430.353,
+"end": 430.669
+},
+{
+"id": "w1217",
+"text": "two",
+"start": 430.872,
+"end": 431.084
+},
+{
+"id": "w1218",
+"text": "to",
+"start": 431.102,
+"end": 431.261
+},
+{
+"id": "w1219",
+"text": "four",
+"start": 431.275,
+"end": 431.54
+},
+{
+"id": "w1220",
+"text": "months.",
+"start": 431.563,
+"end": 431.934
+},
+{
+"id": "w1221",
+"text": "Drinking",
+"start": 432.362,
+"end": 432.825
+},
+{
+"id": "w1222",
+"text": "water",
+"start": 432.865,
+"end": 433.174
+},
+{
+"id": "w1223",
+"text": "and",
+"start": 433.201,
+"end": 433.407
+},
+{
+"id": "w1224",
+"text": "sewer:",
+"start": 433.424,
+"end": 433.733
+},
+{
+"id": "w1225",
+"text": "one",
+"start": 433.945,
+"end": 434.104
+},
+{
+"id": "w1226",
+"text": "month",
+"start": 434.118,
+"end": 434.356
+},
+{
+"id": "w1227",
+"text": "to",
+"start": 434.377,
+"end": 434.496
+},
+{
+"id": "w1228",
+"text": "a",
+"start": 434.506,
+"end": 434.586
+},
+{
+"id": "w1229",
+"text": "year",
+"start": 434.593,
+"end": 434.791
+},
+{
+"id": "w1230",
+"text": "in",
+"start": 434.809,
+"end": 434.928
+},
+{
+"id": "w1231",
+"text": "the",
+"start": 434.938,
+"end": 435.097
+},
+{
+"id": "w1232",
+"text": "valley,",
+"start": 435.111,
+"end": 435.389
+},
+{
+"id": "w1233",
+"text": "one",
+"start": 435.646,
+"end": 435.844
+},
+{
+"id": "w1234",
+"text": "to",
+"start": 435.861,
+"end": 436.009
+},
+{
+"id": "w1235",
+"text": "three",
+"start": 436.022,
+"end": 436.319
+},
+{
+"id": "w1236",
+"text": "years",
+"start": 436.345,
+"end": 436.641
+},
+{
+"id": "w1237",
+"text": "on",
+"start": 436.667,
+"end": 436.816
+},
+{
+"id": "w1238",
+"text": "the",
+"start": 436.828,
+"end": 437.026
+},
+{
+"id": "w1239",
+"text": "coast.",
+"start": 437.043,
+"end": 437.34
+},
+{
+"id": "w1240",
+"text": "Hospitals:",
+"start": 437.816,
+"end": 438.395
+},
+{
+"id": "w1241",
+"text": "about",
+"start": 438.766,
+"end": 438.971
+},
+{
+"id": "w1242",
+"text": "a",
+"start": 438.989,
+"end": 439.057
+},
+{
+"id": "w1243",
+"text": "year",
+"start": 439.063,
+"end": 439.234
+},
+{
+"id": "w1244",
+"text": "and",
+"start": 439.248,
+"end": 439.385
+},
+{
+"id": "w1245",
+"text": "a",
+"start": 439.397,
+"end": 439.465
+},
+{
+"id": "w1246",
+"text": "half",
+"start": 439.471,
+"end": 439.642
+},
+{
+"id": "w1247",
+"text": "in",
+"start": 439.657,
+"end": 439.759
+},
+{
+"id": "w1248",
+"text": "the",
+"start": 439.768,
+"end": 439.904
+},
+{
+"id": "w1249",
+"text": "valley,",
+"start": 439.916,
+"end": 440.155
+},
+{
+"id": "w1250",
+"text": "and",
+"start": 440.422,
+"end": 440.593
+},
+{
+"id": "w1251",
+"text": "three",
+"start": 440.608,
+"end": 440.864
+},
+{
+"id": "w1252",
+"text": "years",
+"start": 440.886,
+"end": 441.143
+},
+{
+"id": "w1253",
+"text": "on",
+"start": 441.165,
+"end": 441.293
+},
+{
+"id": "w1254",
+"text": "the",
+"start": 441.305,
+"end": 441.475
+},
+{
+"id": "w1255",
+"text": "coast.",
+"start": 441.49,
+"end": 441.747
+},
+{
+"id": "w1256",
+"text": "The",
+"start": 442.157,
+"end": 442.346
+},
+{
+"id": "w1257",
+"text": "plan",
+"start": 442.362,
+"end": 442.599
+},
+{
+"id": "w1258",
+"text": "says",
+"start": 442.619,
+"end": 442.856
+},
+{
+"id": "w1259",
+"text": "businesses",
+"start": 442.876,
+"end": 443.396
+},
+{
+"id": "w1260",
+"text": "usually",
+"start": 443.441,
+"end": 443.819
+},
+{
+"id": "w1261",
+"text": "plan",
+"start": 443.852,
+"end": 444.088
+},
+{
+"id": "w1262",
+"text": "to",
+"start": 444.109,
+"end": 444.251
+},
+{
+"id": "w1263",
+"text": "survive",
+"start": 444.263,
+"end": 444.641
+},
+{
+"id": "w1264",
+"text": "about",
+"start": 444.674,
+"end": 444.958
+},
+{
+"id": "w1265",
+"text": "two",
+"start": 444.982,
+"end": 445.171
+},
+{
+"id": "w1266",
+"text": "weeks",
+"start": 445.188,
+"end": 445.471
+},
+{
+"id": "w1267",
+"text": "without",
+"start": 445.496,
+"end": 445.874
+},
+{
+"id": "w1268",
+"text": "essential",
+"start": 445.907,
+"end": 446.38
+},
+{
+"id": "w1269",
+"text": "services.",
+"start": 446.421,
+"end": 446.846
+},
+{
+"id": "w1270",
+"text": "Under",
+"start": 447.283,
+"end": 447.586
+},
+{
+"id": "w1271",
+"text": "present",
+"start": 447.612,
+"end": 448.017
+},
+{
+"id": "w1272",
+"text": "conditions,",
+"start": 448.052,
+"end": 448.607
+},
+{
+"id": "w1273",
+"text": "it",
+"start": 448.656,
+"end": 448.807
+},
+{
+"id": "w1274",
+"text": "warns,",
+"start": 448.82,
+"end": 449.124
+},
+{
+"id": "w1275",
+"text": "outages",
+"start": 449.15,
+"end": 449.554
+},
+{
+"id": "w1276",
+"text": "could",
+"start": 449.589,
+"end": 449.892
+},
+{
+"id": "w1277",
+"text": "last",
+"start": 449.919,
+"end": 450.171
+},
+{
+"id": "w1278",
+"text": "much",
+"start": 450.193,
+"end": 450.446
+},
+{
+"id": "w1279",
+"text": "longer,",
+"start": 450.468,
+"end": 450.821
+},
+{
+"id": "w1280",
+"text": "in",
+"start": 451.128,
+"end": 451.339
+},
+{
+"id": "w1281",
+"text": "some",
+"start": 451.358,
+"end": 451.71
+},
+{
+"id": "w1282",
+"text": "cases",
+"start": 451.74,
+"end": 452.163
+},
+{
+"id": "w1283",
+"text": "18",
+"start": 452.2,
+"end": 452.411
+},
+{
+"id": "w1284",
+"text": "to",
+"start": 452.429,
+"end": 452.641
+},
+{
+"id": "w1285",
+"text": "36",
+"start": 452.659,
+"end": 452.87
+},
+{
+"id": "w1286",
+"text": "months",
+"start": 452.889,
+"end": 453.382
+},
+{
+"id": "w1287",
+"text": "or",
+"start": 453.425,
+"end": 453.636
+},
+{
+"id": "w1288",
+"text": "more.",
+"start": 453.654,
+"end": 454.006
+},
+{
+"id": "w1289",
+"text": "Now",
+"start": 454.797,
+"end": 454.961
+},
+{
+"id": "w1290",
+"text": "compare",
+"start": 454.975,
+"end": 455.302
+},
+{
+"id": "w1291",
+"text": "that",
+"start": 455.331,
+"end": 455.536
+},
+{
+"id": "w1292",
+"text": "with",
+"start": 455.553,
+"end": 455.758
+},
+{
+"id": "w1293",
+"text": "what",
+"start": 455.776,
+"end": 455.98
+},
+{
+"id": "w1294",
+"text": "other",
+"start": 455.998,
+"end": 456.244
+},
+{
+"id": "w1295",
+"text": "countries",
+"start": 456.265,
+"end": 456.674
+},
+{
+"id": "w1296",
+"text": "did.",
+"start": 456.71,
+"end": 456.874
+},
+{
+"id": "w1297",
+"text": "After",
+"start": 457.141,
+"end": 457.508
+},
+{
+"id": "w1298",
+"text": "Japan's",
+"start": 457.54,
+"end": 457.969
+},
+{
+"id": "w1299",
+"text": "magnitude",
+"start": 458.006,
+"end": 458.618
+},
+{
+"id": "w1300",
+"text": "9.0",
+"start": 458.671,
+"end": 458.855
+},
+{
+"id": "w1301",
+"text": "earthquake",
+"start": 458.871,
+"end": 459.544
+},
+{
+"id": "w1302",
+"text": "in",
+"start": 459.603,
+"end": 459.787
+},
+{
+"id": "w1303",
+"text": "2011,",
+"start": 459.803,
+"end": 460.109
+},
+{
+"id": "w1304",
+"text": "more",
+"start": 460.135,
+"end": 460.441
+},
+{
+"id": "w1305",
+"text": "than",
+"start": 460.468,
+"end": 460.774
+},
+{
+"id": "w1306",
+"text": "90",
+"start": 460.801,
+"end": 460.984
+},
+{
+"id": "w1307",
+"text": "percent",
+"start": 461.0,
+"end": 461.49
+},
+{
+"id": "w1308",
+"text": "of",
+"start": 461.533,
+"end": 461.716
+},
+{
+"id": "w1309",
+"text": "the",
+"start": 461.732,
+"end": 461.977
+},
+{
+"id": "w1310",
+"text": "power",
+"start": 461.998,
+"end": 462.366
+},
+{
+"id": "w1311",
+"text": "was",
+"start": 462.398,
+"end": 462.643
+},
+{
+"id": "w1312",
+"text": "back",
+"start": 462.664,
+"end": 462.97
+},
+{
+"id": "w1313",
+"text": "in",
+"start": 462.997,
+"end": 463.18
+},
+{
+"id": "w1314",
+"text": "ten",
+"start": 463.196,
+"end": 463.441
+},
+{
+"id": "w1315",
+"text": "days,",
+"start": 463.462,
+"end": 463.768
+},
+{
+"id": "w1316",
+"text": "90",
+"start": 463.918,
+"end": 464.083
+},
+{
+"id": "w1317",
+"text": "percent",
+"start": 464.098,
+"end": 464.538
+},
+{
+"id": "w1318",
+"text": "of",
+"start": 464.577,
+"end": 464.742
+},
+{
+"id": "w1319",
+"text": "phone",
+"start": 464.756,
+"end": 465.087
+},
+{
+"id": "w1320",
+"text": "lines",
+"start": 465.115,
+"end": 465.446
+},
+{
+"id": "w1321",
+"text": "in",
+"start": 465.475,
+"end": 465.64
+},
+{
+"id": "w1322",
+"text": "two",
+"start": 465.654,
+"end": 465.875
+},
+{
+"id": "w1323",
+"text": "weeks,",
+"start": 465.894,
+"end": 466.224
+},
+{
+"id": "w1324",
+"text": "and",
+"start": 466.54,
+"end": 466.775
+},
+{
+"id": "w1325",
+"text": "90",
+"start": 466.795,
+"end": 466.972
+},
+{
+"id": "w1326",
+"text": "percent",
+"start": 466.987,
+"end": 467.457
+},
+{
+"id": "w1327",
+"text": "of",
+"start": 467.498,
+"end": 467.674
+},
+{
+"id": "w1328",
+"text": "cell",
+"start": 467.689,
+"end": 467.983
+},
+{
+"id": "w1329",
+"text": "stations",
+"start": 468.009,
+"end": 468.538
+},
+{
+"id": "w1330",
+"text": "in",
+"start": 468.584,
+"end": 468.76
+},
+{
+"id": "w1331",
+"text": "19",
+"start": 468.775,
+"end": 468.951
+},
+{
+"id": "w1332",
+"text": "days.",
+"start": 468.967,
+"end": 469.26
+},
+{
+"id": "w1333",
+"text": "After",
+"start": 469.578,
+"end": 469.984
+},
+{
+"id": "w1334",
+"text": "Chile's",
+"start": 470.019,
+"end": 470.493
+},
+{
+"id": "w1335",
+"text": "magnitude",
+"start": 470.534,
+"end": 471.211
+},
+{
+"id": "w1336",
+"text": "8.8",
+"start": 471.27,
+"end": 471.473
+},
+{
+"id": "w1337",
+"text": "quake",
+"start": 471.491,
+"end": 471.897
+},
+{
+"id": "w1338",
+"text": "in",
+"start": 471.932,
+"end": 472.135
+},
+{
+"id": "w1339",
+"text": "2010,",
+"start": 472.153,
+"end": 472.492
+},
+{
+"id": "w1340",
+"text": "95",
+"start": 472.835,
+"end": 473.007
+},
+{
+"id": "w1341",
+"text": "percent",
+"start": 473.022,
+"end": 473.48
+},
+{
+"id": "w1342",
+"text": "of",
+"start": 473.519,
+"end": 473.691
+},
+{
+"id": "w1343",
+"text": "power",
+"start": 473.706,
+"end": 474.049
+},
+{
+"id": "w1344",
+"text": "returned",
+"start": 474.079,
+"end": 474.595
+},
+{
+"id": "w1345",
+"text": "within",
+"start": 474.639,
+"end": 475.04
+},
+{
+"id": "w1346",
+"text": "two",
+"start": 475.075,
+"end": 475.304
+},
+{
+"id": "w1347",
+"text": "weeks.",
+"start": 475.324,
+"end": 475.667
+},
+{
+"id": "w1348",
+"text": "That",
+"start": 476.115,
+"end": 476.438
+},
+{
+"id": "w1349",
+"text": "gap,",
+"start": 476.466,
+"end": 476.724
+},
+{
+"id": "w1350",
+"text": "between",
+"start": 476.885,
+"end": 477.336
+},
+{
+"id": "w1351",
+"text": "months",
+"start": 477.375,
+"end": 477.769
+},
+{
+"id": "w1352",
+"text": "to",
+"start": 477.804,
+"end": 477.973
+},
+{
+"id": "w1353",
+"text": "years",
+"start": 477.987,
+"end": 478.325
+},
+{
+"id": "w1354",
+"text": "and",
+"start": 478.355,
+"end": 478.58
+},
+{
+"id": "w1355",
+"text": "days",
+"start": 478.6,
+"end": 478.881
+},
+{
+"id": "w1356",
+"text": "to",
+"start": 478.906,
+"end": 479.075
+},
+{
+"id": "w1357",
+"text": "weeks,",
+"start": 479.09,
+"end": 479.428
+},
+{
+"id": "w1358",
+"text": "is",
+"start": 479.791,
+"end": 479.937
+},
+{
+"id": "w1359",
+"text": "what",
+"start": 479.949,
+"end": 480.192
+},
+{
+"id": "w1360",
+"text": "Oregon's",
+"start": 480.213,
+"end": 480.601
+},
+{
+"id": "w1361",
+"text": "plan",
+"start": 480.635,
+"end": 480.877
+},
+{
+"id": "w1362",
+"text": "was",
+"start": 480.898,
+"end": 481.093
+},
+{
+"id": "w1363",
+"text": "written",
+"start": 481.109,
+"end": 481.498
+},
+{
+"id": "w1364",
+"text": "to",
+"start": 481.531,
+"end": 481.677
+},
+{
+"id": "w1365",
+"text": "close.",
+"start": 481.69,
+"end": 481.981
+},
+{
+"id": "w1366",
+"text": "But",
+"start": 482.666,
+"end": 482.851
+},
+{
+"id": "w1367",
+"text": "the",
+"start": 482.867,
+"end": 483.051
+},
+{
+"id": "w1368",
+"text": "story",
+"start": 483.067,
+"end": 483.344
+},
+{
+"id": "w1369",
+"text": "doesn't",
+"start": 483.369,
+"end": 483.692
+},
+{
+"id": "w1370",
+"text": "end",
+"start": 483.72,
+"end": 483.905
+},
+{
+"id": "w1371",
+"text": "in",
+"start": 483.921,
+"end": 484.059
+},
+{
+"id": "w1372",
+"text": "that",
+"start": 484.071,
+"end": 484.302
+},
+{
+"id": "w1373",
+"text": "trap.",
+"start": 484.322,
+"end": 484.553
+},
+{
+"id": "w1374",
+"text": "Here's",
+"start": 484.871,
+"end": 485.159
+},
+{
+"id": "w1375",
+"text": "a",
+"start": 485.184,
+"end": 485.279
+},
+{
+"id": "w1376",
+"text": "number",
+"start": 485.288,
+"end": 485.623
+},
+{
+"id": "w1377",
+"text": "that",
+"start": 485.652,
+"end": 485.892
+},
+{
+"id": "w1378",
+"text": "shows",
+"start": 485.913,
+"end": 486.201
+},
+{
+"id": "w1379",
+"text": "what's",
+"start": 486.226,
+"end": 486.513
+},
+{
+"id": "w1380",
+"text": "possible.",
+"start": 486.538,
+"end": 486.969
+},
+{
+"id": "w1381",
+"text": "In",
+"start": 487.378,
+"end": 487.563
+},
+{
+"id": "w1382",
+"text": "2013,",
+"start": 487.579,
+"end": 487.887
+},
+{
+"id": "w1383",
+"text": "Oregon's",
+"start": 487.914,
+"end": 488.407
+},
+{
+"id": "w1384",
+"text": "resilience",
+"start": 488.45,
+"end": 489.127
+},
+{
+"id": "w1385",
+"text": "plan",
+"start": 489.186,
+"end": 489.494
+},
+{
+"id": "w1386",
+"text": "reported",
+"start": 489.521,
+"end": 490.076
+},
+{
+"id": "w1387",
+"text": "that",
+"start": 490.124,
+"end": 490.432
+},
+{
+"id": "w1388",
+"text": "the",
+"start": 490.459,
+"end": 490.705
+},
+{
+"id": "w1389",
+"text": "state's",
+"start": 490.727,
+"end": 491.158
+},
+{
+"id": "w1390",
+"text": "seismic",
+"start": 491.195,
+"end": 491.688
+},
+{
+"id": "w1391",
+"text": "grant",
+"start": 491.731,
+"end": 492.101
+},
+{
+"id": "w1392",
+"text": "program",
+"start": 492.133,
+"end": 492.626
+},
+{
+"id": "w1393",
+"text": "had",
+"start": 492.669,
+"end": 492.915
+},
+{
+"id": "w1394",
+"text": "retrofitted",
+"start": 492.937,
+"end": 493.676
+},
+{
+"id": "w1395",
+"text": "22",
+"start": 493.74,
+"end": 493.925
+},
+{
+"id": "w1396",
+"text": "schools.",
+"start": 493.941,
+"end": 494.434
+},
+{
+"id": "w1397",
+"text": "That",
+"start": 494.891,
+"end": 495.07
+},
+{
+"id": "w1398",
+"text": "sounded",
+"start": 495.086,
+"end": 495.373
+},
+{
+"id": "w1399",
+"text": "like",
+"start": 495.397,
+"end": 495.577
+},
+{
+"id": "w1400",
+"text": "a",
+"start": 495.592,
+"end": 495.664
+},
+{
+"id": "w1401",
+"text": "start.",
+"start": 495.67,
+"end": 495.885
+},
+{
+"id": "w1402",
+"text": "It",
+"start": 496.168,
+"end": 496.311
+},
+{
+"id": "w1403",
+"text": "was",
+"start": 496.324,
+"end": 496.515
+},
+{
+"id": "w1404",
+"text": "about",
+"start": 496.532,
+"end": 496.818
+},
+{
+"id": "w1405",
+"text": "two",
+"start": 496.843,
+"end": 497.035
+},
+{
+"id": "w1406",
+"text": "percent",
+"start": 497.051,
+"end": 497.434
+},
+{
+"id": "w1407",
+"text": "of",
+"start": 497.467,
+"end": 497.61
+},
+{
+"id": "w1408",
+"text": "the",
+"start": 497.623,
+"end": 497.814
+},
+{
+"id": "w1409",
+"text": "need",
+"start": 497.83,
+"end": 498.069
+},
+{
+"id": "w1410",
+"text": "the",
+"start": 498.09,
+"end": 498.281
+},
+{
+"id": "w1411",
+"text": "state",
+"start": 498.298,
+"end": 498.585
+},
+{
+"id": "w1412",
+"text": "had",
+"start": 498.61,
+"end": 498.801
+},
+{
+"id": "w1413",
+"text": "documented.",
+"start": 498.818,
+"end": 499.343
+},
+{
+"id": "w1414",
+"text": "Now",
+"start": 499.835,
+"end": 500.036
+},
+{
+"id": "w1415",
+"text": "compare",
+"start": 500.054,
+"end": 500.456
+},
+{
+"id": "w1416",
+"text": "that",
+"start": 500.491,
+"end": 500.742
+},
+{
+"id": "w1417",
+"text": "to",
+"start": 500.764,
+"end": 500.915
+},
+{
+"id": "w1418",
+"text": "2025",
+"start": 500.928,
+"end": 501.179
+},
+{
+"id": "w1419",
+"text": "testimony",
+"start": 501.201,
+"end": 501.704
+},
+{
+"id": "w1420",
+"text": "to",
+"start": 501.748,
+"end": 501.899
+},
+{
+"id": "w1421",
+"text": "the",
+"start": 501.912,
+"end": 502.113
+},
+{
+"id": "w1422",
+"text": "state",
+"start": 502.13,
+"end": 502.432
+},
+{
+"id": "w1423",
+"text": "legislature:",
+"start": 502.458,
+"end": 503.062
+},
+{
+"id": "w1424",
+"text": "346",
+"start": 503.895,
+"end": 504.2
+},
+{
+"id": "w1425",
+"text": "school",
+"start": 504.226,
+"end": 504.759
+},
+{
+"id": "w1426",
+"text": "projects",
+"start": 504.805,
+"end": 505.491
+},
+{
+"id": "w1427",
+"text": "awarded,",
+"start": 505.55,
+"end": 506.159
+},
+{
+"id": "w1428",
+"text": "close",
+"start": 506.212,
+"end": 506.669
+},
+{
+"id": "w1429",
+"text": "to",
+"start": 506.709,
+"end": 506.937
+},
+{
+"id": "w1430",
+"text": "600",
+"start": 506.957,
+"end": 507.261
+},
+{
+"id": "w1431",
+"text": "million",
+"start": 507.288,
+"end": 507.897
+},
+{
+"id": "w1432",
+"text": "dollars.",
+"start": 507.95,
+"end": 508.559
+},
+{
+"id": "w1433",
+"text": "From",
+"start": 508.791,
+"end": 509.139
+},
+{
+"id": "w1434",
+"text": "22",
+"start": 509.169,
+"end": 509.378
+},
+{
+"id": "w1435",
+"text": "to",
+"start": 509.396,
+"end": 509.605
+},
+{
+"id": "w1436",
+"text": "346.",
+"start": 509.623,
+"end": 509.902
+},
+{
+"id": "w1437",
+"text": "That",
+"start": 510.098,
+"end": 510.299
+},
+{
+"id": "w1438",
+"text": "program,",
+"start": 510.317,
+"end": 510.638
+},
+{
+"id": "w1439",
+"text": "created",
+"start": 510.666,
+"end": 510.988
+},
+{
+"id": "w1440",
+"text": "in",
+"start": 511.016,
+"end": 511.136
+},
+{
+"id": "w1441",
+"text": "the",
+"start": 511.147,
+"end": 511.308
+},
+{
+"id": "w1442",
+"text": "2000s,",
+"start": 511.322,
+"end": 511.563
+},
+{
+"id": "w1443",
+"text": "funds",
+"start": 512.176,
+"end": 512.534
+},
+{
+"id": "w1444",
+"text": "retrofits",
+"start": 512.565,
+"end": 513.161
+},
+{
+"id": "w1445",
+"text": "for",
+"start": 513.212,
+"end": 513.451
+},
+{
+"id": "w1446",
+"text": "critical",
+"start": 513.471,
+"end": 514.008
+},
+{
+"id": "w1447",
+"text": "public",
+"start": 514.054,
+"end": 514.472
+},
+{
+"id": "w1448",
+"text": "buildings,",
+"start": 514.508,
+"end": 515.104
+},
+{
+"id": "w1449",
+"text": "especially",
+"start": 515.156,
+"end": 515.811
+},
+{
+"id": "w1450",
+"text": "schools",
+"start": 515.868,
+"end": 516.345
+},
+{
+"id": "w1451",
+"text": "and",
+"start": 516.386,
+"end": 516.625
+},
+{
+"id": "w1452",
+"text": "emergency",
+"start": 516.645,
+"end": 517.241
+},
+{
+"id": "w1453",
+"text": "facilities.",
+"start": 517.293,
+"end": 517.949
+},
+{
+"id": "w1454",
+"text": "Sources",
+"start": 518.006,
+"end": 518.482
+},
+{
+"id": "w1455",
+"text": "disagree",
+"start": 518.524,
+"end": 519.06
+},
+{
+"id": "w1456",
+"text": "on",
+"start": 519.107,
+"end": 519.285
+},
+{
+"id": "w1457",
+"text": "the",
+"start": 519.301,
+"end": 519.539
+},
+{
+"id": "w1458",
+"text": "exact",
+"start": 519.56,
+"end": 519.918
+},
+{
+"id": "w1459",
+"text": "start",
+"start": 519.949,
+"end": 520.306
+},
+{
+"id": "w1460",
+"text": "date,",
+"start": 520.337,
+"end": 520.635
+},
+{
+"id": "w1461",
+"text": "so",
+"start": 520.661,
+"end": 520.84
+},
+{
+"id": "w1462",
+"text": "we'll",
+"start": 520.856,
+"end": 521.153
+},
+{
+"id": "w1463",
+"text": "leave",
+"start": 521.179,
+"end": 521.537
+},
+{
+"id": "w1464",
+"text": "it",
+"start": 521.568,
+"end": 521.747
+},
+{
+"id": "w1465",
+"text": "there.",
+"start": 521.762,
+"end": 522.12
+},
+{
+"id": "w1466",
+"text": "The",
+"start": 522.84,
+"end": 523.052
+},
+{
+"id": "w1467",
+"text": "hardest",
+"start": 523.071,
+"end": 523.496
+},
+{
+"id": "w1468",
+"text": "buildings",
+"start": 523.533,
+"end": 524.064
+},
+{
+"id": "w1469",
+"text": "to",
+"start": 524.11,
+"end": 524.269
+},
+{
+"id": "w1470",
+"text": "fix",
+"start": 524.283,
+"end": 524.495
+},
+{
+"id": "w1471",
+"text": "are",
+"start": 524.514,
+"end": 524.726
+},
+{
+"id": "w1472",
+"text": "unreinforced",
+"start": 524.745,
+"end": 525.435
+},
+{
+"id": "w1473",
+"text": "masonry:",
+"start": 525.495,
+"end": 525.92
+},
+{
+"id": "w1474",
+"text": "brick",
+"start": 526.405,
+"end": 526.68
+},
+{
+"id": "w1475",
+"text": "or",
+"start": 526.704,
+"end": 526.842
+},
+{
+"id": "w1476",
+"text": "block",
+"start": 526.854,
+"end": 527.129
+},
+{
+"id": "w1477",
+"text": "with",
+"start": 527.153,
+"end": 527.382
+},
+{
+"id": "w1478",
+"text": "nothing",
+"start": 527.402,
+"end": 527.769
+},
+{
+"id": "w1479",
+"text": "holding",
+"start": 527.8,
+"end": 528.167
+},
+{
+"id": "w1480",
+"text": "it",
+"start": 528.199,
+"end": 528.337
+},
+{
+"id": "w1481",
+"text": "together",
+"start": 528.349,
+"end": 528.761
+},
+{
+"id": "w1482",
+"text": "inside.",
+"start": 528.797,
+"end": 529.118
+},
+{
+"id": "w1483",
+"text": "They're",
+"start": 529.286,
+"end": 529.582
+},
+{
+"id": "w1484",
+"text": "the",
+"start": 529.607,
+"end": 529.776
+},
+{
+"id": "w1485",
+"text": "most",
+"start": 529.791,
+"end": 530.002
+},
+{
+"id": "w1486",
+"text": "vulnerable",
+"start": 530.02,
+"end": 530.485
+},
+{
+"id": "w1487",
+"text": "in",
+"start": 530.525,
+"end": 530.652
+},
+{
+"id": "w1488",
+"text": "an",
+"start": 530.663,
+"end": 530.79
+},
+{
+"id": "w1489",
+"text": "earthquake",
+"start": 530.801,
+"end": 531.265
+},
+{
+"id": "w1490",
+"text": "and",
+"start": 531.306,
+"end": 531.475
+},
+{
+"id": "w1491",
+"text": "among",
+"start": 531.489,
+"end": 531.743
+},
+{
+"id": "w1492",
+"text": "the",
+"start": 531.765,
+"end": 531.934
+},
+{
+"id": "w1493",
+"text": "most",
+"start": 531.949,
+"end": 532.16
+},
+{
+"id": "w1494",
+"text": "expensive",
+"start": 532.178,
+"end": 532.6
+},
+{
+"id": "w1495",
+"text": "to",
+"start": 532.637,
+"end": 532.764
+},
+{
+"id": "w1496",
+"text": "retrofit.",
+"start": 532.775,
+"end": 533.155
+},
+{
+"id": "w1497",
+"text": "Portland",
+"start": 533.644,
+"end": 534.065
+},
+{
+"id": "w1498",
+"text": "has",
+"start": 534.101,
+"end": 534.288
+},
+{
+"id": "w1499",
+"text": "the",
+"start": 534.305,
+"end": 534.492
+},
+{
+"id": "w1500",
+"text": "biggest",
+"start": 534.508,
+"end": 534.882
+},
+{
+"id": "w1501",
+"text": "concentration",
+"start": 534.914,
+"end": 535.569
+},
+{
+"id": "w1502",
+"text": "in",
+"start": 535.626,
+"end": 535.766
+},
+{
+"id": "w1503",
+"text": "the",
+"start": 535.778,
+"end": 535.965
+},
+{
+"id": "w1504",
+"text": "state,",
+"start": 535.981,
+"end": 536.262
+},
+{
+"id": "w1505",
+"text": "and",
+"start": 536.286,
+"end": 536.473
+},
+{
+"id": "w1506",
+"text": "in",
+"start": 536.49,
+"end": 536.63
+},
+{
+"id": "w1507",
+"text": "2019",
+"start": 536.642,
+"end": 536.876
+},
+{
+"id": "w1508",
+"text": "Oregon",
+"start": 536.896,
+"end": 537.223
+},
+{
+"id": "w1509",
+"text": "created",
+"start": 537.252,
+"end": 537.626
+},
+{
+"id": "w1510",
+"text": "a",
+"start": 537.658,
+"end": 537.752
+},
+{
+"id": "w1511",
+"text": "separate",
+"start": 537.76,
+"end": 538.181
+},
+{
+"id": "w1512",
+"text": "program",
+"start": 538.217,
+"end": 538.591
+},
+{
+"id": "w1513",
+"text": "for",
+"start": 538.624,
+"end": 538.811
+},
+{
+"id": "w1514",
+"text": "those",
+"start": 538.827,
+"end": 539.107
+},
+{
+"id": "w1515",
+"text": "non-school",
+"start": 539.132,
+"end": 539.599
+},
+{
+"id": "w1516",
+"text": "buildings.",
+"start": 539.64,
+"end": 540.107
+},
+{
+"id": "w1517",
+"text": "So:",
+"start": 540.868,
+"end": 541.08
+},
+{
+"id": "w1518",
+"text": "a",
+"start": 541.264,
+"end": 541.358
+},
+{
+"id": "w1519",
+"text": "fault",
+"start": 541.366,
+"end": 541.648
+},
+{
+"id": "w1520",
+"text": "that",
+"start": 541.673,
+"end": 541.908
+},
+{
+"id": "w1521",
+"text": "can't",
+"start": 541.928,
+"end": 542.163
+},
+{
+"id": "w1522",
+"text": "be",
+"start": 542.184,
+"end": 542.325
+},
+{
+"id": "w1523",
+"text": "stopped,",
+"start": 542.337,
+"end": 542.713
+},
+{
+"id": "w1524",
+"text": "and",
+"start": 543.085,
+"end": 543.302
+},
+{
+"id": "w1525",
+"text": "a",
+"start": 543.321,
+"end": 543.429
+},
+{
+"id": "w1526",
+"text": "state",
+"start": 543.439,
+"end": 543.765
+},
+{
+"id": "w1527",
+"text": "slowly,",
+"start": 543.793,
+"end": 544.173
+},
+{
+"id": "w1528",
+"text": "expensively",
+"start": 544.206,
+"end": 544.857
+},
+{
+"id": "w1529",
+"text": "making",
+"start": 544.914,
+"end": 545.293
+},
+{
+"id": "w1530",
+"text": "what's",
+"start": 545.326,
+"end": 545.652
+},
+{
+"id": "w1531",
+"text": "on",
+"start": 545.68,
+"end": 545.843
+},
+{
+"id": "w1532",
+"text": "top",
+"start": 545.857,
+"end": 546.074
+},
+{
+"id": "w1533",
+"text": "of",
+"start": 546.093,
+"end": 546.256
+},
+{
+"id": "w1534",
+"text": "it",
+"start": 546.27,
+"end": 546.433
+},
+{
+"id": "w1535",
+"text": "stronger.",
+"start": 546.447,
+"end": 546.936
+},
+{
+"id": "w1536",
+"text": "Which",
+"start": 547.756,
+"end": 547.991
+},
+{
+"id": "w1537",
+"text": "brings",
+"start": 548.012,
+"end": 548.287
+},
+{
+"id": "w1538",
+"text": "us",
+"start": 548.311,
+"end": 548.428
+},
+{
+"id": "w1539",
+"text": "to",
+"start": 548.439,
+"end": 548.556
+},
+{
+"id": "w1540",
+"text": "the",
+"start": 548.567,
+"end": 548.724
+},
+{
+"id": "w1541",
+"text": "only",
+"start": 548.737,
+"end": 548.933
+},
+{
+"id": "w1542",
+"text": "part",
+"start": 548.95,
+"end": 549.147
+},
+{
+"id": "w1543",
+"text": "of",
+"start": 549.164,
+"end": 549.282
+},
+{
+"id": "w1544",
+"text": "this",
+"start": 549.292,
+"end": 549.488
+},
+{
+"id": "w1545",
+"text": "you",
+"start": 549.505,
+"end": 549.662
+},
+{
+"id": "w1546",
+"text": "control.",
+"start": 549.676,
+"end": 549.99
+},
+{
+"id": "w1547",
+"text": "The",
+"start": 550.8,
+"end": 551.034
+},
+{
+"id": "w1548",
+"text": "old",
+"start": 551.055,
+"end": 551.289
+},
+{
+"id": "w1549",
+"text": "advice",
+"start": 551.309,
+"end": 551.719
+},
+{
+"id": "w1550",
+"text": "was",
+"start": 551.754,
+"end": 551.989
+},
+{
+"id": "w1551",
+"text": "to",
+"start": 552.009,
+"end": 552.185
+},
+{
+"id": "w1552",
+"text": "prepare",
+"start": 552.2,
+"end": 552.668
+},
+{
+"id": "w1553",
+"text": "for",
+"start": 552.709,
+"end": 552.943
+},
+{
+"id": "w1554",
+"text": "72",
+"start": 552.963,
+"end": 553.139
+},
+{
+"id": "w1555",
+"text": "hours.",
+"start": 553.154,
+"end": 553.505
+},
+{
+"id": "w1556",
+"text": "Oregon's",
+"start": 553.658,
+"end": 554.015
+},
+{
+"id": "w1557",
+"text": "resilience",
+"start": 554.046,
+"end": 554.536
+},
+{
+"id": "w1558",
+"text": "plan",
+"start": 554.579,
+"end": 554.801
+},
+{
+"id": "w1559",
+"text": "recommends",
+"start": 554.821,
+"end": 555.311
+},
+{
+"id": "w1560",
+"text": "updating",
+"start": 555.354,
+"end": 555.755
+},
+{
+"id": "w1561",
+"text": "that:",
+"start": 555.79,
+"end": 556.013
+},
+{
+"id": "w1562",
+"text": "prepare",
+"start": 556.241,
+"end": 556.632
+},
+{
+"id": "w1563",
+"text": "for",
+"start": 556.666,
+"end": 556.861
+},
+{
+"id": "w1564",
+"text": "a",
+"start": 556.878,
+"end": 556.976
+},
+{
+"id": "w1565",
+"text": "minimum",
+"start": 556.985,
+"end": 557.376
+},
+{
+"id": "w1566",
+"text": "of",
+"start": 557.41,
+"end": 557.556
+},
+{
+"id": "w1567",
+"text": "two",
+"start": 557.569,
+"end": 557.764
+},
+{
+"id": "w1568",
+"text": "weeks,",
+"start": 557.781,
+"end": 558.075
+},
+{
+"id": "w1569",
+"text": "and",
+"start": 558.239,
+"end": 558.429
+},
+{
+"id": "w1570",
+"text": "possibly",
+"start": 558.445,
+"end": 558.871
+},
+{
+"id": "w1571",
+"text": "more.",
+"start": 558.909,
+"end": 559.145
+},
+{
+"id": "w1572",
+"text": "And",
+"start": 559.858,
+"end": 560.036
+},
+{
+"id": "w1573",
+"text": "here's",
+"start": 560.052,
+"end": 560.319
+},
+{
+"id": "w1574",
+"text": "the",
+"start": 560.342,
+"end": 560.521
+},
+{
+"id": "w1575",
+"text": "one",
+"start": 560.536,
+"end": 560.714
+},
+{
+"id": "w1576",
+"text": "thing",
+"start": 560.73,
+"end": 560.997
+},
+{
+"id": "w1577",
+"text": "to",
+"start": 561.021,
+"end": 561.154
+},
+{
+"id": "w1578",
+"text": "do",
+"start": 561.166,
+"end": 561.3
+},
+{
+"id": "w1579",
+"text": "today,",
+"start": 561.311,
+"end": 561.579
+},
+{
+"id": "w1580",
+"text": "before",
+"start": 561.602,
+"end": 561.914
+},
+{
+"id": "w1581",
+"text": "this",
+"start": 561.941,
+"end": 562.164
+},
+{
+"id": "w1582",
+"text": "video",
+"start": 562.183,
+"end": 562.451
+},
+{
+"id": "w1583",
+"text": "ends.",
+"start": 562.474,
+"end": 562.697
+},
+{
+"id": "w1584",
+"text": "If",
+"start": 562.887,
+"end": 563.015
+},
+{
+"id": "w1585",
+"text": "you",
+"start": 563.026,
+"end": 563.196
+},
+{
+"id": "w1586",
+"text": "live",
+"start": 563.211,
+"end": 563.424
+},
+{
+"id": "w1587",
+"text": "near",
+"start": 563.443,
+"end": 563.656
+},
+{
+"id": "w1588",
+"text": "the",
+"start": 563.674,
+"end": 563.844
+},
+{
+"id": "w1589",
+"text": "coast,",
+"start": 563.859,
+"end": 564.115
+},
+{
+"id": "w1590",
+"text": "find",
+"start": 564.427,
+"end": 564.663
+},
+{
+"id": "w1591",
+"text": "your",
+"start": 564.684,
+"end": 564.92
+},
+{
+"id": "w1592",
+"text": "tsunami",
+"start": 564.94,
+"end": 565.318
+},
+{
+"id": "w1593",
+"text": "evacuation",
+"start": 565.351,
+"end": 565.871
+},
+{
+"id": "w1594",
+"text": "route",
+"start": 565.916,
+"end": 566.2
+},
+{
+"id": "w1595",
+"text": "and",
+"start": 566.224,
+"end": 566.413
+},
+{
+"id": "w1596",
+"text": "the",
+"start": 566.43,
+"end": 566.619
+},
+{
+"id": "w1597",
+"text": "nearest",
+"start": 566.635,
+"end": 567.013
+},
+{
+"id": "w1598",
+"text": "high",
+"start": 567.046,
+"end": 567.282
+},
+{
+"id": "w1599",
+"text": "ground.",
+"start": 567.303,
+"end": 567.633
+},
+{
+"id": "w1600",
+"text": "Open",
+"start": 568.055,
+"end": 568.31
+},
+{
+"id": "w1601",
+"text": "your",
+"start": 568.332,
+"end": 568.587
+},
+{
+"id": "w1602",
+"text": "county's",
+"start": 568.609,
+"end": 569.017
+},
+{
+"id": "w1603",
+"text": "evacuation",
+"start": 569.052,
+"end": 569.613
+},
+{
+"id": "w1604",
+"text": "map,",
+"start": 569.661,
+"end": 569.865
+},
+{
+"id": "w1605",
+"text": "and",
+"start": 570.031,
+"end": 570.247
+},
+{
+"id": "w1606",
+"text": "walk",
+"start": 570.266,
+"end": 570.536
+},
+{
+"id": "w1607",
+"text": "the",
+"start": 570.559,
+"end": 570.775
+},
+{
+"id": "w1608",
+"text": "route",
+"start": 570.794,
+"end": 571.118
+},
+{
+"id": "w1609",
+"text": "once.",
+"start": 571.146,
+"end": 571.416
+},
+{
+"id": "w1610",
+"text": "That's",
+"start": 572.08,
+"end": 572.312
+},
+{
+"id": "w1611",
+"text": "the",
+"start": 572.332,
+"end": 572.486
+},
+{
+"id": "w1612",
+"text": "difference",
+"start": 572.5,
+"end": 572.925
+},
+{
+"id": "w1613",
+"text": "between",
+"start": 572.962,
+"end": 573.271
+},
+{
+"id": "w1614",
+"text": "a",
+"start": 573.298,
+"end": 573.375
+},
+{
+"id": "w1615",
+"text": "window",
+"start": 573.382,
+"end": 573.652
+},
+{
+"id": "w1616",
+"text": "of",
+"start": 573.675,
+"end": 573.791
+},
+{
+"id": "w1617",
+"text": "ten",
+"start": 573.801,
+"end": 573.956
+},
+{
+"id": "w1618",
+"text": "minutes",
+"start": 573.969,
+"end": 574.278
+},
+{
+"id": "w1619",
+"text": "and",
+"start": 574.305,
+"end": 574.46
+},
+{
+"id": "w1620",
+"text": "a",
+"start": 574.473,
+"end": 574.55
+},
+{
+"id": "w1621",
+"text": "plan",
+"start": 574.557,
+"end": 574.75
+},
+{
+"id": "w1622",
+"text": "for",
+"start": 574.767,
+"end": 574.922
+},
+{
+"id": "w1623",
+"text": "it.",
+"start": 574.935,
+"end": 575.051
+},
+{
+"id": "w1624",
+"text": "So,",
+"start": 575.704,
+"end": 575.848
+},
+{
+"id": "w1625",
+"text": "what",
+"start": 575.86,
+"end": 576.1
+},
+{
+"id": "w1626",
+"text": "if",
+"start": 576.121,
+"end": 576.265
+},
+{
+"id": "w1627",
+"text": "the",
+"start": 576.278,
+"end": 576.47
+},
+{
+"id": "w1628",
+"text": "Cascadia",
+"start": 576.486,
+"end": 576.918
+},
+{
+"id": "w1629",
+"text": "fault",
+"start": 576.956,
+"end": 577.243
+},
+{
+"id": "w1630",
+"text": "ruptured",
+"start": 577.268,
+"end": 577.7
+},
+{
+"id": "w1631",
+"text": "tomorrow?",
+"start": 577.738,
+"end": 578.169
+},
+{
+"id": "w1632",
+"text": "Several",
+"start": 578.63,
+"end": 578.963
+},
+{
+"id": "w1633",
+"text": "minutes",
+"start": 578.992,
+"end": 579.325
+},
+{
+"id": "w1634",
+"text": "of",
+"start": 579.354,
+"end": 579.479
+},
+{
+"id": "w1635",
+"text": "shaking,",
+"start": 579.49,
+"end": 579.823
+},
+{
+"id": "w1636",
+"text": "a",
+"start": 580.012,
+"end": 580.121
+},
+{
+"id": "w1637",
+"text": "wave",
+"start": 580.131,
+"end": 580.405
+},
+{
+"id": "w1638",
+"text": "minutes",
+"start": 580.428,
+"end": 580.866
+},
+{
+"id": "w1639",
+"text": "behind",
+"start": 580.904,
+"end": 581.287
+},
+{
+"id": "w1640",
+"text": "it,",
+"start": 581.321,
+"end": 581.485
+},
+{
+"id": "w1641",
+"text": "and",
+"start": 581.636,
+"end": 581.837
+},
+{
+"id": "w1642",
+"text": "a",
+"start": 581.854,
+"end": 581.954
+},
+{
+"id": "w1643",
+"text": "recovery",
+"start": 581.963,
+"end": 582.415
+},
+{
+"id": "w1644",
+"text": "that",
+"start": 582.454,
+"end": 582.705
+},
+{
+"id": "w1645",
+"text": "takes",
+"start": 582.726,
+"end": 583.027
+},
+{
+"id": "w1646",
+"text": "months",
+"start": 583.054,
+"end": 583.405
+},
+{
+"id": "w1647",
+"text": "or",
+"start": 583.435,
+"end": 583.586
+},
+{
+"id": "w1648",
+"text": "years.",
+"start": 583.599,
+"end": 583.9
+},
+{
+"id": "w1649",
+"text": "It's",
+"start": 584.667,
+"end": 584.804
+},
+{
+"id": "w1650",
+"text": "not",
+"start": 584.816,
+"end": 584.953
+},
+{
+"id": "w1651",
+"text": "a",
+"start": 584.965,
+"end": 585.033
+},
+{
+"id": "w1652",
+"text": "prediction.",
+"start": 585.039,
+"end": 585.415
+},
+{
+"id": "w1653",
+"text": "It's",
+"start": 585.726,
+"end": 585.994
+},
+{
+"id": "w1654",
+"text": "a",
+"start": 586.018,
+"end": 586.152
+},
+{
+"id": "w1655",
+"text": "risk,",
+"start": 586.163,
+"end": 586.499
+},
+{
+"id": "w1656",
+"text": "with",
+"start": 586.682,
+"end": 586.883
+},
+{
+"id": "w1657",
+"text": "a",
+"start": 586.901,
+"end": 586.982
+},
+{
+"id": "w1658",
+"text": "real",
+"start": 586.989,
+"end": 587.19
+},
+{
+"id": "w1659",
+"text": "number.",
+"start": 587.207,
+"end": 587.489
+},
+{
+"id": "w1660",
+"text": "And",
+"start": 587.911,
+"end": 588.043
+},
+{
+"id": "w1661",
+"text": "you",
+"start": 588.054,
+"end": 588.186
+},
+{
+"id": "w1662",
+"text": "just",
+"start": 588.197,
+"end": 588.361
+},
+{
+"id": "w1663",
+"text": "heard",
+"start": 588.376,
+"end": 588.573
+},
+{
+"id": "w1664",
+"text": "the",
+"start": 588.59,
+"end": 588.722
+},
+{
+"id": "w1665",
+"text": "trap.",
+"start": 588.733,
+"end": 588.898
+},
+{
+"id": "w1666",
+"text": "Now",
+"start": 589.441,
+"end": 589.583
+},
+{
+"id": "w1667",
+"text": "you",
+"start": 589.596,
+"end": 589.738
+},
+{
+"id": "w1668",
+"text": "know",
+"start": 589.751,
+"end": 589.929
+},
+{
+"id": "w1669",
+"text": "where",
+"start": 589.944,
+"end": 590.158
+},
+{
+"id": "w1670",
+"text": "the",
+"start": 590.176,
+"end": 590.319
+},
+{
+"id": "w1671",
+"text": "plan",
+"start": 590.331,
+"end": 590.509
+},
+{
+"id": "w1672",
+"text": "has",
+"start": 590.525,
+"end": 590.667
+},
+{
+"id": "w1673",
+"text": "to",
+"start": 590.68,
+"end": 590.786
+},
+{
+"id": "w1674",
+"text": "start.",
+"start": 590.796,
+"end": 591.009
+},
+{
+"id": "w1675",
+"text": "Find",
+"start": 591.792,
+"end": 591.985
+},
+{
+"id": "w1676",
+"text": "your",
+"start": 592.002,
+"end": 592.196
+},
+{
+"id": "w1677",
+"text": "route",
+"start": 592.212,
+"end": 592.445
+},
+{
+"id": "w1678",
+"text": "today.",
+"start": 592.465,
+"end": 592.697
+},
+{
+"id": "w1679",
+"text": "And",
+"start": 593.175,
+"end": 593.335
+},
+{
+"id": "w1680",
+"text": "tell",
+"start": 593.349,
+"end": 593.55
+},
+{
+"id": "w1681",
+"text": "me",
+"start": 593.567,
+"end": 593.687
+},
+{
+"id": "w1682",
+"text": "in",
+"start": 593.698,
+"end": 593.818
+},
+{
+"id": "w1683",
+"text": "the",
+"start": 593.828,
+"end": 593.989
+},
+{
+"id": "w1684",
+"text": "comments",
+"start": 594.003,
+"end": 594.363
+},
+{
+"id": "w1685",
+"text": "where",
+"start": 594.395,
+"end": 594.635
+},
+{
+"id": "w1686",
+"text": "you",
+"start": 594.656,
+"end": 594.816
+},
+{
+"id": "w1687",
+"text": "live",
+"start": 594.83,
+"end": 595.031
+},
+{
+"id": "w1688",
+"text": "and",
+"start": 595.048,
+"end": 595.208
+},
+{
+"id": "w1689",
+"text": "where",
+"start": 595.222,
+"end": 595.463
+},
+{
+"id": "w1690",
+"text": "your",
+"start": 595.484,
+"end": 595.684
+},
+{
+"id": "w1691",
+"text": "high",
+"start": 595.702,
+"end": 595.902
+},
+{
+"id": "w1692",
+"text": "ground",
+"start": 595.919,
+"end": 596.2
+},
+{
+"id": "w1693",
+"text": "is,",
+"start": 596.224,
+"end": 596.345
+},
+{
+"id": "w1694",
+"text": "because",
+"start": 596.556,
+"end": 596.758
+},
+{
+"id": "w1695",
+"text": "someone",
+"start": 596.776,
+"end": 596.978
+},
+{
+"id": "w1696",
+"text": "reading",
+"start": 596.995,
+"end": 597.198
+},
+{
+"id": "w1697",
+"text": "this",
+"start": 597.215,
+"end": 597.342
+},
+{
+"id": "w1698",
+"text": "might",
+"start": 597.352,
+"end": 597.504
+},
+{
+"id": "w1699",
+"text": "need",
+"start": 597.517,
+"end": 597.644
+},
+{
+"id": "w1700",
+"text": "it.",
+"start": 597.655,
+"end": 597.73
+}
+]

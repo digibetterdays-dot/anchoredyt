@@ -21,7 +21,8 @@
    "id": "s003",
    "src": "assets/shots/s003.png",
    "anchor": "Kids are heading to",
-   "prompt": "Children with backpacks walking along a wet suburban sidewalk toward a yellow school bus, tall fir trees, drizzle"
+   "prompt": "Children with backpacks walking along a wet suburban sidewalk toward a yellow school bus, tall fir trees, drizzle",
+   "allow_short": true
   },
   {
    "id": "s004",
@@ -133,7 +134,7 @@
   {
    "id": "s016",
    "src": "assets/shots/s016.png",
-   "anchor": "Because of a tsunami",
+   "anchor": "with no earthquake to",
    "prompt": "A Japanese coastal fishing village around the year 1700: wooden houses with thatched roofs, small boats pulled up on the beach, calm evening"
   },
   {
@@ -146,7 +147,8 @@
    "id": "s018",
    "src": "assets/shots/s018.png",
    "anchor": "Nobody there felt any",
-   "prompt": "Edo-period villagers holding lanterns, looking out at a calm sea in puzzlement, still night"
+   "prompt": "Edo-period villagers holding lanterns, looking out at a calm sea in puzzlement, still night",
+   "allow_short": true
   },
   {
    "id": "s019",
@@ -175,13 +177,6 @@
    "anchor": "It's estimated at about",
    "text": "About magnitude 9",
    "sub": "January 26, 1700, about 9 p.m."
-  },
-  {
-   "id": "s022",
-   "src": "assets/shots/s022.png",
-   "anchor": "And it's not a",
-   "prompt": "Cross-section of coastal ground showing many alternating bands of dark soil and pale sand, like pages of a book",
-   "label": null
   },
   {
    "id": "c05",
@@ -286,7 +281,7 @@
   {
    "id": "s033",
    "src": "assets/shots/s021.png",
-   "anchor": "The last one struck",
+   "anchor": "on a late January",
    "note": "reuses s021 (1700 night coast)"
   },
   {
@@ -294,12 +289,6 @@
    "src": "assets/shots/s034.png",
    "anchor": "The authors of Oregon's",
    "prompt": "A busy Oregon beach town on a sunny July morning: families on the sand, kites, a boardwalk, a headland in the distance"
-  },
-  {
-   "id": "s035",
-   "src": "assets/shots/s035.png",
-   "anchor": "No one can predict",
-   "prompt": "The same kind of sunny beach, people looking up as a flock of seabirds suddenly scatters into the sky"
   },
   {
    "id": "s036",
@@ -447,7 +436,7 @@
   {
    "id": "c15",
    "type": "card",
-   "anchor": "Along many parts of",
+   "anchor": "it can take an",
    "text": "An hour or more",
    "sub": "to walk to high ground in parts of Washington's outer coast"
   },
@@ -544,12 +533,6 @@
    "text": "You can't get fuel until the bridges are fixed, but you can't fix the bridges without fuel.",
    "sub": "ODOT presentation, 2019",
    "needs_verify": "quote wording (HANDOFF: VERIFY)"
-  },
-  {
-   "id": "s064",
-   "src": "assets/shots/s064.png",
-   "anchor": "Think about what that",
-   "prompt": "A fuel tanker truck stopped at a collapsed bridge approach, the road ending in a gap over a river"
   },
   {
    "id": "s065",

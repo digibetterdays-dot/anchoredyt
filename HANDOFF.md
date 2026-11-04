@@ -19,7 +19,7 @@ Known issues: audio never listened to (frames checked only). Stills only, slow z
 ### Pipeline (5 long videos; scripts done, no visuals/voice/render yet)
 | Order | Video | Script | Narrated length | Status |
 |---|---|---|---|---|
-| 1 | Cascadia ("What If the Cascadia Fault Ruptured Tomorrow?") | `longform-scripts-yellowstone-cascadia.md` | ~11.3 min | Shot list + 85 image prompts done (`clips/cascadia/`); waiting on owner stills and 5 fact checks; see `clips/cascadia/NOTES.md` |
+| 1 | Cascadia ("What If the Cascadia Fault Ruptured Tomorrow?") | `longform-scripts-yellowstone-cascadia.md` | ~11.3 min | VO in, timed, edit planned (`clips/cascadia/`); waiting on 81 owner stills and 5 fact checks; see `clips/cascadia/NOTES.md` |
 | 2 | Yellowstone ("If Yellowstone Erupted Tomorrow, This Is What Happens") | same file | ~7.8 min | Queued |
 | 3 | Eggs ("Why Americans Refrigerate Eggs (and Brits Don't)") | `longform-scripts-eggs-911-asteroid.md` | ~5.4 min | Queued |
 | 4 | 911 ("Why 911 Is the Emergency Number") | same file | ~4.2 min | Queued |
