@@ -148,7 +148,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 |---|---|---|
 | 0:30 | Open loop: "the trap", paid off at about 8:30 | Cold open |
 | 2:00 | New hook: "a wave with no parent earthquake" | Ch. 2 |
-| 4:40 | Pattern interrupt: real 3:00 timer, one held shot | Ch. 4 |
+| 4:40 | ~~Pattern interrupt: real 3:00 timer~~ DROPPED: Ch. 4 narration is only about 1 min | Ch. 4 |
 | 5:40 | Reversal: phone alert, then "an honest limit" | Ch. 5 |
 | 7:00 | Visual device: "YOUR WINDOW" countdown bar | Ch. 6 |
 | 8:20 | Re-hook: "this is where the trap closes" | End of Ch. 6 |
@@ -208,7 +208,7 @@ Narration at about 150 words per minute. Claims are limited to what `bonus-chapt
 
 *[**USGS method confirmed from the fact-sheet page you supplied:** USGS computes these as chances over 50 years, using a time-independent ("Poissonian") model, P = 1 - e^(-t/tau), in which an earthquake is equally likely on any day. USGS itself says that assumption "is likely an incorrect assumption for individual faults" but a reasonable way to compute hazard where past dates are uncertain. Your screenshot did not show the 10-15% numbers themselves; they still come from the earlier search summary of the 2025 fact sheet. **[VERIFY]** the exact percentages and the phrase "about 15 percent if you factor in the 1700 date" on the fact sheet before recording.]*
 
-**[4:40, Chapter 4: The shaking] VISUAL: shaking POV in an office, then a real on-screen timer that runs for a full 3:00 with no cuts while the narration continues. Hold the shot. The silence is the point.**
+**[4:40, Chapter 4: The shaking] VISUAL: shaking POV in an office, a summer beach, a long seismograph ribbon, a home shaking. (The 3:00 timer idea was dropped.)**
 
 > Now, back to our morning. What would the shaking feel like?
 >

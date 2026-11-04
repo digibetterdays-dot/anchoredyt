@@ -23,8 +23,8 @@ Built with the `documentary-edit` skill (`.claude/skills/documentary-edit/`). Sc
 
 If a figure changes, edit the card text in `shots.json` and the narration together. If the quote can't be verified, change `c18` to a paraphrase with no quotation marks.
 
-## Retention plan items NOT built (owner decision)
-- **"Real 3:00 timer, one held shot" (Ch. 4):** Chapter 4's narration is about 1 minute, so a real 3-minute timer can't run inside it without about 2 minutes of silence. The shot list uses normal shots there. Options: drop it, or show a running clock overlay only for the length of the chapter.
+## Retention plan items NOT built
+- **"Real 3:00 timer" (Ch. 4): DROPPED (owner decision, Nov 2026).** Chapter 4's narration is about 1 minute, so a real 3-minute timer couldn't fit. Normal shots are used there.
 - **"YOUR WINDOW" countdown bar (Ch. 6):** replaced by two separate cards (`c13` Oregon 10-30 min *from when shaking begins*, `c14` Washington 10-15 min *from when shaking stops*), keeping the script's rule never to mix the two on screen.
 - **"If it happened today" recovery table (Ch. 7):** shown as four cards in a row (`c22`-`c25`).
 
