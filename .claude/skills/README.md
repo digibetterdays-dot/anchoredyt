@@ -10,6 +10,12 @@ Installed from public GitHub repos after a manual code review (shell/Python/JS s
 | `eian-collage-broll` | YIAN6557/eian-collage-broll | MIT | 9e6dd8b6c53a8d82a47c80aac3bd9eadf9806dbe | Paper-collage b-roll prompt packs (blank first frame, confirmed last frame, video prompt). Needs an image generator (upstream assumes Codex `image_gen`; here use an available image tool). No API key in the skill. Written in Chinese; Gate 1 / Gate 2 approvals are required |
 | `gbro-collage-broll` | pyang5166/gbro-collage-broll | MIT | a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91 | Halftone paper-collage b-roll, 3 gates (metaphor, still, then video). **Paid:** step 3 calls Gemini (`gemini-omni-flash-preview`) with `GEMINI_API_KEY`, billed to that Google account. Scripts only talk to generativelanguage.googleapis.com and ffmpeg. Chinese-language instructions. Same trigger phrases as `eian-collage-broll`: name the one you want. **Owner has no Gemini subscription or key: do NOT use this one; use `eian-collage-broll`.** |
 
+## Written locally
+
+| Skill folder | What | Notes |
+|---|---|---|
+| `documentary-edit` | Script + owner VO + owner stills -> word-timed HyperFrames edit, audio finish, QA | Written for this repo (Nov 2026), inspired by the "documentary editing with Claude" approach but no third-party code. Python stdlib + ffmpeg + the `hyperframes` CLI. Transcription downloads a whisper model on first use: ask first. Tested on the stop-sign Short's stills and voice (plan, build, check, render, audio finish, QA all passing) with stand-in word timings, not a real transcript. |
+
 ## Deliberately NOT installed
 
 - **onetake** (feitangyuan/onetake): licensed **PolyForm Noncommercial 1.0.0**. A monetized channel is commercial use, so it was left out. Install only if the channel is non-commercial or the author grants permission.
