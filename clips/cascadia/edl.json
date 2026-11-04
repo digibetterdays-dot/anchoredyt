@@ -299,7 +299,7 @@
   },
   {
    "id": "s021",
-   "src": "assets/shots/s021.png",
+   "src": "assets/shots/s021.jpg",
    "anchor": "to pin the quake",
    "prompt": "The Pacific Northwest coast on a winter night in 1700: moonlit cedar forest at the shoreline, the sea pulling back from the beach",
    "start": 95.346,
@@ -342,9 +342,13 @@
   },
   {
    "id": "s024",
-   "src": "assets/shots/s024.png",
+   "src": "assets/shots/s024.jpg",
    "anchor": "In the 1980s and",
    "prompt": "Two field scientists kneeling at a muddy riverbank, cutting a clean face into the layered bank with a spade, notebook on the ground, no writing visible",
+   "focus": [
+    0.38,
+    0.6
+   ],
    "start": 113.856,
    "end": 118.043,
    "dur": 4.187,
@@ -396,7 +400,7 @@
   },
   {
    "id": "s027",
-   "src": "assets/shots/s027.png",
+   "src": "assets/shots/s027.jpg",
    "anchor": "About 10 percent if",
    "prompt": "Two paper-cut dice tumbling in mid-air above a wooden table, soft light",
    "start": 144.464,
@@ -437,9 +441,13 @@
   },
   {
    "id": "s030",
-   "src": "assets/shots/s030.png",
+   "src": "assets/shots/s030.jpg",
    "anchor": "What does that mean?",
    "prompt": "A newborn baby's hand holding a parent's finger, soft window light",
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 163.707,
    "end": 168.561,
    "dur": 4.854,
@@ -479,7 +487,7 @@
   },
   {
    "id": "s033",
-   "src": "assets/shots/s021.png",
+   "src": "assets/shots/s021.jpg",
    "anchor": "on a late January",
    "note": "reuses s021 (1700 night coast)",
    "start": 179.907,
@@ -512,7 +520,7 @@
   },
   {
    "id": "s036",
-   "src": "assets/shots/s036.png",
+   "src": "assets/shots/s036.jpg",
    "anchor": "The key difference from",
    "prompt": "A very long ribbon of seismograph paper unrolled across a table, the trace going on and on in big waves from left to right, no numbers",
    "aspect": "3:1 panorama, 3240x1080",
