@@ -241,7 +241,8 @@
    "src": "assets/shots/p021.jpg",
    "anchor": "What survived is a",
    "label": null,
-   "move": "push_in",
+   "move": "slow_push",
+   "no_split": true,
    "focus": [
     0.5,
     0.45
@@ -427,12 +428,6 @@
    "text": "Every detail",
    "sub": "what a painter might have left out",
    "overlay": true
-  },
-  {
-   "id": "p031e",
-   "src": "assets/shots/p031e.png",
-   "anchor": "The loudest public voices,",
-   "prompt": "A café table in 1850s Paris with newspapers and journals piled up, a cup of coffee, a pen, no readable text"
   },
   {
    "id": "p032",

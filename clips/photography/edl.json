@@ -38,10 +38,14 @@
   },
   {
    "id": "p003a",
-   "src": "assets/shots/p003.png",
+   "src": "assets/shots/p003.jpg",
    "anchor": "On it is a",
    "prompt": "Extreme close-up of a small silver daguerreotype plate in a brass frame on dark velvet, the plate showing a tiny, impossibly sharp street scene",
    "emphasis": true,
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 7.083,
    "end": 11.101,
    "dur": 4.018,
@@ -50,10 +54,14 @@
   },
   {
    "id": "p003b",
-   "src": "assets/shots/p003.png",
+   "src": "assets/shots/p003.jpg",
    "anchor": "On it is a",
    "prompt": "Extreme close-up of a small silver daguerreotype plate in a brass frame on dark velvet, the plate showing a tiny, impossibly sharp street scene",
    "emphasis": true,
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 11.101,
    "end": 14.754,
    "dur": 3.653,
@@ -63,10 +71,14 @@
   },
   {
    "id": "p004a",
-   "src": "assets/shots/p004.png",
+   "src": "assets/shots/p004.jpg",
    "anchor": "And according to a famous",
    "prompt": "A painter's palette and brushes dropped onto a wooden studio floor, a half-finished canvas on an easel above, dramatic side light",
    "emphasis": true,
+   "focus": [
+    0.38,
+    0.65
+   ],
    "start": 14.754,
    "end": 18.591,
    "dur": 3.837,
@@ -75,10 +87,14 @@
   },
   {
    "id": "p004b",
-   "src": "assets/shots/p004.png",
+   "src": "assets/shots/p004.jpg",
    "anchor": "And according to a famous",
    "prompt": "A painter's palette and brushes dropped onto a wooden studio floor, a half-finished canvas on an easel above, dramatic side light",
    "emphasis": true,
+   "focus": [
+    0.38,
+    0.65
+   ],
    "start": 18.591,
    "end": 22.677,
    "dur": 4.086,
@@ -88,9 +104,13 @@
   },
   {
    "id": "p005",
-   "src": "assets/shots/p005.png",
+   "src": "assets/shots/p005.jpg",
    "anchor": "It's been repeated for",
    "prompt": "A stack of old leather-bound history books on a library table, one lying open, a magnifying glass beside them, no readable text",
+   "focus": [
+    0.5,
+    0.55
+   ],
    "start": 22.677,
    "end": 25.419,
    "dur": 2.742,
@@ -112,9 +132,13 @@
   },
   {
    "id": "p007a",
-   "src": "assets/shots/p007.png",
+   "src": "assets/shots/p007.jpg",
    "anchor": "This is the story",
    "prompt": "An archive room: tall shelves of document boxes and bound ledgers, a reading lamp on a table, one ledger open with blank pages",
+   "focus": [
+    0.5,
+    0.6
+   ],
    "start": 32.303,
    "end": 36.713,
    "dur": 4.41,
@@ -123,9 +147,13 @@
   },
   {
    "id": "p007b",
-   "src": "assets/shots/p007.png",
+   "src": "assets/shots/p007.jpg",
    "anchor": "This is the story",
    "prompt": "An archive room: tall shelves of document boxes and bound ledgers, a reading lamp on a table, one ledger open with blank pages",
+   "focus": [
+    0.5,
+    0.6
+   ],
    "start": 36.713,
    "end": 41.692,
    "dur": 4.979,
@@ -135,9 +163,13 @@
   },
   {
    "id": "p008",
-   "src": "assets/shots/p008.png",
+   "src": "assets/shots/p008.jpg",
    "anchor": "Some of the fears",
    "prompt": "An antique wooden box camera with a brass lens on a tripod, pointed at the viewer, warm window light",
+   "focus": [
+    0.5,
+    0.4
+   ],
    "start": 41.692,
    "end": 48.246,
    "dur": 6.554,
@@ -157,9 +189,13 @@
   },
   {
    "id": "p009aa",
-   "src": "assets/shots/p009a.png",
+   "src": "assets/shots/p009a.jpg",
    "anchor": "Paintings and drawings were",
    "prompt": "A large 19th-century history painting of a crowded historic event hanging in a gallery, a visitor in a top hat looking up at it",
+   "focus": [
+    0.6,
+    0.45
+   ],
    "start": 53.727,
    "end": 57.437,
    "dur": 3.71,
@@ -168,9 +204,13 @@
   },
   {
    "id": "p009ab",
-   "src": "assets/shots/p009a.png",
+   "src": "assets/shots/p009a.jpg",
    "anchor": "Paintings and drawings were",
    "prompt": "A large 19th-century history painting of a crowded historic event hanging in a gallery, a visitor in a top hat looking up at it",
+   "focus": [
+    0.6,
+    0.45
+   ],
    "start": 57.437,
    "end": 60.838,
    "dur": 3.401,
@@ -180,9 +220,13 @@
   },
   {
    "id": "p009",
-   "src": "assets/shots/p009.png",
+   "src": "assets/shots/p009.jpg",
    "anchor": "If you were rich,",
    "prompt": "A wealthy family posing in a grand drawing room while a portrait painter works at a large canvas, late 18th century",
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 60.838,
    "end": 64.001,
    "dur": 3.163,
@@ -190,9 +234,13 @@
   },
   {
    "id": "p010",
-   "src": "assets/shots/p010.png",
+   "src": "assets/shots/p010.jpg",
    "anchor": "If you were comfortable,",
    "prompt": "A tiny oval painted portrait miniature of a woman inside an open gold locket, held in a hand, close-up",
+   "focus": [
+    0.45,
+    0.4
+   ],
    "start": 64.001,
    "end": 69.99,
    "dur": 5.989,
@@ -200,9 +248,13 @@
   },
   {
    "id": "p011",
-   "src": "assets/shots/p011.png",
+   "src": "assets/shots/p011.jpg",
    "anchor": "Everyone else had a",
    "prompt": "A silhouette artist at a market stall cutting a black paper profile of a seated customer with small scissors, a row of finished silhouettes pinned behind",
+   "focus": [
+    0.4,
+    0.5
+   ],
    "start": 69.99,
    "end": 75.451,
    "dur": 5.461,
@@ -210,9 +262,13 @@
   },
   {
    "id": "p012",
-   "src": "assets/shots/p012.png",
+   "src": "assets/shots/p012.jpg",
    "anchor": "There were machines to",
    "prompt": "An 18th-century profile-tracing machine: a tall wooden frame with a pointer arm tracing the outline of a seated person's profile onto paper",
+   "focus": [
+    0.45,
+    0.45
+   ],
    "start": 75.451,
    "end": 80.357,
    "dur": 4.906,
@@ -367,9 +423,13 @@
   },
   {
    "id": "p020a",
-   "src": "assets/shots/p020.png",
+   "src": "assets/shots/p020.jpg",
    "anchor": "He put it in",
    "prompt": "A simple wooden box camera on a windowsill of an upstairs room, pointed out at rooftops and a courtyard, long shadows",
+   "focus": [
+    0.35,
+    0.55
+   ],
    "start": 133.669,
    "end": 137.925,
    "dur": 4.256,
@@ -378,9 +438,13 @@
   },
   {
    "id": "p020b",
-   "src": "assets/shots/p020.png",
+   "src": "assets/shots/p020.jpg",
    "anchor": "He put it in",
    "prompt": "A simple wooden box camera on a windowsill of an upstairs room, pointed out at rooftops and a courtyard, long shadows",
+   "focus": [
+    0.35,
+    0.55
+   ],
    "start": 137.925,
    "end": 142.604,
    "dur": 4.679,
@@ -390,9 +454,13 @@
   },
   {
    "id": "p020c",
-   "src": "assets/shots/p020.png",
+   "src": "assets/shots/p020.jpg",
    "anchor": "He put it in",
    "prompt": "A simple wooden box camera on a windowsill of an upstairs room, pointed out at rooftops and a courtyard, long shadows",
+   "focus": [
+    0.35,
+    0.55
+   ],
    "start": 142.604,
    "end": 147.843,
    "dur": 5.239,
@@ -401,11 +469,12 @@
    "move": "hold_punch"
   },
   {
-   "id": "p021a",
+   "id": "p021",
    "src": "assets/shots/p021.jpg",
    "anchor": "What survived is a",
    "label": null,
-   "move": "push_in",
+   "move": "slow_push",
+   "no_split": true,
    "focus": [
     0.5,
     0.45
@@ -413,69 +482,18 @@
    "archival": true,
    "source": "Ni\u00e9pce, View from the Window at Le Gras, c. 1827 \u00b7 Harry Ransom Center",
    "start": 147.843,
-   "end": 153.162,
-   "dur": 5.319,
-   "punch": 0
-  },
-  {
-   "id": "p021b",
-   "src": "assets/shots/p021.jpg",
-   "anchor": "What survived is a",
-   "label": null,
-   "move": "hold_punch",
-   "focus": [
-    0.5,
-    0.45
-   ],
-   "archival": true,
-   "source": "Ni\u00e9pce, View from the Window at Le Gras, c. 1827 \u00b7 Harry Ransom Center",
-   "start": 153.162,
-   "end": 158.769,
-   "dur": 5.607,
-   "punch": 1,
-   "section_start": false
-  },
-  {
-   "id": "p021c",
-   "src": "assets/shots/p021.jpg",
-   "anchor": "What survived is a",
-   "label": null,
-   "move": "hold_punch",
-   "focus": [
-    0.5,
-    0.45
-   ],
-   "archival": true,
-   "source": "Ni\u00e9pce, View from the Window at Le Gras, c. 1827 \u00b7 Harry Ransom Center",
-   "start": 158.769,
-   "end": 164.509,
-   "dur": 5.74,
-   "punch": 2,
-   "section_start": false
-  },
-  {
-   "id": "p021d",
-   "src": "assets/shots/p021.jpg",
-   "anchor": "What survived is a",
-   "label": null,
-   "move": "hold_punch",
-   "focus": [
-    0.5,
-    0.45
-   ],
-   "archival": true,
-   "source": "Ni\u00e9pce, View from the Window at Le Gras, c. 1827 \u00b7 Harry Ransom Center",
-   "start": 164.509,
    "end": 169.603,
-   "dur": 5.094,
-   "punch": 3,
-   "section_start": false
+   "dur": 21.76
   },
   {
    "id": "p022",
-   "src": "assets/shots/p022.png",
+   "src": "assets/shots/p022.jpg",
    "anchor": "Ni\u00e9pce, not Daguerre, is",
    "prompt": "A portrait-style illustration of an elderly French gentleman of the 1820s in a high-collared coat, three-quarter view, thoughtful expression (illustrative, not a likeness)",
+   "focus": [
+    0.6,
+    0.4
+   ],
    "start": 169.603,
    "end": 175.294,
    "dur": 5.691,
@@ -656,9 +674,13 @@
   },
   {
    "id": "p028a",
-   "src": "assets/shots/p028.png",
+   "src": "assets/shots/p028.jpg",
    "anchor": "Within months, people across",
    "prompt": "A busy 1840 street with several gentlemen setting up wooden box cameras on tripods, curious onlookers gathering",
+   "focus": [
+    0.5,
+    0.55
+   ],
    "start": 232.779,
    "end": 236.919,
    "dur": 4.14,
@@ -667,9 +689,13 @@
   },
   {
    "id": "p028b",
-   "src": "assets/shots/p028.png",
+   "src": "assets/shots/p028.jpg",
    "anchor": "Within months, people across",
    "prompt": "A busy 1840 street with several gentlemen setting up wooden box cameras on tripods, curious onlookers gathering",
+   "focus": [
+    0.5,
+    0.55
+   ],
    "start": 236.919,
    "end": 240.882,
    "dur": 3.963,
@@ -691,9 +717,13 @@
   },
   {
    "id": "p029a",
-   "src": "assets/shots/p029.png",
+   "src": "assets/shots/p029.jpg",
    "anchor": "Think about who earned",
    "prompt": "A row of three small artists' shops on a Paris street: a portrait painter's studio, a miniature painter's window, a silhouette cutter's sign with a black profile, no readable text",
+   "focus": [
+    0.5,
+    0.5
+   ],
    "start": 245.124,
    "end": 248.564,
    "dur": 3.44,
@@ -702,9 +732,13 @@
   },
   {
    "id": "p029b",
-   "src": "assets/shots/p029.png",
+   "src": "assets/shots/p029.jpg",
    "anchor": "Think about who earned",
    "prompt": "A row of three small artists' shops on a Paris street: a portrait painter's studio, a miniature painter's window, a silhouette cutter's sign with a black profile, no readable text",
+   "focus": [
+    0.5,
+    0.5
+   ],
    "start": 248.564,
    "end": 252.396,
    "dur": 3.832,
@@ -714,9 +748,13 @@
   },
   {
    "id": "p030a",
-   "src": "assets/shots/p030.png",
+   "src": "assets/shots/p030.jpg",
    "anchor": "Now a machine could",
    "prompt": "A photographer's studio of the 1840s: a sitter clamped in a posing stand with a head brace, the photographer beside a box camera, a skylight above",
+   "focus": [
+    0.35,
+    0.45
+   ],
    "start": 252.396,
    "end": 255.869,
    "dur": 3.473,
@@ -725,9 +763,13 @@
   },
   {
    "id": "p030b",
-   "src": "assets/shots/p030.png",
+   "src": "assets/shots/p030.jpg",
    "anchor": "Now a machine could",
    "prompt": "A photographer's studio of the 1840s: a sitter clamped in a posing stand with a head brace, the photographer beside a box camera, a skylight above",
+   "focus": [
+    0.35,
+    0.45
+   ],
    "start": 255.869,
    "end": 260.609,
    "dur": 4.74,
@@ -737,9 +779,13 @@
   },
   {
    "id": "p031ba",
-   "src": "assets/shots/p031b.png",
+   "src": "assets/shots/p031b.jpg",
    "anchor": "For portrait painters, this",
    "prompt": "A well-dressed couple in an 1850s photographer's waiting room choosing from a display of framed photographic portraits, while a painter's empty easel stands in the corner",
+   "focus": [
+    0.4,
+    0.45
+   ],
    "start": 260.609,
    "end": 264.059,
    "dur": 3.45,
@@ -748,9 +794,13 @@
   },
   {
    "id": "p031bb",
-   "src": "assets/shots/p031b.png",
+   "src": "assets/shots/p031b.jpg",
    "anchor": "For portrait painters, this",
    "prompt": "A well-dressed couple in an 1850s photographer's waiting room choosing from a display of framed photographic portraits, while a painter's empty easel stands in the corner",
+   "focus": [
+    0.4,
+    0.45
+   ],
    "start": 264.059,
    "end": 267.712,
    "dur": 3.653,
@@ -760,9 +810,13 @@
   },
   {
    "id": "p031",
-   "src": "assets/shots/p031.png",
+   "src": "assets/shots/p031.jpg",
    "anchor": "Some artists saw an",
    "prompt": "A lonely portrait painter in an empty studio, canvases turned to the wall, looking out the window at a photographer's sign across the street",
+   "focus": [
+    0.45,
+    0.5
+   ],
    "start": 267.712,
    "end": 272.569,
    "dur": 4.857,
@@ -770,38 +824,50 @@
   },
   {
    "id": "p031ca",
-   "src": "assets/shots/p031c.png",
+   "src": "assets/shots/p031c.jpg",
    "anchor": "And there was a second",
    "prompt": "A portrait painter at an easel gently smoothing a sitter's face on canvas, the elderly sitter beside him looking far more lined than the youthful painted version",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "move": "pan_right",
    "start": 272.569,
    "end": 277.842,
    "dur": 5.273,
-   "punch": 0,
-   "move": "push_in"
+   "punch": 0
   },
   {
    "id": "p031cb",
-   "src": "assets/shots/p031c.png",
+   "src": "assets/shots/p031c.jpg",
    "anchor": "And there was a second",
    "prompt": "A portrait painter at an easel gently smoothing a sitter's face on canvas, the elderly sitter beside him looking far more lined than the youthful painted version",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "move": "hold_punch",
    "start": 277.842,
    "end": 283.276,
    "dur": 5.434,
    "punch": 1,
-   "section_start": false,
-   "move": "hold_punch"
+   "section_start": false
   },
   {
    "id": "p031cc",
-   "src": "assets/shots/p031c.png",
+   "src": "assets/shots/p031c.jpg",
    "anchor": "And there was a second",
    "prompt": "A portrait painter at an easel gently smoothing a sitter's face on canvas, the elderly sitter beside him looking far more lined than the youthful painted version",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "move": "hold_punch",
    "start": 283.276,
    "end": 288.123,
    "dur": 4.847,
    "punch": 2,
-   "section_start": false,
-   "move": "hold_punch"
+   "section_start": false
   },
   {
    "id": "p031da",
@@ -814,8 +880,8 @@
     0.4
    ],
    "start": 288.123,
-   "end": 292.06,
-   "dur": 3.937,
+   "end": 294.906,
+   "dur": 6.783,
    "punch": 0,
    "move": "push_fast"
   },
@@ -829,22 +895,12 @@
     0.58,
     0.4
    ],
-   "start": 292.06,
-   "end": 296.245,
-   "dur": 4.185,
+   "start": 294.906,
+   "end": 301.769,
+   "dur": 6.863,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
-  },
-  {
-   "id": "p031e",
-   "src": "assets/shots/p031e.png",
-   "anchor": "The loudest public voices,",
-   "prompt": "A caf\u00e9 table in 1850s Paris with newspapers and journals piled up, a cup of coffee, a pen, no readable text",
-   "start": 296.245,
-   "end": 301.769,
-   "dur": 5.524,
-   "move": "tilt_up"
   },
   {
    "id": "p032a",
@@ -859,7 +915,7 @@
    "end": 306.566,
    "dur": 4.797,
    "punch": 0,
-   "move": "pan_right"
+   "move": "push_in"
   },
   {
    "id": "p032b",
@@ -890,20 +946,28 @@
   },
   {
    "id": "p033",
-   "src": "assets/shots/p033.png",
+   "src": "assets/shots/p033.jpg",
    "anchor": "If photography was allowed",
    "prompt": "A stern 19th-century critic writing furiously at a desk by candlelight, papers scattered, a quill in hand (illustrative, not a likeness)",
+   "focus": [
+    0.55,
+    0.45
+   ],
    "start": 321.192,
    "end": 327.99,
    "dur": 6.798,
-   "move": "push_in"
+   "move": "tilt_up"
   },
   {
    "id": "p034",
-   "src": "assets/shots/p034.png",
+   "src": "assets/shots/p034.jpg",
    "anchor": "Baudelaire, by the way,",
    "prompt": "A photographer's studio: a man in a dark coat seated, glaring at a large wooden camera on a tripod, the photographer under a black cloth (illustrative, not a likeness)",
    "emphasis": true,
+   "focus": [
+    0.3,
+    0.45
+   ],
    "start": 327.99,
    "end": 333.61,
    "dur": 5.62,
@@ -964,14 +1028,18 @@
    "start": 344.165,
    "end": 348.31,
    "dur": 4.145,
-   "move": "pull_out"
+   "move": "push_in"
   },
   {
    "id": "p039a",
-   "src": "assets/shots/p039.png",
+   "src": "assets/shots/p039.jpg",
    "anchor": "A London photographic catalogue",
    "prompt": "The ruins of Pompeii under a hazy sky, columns and streets, Vesuvius behind, a closed wooden gate in the foreground",
    "emphasis": true,
+   "focus": [
+    0.35,
+    0.6
+   ],
    "start": 348.31,
    "end": 352.904,
    "dur": 4.594,
@@ -980,10 +1048,14 @@
   },
   {
    "id": "p039b",
-   "src": "assets/shots/p039.png",
+   "src": "assets/shots/p039.jpg",
    "anchor": "A London photographic catalogue",
    "prompt": "The ruins of Pompeii under a hazy sky, columns and streets, Vesuvius behind, a closed wooden gate in the foreground",
    "emphasis": true,
+   "focus": [
+    0.35,
+    0.6
+   ],
    "start": 352.904,
    "end": 357.847,
    "dur": 4.943,
@@ -993,20 +1065,28 @@
   },
   {
    "id": "p037a",
-   "src": "assets/shots/p037.png",
+   "src": "assets/shots/p037.jpg",
    "anchor": "The puzzle is that",
    "prompt": "Ancient Roman frescoes on a ruined wall in Pompeii, with an 1840s camera on a tripod set up before them",
+   "focus": [
+    0.45,
+    0.45
+   ],
    "start": 357.847,
    "end": 363.937,
    "dur": 6.09,
    "punch": 0,
-   "move": "pan_left"
+   "move": "pan_right"
   },
   {
    "id": "p037b",
-   "src": "assets/shots/p037.png",
+   "src": "assets/shots/p037.jpg",
    "anchor": "The puzzle is that",
    "prompt": "Ancient Roman frescoes on a ruined wall in Pompeii, with an 1840s camera on a tripod set up before them",
+   "focus": [
+    0.45,
+    0.45
+   ],
    "start": 363.937,
    "end": 370.577,
    "dur": 6.64,
@@ -1016,20 +1096,28 @@
   },
   {
    "id": "p036a",
-   "src": "assets/shots/p036.png",
+   "src": "assets/shots/p036.jpg",
    "anchor": "You'll often read that",
    "prompt": "A red coral horn charm and a hand making a protective gesture against the evil eye, Neapolitan folk amulets on a wooden table",
+   "focus": [
+    0.4,
+    0.5
+   ],
    "start": 370.577,
    "end": 374.668,
    "dur": 4.091,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "pull_out"
   },
   {
    "id": "p036b",
-   "src": "assets/shots/p036.png",
+   "src": "assets/shots/p036.jpg",
    "anchor": "You'll often read that",
    "prompt": "A red coral horn charm and a hand making a protective gesture against the evil eye, Neapolitan folk amulets on a wooden table",
+   "focus": [
+    0.4,
+    0.5
+   ],
    "start": 374.668,
    "end": 378.731,
    "dur": 4.063,
@@ -1049,7 +1137,7 @@
    "start": 378.731,
    "end": 383.424,
    "dur": 4.693,
-   "move": "push_in"
+   "move": "pan_left"
   },
   {
    "id": "c10",
@@ -1076,7 +1164,7 @@
    "end": 393.806,
    "dur": 5.67,
    "punch": 0,
-   "move": "tilt_up"
+   "move": "tilt_down"
   },
   {
    "id": "p041b",
@@ -1096,20 +1184,28 @@
   },
   {
    "id": "p042a",
-   "src": "assets/shots/p042.png",
+   "src": "assets/shots/p042.jpg",
    "anchor": "But researchers who have",
    "prompt": "A researcher's desk with old printed books and journals stacked high, one opened to a page, a lamp and a notepad, no readable text",
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 399.726,
    "end": 403.279,
    "dur": 3.553,
    "punch": 0,
-   "move": "pan_right"
+   "move": "push_in"
   },
   {
    "id": "p042b",
-   "src": "assets/shots/p042.png",
+   "src": "assets/shots/p042.jpg",
    "anchor": "But researchers who have",
    "prompt": "A researcher's desk with old printed books and journals stacked high, one opened to a page, a lamp and a notepad, no readable text",
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 403.279,
    "end": 407.115,
    "dur": 3.836,
@@ -1130,7 +1226,7 @@
    "end": 412.659,
    "dur": 5.544,
    "punch": 0,
-   "move": "push_in"
+   "move": "tilt_up"
   },
   {
    "id": "p043b",
@@ -1166,9 +1262,13 @@
   },
   {
    "id": "p044",
-   "src": "assets/shots/p044.png",
+   "src": "assets/shots/p044.jpg",
    "anchor": "And he didn't stop",
    "prompt": "A painter's studio with a huge unfinished historical painting on an easel, brushes in jars, rich light (illustrative)",
+   "focus": [
+    0.6,
+    0.45
+   ],
    "start": 423.971,
    "end": 428.996,
    "dur": 5.025,
@@ -1231,7 +1331,7 @@
    "start": 441.483,
    "end": 444.452,
    "dur": 2.969,
-   "move": "pull_out"
+   "move": "push_in"
   },
   {
    "id": "c12",
@@ -1257,7 +1357,7 @@
    "end": 457.804,
    "dur": 5.614,
    "punch": 0,
-   "move": "pan_left"
+   "move": "pan_right"
   },
   {
    "id": "p047b",
@@ -1277,20 +1377,28 @@
   },
   {
    "id": "p048a",
-   "src": "assets/shots/p048.png",
+   "src": "assets/shots/p048.jpg",
    "anchor": "In the spring of",
    "prompt": "Young painters carrying framed canvases along a Paris boulevard in spring, chestnut trees in bloom",
+   "focus": [
+    0.5,
+    0.5
+   ],
    "start": 464.529,
    "end": 468.192,
    "dur": 3.663,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "pull_out"
   },
   {
    "id": "p048b",
-   "src": "assets/shots/p048.png",
+   "src": "assets/shots/p048.jpg",
    "anchor": "In the spring of",
    "prompt": "Young painters carrying framed canvases along a Paris boulevard in spring, chestnut trees in bloom",
+   "focus": [
+    0.5,
+    0.5
+   ],
    "start": 468.192,
    "end": 472.174,
    "dur": 3.982,
@@ -1310,7 +1418,7 @@
    "start": 472.174,
    "end": 475.685,
    "dur": 3.511,
-   "move": "push_in"
+   "move": "pan_left"
   },
   {
    "id": "p050a",
@@ -1379,20 +1487,28 @@
   },
   {
    "id": "p052a",
-   "src": "assets/shots/p052.png",
+   "src": "assets/shots/p052.jpg",
    "anchor": "The fears were real.",
    "prompt": "A dim workshop of the 1840s with an abandoned miniature painter's table, tiny brushes and an unfinished locket portrait",
+   "focus": [
+    0.3,
+    0.6
+   ],
    "start": 490.896,
    "end": 496.741,
    "dur": 5.845,
    "punch": 0,
-   "move": "tilt_up"
+   "move": "tilt_down"
   },
   {
    "id": "p052b",
-   "src": "assets/shots/p052.png",
+   "src": "assets/shots/p052.jpg",
    "anchor": "The fears were real.",
    "prompt": "A dim workshop of the 1840s with an abandoned miniature painter's table, tiny brushes and an unfinished locket portrait",
+   "focus": [
+    0.3,
+    0.6
+   ],
    "start": 496.741,
    "end": 502.194,
    "dur": 5.453,
@@ -1402,9 +1518,13 @@
   },
   {
    "id": "p052c",
-   "src": "assets/shots/p052.png",
+   "src": "assets/shots/p052.jpg",
    "anchor": "The fears were real.",
    "prompt": "A dim workshop of the 1840s with an abandoned miniature painter's table, tiny brushes and an unfinished locket portrait",
+   "focus": [
+    0.3,
+    0.6
+   ],
    "start": 502.194,
    "end": 508.648,
    "dur": 6.454,
@@ -1473,7 +1593,7 @@
    "text": "Every detail",
    "sub": "what a painter might have left out",
    "start": 290.794,
-   "end": 296.195
+   "end": 296.757
   },
   {
    "id": "o02",

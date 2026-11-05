@@ -46,6 +46,7 @@ Paths are relative to the folder holding `shots.json` (the HyperFrames project).
 | `move` | `auto` (default) or one of `push_in push_fast pull_out pan_left pan_right tilt_up tilt_down hold scan` |
 | `aspect` | shown in the prompt list when the art is not the frame shape, e.g. `3:1 panorama` or `9:16 tall map`; such art gets an automatic `scan` |
 | `reverse` | `true` = scan right-to-left (or bottom-to-top) |
+| `no_split` | `true` = never punch-in split this still, however long it holds (a real archival image the narration dwells on); pair with `move: slow_push` |
 | `focus` | `[x, y]` 0-1 zoom origin, default centre |
 | `emphasis` | `true` = hard push for a key line |
 | `allow_short` | `true` = accept a shot up to 15% under the minimum (fast hook cuts) |

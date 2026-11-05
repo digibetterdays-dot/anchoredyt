@@ -207,7 +207,7 @@ def cmd_plan(a):
     # too-long stills: split into punch-in segments on phrase breaks
     segs = []
     for s in timed:
-        if s.get("type", "image") != "image" or s["dur"] <= fmt["max_shot"] or s.get("move") == "scan":
+        if s.get("type", "image") != "image" or s["dur"] <= fmt["max_shot"] or s.get("move") == "scan" or s.get("no_split"):
             segs.append(s)
             continue
         parts = max(2, int(-(-s["dur"] // fmt["max_shot"])))
@@ -261,7 +261,7 @@ def cmd_plan(a):
     print(f"voice {vdur or 0:.1f}s, timeline {end_t:.1f}s, {len(segs)} segments from {len(timed)} shots")
     if durs:
         print(f"shot length: min {min(durs):.1f}s, avg {sum(durs)/len(durs):.1f}s, max {max(durs):.1f}s")
-        long_ = [s["id"] for s in segs if s.get("move") != "scan" and s["dur"] > 0.5 +
+        long_ = [s["id"] for s in segs if s.get("move") != "scan" and not s.get("no_split") and s["dur"] > 0.5 +
                  (fmt["max_card"] if s.get("type") == "card" else fmt["max_shot"])]
         if long_:
             print("still over max after split:", ", ".join(long_))
@@ -294,6 +294,8 @@ def move_js(sel, mv, t, d, fx, fy):
         return f'tl.fromTo("{sel}",{{scale:1.12,yPercent:{a}}},{{scale:1.12,yPercent:{b},duration:{d},ease:{ease}}},{t});'
     if mv == "hold_punch":
         return f'tl.fromTo("{sel}",{{scale:1.32}},{{scale:1.38,duration:{d},ease:{ease}}},{t});'
+    if mv == "slow_push":   # one long continuous push, for a held artefact (no_split shots)
+        return f'tl.fromTo("{sel}",{{scale:1.0}},{{scale:1.22,duration:{d},ease:"sine.inOut"}},{t});'
     if mv == "hold":
         return f'tl.fromTo("{sel}",{{scale:1.03}},{{scale:1.06,duration:{d},ease:{ease}}},{t});'
     return ""
