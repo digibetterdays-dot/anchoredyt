@@ -1,0 +1,8018 @@
+[
+{
+"id": "w0",
+"text": "Paris,",
+"start": 0.243,
+"end": 0.845
+},
+{
+"id": "w1",
+"text": "1839.",
+"start": 1.148,
+"end": 1.286
+},
+{
+"id": "w2",
+"text": "A",
+"start": 1.442,
+"end": 1.648
+},
+{
+"id": "w3",
+"text": "famous",
+"start": 1.665,
+"end": 2.385
+},
+{
+"id": "w4",
+"text": "painter",
+"start": 2.448,
+"end": 3.27
+},
+{
+"id": "w5",
+"text": "looks",
+"start": 3.341,
+"end": 3.958
+},
+{
+"id": "w6",
+"text": "at",
+"start": 4.012,
+"end": 4.32
+},
+{
+"id": "w7",
+"text": "a",
+"start": 4.347,
+"end": 4.553
+},
+{
+"id": "w8",
+"text": "small",
+"start": 4.57,
+"end": 5.187
+},
+{
+"id": "w9",
+"text": "silver",
+"start": 5.241,
+"end": 5.96
+},
+{
+"id": "w10",
+"text": "plate.",
+"start": 6.023,
+"end": 6.64
+},
+{
+"id": "w11",
+"text": "On",
+"start": 7.527,
+"end": 7.691
+},
+{
+"id": "w12",
+"text": "it",
+"start": 7.705,
+"end": 7.869
+},
+{
+"id": "w13",
+"text": "is",
+"start": 7.883,
+"end": 8.047
+},
+{
+"id": "w14",
+"text": "a",
+"start": 8.061,
+"end": 8.171
+},
+{
+"id": "w15",
+"text": "street,",
+"start": 8.18,
+"end": 8.563
+},
+{
+"id": "w16",
+"text": "a",
+"start": 9.018,
+"end": 9.144
+},
+{
+"id": "w17",
+"text": "rooftop,",
+"start": 9.155,
+"end": 9.659
+},
+{
+"id": "w18",
+"text": "a",
+"start": 10.032,
+"end": 10.269
+},
+{
+"id": "w19",
+"text": "sky,",
+"start": 10.289,
+"end": 10.764
+},
+{
+"id": "w20",
+"text": "every",
+"start": 11.181,
+"end": 11.526
+},
+{
+"id": "w21",
+"text": "detail",
+"start": 11.556,
+"end": 11.96
+},
+{
+"id": "w22",
+"text": "sharper",
+"start": 11.995,
+"end": 12.456
+},
+{
+"id": "w23",
+"text": "than",
+"start": 12.496,
+"end": 12.784
+},
+{
+"id": "w24",
+"text": "any",
+"start": 12.81,
+"end": 13.04
+},
+{
+"id": "w25",
+"text": "brush",
+"start": 13.06,
+"end": 13.406
+},
+{
+"id": "w26",
+"text": "could",
+"start": 13.436,
+"end": 13.782
+},
+{
+"id": "w27",
+"text": "make",
+"start": 13.812,
+"end": 14.1
+},
+{
+"id": "w28",
+"text": "it.",
+"start": 14.125,
+"end": 14.298
+},
+{
+"id": "w29",
+"text": "And",
+"start": 15.21,
+"end": 15.46
+},
+{
+"id": "w30",
+"text": "according",
+"start": 15.481,
+"end": 16.106
+},
+{
+"id": "w31",
+"text": "to",
+"start": 16.16,
+"end": 16.347
+},
+{
+"id": "w32",
+"text": "a",
+"start": 16.364,
+"end": 16.489
+},
+{
+"id": "w33",
+"text": "famous",
+"start": 16.499,
+"end": 16.937
+},
+{
+"id": "w34",
+"text": "line",
+"start": 16.975,
+"end": 17.287
+},
+{
+"id": "w35",
+"text": "later",
+"start": 17.314,
+"end": 17.689
+},
+{
+"id": "w36",
+"text": "attributed",
+"start": 17.721,
+"end": 18.408
+},
+{
+"id": "w37",
+"text": "to",
+"start": 18.468,
+"end": 18.655
+},
+{
+"id": "w38",
+"text": "him,",
+"start": 18.671,
+"end": 18.921
+},
+{
+"id": "w39",
+"text": "he",
+"start": 19.564,
+"end": 19.749
+},
+{
+"id": "w40",
+"text": "declares:",
+"start": 19.765,
+"end": 20.32
+},
+{
+"id": "w41",
+"text": "from",
+"start": 20.733,
+"end": 20.949
+},
+{
+"id": "w42",
+"text": "today,",
+"start": 20.968,
+"end": 21.228
+},
+{
+"id": "w43",
+"text": "painting",
+"start": 21.511,
+"end": 21.846
+},
+{
+"id": "w44",
+"text": "is",
+"start": 21.875,
+"end": 21.987
+},
+{
+"id": "w45",
+"text": "dead.",
+"start": 21.997,
+"end": 22.183
+},
+{
+"id": "w46",
+"text": "It's",
+"start": 23.17,
+"end": 23.341
+},
+{
+"id": "w47",
+"text": "been",
+"start": 23.356,
+"end": 23.57
+},
+{
+"id": "w48",
+"text": "repeated",
+"start": 23.588,
+"end": 23.973
+},
+{
+"id": "w49",
+"text": "for",
+"start": 24.007,
+"end": 24.178
+},
+{
+"id": "w50",
+"text": "well",
+"start": 24.193,
+"end": 24.406
+},
+{
+"id": "w51",
+"text": "over",
+"start": 24.425,
+"end": 24.639
+},
+{
+"id": "w52",
+"text": "a",
+"start": 24.657,
+"end": 24.743
+},
+{
+"id": "w53",
+"text": "century.",
+"start": 24.75,
+"end": 25.092
+},
+{
+"id": "w54",
+"text": "There's",
+"start": 25.745,
+"end": 26.11
+},
+{
+"id": "w55",
+"text": "another",
+"start": 26.142,
+"end": 26.56
+},
+{
+"id": "w56",
+"text": "story,",
+"start": 26.596,
+"end": 26.909
+},
+{
+"id": "w57",
+"text": "about",
+"start": 26.936,
+"end": 27.25
+},
+{
+"id": "w58",
+"text": "a",
+"start": 27.277,
+"end": 27.381
+},
+{
+"id": "w59",
+"text": "king",
+"start": 27.39,
+"end": 27.651
+},
+{
+"id": "w60",
+"text": "who",
+"start": 27.674,
+"end": 27.883
+},
+{
+"id": "w61",
+"text": "banned",
+"start": 27.901,
+"end": 28.267
+},
+{
+"id": "w62",
+"text": "photography,",
+"start": 28.298,
+"end": 28.925
+},
+{
+"id": "w63",
+"text": "and",
+"start": 29.363,
+"end": 29.587
+},
+{
+"id": "w64",
+"text": "a",
+"start": 29.606,
+"end": 29.718
+},
+{
+"id": "w65",
+"text": "rumour",
+"start": 29.728,
+"end": 30.119
+},
+{
+"id": "w66",
+"text": "that",
+"start": 30.153,
+"end": 30.433
+},
+{
+"id": "w67",
+"text": "he",
+"start": 30.457,
+"end": 30.625
+},
+{
+"id": "w68",
+"text": "feared",
+"start": 30.64,
+"end": 31.031
+},
+{
+"id": "w69",
+"text": "the",
+"start": 31.065,
+"end": 31.289
+},
+{
+"id": "w70",
+"text": "evil",
+"start": 31.309,
+"end": 31.588
+},
+{
+"id": "w71",
+"text": "eye.",
+"start": 31.613,
+"end": 31.836
+},
+{
+"id": "w72",
+"text": "This",
+"start": 32.77,
+"end": 33.063
+},
+{
+"id": "w73",
+"text": "is",
+"start": 33.088,
+"end": 33.264
+},
+{
+"id": "w74",
+"text": "the",
+"start": 33.279,
+"end": 33.514
+},
+{
+"id": "w75",
+"text": "story",
+"start": 33.534,
+"end": 33.886
+},
+{
+"id": "w76",
+"text": "of",
+"start": 33.916,
+"end": 34.092
+},
+{
+"id": "w77",
+"text": "how",
+"start": 34.107,
+"end": 34.342
+},
+{
+"id": "w78",
+"text": "a",
+"start": 34.362,
+"end": 34.479
+},
+{
+"id": "w79",
+"text": "new",
+"start": 34.489,
+"end": 34.724
+},
+{
+"id": "w80",
+"text": "technology",
+"start": 34.744,
+"end": 35.388
+},
+{
+"id": "w81",
+"text": "frightened",
+"start": 35.444,
+"end": 36.089
+},
+{
+"id": "w82",
+"text": "people:",
+"start": 36.145,
+"end": 36.555
+},
+{
+"id": "w83",
+"text": "what",
+"start": 36.793,
+"end": 36.977
+},
+{
+"id": "w84",
+"text": "it",
+"start": 36.992,
+"end": 37.102
+},
+{
+"id": "w85",
+"text": "threatened,",
+"start": 37.112,
+"end": 37.515
+},
+{
+"id": "w86",
+"text": "what",
+"start": 37.993,
+"end": 38.268
+},
+{
+"id": "w87",
+"text": "it",
+"start": 38.292,
+"end": 38.456
+},
+{
+"id": "w88",
+"text": "revealed",
+"start": 38.471,
+"end": 38.965
+},
+{
+"id": "w89",
+"text": "about",
+"start": 39.008,
+"end": 39.338
+},
+{
+"id": "w90",
+"text": "our",
+"start": 39.367,
+"end": 39.586
+},
+{
+"id": "w91",
+"text": "faces,",
+"start": 39.605,
+"end": 39.935
+},
+{
+"id": "w92",
+"text": "and",
+"start": 40.275,
+"end": 40.426
+},
+{
+"id": "w93",
+"text": "how",
+"start": 40.44,
+"end": 40.591
+},
+{
+"id": "w94",
+"text": "it",
+"start": 40.604,
+"end": 40.718
+},
+{
+"id": "w95",
+"text": "changed",
+"start": 40.728,
+"end": 41.03
+},
+{
+"id": "w96",
+"text": "art",
+"start": 41.057,
+"end": 41.208
+},
+{
+"id": "w97",
+"text": "for",
+"start": 41.221,
+"end": 41.373
+},
+{
+"id": "w98",
+"text": "good.",
+"start": 41.386,
+"end": 41.575
+},
+{
+"id": "w99",
+"text": "Some",
+"start": 41.772,
+"end": 41.868
+},
+{
+"id": "w100",
+"text": "of",
+"start": 41.876,
+"end": 41.933
+},
+{
+"id": "w101",
+"text": "the",
+"start": 41.938,
+"end": 42.014
+},
+{
+"id": "w102",
+"text": "fears",
+"start": 42.021,
+"end": 42.135
+},
+{
+"id": "w103",
+"text": "were",
+"start": 42.145,
+"end": 42.241
+},
+{
+"id": "w104",
+"text": "real.",
+"start": 42.249,
+"end": 42.344
+},
+{
+"id": "w105",
+"text": "Some",
+"start": 43.175,
+"end": 43.475
+},
+{
+"id": "w106",
+"text": "of",
+"start": 43.501,
+"end": 43.681
+},
+{
+"id": "w107",
+"text": "the",
+"start": 43.696,
+"end": 43.936
+},
+{
+"id": "w108",
+"text": "stories",
+"start": 43.957,
+"end": 44.437
+},
+{
+"id": "w109",
+"text": "about",
+"start": 44.479,
+"end": 44.838
+},
+{
+"id": "w110",
+"text": "them",
+"start": 44.87,
+"end": 45.17
+},
+{
+"id": "w111",
+"text": "are",
+"start": 45.196,
+"end": 45.435
+},
+{
+"id": "w112",
+"text": "harder",
+"start": 45.456,
+"end": 45.876
+},
+{
+"id": "w113",
+"text": "to",
+"start": 45.913,
+"end": 46.093
+},
+{
+"id": "w114",
+"text": "pin",
+"start": 46.108,
+"end": 46.348
+},
+{
+"id": "w115",
+"text": "down",
+"start": 46.369,
+"end": 46.669
+},
+{
+"id": "w116",
+"text": "than",
+"start": 46.695,
+"end": 46.995
+},
+{
+"id": "w117",
+"text": "we're",
+"start": 47.021,
+"end": 47.321
+},
+{
+"id": "w118",
+"text": "told.",
+"start": 47.347,
+"end": 47.646
+},
+{
+"id": "w119",
+"text": "Before",
+"start": 48.846,
+"end": 49.281
+},
+{
+"id": "w120",
+"text": "photography,",
+"start": 49.319,
+"end": 50.065
+},
+{
+"id": "w121",
+"text": "a",
+"start": 50.13,
+"end": 50.254
+},
+{
+"id": "w122",
+"text": "face",
+"start": 50.265,
+"end": 50.576
+},
+{
+"id": "w123",
+"text": "was",
+"start": 50.603,
+"end": 50.852
+},
+{
+"id": "w124",
+"text": "something",
+"start": 50.874,
+"end": 51.496
+},
+{
+"id": "w125",
+"text": "you",
+"start": 51.55,
+"end": 51.798
+},
+{
+"id": "w126",
+"text": "either",
+"start": 51.82,
+"end": 52.255
+},
+{
+"id": "w127",
+"text": "paid",
+"start": 52.293,
+"end": 52.604
+},
+{
+"id": "w128",
+"text": "for,",
+"start": 52.631,
+"end": 52.88
+},
+{
+"id": "w129",
+"text": "or",
+"start": 52.902,
+"end": 53.088
+},
+{
+"id": "w130",
+"text": "lost.",
+"start": 53.104,
+"end": 53.415
+},
+{
+"id": "w131",
+"text": "Paintings",
+"start": 54.04,
+"end": 54.54
+},
+{
+"id": "w132",
+"text": "and",
+"start": 54.583,
+"end": 54.783
+},
+{
+"id": "w133",
+"text": "drawings",
+"start": 54.8,
+"end": 55.25
+},
+{
+"id": "w134",
+"text": "were",
+"start": 55.289,
+"end": 55.539
+},
+{
+"id": "w135",
+"text": "among",
+"start": 55.561,
+"end": 55.861
+},
+{
+"id": "w136",
+"text": "the",
+"start": 55.887,
+"end": 56.087
+},
+{
+"id": "w137",
+"text": "main",
+"start": 56.104,
+"end": 56.354
+},
+{
+"id": "w138",
+"text": "ways",
+"start": 56.376,
+"end": 56.626
+},
+{
+"id": "w139",
+"text": "anyone",
+"start": 56.647,
+"end": 56.997
+},
+{
+"id": "w140",
+"text": "recorded",
+"start": 57.028,
+"end": 57.478
+},
+{
+"id": "w141",
+"text": "a",
+"start": 57.517,
+"end": 57.617
+},
+{
+"id": "w142",
+"text": "person's",
+"start": 57.625,
+"end": 58.025
+},
+{
+"id": "w143",
+"text": "appearance,",
+"start": 58.06,
+"end": 58.61
+},
+{
+"id": "w144",
+"text": "a",
+"start": 58.658,
+"end": 58.757
+},
+{
+"id": "w145",
+"text": "landscape,",
+"start": 58.766,
+"end": 59.266
+},
+{
+"id": "w146",
+"text": "or",
+"start": 59.439,
+"end": 59.585
+},
+{
+"id": "w147",
+"text": "a",
+"start": 59.597,
+"end": 59.695
+},
+{
+"id": "w148",
+"text": "historic",
+"start": 59.703,
+"end": 60.141
+},
+{
+"id": "w149",
+"text": "event.",
+"start": 60.18,
+"end": 60.472
+},
+{
+"id": "w150",
+"text": "If",
+"start": 61.203,
+"end": 61.332
+},
+{
+"id": "w151",
+"text": "you",
+"start": 61.343,
+"end": 61.516
+},
+{
+"id": "w152",
+"text": "were",
+"start": 61.531,
+"end": 61.746
+},
+{
+"id": "w153",
+"text": "rich,",
+"start": 61.765,
+"end": 61.98
+},
+{
+"id": "w154",
+"text": "you",
+"start": 62.222,
+"end": 62.399
+},
+{
+"id": "w155",
+"text": "sat",
+"start": 62.414,
+"end": 62.591
+},
+{
+"id": "w156",
+"text": "for",
+"start": 62.606,
+"end": 62.783
+},
+{
+"id": "w157",
+"text": "a",
+"start": 62.798,
+"end": 62.886
+},
+{
+"id": "w158",
+"text": "portrait",
+"start": 62.894,
+"end": 63.291
+},
+{
+"id": "w159",
+"text": "painter.",
+"start": 63.326,
+"end": 63.679
+},
+{
+"id": "w160",
+"text": "If",
+"start": 64.323,
+"end": 64.45
+},
+{
+"id": "w161",
+"text": "you",
+"start": 64.461,
+"end": 64.629
+},
+{
+"id": "w162",
+"text": "were",
+"start": 64.643,
+"end": 64.854
+},
+{
+"id": "w163",
+"text": "comfortable,",
+"start": 64.872,
+"end": 65.377
+},
+{
+"id": "w164",
+"text": "you",
+"start": 65.42,
+"end": 65.589
+},
+{
+"id": "w165",
+"text": "might",
+"start": 65.603,
+"end": 65.856
+},
+{
+"id": "w166",
+"text": "afford",
+"start": 65.878,
+"end": 66.172
+},
+{
+"id": "w167",
+"text": "a",
+"start": 66.198,
+"end": 66.282
+},
+{
+"id": "w168",
+"text": "miniature:",
+"start": 66.289,
+"end": 66.71
+},
+{
+"id": "w169",
+"text": "a",
+"start": 66.965,
+"end": 67.06
+},
+{
+"id": "w170",
+"text": "tiny",
+"start": 67.068,
+"end": 67.304
+},
+{
+"id": "w171",
+"text": "painted",
+"start": 67.325,
+"end": 67.703
+},
+{
+"id": "w172",
+"text": "portrait",
+"start": 67.736,
+"end": 68.162
+},
+{
+"id": "w173",
+"text": "you",
+"start": 68.199,
+"end": 68.388
+},
+{
+"id": "w174",
+"text": "could",
+"start": 68.404,
+"end": 68.688
+},
+{
+"id": "w175",
+"text": "carry",
+"start": 68.713,
+"end": 68.996
+},
+{
+"id": "w176",
+"text": "in",
+"start": 69.021,
+"end": 69.163
+},
+{
+"id": "w177",
+"text": "a",
+"start": 69.175,
+"end": 69.27
+},
+{
+"id": "w178",
+"text": "locket.",
+"start": 69.278,
+"end": 69.609
+},
+{
+"id": "w179",
+"text": "Everyone",
+"start": 70.372,
+"end": 70.793
+},
+{
+"id": "w180",
+"text": "else",
+"start": 70.83,
+"end": 71.064
+},
+{
+"id": "w181",
+"text": "had",
+"start": 71.084,
+"end": 71.272
+},
+{
+"id": "w182",
+"text": "a",
+"start": 71.288,
+"end": 71.382
+},
+{
+"id": "w183",
+"text": "silhouette,",
+"start": 71.39,
+"end": 71.905
+},
+{
+"id": "w184",
+"text": "a",
+"start": 72.126,
+"end": 72.236
+},
+{
+"id": "w185",
+"text": "black",
+"start": 72.246,
+"end": 72.575
+},
+{
+"id": "w186",
+"text": "profile",
+"start": 72.603,
+"end": 73.042
+},
+{
+"id": "w187",
+"text": "cut",
+"start": 73.08,
+"end": 73.3
+},
+{
+"id": "w188",
+"text": "from",
+"start": 73.319,
+"end": 73.593
+},
+{
+"id": "w189",
+"text": "paper",
+"start": 73.617,
+"end": 73.946
+},
+{
+"id": "w190",
+"text": "in",
+"start": 73.975,
+"end": 74.14
+},
+{
+"id": "w191",
+"text": "a",
+"start": 74.154,
+"end": 74.264
+},
+{
+"id": "w192",
+"text": "few",
+"start": 74.273,
+"end": 74.493
+},
+{
+"id": "w193",
+"text": "minutes.",
+"start": 74.512,
+"end": 74.951
+},
+{
+"id": "w194",
+"text": "There",
+"start": 75.95,
+"end": 76.282
+},
+{
+"id": "w195",
+"text": "were",
+"start": 76.311,
+"end": 76.587
+},
+{
+"id": "w196",
+"text": "machines",
+"start": 76.611,
+"end": 77.109
+},
+{
+"id": "w197",
+"text": "to",
+"start": 77.152,
+"end": 77.318
+},
+{
+"id": "w198",
+"text": "help.",
+"start": 77.333,
+"end": 77.609
+},
+{
+"id": "w199",
+"text": "Some",
+"start": 77.633,
+"end": 77.91
+},
+{
+"id": "w200",
+"text": "traced",
+"start": 77.934,
+"end": 78.321
+},
+{
+"id": "w201",
+"text": "a",
+"start": 78.355,
+"end": 78.465
+},
+{
+"id": "w202",
+"text": "sitter's",
+"start": 78.475,
+"end": 78.917
+},
+{
+"id": "w203",
+"text": "profile",
+"start": 78.956,
+"end": 79.398
+},
+{
+"id": "w204",
+"text": "mechanically.",
+"start": 79.437,
+"end": 80.156
+},
+{
+"id": "w205",
+"text": "And",
+"start": 80.558,
+"end": 80.774
+},
+{
+"id": "w206",
+"text": "artists",
+"start": 80.793,
+"end": 81.224
+},
+{
+"id": "w207",
+"text": "had",
+"start": 81.261,
+"end": 81.477
+},
+{
+"id": "w208",
+"text": "used",
+"start": 81.496,
+"end": 81.765
+},
+{
+"id": "w209",
+"text": "the",
+"start": 81.789,
+"end": 82.004
+},
+{
+"id": "w210",
+"text": "camera",
+"start": 82.023,
+"end": 82.4
+},
+{
+"id": "w211",
+"text": "obscura",
+"start": 82.433,
+"end": 82.865
+},
+{
+"id": "w212",
+"text": "for",
+"start": 82.902,
+"end": 83.118
+},
+{
+"id": "w213",
+"text": "centuries:",
+"start": 83.136,
+"end": 83.675
+},
+{
+"id": "w214",
+"text": "a",
+"start": 83.847,
+"end": 83.968
+},
+{
+"id": "w215",
+"text": "dark",
+"start": 83.978,
+"end": 84.28
+},
+{
+"id": "w216",
+"text": "box",
+"start": 84.306,
+"end": 84.547
+},
+{
+"id": "w217",
+"text": "with",
+"start": 84.568,
+"end": 84.87
+},
+{
+"id": "w218",
+"text": "a",
+"start": 84.896,
+"end": 85.016
+},
+{
+"id": "w219",
+"text": "lens",
+"start": 85.027,
+"end": 85.329
+},
+{
+"id": "w220",
+"text": "that",
+"start": 85.355,
+"end": 85.656
+},
+{
+"id": "w221",
+"text": "throws",
+"start": 85.683,
+"end": 86.105
+},
+{
+"id": "w222",
+"text": "a",
+"start": 86.142,
+"end": 86.262
+},
+{
+"id": "w223",
+"text": "living",
+"start": 86.273,
+"end": 86.695
+},
+{
+"id": "w224",
+"text": "image",
+"start": 86.732,
+"end": 87.093
+},
+{
+"id": "w225",
+"text": "of",
+"start": 87.125,
+"end": 87.306
+},
+{
+"id": "w226",
+"text": "the",
+"start": 87.322,
+"end": 87.563
+},
+{
+"id": "w227",
+"text": "world",
+"start": 87.584,
+"end": 87.946
+},
+{
+"id": "w228",
+"text": "onto",
+"start": 87.977,
+"end": 88.279
+},
+{
+"id": "w229",
+"text": "a",
+"start": 88.305,
+"end": 88.426
+},
+{
+"id": "w230",
+"text": "surface.",
+"start": 88.436,
+"end": 88.919
+},
+{
+"id": "w231",
+"text": "But",
+"start": 89.835,
+"end": 90.025
+},
+{
+"id": "w232",
+"text": "that",
+"start": 90.042,
+"end": 90.279
+},
+{
+"id": "w233",
+"text": "image",
+"start": 90.3,
+"end": 90.584
+},
+{
+"id": "w234",
+"text": "vanished",
+"start": 90.609,
+"end": 91.036
+},
+{
+"id": "w235",
+"text": "the",
+"start": 91.073,
+"end": 91.263
+},
+{
+"id": "w236",
+"text": "moment",
+"start": 91.28,
+"end": 91.612
+},
+{
+"id": "w237",
+"text": "you",
+"start": 91.641,
+"end": 91.831
+},
+{
+"id": "w238",
+"text": "closed",
+"start": 91.847,
+"end": 92.179
+},
+{
+"id": "w239",
+"text": "the",
+"start": 92.208,
+"end": 92.398
+},
+{
+"id": "w240",
+"text": "box.",
+"start": 92.414,
+"end": 92.604
+},
+{
+"id": "w241",
+"text": "The",
+"start": 92.795,
+"end": 92.984
+},
+{
+"id": "w242",
+"text": "only",
+"start": 93.0,
+"end": 93.236
+},
+{
+"id": "w243",
+"text": "way",
+"start": 93.257,
+"end": 93.445
+},
+{
+"id": "w244",
+"text": "to",
+"start": 93.462,
+"end": 93.603
+},
+{
+"id": "w245",
+"text": "keep",
+"start": 93.616,
+"end": 93.852
+},
+{
+"id": "w246",
+"text": "it",
+"start": 93.872,
+"end": 94.014
+},
+{
+"id": "w247",
+"text": "was",
+"start": 94.026,
+"end": 94.215
+},
+{
+"id": "w248",
+"text": "to",
+"start": 94.232,
+"end": 94.373
+},
+{
+"id": "w249",
+"text": "trace",
+"start": 94.385,
+"end": 94.669
+},
+{
+"id": "w250",
+"text": "it",
+"start": 94.693,
+"end": 94.835
+},
+{
+"id": "w251",
+"text": "by",
+"start": 94.847,
+"end": 94.989
+},
+{
+"id": "w252",
+"text": "hand.",
+"start": 95.001,
+"end": 95.237
+},
+{
+"id": "w253",
+"text": "The",
+"start": 96.095,
+"end": 96.276
+},
+{
+"id": "w254",
+"text": "question",
+"start": 96.292,
+"end": 96.698
+},
+{
+"id": "w255",
+"text": "was",
+"start": 96.734,
+"end": 96.915
+},
+{
+"id": "w256",
+"text": "simple.",
+"start": 96.93,
+"end": 97.247
+},
+{
+"id": "w257",
+"text": "Could",
+"start": 97.62,
+"end": 98.006
+},
+{
+"id": "w258",
+"text": "light",
+"start": 98.039,
+"end": 98.425
+},
+{
+"id": "w259",
+"text": "draw",
+"start": 98.459,
+"end": 98.78
+},
+{
+"id": "w260",
+"text": "the",
+"start": 98.808,
+"end": 99.065
+},
+{
+"id": "w261",
+"text": "picture",
+"start": 99.088,
+"end": 99.602
+},
+{
+"id": "w262",
+"text": "by",
+"start": 99.647,
+"end": 99.84
+},
+{
+"id": "w263",
+"text": "itself?",
+"start": 99.857,
+"end": 100.307
+},
+{
+"id": "w264",
+"text": "Around",
+"start": 101.523,
+"end": 102.248
+},
+{
+"id": "w265",
+"text": "1800,",
+"start": 102.311,
+"end": 102.828
+},
+{
+"id": "w266",
+"text": "an",
+"start": 103.067,
+"end": 103.236
+},
+{
+"id": "w267",
+"text": "Englishman",
+"start": 103.25,
+"end": 103.869
+},
+{
+"id": "w268",
+"text": "named",
+"start": 103.923,
+"end": 104.26
+},
+{
+"id": "w269",
+"text": "Thomas",
+"start": 104.289,
+"end": 104.683
+},
+{
+"id": "w270",
+"text": "Wedgwood,",
+"start": 104.717,
+"end": 105.223
+},
+{
+"id": "w271",
+"text": "son",
+"start": 105.425,
+"end": 105.605
+},
+{
+"id": "w272",
+"text": "of",
+"start": 105.621,
+"end": 105.756
+},
+{
+"id": "w273",
+"text": "the",
+"start": 105.767,
+"end": 105.947
+},
+{
+"id": "w274",
+"text": "famous",
+"start": 105.963,
+"end": 106.278
+},
+{
+"id": "w275",
+"text": "potter,",
+"start": 106.306,
+"end": 106.621
+},
+{
+"id": "w276",
+"text": "came",
+"start": 106.945,
+"end": 107.233
+},
+{
+"id": "w277",
+"text": "close.",
+"start": 107.258,
+"end": 107.603
+},
+{
+"id": "w278",
+"text": "He",
+"start": 107.948,
+"end": 108.121
+},
+{
+"id": "w279",
+"text": "made",
+"start": 108.136,
+"end": 108.423
+},
+{
+"id": "w280",
+"text": "images",
+"start": 108.449,
+"end": 108.851
+},
+{
+"id": "w281",
+"text": "with",
+"start": 108.886,
+"end": 109.174
+},
+{
+"id": "w282",
+"text": "light",
+"start": 109.199,
+"end": 109.545
+},
+{
+"id": "w283",
+"text": "on",
+"start": 109.575,
+"end": 109.747
+},
+{
+"id": "w284",
+"text": "paper",
+"start": 109.762,
+"end": 110.108
+},
+{
+"id": "w285",
+"text": "treated",
+"start": 110.138,
+"end": 110.598
+},
+{
+"id": "w286",
+"text": "with",
+"start": 110.638,
+"end": 110.926
+},
+{
+"id": "w287",
+"text": "silver.",
+"start": 110.951,
+"end": 111.354
+},
+{
+"id": "w288",
+"text": "But",
+"start": 111.872,
+"end": 112.133
+},
+{
+"id": "w289",
+"text": "he",
+"start": 112.155,
+"end": 112.351
+},
+{
+"id": "w290",
+"text": "couldn't",
+"start": 112.368,
+"end": 112.889
+},
+{
+"id": "w291",
+"text": "fix",
+"start": 112.934,
+"end": 113.195
+},
+{
+"id": "w292",
+"text": "them.",
+"start": 113.218,
+"end": 113.544
+},
+{
+"id": "w293",
+"text": "Brought",
+"start": 114.077,
+"end": 114.469
+},
+{
+"id": "w294",
+"text": "out",
+"start": 114.503,
+"end": 114.699
+},
+{
+"id": "w295",
+"text": "into",
+"start": 114.716,
+"end": 114.961
+},
+{
+"id": "w296",
+"text": "daylight,",
+"start": 114.983,
+"end": 115.424
+},
+{
+"id": "w297",
+"text": "the",
+"start": 115.601,
+"end": 115.815
+},
+{
+"id": "w298",
+"text": "pictures",
+"start": 115.834,
+"end": 116.315
+},
+{
+"id": "w299",
+"text": "slowly",
+"start": 116.357,
+"end": 116.732
+},
+{
+"id": "w300",
+"text": "darkened",
+"start": 116.764,
+"end": 117.246
+},
+{
+"id": "w301",
+"text": "until",
+"start": 117.287,
+"end": 117.608
+},
+{
+"id": "w302",
+"text": "they",
+"start": 117.636,
+"end": 117.904
+},
+{
+"id": "w303",
+"text": "disappeared.",
+"start": 117.927,
+"end": 118.569
+},
+{
+"id": "w304",
+"text": "The",
+"start": 119.198,
+"end": 119.448
+},
+{
+"id": "w305",
+"text": "man",
+"start": 119.47,
+"end": 119.721
+},
+{
+"id": "w306",
+"text": "who",
+"start": 119.742,
+"end": 119.993
+},
+{
+"id": "w307",
+"text": "finally",
+"start": 120.014,
+"end": 120.515
+},
+{
+"id": "w308",
+"text": "kept",
+"start": 120.559,
+"end": 120.872
+},
+{
+"id": "w309",
+"text": "one",
+"start": 120.899,
+"end": 121.149
+},
+{
+"id": "w310",
+"text": "was",
+"start": 121.171,
+"end": 121.422
+},
+{
+"id": "w311",
+"text": "a",
+"start": 121.443,
+"end": 121.569
+},
+{
+"id": "w312",
+"text": "French",
+"start": 121.579,
+"end": 122.018
+},
+{
+"id": "w313",
+"text": "inventor",
+"start": 122.056,
+"end": 122.619
+},
+{
+"id": "w314",
+"text": "named",
+"start": 122.668,
+"end": 123.044
+},
+{
+"id": "w315",
+"text": "Nic\u00e9phore",
+"start": 123.076,
+"end": 123.702
+},
+{
+"id": "w316",
+"text": "Ni\u00e9pce.",
+"start": 123.757,
+"end": 124.195
+},
+{
+"id": "w317",
+"text": "In",
+"start": 124.884,
+"end": 125.079
+},
+{
+"id": "w318",
+"text": "the",
+"start": 125.096,
+"end": 125.356
+},
+{
+"id": "w319",
+"text": "1820s,",
+"start": 125.379,
+"end": 125.768
+},
+{
+"id": "w320",
+"text": "at",
+"start": 125.802,
+"end": 125.997
+},
+{
+"id": "w321",
+"text": "his",
+"start": 126.014,
+"end": 126.274
+},
+{
+"id": "w322",
+"text": "country",
+"start": 126.297,
+"end": 126.817
+},
+{
+"id": "w323",
+"text": "house",
+"start": 126.862,
+"end": 127.252
+},
+{
+"id": "w324",
+"text": "at",
+"start": 127.286,
+"end": 127.481
+},
+{
+"id": "w325",
+"text": "Le",
+"start": 127.498,
+"end": 127.693
+},
+{
+"id": "w326",
+"text": "Gras,",
+"start": 127.71,
+"end": 128.035
+},
+{
+"id": "w327",
+"text": "he",
+"start": 128.234,
+"end": 128.415
+},
+{
+"id": "w328",
+"text": "coated",
+"start": 128.431,
+"end": 128.855
+},
+{
+"id": "w329",
+"text": "a",
+"start": 128.891,
+"end": 129.012
+},
+{
+"id": "w330",
+"text": "pewter",
+"start": 129.023,
+"end": 129.446
+},
+{
+"id": "w331",
+"text": "plate",
+"start": 129.483,
+"end": 129.846
+},
+{
+"id": "w332",
+"text": "with",
+"start": 129.878,
+"end": 130.18
+},
+{
+"id": "w333",
+"text": "a",
+"start": 130.206,
+"end": 130.327
+},
+{
+"id": "w334",
+"text": "kind",
+"start": 130.338,
+"end": 130.64
+},
+{
+"id": "w335",
+"text": "of",
+"start": 130.667,
+"end": 130.848
+},
+{
+"id": "w336",
+"text": "natural",
+"start": 130.864,
+"end": 131.348
+},
+{
+"id": "w337",
+"text": "asphalt",
+"start": 131.39,
+"end": 131.874
+},
+{
+"id": "w338",
+"text": "that",
+"start": 131.916,
+"end": 132.218
+},
+{
+"id": "w339",
+"text": "hardens",
+"start": 132.244,
+"end": 132.728
+},
+{
+"id": "w340",
+"text": "in",
+"start": 132.77,
+"end": 132.952
+},
+{
+"id": "w341",
+"text": "light.",
+"start": 132.968,
+"end": 133.33
+},
+{
+"id": "w342",
+"text": "He",
+"start": 134.009,
+"end": 134.154
+},
+{
+"id": "w343",
+"text": "put",
+"start": 134.167,
+"end": 134.361
+},
+{
+"id": "w344",
+"text": "it",
+"start": 134.378,
+"end": 134.523
+},
+{
+"id": "w345",
+"text": "in",
+"start": 134.536,
+"end": 134.681
+},
+{
+"id": "w346",
+"text": "a",
+"start": 134.694,
+"end": 134.791
+},
+{
+"id": "w347",
+"text": "camera",
+"start": 134.799,
+"end": 135.138
+},
+{
+"id": "w348",
+"text": "at",
+"start": 135.168,
+"end": 135.313
+},
+{
+"id": "w349",
+"text": "an",
+"start": 135.326,
+"end": 135.471
+},
+{
+"id": "w350",
+"text": "upstairs",
+"start": 135.484,
+"end": 135.92
+},
+{
+"id": "w351",
+"text": "window,",
+"start": 135.958,
+"end": 136.297
+},
+{
+"id": "w352",
+"text": "and",
+"start": 136.594,
+"end": 136.736
+},
+{
+"id": "w353",
+"text": "he",
+"start": 136.749,
+"end": 136.855
+},
+{
+"id": "w354",
+"text": "waited.",
+"start": 136.864,
+"end": 137.113
+},
+{
+"id": "w355",
+"text": "Not",
+"start": 138.005,
+"end": 138.234
+},
+{
+"id": "w356",
+"text": "seconds.",
+"start": 138.254,
+"end": 138.713
+},
+{
+"id": "w357",
+"text": "For",
+"start": 139.298,
+"end": 139.617
+},
+{
+"id": "w358",
+"text": "years,",
+"start": 139.645,
+"end": 140.123
+},
+{
+"id": "w359",
+"text": "the",
+"start": 140.358,
+"end": 140.555
+},
+{
+"id": "w360",
+"text": "estimate",
+"start": 140.572,
+"end": 141.014
+},
+{
+"id": "w361",
+"text": "was",
+"start": 141.053,
+"end": 141.25
+},
+{
+"id": "w362",
+"text": "about",
+"start": 141.267,
+"end": 141.562
+},
+{
+"id": "w363",
+"text": "eight",
+"start": 141.588,
+"end": 141.883
+},
+{
+"id": "w364",
+"text": "hours.",
+"start": 141.908,
+"end": 142.203
+},
+{
+"id": "w365",
+"text": "But",
+"start": 142.684,
+"end": 142.903
+},
+{
+"id": "w366",
+"text": "a",
+"start": 142.922,
+"end": 143.032
+},
+{
+"id": "w367",
+"text": "chemist",
+"start": 143.042,
+"end": 143.48
+},
+{
+"id": "w368",
+"text": "who",
+"start": 143.518,
+"end": 143.738
+},
+{
+"id": "w369",
+"text": "recreated",
+"start": 143.757,
+"end": 144.305
+},
+{
+"id": "w370",
+"text": "his",
+"start": 144.353,
+"end": 144.572
+},
+{
+"id": "w371",
+"text": "process",
+"start": 144.591,
+"end": 145.03
+},
+{
+"id": "w372",
+"text": "believes",
+"start": 145.068,
+"end": 145.562
+},
+{
+"id": "w373",
+"text": "it",
+"start": 145.605,
+"end": 145.769
+},
+{
+"id": "w374",
+"text": "was",
+"start": 145.783,
+"end": 146.003
+},
+{
+"id": "w375",
+"text": "more",
+"start": 146.022,
+"end": 146.296
+},
+{
+"id": "w376",
+"text": "likely",
+"start": 146.32,
+"end": 146.704
+},
+{
+"id": "w377",
+"text": "several",
+"start": 146.737,
+"end": 147.176
+},
+{
+"id": "w378",
+"text": "days.",
+"start": 147.214,
+"end": 147.488
+},
+{
+"id": "w379",
+"text": "What",
+"start": 148.198,
+"end": 148.472
+},
+{
+"id": "w380",
+"text": "survived",
+"start": 148.496,
+"end": 148.989
+},
+{
+"id": "w381",
+"text": "is",
+"start": 149.032,
+"end": 149.196
+},
+{
+"id": "w382",
+"text": "a",
+"start": 149.211,
+"end": 149.32
+},
+{
+"id": "w383",
+"text": "blurry",
+"start": 149.33,
+"end": 149.714
+},
+{
+"id": "w384",
+"text": "view",
+"start": 149.747,
+"end": 150.021
+},
+{
+"id": "w385",
+"text": "of",
+"start": 150.045,
+"end": 150.209
+},
+{
+"id": "w386",
+"text": "rooftops",
+"start": 150.224,
+"end": 150.717
+},
+{
+"id": "w387",
+"text": "and",
+"start": 150.76,
+"end": 150.979
+},
+{
+"id": "w388",
+"text": "a",
+"start": 150.998,
+"end": 151.108
+},
+{
+"id": "w389",
+"text": "courtyard,",
+"start": 151.117,
+"end": 151.665
+},
+{
+"id": "w390",
+"text": "the",
+"start": 152.108,
+"end": 152.328
+},
+{
+"id": "w391",
+"text": "sun",
+"start": 152.347,
+"end": 152.566
+},
+{
+"id": "w392",
+"text": "seeming",
+"start": 152.585,
+"end": 153.025
+},
+{
+"id": "w393",
+"text": "to",
+"start": 153.063,
+"end": 153.228
+},
+{
+"id": "w394",
+"text": "light",
+"start": 153.242,
+"end": 153.571
+},
+{
+"id": "w395",
+"text": "both",
+"start": 153.6,
+"end": 153.874
+},
+{
+"id": "w396",
+"text": "sides",
+"start": 153.898,
+"end": 154.228
+},
+{
+"id": "w397",
+"text": "at",
+"start": 154.256,
+"end": 154.421
+},
+{
+"id": "w398",
+"text": "once",
+"start": 154.435,
+"end": 154.71
+},
+{
+"id": "w399",
+"text": "because",
+"start": 154.734,
+"end": 155.173
+},
+{
+"id": "w400",
+"text": "the",
+"start": 155.211,
+"end": 155.431
+},
+{
+"id": "w401",
+"text": "exposure",
+"start": 155.45,
+"end": 155.944
+},
+{
+"id": "w402",
+"text": "lasted",
+"start": 155.987,
+"end": 156.371
+},
+{
+"id": "w403",
+"text": "so",
+"start": 156.405,
+"end": 156.569
+},
+{
+"id": "w404",
+"text": "long.",
+"start": 156.584,
+"end": 156.858
+},
+{
+"id": "w405",
+"text": "This",
+"start": 157.698,
+"end": 157.992
+},
+{
+"id": "w406",
+"text": "is",
+"start": 158.018,
+"end": 158.194
+},
+{
+"id": "w407",
+"text": "the",
+"start": 158.21,
+"end": 158.445
+},
+{
+"id": "w408",
+"text": "first",
+"start": 158.465,
+"end": 158.818
+},
+{
+"id": "w409",
+"text": "surviving",
+"start": 158.849,
+"end": 159.437
+},
+{
+"id": "w410",
+"text": "photograph.",
+"start": 159.489,
+"end": 160.136
+},
+{
+"id": "w411",
+"text": "The",
+"start": 160.709,
+"end": 160.982
+},
+{
+"id": "w412",
+"text": "museum",
+"start": 161.005,
+"end": 161.482
+},
+{
+"id": "w413",
+"text": "that",
+"start": 161.524,
+"end": 161.865
+},
+{
+"id": "w414",
+"text": "holds",
+"start": 161.894,
+"end": 162.303
+},
+{
+"id": "w415",
+"text": "it",
+"start": 162.339,
+"end": 162.543
+},
+{
+"id": "w416",
+"text": "today",
+"start": 162.561,
+"end": 162.97
+},
+{
+"id": "w417",
+"text": "dates",
+"start": 163.006,
+"end": 163.415
+},
+{
+"id": "w418",
+"text": "it",
+"start": 163.45,
+"end": 163.655
+},
+{
+"id": "w419",
+"text": "to",
+"start": 163.672,
+"end": 163.877
+},
+{
+"id": "w420",
+"text": "1827,",
+"start": 163.895,
+"end": 164.235
+},
+{
+"id": "w421",
+"text": "and",
+"start": 164.589,
+"end": 164.732
+},
+{
+"id": "w422",
+"text": "describes",
+"start": 164.745,
+"end": 165.103
+},
+{
+"id": "w423",
+"text": "it",
+"start": 165.134,
+"end": 165.242
+},
+{
+"id": "w424",
+"text": "carefully:",
+"start": 165.251,
+"end": 165.61
+},
+{
+"id": "w425",
+"text": "the",
+"start": 166.082,
+"end": 166.304
+},
+{
+"id": "w426",
+"text": "earliest",
+"start": 166.323,
+"end": 166.822
+},
+{
+"id": "w427",
+"text": "surviving",
+"start": 166.865,
+"end": 167.42
+},
+{
+"id": "w428",
+"text": "photograph",
+"start": 167.468,
+"end": 168.078
+},
+{
+"id": "w429",
+"text": "made",
+"start": 168.131,
+"end": 168.408
+},
+{
+"id": "w430",
+"text": "with",
+"start": 168.432,
+"end": 168.71
+},
+{
+"id": "w431",
+"text": "a",
+"start": 168.734,
+"end": 168.845
+},
+{
+"id": "w432",
+"text": "camera.",
+"start": 168.854,
+"end": 169.242
+},
+{
+"id": "w433",
+"text": "Ni\u00e9pce,",
+"start": 169.965,
+"end": 170.382
+},
+{
+"id": "w434",
+"text": "not",
+"start": 170.418,
+"end": 170.656
+},
+{
+"id": "w435",
+"text": "Daguerre,",
+"start": 170.677,
+"end": 171.212
+},
+{
+"id": "w436",
+"text": "is",
+"start": 171.612,
+"end": 171.768
+},
+{
+"id": "w437",
+"text": "the",
+"start": 171.781,
+"end": 171.989
+},
+{
+"id": "w438",
+"text": "first",
+"start": 172.007,
+"end": 172.318
+},
+{
+"id": "w439",
+"text": "photographer",
+"start": 172.345,
+"end": 173.02
+},
+{
+"id": "w440",
+"text": "whose",
+"start": 173.079,
+"end": 173.39
+},
+{
+"id": "w441",
+"text": "camera",
+"start": 173.417,
+"end": 173.781
+},
+{
+"id": "w442",
+"text": "image",
+"start": 173.812,
+"end": 174.124
+},
+{
+"id": "w443",
+"text": "still",
+"start": 174.151,
+"end": 174.462
+},
+{
+"id": "w444",
+"text": "exists.",
+"start": 174.489,
+"end": 174.852
+},
+{
+"id": "w445",
+"text": "Ni\u00e9pce",
+"start": 175.737,
+"end": 176.105
+},
+{
+"id": "w446",
+"text": "found",
+"start": 176.137,
+"end": 176.452
+},
+{
+"id": "w447",
+"text": "a",
+"start": 176.48,
+"end": 176.585
+},
+{
+"id": "w448",
+"text": "partner:",
+"start": 176.594,
+"end": 177.014
+},
+{
+"id": "w449",
+"text": "Louis",
+"start": 177.394,
+"end": 177.685
+},
+{
+"id": "w450",
+"text": "Daguerre,",
+"start": 177.71,
+"end": 178.147
+},
+{
+"id": "w451",
+"text": "a",
+"start": 178.599,
+"end": 178.714
+},
+{
+"id": "w452",
+"text": "showman",
+"start": 178.724,
+"end": 179.186
+},
+{
+"id": "w453",
+"text": "famous",
+"start": 179.226,
+"end": 179.629
+},
+{
+"id": "w454",
+"text": "in",
+"start": 179.664,
+"end": 179.837
+},
+{
+"id": "w455",
+"text": "Paris",
+"start": 179.852,
+"end": 180.198
+},
+{
+"id": "w456",
+"text": "for",
+"start": 180.228,
+"end": 180.459
+},
+{
+"id": "w457",
+"text": "his",
+"start": 180.479,
+"end": 180.71
+},
+{
+"id": "w458",
+"text": "giant",
+"start": 180.73,
+"end": 181.076
+},
+{
+"id": "w459",
+"text": "illuminated",
+"start": 181.106,
+"end": 181.798
+},
+{
+"id": "w460",
+"text": "paintings",
+"start": 181.858,
+"end": 182.434
+},
+{
+"id": "w461",
+"text": "called",
+"start": 182.484,
+"end": 182.888
+},
+{
+"id": "w462",
+"text": "dioramas.",
+"start": 182.923,
+"end": 183.442
+},
+{
+"id": "w463",
+"text": "Ni\u00e9pce",
+"start": 184.206,
+"end": 184.649
+},
+{
+"id": "w464",
+"text": "died",
+"start": 184.688,
+"end": 185.005
+},
+{
+"id": "w465",
+"text": "in",
+"start": 185.032,
+"end": 185.222
+},
+{
+"id": "w466",
+"text": "1833,",
+"start": 185.239,
+"end": 185.555
+},
+{
+"id": "w467",
+"text": "before",
+"start": 185.583,
+"end": 186.026
+},
+{
+"id": "w468",
+"text": "their",
+"start": 186.065,
+"end": 186.445
+},
+{
+"id": "w469",
+"text": "work",
+"start": 186.478,
+"end": 186.795
+},
+{
+"id": "w470",
+"text": "was",
+"start": 186.822,
+"end": 187.075
+},
+{
+"id": "w471",
+"text": "finished.",
+"start": 187.097,
+"end": 187.667
+},
+{
+"id": "w472",
+"text": "Daguerre",
+"start": 188.222,
+"end": 188.689
+},
+{
+"id": "w473",
+"text": "kept",
+"start": 188.73,
+"end": 188.99
+},
+{
+"id": "w474",
+"text": "going.",
+"start": 189.012,
+"end": 189.324
+},
+{
+"id": "w475",
+"text": "His",
+"start": 190.088,
+"end": 190.234
+},
+{
+"id": "w476",
+"text": "method",
+"start": 190.246,
+"end": 190.501
+},
+{
+"id": "w477",
+"text": "was",
+"start": 190.524,
+"end": 190.669
+},
+{
+"id": "w478",
+"text": "different.",
+"start": 190.682,
+"end": 191.046
+},
+{
+"id": "w479",
+"text": "A",
+"start": 191.458,
+"end": 191.568
+},
+{
+"id": "w480",
+"text": "silver-coated",
+"start": 191.577,
+"end": 192.291
+},
+{
+"id": "w481",
+"text": "copper",
+"start": 192.353,
+"end": 192.738
+},
+{
+"id": "w482",
+"text": "plate,",
+"start": 192.771,
+"end": 193.1
+},
+{
+"id": "w483",
+"text": "made",
+"start": 193.372,
+"end": 193.588
+},
+{
+"id": "w484",
+"text": "sensitive",
+"start": 193.607,
+"end": 194.039
+},
+{
+"id": "w485",
+"text": "with",
+"start": 194.077,
+"end": 194.293
+},
+{
+"id": "w486",
+"text": "chemicals,",
+"start": 194.312,
+"end": 194.744
+},
+{
+"id": "w487",
+"text": "exposed",
+"start": 194.941,
+"end": 195.417
+},
+{
+"id": "w488",
+"text": "for",
+"start": 195.458,
+"end": 195.696
+},
+{
+"id": "w489",
+"text": "minutes",
+"start": 195.717,
+"end": 196.193
+},
+{
+"id": "w490",
+"text": "instead",
+"start": 196.235,
+"end": 196.711
+},
+{
+"id": "w491",
+"text": "of",
+"start": 196.752,
+"end": 196.93
+},
+{
+"id": "w492",
+"text": "hours,",
+"start": 196.946,
+"end": 197.303
+},
+{
+"id": "w493",
+"text": "then",
+"start": 197.731,
+"end": 197.981
+},
+{
+"id": "w494",
+"text": "developed",
+"start": 198.003,
+"end": 198.504
+},
+{
+"id": "w495",
+"text": "with",
+"start": 198.547,
+"end": 198.797
+},
+{
+"id": "w496",
+"text": "mercury",
+"start": 198.819,
+"end": 199.22
+},
+{
+"id": "w497",
+"text": "fumes.",
+"start": 199.255,
+"end": 199.555
+},
+{
+"id": "w498",
+"text": "The",
+"start": 200.144,
+"end": 200.378
+},
+{
+"id": "w499",
+"text": "result",
+"start": 200.398,
+"end": 200.807
+},
+{
+"id": "w500",
+"text": "was",
+"start": 200.842,
+"end": 201.076
+},
+{
+"id": "w501",
+"text": "a",
+"start": 201.096,
+"end": 201.213
+},
+{
+"id": "w502",
+"text": "mirror-like",
+"start": 201.223,
+"end": 201.865
+},
+{
+"id": "w503",
+"text": "image",
+"start": 201.921,
+"end": 202.271
+},
+{
+"id": "w504",
+"text": "of",
+"start": 202.302,
+"end": 202.477
+},
+{
+"id": "w505",
+"text": "astonishing",
+"start": 202.492,
+"end": 203.193
+},
+{
+"id": "w506",
+"text": "detail.",
+"start": 203.254,
+"end": 203.662
+},
+{
+"id": "w507",
+"text": "He",
+"start": 204.354,
+"end": 204.493
+},
+{
+"id": "w508",
+"text": "called",
+"start": 204.505,
+"end": 204.831
+},
+{
+"id": "w509",
+"text": "it",
+"start": 204.859,
+"end": 204.998
+},
+{
+"id": "w510",
+"text": "the",
+"start": 205.01,
+"end": 205.196
+},
+{
+"id": "w511",
+"text": "daguerreotype.",
+"start": 205.212,
+"end": 205.862
+},
+{
+"id": "w512",
+"text": "On",
+"start": 206.768,
+"end": 206.965
+},
+{
+"id": "w513",
+"text": "the",
+"start": 206.982,
+"end": 207.245
+},
+{
+"id": "w514",
+"text": "7th",
+"start": 207.268,
+"end": 207.531
+},
+{
+"id": "w515",
+"text": "of",
+"start": 207.554,
+"end": 207.751
+},
+{
+"id": "w516",
+"text": "January,",
+"start": 207.769,
+"end": 208.295
+},
+{
+"id": "w517",
+"text": "1839,",
+"start": 208.34,
+"end": 208.669
+},
+{
+"id": "w518",
+"text": "the",
+"start": 208.698,
+"end": 208.961
+},
+{
+"id": "w519",
+"text": "scientist",
+"start": 208.983,
+"end": 209.641
+},
+{
+"id": "w520",
+"text": "Fran\u00e7ois",
+"start": 209.698,
+"end": 210.29
+},
+{
+"id": "w521",
+"text": "Arago",
+"start": 210.341,
+"end": 210.736
+},
+{
+"id": "w522",
+"text": "announced",
+"start": 210.77,
+"end": 211.428
+},
+{
+"id": "w523",
+"text": "it",
+"start": 211.485,
+"end": 211.682
+},
+{
+"id": "w524",
+"text": "to",
+"start": 211.699,
+"end": 211.896
+},
+{
+"id": "w525",
+"text": "the",
+"start": 211.914,
+"end": 212.177
+},
+{
+"id": "w526",
+"text": "Academy",
+"start": 212.199,
+"end": 212.725
+},
+{
+"id": "w527",
+"text": "of",
+"start": 212.771,
+"end": 212.968
+},
+{
+"id": "w528",
+"text": "Sciences",
+"start": 212.986,
+"end": 213.577
+},
+{
+"id": "w529",
+"text": "in",
+"start": 213.629,
+"end": 213.826
+},
+{
+"id": "w530",
+"text": "Paris,",
+"start": 213.843,
+"end": 214.238
+},
+{
+"id": "w531",
+"text": "but",
+"start": 214.761,
+"end": 214.995
+},
+{
+"id": "w532",
+"text": "kept",
+"start": 215.015,
+"end": 215.308
+},
+{
+"id": "w533",
+"text": "the",
+"start": 215.333,
+"end": 215.567
+},
+{
+"id": "w534",
+"text": "method",
+"start": 215.588,
+"end": 215.997
+},
+{
+"id": "w535",
+"text": "secret.",
+"start": 216.033,
+"end": 216.442
+},
+{
+"id": "w536",
+"text": "Then",
+"start": 217.199,
+"end": 217.524
+},
+{
+"id": "w537",
+"text": "France",
+"start": 217.552,
+"end": 218.008
+},
+{
+"id": "w538",
+"text": "did",
+"start": 218.047,
+"end": 218.307
+},
+{
+"id": "w539",
+"text": "something",
+"start": 218.33,
+"end": 218.98
+},
+{
+"id": "w540",
+"text": "unusual.",
+"start": 219.037,
+"end": 219.557
+},
+{
+"id": "w541",
+"text": "The",
+"start": 220.183,
+"end": 220.344
+},
+{
+"id": "w542",
+"text": "government",
+"start": 220.358,
+"end": 220.799
+},
+{
+"id": "w543",
+"text": "bought",
+"start": 220.838,
+"end": 221.119
+},
+{
+"id": "w544",
+"text": "the",
+"start": 221.143,
+"end": 221.304
+},
+{
+"id": "w545",
+"text": "process,",
+"start": 221.318,
+"end": 221.639
+},
+{
+"id": "w546",
+"text": "gave",
+"start": 222.0,
+"end": 222.244
+},
+{
+"id": "w547",
+"text": "Daguerre",
+"start": 222.266,
+"end": 222.706
+},
+{
+"id": "w548",
+"text": "a",
+"start": 222.744,
+"end": 222.842
+},
+{
+"id": "w549",
+"text": "pension",
+"start": 222.85,
+"end": 223.242
+},
+{
+"id": "w550",
+"text": "for",
+"start": 223.276,
+"end": 223.471
+},
+{
+"id": "w551",
+"text": "life,",
+"start": 223.488,
+"end": 223.733
+},
+{
+"id": "w552",
+"text": "and",
+"start": 223.898,
+"end": 224.122
+},
+{
+"id": "w553",
+"text": "another",
+"start": 224.142,
+"end": 224.591
+},
+{
+"id": "w554",
+"text": "to",
+"start": 224.63,
+"end": 224.798
+},
+{
+"id": "w555",
+"text": "Ni\u00e9pce's",
+"start": 224.813,
+"end": 225.262
+},
+{
+"id": "w556",
+"text": "son.",
+"start": 225.301,
+"end": 225.525
+},
+{
+"id": "w557",
+"text": "And",
+"start": 226.165,
+"end": 226.451
+},
+{
+"id": "w558",
+"text": "on",
+"start": 226.475,
+"end": 226.69
+},
+{
+"id": "w559",
+"text": "the",
+"start": 226.708,
+"end": 226.994
+},
+{
+"id": "w560",
+"text": "19th",
+"start": 227.019,
+"end": 227.376
+},
+{
+"id": "w561",
+"text": "of",
+"start": 227.407,
+"end": 227.621
+},
+{
+"id": "w562",
+"text": "August,",
+"start": 227.64,
+"end": 228.139
+},
+{
+"id": "w563",
+"text": "1839,",
+"start": 228.183,
+"end": 228.54
+},
+{
+"id": "w564",
+"text": "the",
+"start": 228.971,
+"end": 229.183
+},
+{
+"id": "w565",
+"text": "full",
+"start": 229.201,
+"end": 229.466
+},
+{
+"id": "w566",
+"text": "method",
+"start": 229.489,
+"end": 229.86
+},
+{
+"id": "w567",
+"text": "was",
+"start": 229.892,
+"end": 230.104
+},
+{
+"id": "w568",
+"text": "published",
+"start": 230.123,
+"end": 230.653
+},
+{
+"id": "w569",
+"text": "as",
+"start": 230.699,
+"end": 230.858
+},
+{
+"id": "w570",
+"text": "France's",
+"start": 230.872,
+"end": 231.295
+},
+{
+"id": "w571",
+"text": "gift",
+"start": 231.332,
+"end": 231.597
+},
+{
+"id": "w572",
+"text": "to",
+"start": 231.62,
+"end": 231.779
+},
+{
+"id": "w573",
+"text": "the",
+"start": 231.793,
+"end": 232.005
+},
+{
+"id": "w574",
+"text": "world.",
+"start": 232.023,
+"end": 232.341
+},
+{
+"id": "w575",
+"text": "Within",
+"start": 233.216,
+"end": 233.615
+},
+{
+"id": "w576",
+"text": "months,",
+"start": 233.65,
+"end": 234.049
+},
+{
+"id": "w577",
+"text": "people",
+"start": 234.084,
+"end": 234.484
+},
+{
+"id": "w578",
+"text": "across",
+"start": 234.518,
+"end": 234.918
+},
+{
+"id": "w579",
+"text": "Europe",
+"start": 234.952,
+"end": 235.352
+},
+{
+"id": "w580",
+"text": "and",
+"start": 235.386,
+"end": 235.615
+},
+{
+"id": "w581",
+"text": "America",
+"start": 235.634,
+"end": 236.091
+},
+{
+"id": "w582",
+"text": "were",
+"start": 236.131,
+"end": 236.416
+},
+{
+"id": "w583",
+"text": "pointing",
+"start": 236.441,
+"end": 236.954
+},
+{
+"id": "w584",
+"text": "lenses",
+"start": 236.999,
+"end": 237.398
+},
+{
+"id": "w585",
+"text": "at",
+"start": 237.433,
+"end": 237.604
+},
+{
+"id": "w586",
+"text": "streets,",
+"start": 237.619,
+"end": 238.075
+},
+{
+"id": "w587",
+"text": "at",
+"start": 238.273,
+"end": 238.39
+},
+{
+"id": "w588",
+"text": "buildings,",
+"start": 238.4,
+"end": 238.788
+},
+{
+"id": "w589",
+"text": "and",
+"start": 239.216,
+"end": 239.45
+},
+{
+"id": "w590",
+"text": "at",
+"start": 239.471,
+"end": 239.646
+},
+{
+"id": "w591",
+"text": "each",
+"start": 239.662,
+"end": 239.955
+},
+{
+"id": "w592",
+"text": "other.",
+"start": 239.98,
+"end": 240.331
+},
+{
+"id": "w593",
+"text": "For",
+"start": 241.433,
+"end": 241.731
+},
+{
+"id": "w594",
+"text": "painters,",
+"start": 241.757,
+"end": 242.428
+},
+{
+"id": "w595",
+"text": "the",
+"start": 242.781,
+"end": 242.975
+},
+{
+"id": "w596",
+"text": "timing",
+"start": 242.992,
+"end": 243.331
+},
+{
+"id": "w597",
+"text": "could",
+"start": 243.36,
+"end": 243.651
+},
+{
+"id": "w598",
+"text": "hardly",
+"start": 243.676,
+"end": 244.015
+},
+{
+"id": "w599",
+"text": "have",
+"start": 244.045,
+"end": 244.287
+},
+{
+"id": "w600",
+"text": "been",
+"start": 244.308,
+"end": 244.55
+},
+{
+"id": "w601",
+"text": "worse.",
+"start": 244.571,
+"end": 244.862
+},
+{
+"id": "w602",
+"text": "Think",
+"start": 245.386,
+"end": 245.734
+},
+{
+"id": "w603",
+"text": "about",
+"start": 245.764,
+"end": 246.111
+},
+{
+"id": "w604",
+"text": "who",
+"start": 246.142,
+"end": 246.373
+},
+{
+"id": "w605",
+"text": "earned",
+"start": 246.394,
+"end": 246.799
+},
+{
+"id": "w606",
+"text": "a",
+"start": 246.834,
+"end": 246.95
+},
+{
+"id": "w607",
+"text": "living",
+"start": 246.96,
+"end": 247.366
+},
+{
+"id": "w608",
+"text": "from",
+"start": 247.401,
+"end": 247.691
+},
+{
+"id": "w609",
+"text": "faces.",
+"start": 247.716,
+"end": 248.064
+},
+{
+"id": "w610",
+"text": "Portrait",
+"start": 248.644,
+"end": 249.07
+},
+{
+"id": "w611",
+"text": "painters.",
+"start": 249.107,
+"end": 249.533
+},
+{
+"id": "w612",
+"text": "Miniature",
+"start": 249.939,
+"end": 250.416
+},
+{
+"id": "w613",
+"text": "painters.",
+"start": 250.457,
+"end": 250.887
+},
+{
+"id": "w614",
+"text": "Silhouette",
+"start": 251.206,
+"end": 251.764
+},
+{
+"id": "w615",
+"text": "cutters.",
+"start": 251.812,
+"end": 252.218
+},
+{
+"id": "w616",
+"text": "Now",
+"start": 252.574,
+"end": 252.813
+},
+{
+"id": "w617",
+"text": "a",
+"start": 252.833,
+"end": 252.953
+},
+{
+"id": "w618",
+"text": "machine",
+"start": 252.963,
+"end": 253.441
+},
+{
+"id": "w619",
+"text": "could",
+"start": 253.482,
+"end": 253.84
+},
+{
+"id": "w620",
+"text": "take",
+"start": 253.871,
+"end": 254.17
+},
+{
+"id": "w621",
+"text": "a",
+"start": 254.196,
+"end": 254.315
+},
+{
+"id": "w622",
+"text": "likeness",
+"start": 254.326,
+"end": 254.863
+},
+{
+"id": "w623",
+"text": "in",
+"start": 254.909,
+"end": 255.088
+},
+{
+"id": "w624",
+"text": "minutes,",
+"start": 255.104,
+"end": 255.581
+},
+{
+"id": "w625",
+"text": "at",
+"start": 255.949,
+"end": 256.085
+},
+{
+"id": "w626",
+"text": "a",
+"start": 256.097,
+"end": 256.187
+},
+{
+"id": "w627",
+"text": "fraction",
+"start": 256.195,
+"end": 256.602
+},
+{
+"id": "w628",
+"text": "of",
+"start": 256.638,
+"end": 256.773
+},
+{
+"id": "w629",
+"text": "the",
+"start": 256.785,
+"end": 256.966
+},
+{
+"id": "w630",
+"text": "price,",
+"start": 256.982,
+"end": 257.253
+},
+{
+"id": "w631",
+"text": "and",
+"start": 257.568,
+"end": 257.816
+},
+{
+"id": "w632",
+"text": "with",
+"start": 257.838,
+"end": 258.148
+},
+{
+"id": "w633",
+"text": "a",
+"start": 258.175,
+"end": 258.299
+},
+{
+"id": "w634",
+"text": "precision",
+"start": 258.309,
+"end": 258.929
+},
+{
+"id": "w635",
+"text": "no",
+"start": 258.983,
+"end": 259.169
+},
+{
+"id": "w636",
+"text": "hand",
+"start": 259.185,
+"end": 259.495
+},
+{
+"id": "w637",
+"text": "could",
+"start": 259.522,
+"end": 259.894
+},
+{
+"id": "w638",
+"text": "match.",
+"start": 259.927,
+"end": 260.299
+},
+{
+"id": "w639",
+"text": "For",
+"start": 260.919,
+"end": 261.074
+},
+{
+"id": "w640",
+"text": "portrait",
+"start": 261.087,
+"end": 261.435
+},
+{
+"id": "w641",
+"text": "painters,",
+"start": 261.466,
+"end": 261.814
+},
+{
+"id": "w642",
+"text": "this",
+"start": 262.242,
+"end": 262.486
+},
+{
+"id": "w643",
+"text": "was",
+"start": 262.507,
+"end": 262.702
+},
+{
+"id": "w644",
+"text": "a",
+"start": 262.719,
+"end": 262.817
+},
+{
+"id": "w645",
+"text": "new",
+"start": 262.825,
+"end": 263.021
+},
+{
+"id": "w646",
+"text": "competitor.",
+"start": 263.038,
+"end": 263.574
+},
+{
+"id": "w647",
+"text": "People",
+"start": 264.139,
+"end": 264.436
+},
+{
+"id": "w648",
+"text": "could",
+"start": 264.461,
+"end": 264.715
+},
+{
+"id": "w649",
+"text": "have",
+"start": 264.738,
+"end": 264.949
+},
+{
+"id": "w650",
+"text": "a",
+"start": 264.968,
+"end": 265.052
+},
+{
+"id": "w651",
+"text": "photograph",
+"start": 265.06,
+"end": 265.526
+},
+{
+"id": "w652",
+"text": "made",
+"start": 265.566,
+"end": 265.778
+},
+{
+"id": "w653",
+"text": "instead",
+"start": 265.797,
+"end": 266.135
+},
+{
+"id": "w654",
+"text": "of",
+"start": 266.165,
+"end": 266.292
+},
+{
+"id": "w655",
+"text": "commissioning",
+"start": 266.303,
+"end": 266.896
+},
+{
+"id": "w656",
+"text": "a",
+"start": 266.948,
+"end": 267.032
+},
+{
+"id": "w657",
+"text": "painting.",
+"start": 267.04,
+"end": 267.421
+},
+{
+"id": "w658",
+"text": "Some",
+"start": 268.003,
+"end": 268.287
+},
+{
+"id": "w659",
+"text": "artists",
+"start": 268.312,
+"end": 268.767
+},
+{
+"id": "w660",
+"text": "saw",
+"start": 268.807,
+"end": 269.035
+},
+{
+"id": "w661",
+"text": "an",
+"start": 269.054,
+"end": 269.225
+},
+{
+"id": "w662",
+"text": "opportunity.",
+"start": 269.24,
+"end": 269.923
+},
+{
+"id": "w663",
+"text": "Others",
+"start": 270.45,
+"end": 270.807
+},
+{
+"id": "w664",
+"text": "saw",
+"start": 270.839,
+"end": 271.043
+},
+{
+"id": "w665",
+"text": "the",
+"start": 271.06,
+"end": 271.265
+},
+{
+"id": "w666",
+"text": "end",
+"start": 271.282,
+"end": 271.487
+},
+{
+"id": "w667",
+"text": "of",
+"start": 271.504,
+"end": 271.658
+},
+{
+"id": "w668",
+"text": "their",
+"start": 271.671,
+"end": 271.977
+},
+{
+"id": "w669",
+"text": "trade.",
+"start": 272.004,
+"end": 272.31
+},
+{
+"id": "w670",
+"text": "And",
+"start": 272.828,
+"end": 273.059
+},
+{
+"id": "w671",
+"text": "there",
+"start": 273.079,
+"end": 273.424
+},
+{
+"id": "w672",
+"text": "was",
+"start": 273.455,
+"end": 273.685
+},
+{
+"id": "w673",
+"text": "a",
+"start": 273.705,
+"end": 273.82
+},
+{
+"id": "w674",
+"text": "second",
+"start": 273.83,
+"end": 274.234
+},
+{
+"id": "w675",
+"text": "shock,",
+"start": 274.269,
+"end": 274.615
+},
+{
+"id": "w676",
+"text": "for",
+"start": 275.052,
+"end": 275.224
+},
+{
+"id": "w677",
+"text": "the",
+"start": 275.239,
+"end": 275.41
+},
+{
+"id": "w678",
+"text": "sitters",
+"start": 275.425,
+"end": 275.769
+},
+{
+"id": "w679",
+"text": "themselves.",
+"start": 275.799,
+"end": 276.271
+},
+{
+"id": "w680",
+"text": "A",
+"start": 276.64,
+"end": 276.764
+},
+{
+"id": "w681",
+"text": "painted",
+"start": 276.775,
+"end": 277.271
+},
+{
+"id": "w682",
+"text": "portrait",
+"start": 277.315,
+"end": 277.873
+},
+{
+"id": "w683",
+"text": "could",
+"start": 277.922,
+"end": 278.294
+},
+{
+"id": "w684",
+"text": "flatter.",
+"start": 278.326,
+"end": 278.823
+},
+{
+"id": "w685",
+"text": "A",
+"start": 279.377,
+"end": 279.486
+},
+{
+"id": "w686",
+"text": "painter",
+"start": 279.496,
+"end": 279.933
+},
+{
+"id": "w687",
+"text": "could",
+"start": 279.971,
+"end": 280.299
+},
+{
+"id": "w688",
+"text": "soften",
+"start": 280.327,
+"end": 280.71
+},
+{
+"id": "w689",
+"text": "wrinkles,",
+"start": 280.743,
+"end": 281.235
+},
+{
+"id": "w690",
+"text": "adjust",
+"start": 281.277,
+"end": 281.66
+},
+{
+"id": "w691",
+"text": "a",
+"start": 281.693,
+"end": 281.802
+},
+{
+"id": "w692",
+"text": "nose,",
+"start": 281.812,
+"end": 282.085
+},
+{
+"id": "w693",
+"text": "straighten",
+"start": 282.109,
+"end": 282.71
+},
+{
+"id": "w694",
+"text": "a",
+"start": 282.762,
+"end": 282.871
+},
+{
+"id": "w695",
+"text": "posture,",
+"start": 282.881,
+"end": 283.318
+},
+{
+"id": "w696",
+"text": "and",
+"start": 283.356,
+"end": 283.575
+},
+{
+"id": "w697",
+"text": "present",
+"start": 283.594,
+"end": 284.031
+},
+{
+"id": "w698",
+"text": "a",
+"start": 284.069,
+"end": 284.178
+},
+{
+"id": "w699",
+"text": "person",
+"start": 284.187,
+"end": 284.57
+},
+{
+"id": "w700",
+"text": "the",
+"start": 284.603,
+"end": 284.822
+},
+{
+"id": "w701",
+"text": "way",
+"start": 284.841,
+"end": 285.059
+},
+{
+"id": "w702",
+"text": "the",
+"start": 285.078,
+"end": 285.297
+},
+{
+"id": "w703",
+"text": "conventions",
+"start": 285.316,
+"end": 285.972
+},
+{
+"id": "w704",
+"text": "of",
+"start": 286.029,
+"end": 286.192
+},
+{
+"id": "w705",
+"text": "beauty",
+"start": 286.207,
+"end": 286.589
+},
+{
+"id": "w706",
+"text": "said",
+"start": 286.622,
+"end": 286.896
+},
+{
+"id": "w707",
+"text": "they",
+"start": 286.919,
+"end": 287.193
+},
+{
+"id": "w708",
+"text": "should",
+"start": 287.216,
+"end": 287.599
+},
+{
+"id": "w709",
+"text": "look.",
+"start": 287.632,
+"end": 287.905
+},
+{
+"id": "w710",
+"text": "The",
+"start": 288.342,
+"end": 288.608
+},
+{
+"id": "w711",
+"text": "camera",
+"start": 288.631,
+"end": 289.097
+},
+{
+"id": "w712",
+"text": "had",
+"start": 289.137,
+"end": 289.403
+},
+{
+"id": "w713",
+"text": "no",
+"start": 289.426,
+"end": 289.626
+},
+{
+"id": "w714",
+"text": "such",
+"start": 289.643,
+"end": 289.976
+},
+{
+"id": "w715",
+"text": "manners.",
+"start": 290.005,
+"end": 290.537
+},
+{
+"id": "w716",
+"text": "It",
+"start": 291.052,
+"end": 291.195
+},
+{
+"id": "w717",
+"text": "recorded",
+"start": 291.207,
+"end": 291.636
+},
+{
+"id": "w718",
+"text": "what",
+"start": 291.674,
+"end": 291.912
+},
+{
+"id": "w719",
+"text": "was",
+"start": 291.933,
+"end": 292.124
+},
+{
+"id": "w720",
+"text": "there,",
+"start": 292.14,
+"end": 292.426
+},
+{
+"id": "w721",
+"text": "including",
+"start": 292.863,
+"end": 293.317
+},
+{
+"id": "w722",
+"text": "the",
+"start": 293.357,
+"end": 293.538
+},
+{
+"id": "w723",
+"text": "details",
+"start": 293.554,
+"end": 293.917
+},
+{
+"id": "w724",
+"text": "an",
+"start": 293.949,
+"end": 294.085
+},
+{
+"id": "w725",
+"text": "artist",
+"start": 294.097,
+"end": 294.415
+},
+{
+"id": "w726",
+"text": "might",
+"start": 294.443,
+"end": 294.715
+},
+{
+"id": "w727",
+"text": "have",
+"start": 294.739,
+"end": 294.966
+},
+{
+"id": "w728",
+"text": "chosen",
+"start": 294.986,
+"end": 295.304
+},
+{
+"id": "w729",
+"text": "to",
+"start": 295.331,
+"end": 295.468
+},
+{
+"id": "w730",
+"text": "leave",
+"start": 295.479,
+"end": 295.752
+},
+{
+"id": "w731",
+"text": "out.",
+"start": 295.776,
+"end": 295.957
+},
+{
+"id": "w732",
+"text": "The",
+"start": 296.534,
+"end": 296.76
+},
+{
+"id": "w733",
+"text": "loudest",
+"start": 296.78,
+"end": 297.233
+},
+{
+"id": "w734",
+"text": "public",
+"start": 297.273,
+"end": 297.669
+},
+{
+"id": "w735",
+"text": "voices,",
+"start": 297.703,
+"end": 298.1
+},
+{
+"id": "w736",
+"text": "though,",
+"start": 298.134,
+"end": 298.531
+},
+{
+"id": "w737",
+"text": "were",
+"start": 298.707,
+"end": 298.942
+},
+{
+"id": "w738",
+"text": "not",
+"start": 298.963,
+"end": 299.151
+},
+{
+"id": "w739",
+"text": "painters",
+"start": 299.167,
+"end": 299.591
+},
+{
+"id": "w740",
+"text": "at",
+"start": 299.628,
+"end": 299.769
+},
+{
+"id": "w741",
+"text": "all,",
+"start": 299.781,
+"end": 299.97
+},
+{
+"id": "w742",
+"text": "but",
+"start": 300.324,
+"end": 300.686
+},
+{
+"id": "w743",
+"text": "critics.",
+"start": 300.717,
+"end": 301.44
+},
+{
+"id": "w744",
+"text": "In",
+"start": 302.098,
+"end": 302.285
+},
+{
+"id": "w745",
+"text": "1859,",
+"start": 302.302,
+"end": 302.614
+},
+{
+"id": "w746",
+"text": "photographs",
+"start": 302.641,
+"end": 303.391
+},
+{
+"id": "w747",
+"text": "were",
+"start": 303.456,
+"end": 303.768
+},
+{
+"id": "w748",
+"text": "shown",
+"start": 303.795,
+"end": 304.17
+},
+{
+"id": "w749",
+"text": "at",
+"start": 304.202,
+"end": 304.39
+},
+{
+"id": "w750",
+"text": "the",
+"start": 304.406,
+"end": 304.656
+},
+{
+"id": "w751",
+"text": "official",
+"start": 304.678,
+"end": 305.24
+},
+{
+"id": "w752",
+"text": "Paris",
+"start": 305.289,
+"end": 305.663
+},
+{
+"id": "w753",
+"text": "Salon",
+"start": 305.696,
+"end": 306.071
+},
+{
+"id": "w754",
+"text": "for",
+"start": 306.103,
+"end": 306.353
+},
+{
+"id": "w755",
+"text": "the",
+"start": 306.375,
+"end": 306.625
+},
+{
+"id": "w756",
+"text": "first",
+"start": 306.646,
+"end": 307.021
+},
+{
+"id": "w757",
+"text": "time.",
+"start": 307.054,
+"end": 307.366
+},
+{
+"id": "w758",
+"text": "The",
+"start": 307.785,
+"end": 308.038
+},
+{
+"id": "w759",
+"text": "poet",
+"start": 308.06,
+"end": 308.376
+},
+{
+"id": "w760",
+"text": "and",
+"start": 308.403,
+"end": 308.656
+},
+{
+"id": "w761",
+"text": "critic",
+"start": 308.678,
+"end": 309.12
+},
+{
+"id": "w762",
+"text": "Charles",
+"start": 309.159,
+"end": 309.664
+},
+{
+"id": "w763",
+"text": "Baudelaire",
+"start": 309.708,
+"end": 310.403
+},
+{
+"id": "w764",
+"text": "was",
+"start": 310.464,
+"end": 310.717
+},
+{
+"id": "w765",
+"text": "furious.",
+"start": 310.739,
+"end": 311.244
+},
+{
+"id": "w766",
+"text": "Photography,",
+"start": 311.79,
+"end": 312.588
+},
+{
+"id": "w767",
+"text": "he",
+"start": 312.657,
+"end": 312.857
+},
+{
+"id": "w768",
+"text": "wrote,",
+"start": 312.874,
+"end": 313.273
+},
+{
+"id": "w769",
+"text": "was",
+"start": 313.308,
+"end": 313.574
+},
+{
+"id": "w770",
+"text": "\"the",
+"start": 313.597,
+"end": 313.863
+},
+{
+"id": "w771",
+"text": "refuge",
+"start": 313.886,
+"end": 314.351
+},
+{
+"id": "w772",
+"text": "of",
+"start": 314.392,
+"end": 314.591
+},
+{
+"id": "w773",
+"text": "every",
+"start": 314.609,
+"end": 315.007
+},
+{
+"id": "w774",
+"text": "would-be",
+"start": 315.042,
+"end": 315.574
+},
+{
+"id": "w775",
+"text": "painter,",
+"start": 315.62,
+"end": 316.152
+},
+{
+"id": "w776",
+"text": "every",
+"start": 316.198,
+"end": 316.597
+},
+{
+"id": "w777",
+"text": "painter",
+"start": 316.632,
+"end": 317.164
+},
+{
+"id": "w778",
+"text": "too",
+"start": 317.21,
+"end": 317.476
+},
+{
+"id": "w779",
+"text": "ill-endowed",
+"start": 317.499,
+"end": 318.231
+},
+{
+"id": "w780",
+"text": "or",
+"start": 318.294,
+"end": 318.494
+},
+{
+"id": "w781",
+"text": "too",
+"start": 318.511,
+"end": 318.777
+},
+{
+"id": "w782",
+"text": "lazy",
+"start": 318.8,
+"end": 319.133
+},
+{
+"id": "w783",
+"text": "to",
+"start": 319.162,
+"end": 319.361
+},
+{
+"id": "w784",
+"text": "complete",
+"start": 319.378,
+"end": 319.977
+},
+{
+"id": "w785",
+"text": "his",
+"start": 320.029,
+"end": 320.295
+},
+{
+"id": "w786",
+"text": "studies.\"",
+"start": 320.318,
+"end": 320.85
+},
+{
+"id": "w787",
+"text": "If",
+"start": 321.534,
+"end": 321.684
+},
+{
+"id": "w788",
+"text": "photography",
+"start": 321.697,
+"end": 322.299
+},
+{
+"id": "w789",
+"text": "was",
+"start": 322.351,
+"end": 322.552
+},
+{
+"id": "w790",
+"text": "allowed",
+"start": 322.569,
+"end": 322.97
+},
+{
+"id": "w791",
+"text": "to",
+"start": 323.005,
+"end": 323.156
+},
+{
+"id": "w792",
+"text": "replace",
+"start": 323.169,
+"end": 323.57
+},
+{
+"id": "w793",
+"text": "art",
+"start": 323.604,
+"end": 323.805
+},
+{
+"id": "w794",
+"text": "in",
+"start": 323.822,
+"end": 323.973
+},
+{
+"id": "w795",
+"text": "some",
+"start": 323.986,
+"end": 324.237
+},
+{
+"id": "w796",
+"text": "of",
+"start": 324.258,
+"end": 324.409
+},
+{
+"id": "w797",
+"text": "its",
+"start": 324.422,
+"end": 324.622
+},
+{
+"id": "w798",
+"text": "jobs,",
+"start": 324.64,
+"end": 324.89
+},
+{
+"id": "w799",
+"text": "he",
+"start": 324.912,
+"end": 325.063
+},
+{
+"id": "w800",
+"text": "warned,",
+"start": 325.076,
+"end": 325.426
+},
+{
+"id": "w801",
+"text": "it",
+"start": 325.75,
+"end": 325.906
+},
+{
+"id": "w802",
+"text": "would",
+"start": 325.92,
+"end": 326.232
+},
+{
+"id": "w803",
+"text": "soon",
+"start": 326.259,
+"end": 326.519
+},
+{
+"id": "w804",
+"text": "corrupt",
+"start": 326.542,
+"end": 326.958
+},
+{
+"id": "w805",
+"text": "it",
+"start": 326.994,
+"end": 327.15
+},
+{
+"id": "w806",
+"text": "altogether.",
+"start": 327.164,
+"end": 327.736
+},
+{
+"id": "w807",
+"text": "Baudelaire,",
+"start": 328.245,
+"end": 328.815
+},
+{
+"id": "w808",
+"text": "by",
+"start": 328.865,
+"end": 329.02
+},
+{
+"id": "w809",
+"text": "the",
+"start": 329.034,
+"end": 329.241
+},
+{
+"id": "w810",
+"text": "way,",
+"start": 329.259,
+"end": 329.466
+},
+{
+"id": "w811",
+"text": "later",
+"start": 329.484,
+"end": 329.795
+},
+{
+"id": "w812",
+"text": "sat",
+"start": 329.822,
+"end": 330.03
+},
+{
+"id": "w813",
+"text": "for",
+"start": 330.048,
+"end": 330.255
+},
+{
+"id": "w814",
+"text": "some",
+"start": 330.273,
+"end": 330.532
+},
+{
+"id": "w815",
+"text": "of",
+"start": 330.555,
+"end": 330.71
+},
+{
+"id": "w816",
+"text": "the",
+"start": 330.724,
+"end": 330.931
+},
+{
+"id": "w817",
+"text": "finest",
+"start": 330.949,
+"end": 331.312
+},
+{
+"id": "w818",
+"text": "photographic",
+"start": 331.343,
+"end": 332.017
+},
+{
+"id": "w819",
+"text": "portraits",
+"start": 332.076,
+"end": 332.594
+},
+{
+"id": "w820",
+"text": "of",
+"start": 332.639,
+"end": 332.794
+},
+{
+"id": "w821",
+"text": "his",
+"start": 332.808,
+"end": 333.015
+},
+{
+"id": "w822",
+"text": "time.",
+"start": 333.033,
+"end": 333.292
+},
+{
+"id": "w823",
+"text": "Now",
+"start": 333.927,
+"end": 334.243
+},
+{
+"id": "w824",
+"text": "to",
+"start": 334.271,
+"end": 334.508
+},
+{
+"id": "w825",
+"text": "that",
+"start": 334.528,
+"end": 334.923
+},
+{
+"id": "w826",
+"text": "king.",
+"start": 334.958,
+"end": 335.353
+},
+{
+"id": "w827",
+"text": "A",
+"start": 335.88,
+"end": 336.014
+},
+{
+"id": "w828",
+"text": "published",
+"start": 336.026,
+"end": 336.698
+},
+{
+"id": "w829",
+"text": "history",
+"start": 336.756,
+"end": 337.294
+},
+{
+"id": "w830",
+"text": "of",
+"start": 337.34,
+"end": 337.542
+},
+{
+"id": "w831",
+"text": "photography",
+"start": 337.559,
+"end": 338.366
+},
+{
+"id": "w832",
+"text": "reports",
+"start": 338.436,
+"end": 338.973
+},
+{
+"id": "w833",
+"text": "that",
+"start": 339.02,
+"end": 339.356
+},
+{
+"id": "w834",
+"text": "in",
+"start": 339.385,
+"end": 339.586
+},
+{
+"id": "w835",
+"text": "1856,",
+"start": 339.604,
+"end": 339.94
+},
+{
+"id": "w836",
+"text": "the",
+"start": 340.253,
+"end": 340.487
+},
+{
+"id": "w837",
+"text": "king",
+"start": 340.508,
+"end": 340.8
+},
+{
+"id": "w838",
+"text": "of",
+"start": 340.826,
+"end": 341.001
+},
+{
+"id": "w839",
+"text": "Naples",
+"start": 341.017,
+"end": 341.426
+},
+{
+"id": "w840",
+"text": "forbade",
+"start": 341.462,
+"end": 341.93
+},
+{
+"id": "w841",
+"text": "photography",
+"start": 341.971,
+"end": 342.674
+},
+{
+"id": "w842",
+"text": "in",
+"start": 342.735,
+"end": 342.911
+},
+{
+"id": "w843",
+"text": "his",
+"start": 342.926,
+"end": 343.16
+},
+{
+"id": "w844",
+"text": "territories.",
+"start": 343.18,
+"end": 343.883
+},
+{
+"id": "w845",
+"text": "And",
+"start": 344.447,
+"end": 344.657
+},
+{
+"id": "w846",
+"text": "that",
+"start": 344.675,
+"end": 344.937
+},
+{
+"id": "w847",
+"text": "same",
+"start": 344.96,
+"end": 345.222
+},
+{
+"id": "w848",
+"text": "history",
+"start": 345.245,
+"end": 345.665
+},
+{
+"id": "w849",
+"text": "says",
+"start": 345.701,
+"end": 345.964
+},
+{
+"id": "w850",
+"text": "plainly",
+"start": 345.986,
+"end": 346.406
+},
+{
+"id": "w851",
+"text": "that",
+"start": 346.443,
+"end": 346.705
+},
+{
+"id": "w852",
+"text": "the",
+"start": 346.728,
+"end": 346.937
+},
+{
+"id": "w853",
+"text": "reason",
+"start": 346.956,
+"end": 347.323
+},
+{
+"id": "w854",
+"text": "is",
+"start": 347.355,
+"end": 347.512
+},
+{
+"id": "w855",
+"text": "not",
+"start": 347.526,
+"end": 347.736
+},
+{
+"id": "w856",
+"text": "known.",
+"start": 347.754,
+"end": 348.069
+},
+{
+"id": "w857",
+"text": "A",
+"start": 348.551,
+"end": 348.669
+},
+{
+"id": "w858",
+"text": "London",
+"start": 348.679,
+"end": 349.093
+},
+{
+"id": "w859",
+"text": "photographic",
+"start": 349.129,
+"end": 349.897
+},
+{
+"id": "w860",
+"text": "catalogue",
+"start": 349.964,
+"end": 350.555
+},
+{
+"id": "w861",
+"text": "from",
+"start": 350.607,
+"end": 350.902
+},
+{
+"id": "w862",
+"text": "that",
+"start": 350.928,
+"end": 351.223
+},
+{
+"id": "w863",
+"text": "same",
+"start": 351.249,
+"end": 351.545
+},
+{
+"id": "w864",
+"text": "year",
+"start": 351.57,
+"end": 351.866
+},
+{
+"id": "w865",
+"text": "records",
+"start": 351.892,
+"end": 352.364
+},
+{
+"id": "w866",
+"text": "a",
+"start": 352.405,
+"end": 352.524
+},
+{
+"id": "w867",
+"text": "ban",
+"start": 352.534,
+"end": 352.77
+},
+{
+"id": "w868",
+"text": "on",
+"start": 352.791,
+"end": 352.968
+},
+{
+"id": "w869",
+"text": "taking",
+"start": 352.984,
+"end": 353.397
+},
+{
+"id": "w870",
+"text": "any",
+"start": 353.433,
+"end": 353.67
+},
+{
+"id": "w871",
+"text": "more",
+"start": 353.69,
+"end": 353.986
+},
+{
+"id": "w872",
+"text": "photographs",
+"start": 354.011,
+"end": 354.721
+},
+{
+"id": "w873",
+"text": "of",
+"start": 354.782,
+"end": 354.96
+},
+{
+"id": "w874",
+"text": "Pompeii.",
+"start": 354.975,
+"end": 355.448
+},
+{
+"id": "w875",
+"text": "Again,",
+"start": 355.921,
+"end": 356.402
+},
+{
+"id": "w876",
+"text": "with",
+"start": 356.634,
+"end": 356.842
+},
+{
+"id": "w877",
+"text": "no",
+"start": 356.86,
+"end": 356.985
+},
+{
+"id": "w878",
+"text": "reason",
+"start": 356.996,
+"end": 357.287
+},
+{
+"id": "w879",
+"text": "given.",
+"start": 357.313,
+"end": 357.562
+},
+{
+"id": "w880",
+"text": "The",
+"start": 358.133,
+"end": 358.377
+},
+{
+"id": "w881",
+"text": "puzzle",
+"start": 358.398,
+"end": 358.824
+},
+{
+"id": "w882",
+"text": "is",
+"start": 358.862,
+"end": 359.044
+},
+{
+"id": "w883",
+"text": "that",
+"start": 359.06,
+"end": 359.365
+},
+{
+"id": "w884",
+"text": "only",
+"start": 359.391,
+"end": 359.696
+},
+{
+"id": "w885",
+"text": "nine",
+"start": 359.723,
+"end": 360.027
+},
+{
+"id": "w886",
+"text": "years",
+"start": 360.054,
+"end": 360.419
+},
+{
+"id": "w887",
+"text": "earlier,",
+"start": 360.451,
+"end": 360.939
+},
+{
+"id": "w888",
+"text": "the",
+"start": 361.128,
+"end": 361.325
+},
+{
+"id": "w889",
+"text": "same",
+"start": 361.342,
+"end": 361.588
+},
+{
+"id": "w890",
+"text": "king",
+"start": 361.609,
+"end": 361.856
+},
+{
+"id": "w891",
+"text": "had",
+"start": 361.877,
+"end": 362.074
+},
+{
+"id": "w892",
+"text": "been",
+"start": 362.091,
+"end": 362.337
+},
+{
+"id": "w893",
+"text": "so",
+"start": 362.358,
+"end": 362.506
+},
+{
+"id": "w894",
+"text": "impressed",
+"start": 362.519,
+"end": 363.011
+},
+{
+"id": "w895",
+"text": "by",
+"start": 363.054,
+"end": 363.201
+},
+{
+"id": "w896",
+"text": "photographs",
+"start": 363.214,
+"end": 363.805
+},
+{
+"id": "w897",
+"text": "of",
+"start": 363.856,
+"end": 364.004
+},
+{
+"id": "w898",
+"text": "ancient",
+"start": 364.017,
+"end": 364.41
+},
+{
+"id": "w899",
+"text": "frescoes",
+"start": 364.445,
+"end": 364.887
+},
+{
+"id": "w900",
+"text": "that",
+"start": 364.926,
+"end": 365.172
+},
+{
+"id": "w901",
+"text": "he",
+"start": 365.193,
+"end": 365.341
+},
+{
+"id": "w902",
+"text": "gave",
+"start": 365.354,
+"end": 365.6
+},
+{
+"id": "w903",
+"text": "photographers",
+"start": 365.621,
+"end": 366.31
+},
+{
+"id": "w904",
+"text": "permission",
+"start": 366.37,
+"end": 366.912
+},
+{
+"id": "w905",
+"text": "to",
+"start": 366.959,
+"end": 367.106
+},
+{
+"id": "w906",
+"text": "work",
+"start": 367.119,
+"end": 367.365
+},
+{
+"id": "w907",
+"text": "throughout",
+"start": 367.387,
+"end": 367.928
+},
+{
+"id": "w908",
+"text": "his",
+"start": 367.975,
+"end": 368.172
+},
+{
+"id": "w909",
+"text": "kingdom.",
+"start": 368.189,
+"end": 368.583
+},
+{
+"id": "w910",
+"text": "So",
+"start": 369.129,
+"end": 369.314
+},
+{
+"id": "w911",
+"text": "why",
+"start": 369.33,
+"end": 369.576
+},
+{
+"id": "w912",
+"text": "the",
+"start": 369.597,
+"end": 369.843
+},
+{
+"id": "w913",
+"text": "change?",
+"start": 369.865,
+"end": 370.296
+},
+{
+"id": "w914",
+"text": "You'll",
+"start": 370.857,
+"end": 371.175
+},
+{
+"id": "w915",
+"text": "often",
+"start": 371.203,
+"end": 371.521
+},
+{
+"id": "w916",
+"text": "read",
+"start": 371.548,
+"end": 371.813
+},
+{
+"id": "w917",
+"text": "that",
+"start": 371.836,
+"end": 372.101
+},
+{
+"id": "w918",
+"text": "he",
+"start": 372.124,
+"end": 372.283
+},
+{
+"id": "w919",
+"text": "feared",
+"start": 372.297,
+"end": 372.668
+},
+{
+"id": "w920",
+"text": "the",
+"start": 372.7,
+"end": 372.912
+},
+{
+"id": "w921",
+"text": "evil",
+"start": 372.931,
+"end": 373.196
+},
+{
+"id": "w922",
+"text": "eye,",
+"start": 373.219,
+"end": 373.431
+},
+{
+"id": "w923",
+"text": "a",
+"start": 373.676,
+"end": 373.828
+},
+{
+"id": "w924",
+"text": "curse",
+"start": 373.841,
+"end": 374.296
+},
+{
+"id": "w925",
+"text": "cast",
+"start": 374.336,
+"end": 374.715
+},
+{
+"id": "w926",
+"text": "by",
+"start": 374.748,
+"end": 374.976
+},
+{
+"id": "w927",
+"text": "a",
+"start": 374.996,
+"end": 375.147
+},
+{
+"id": "w928",
+"text": "look,",
+"start": 375.161,
+"end": 375.54
+},
+{
+"id": "w929",
+"text": "and",
+"start": 375.724,
+"end": 375.951
+},
+{
+"id": "w930",
+"text": "his",
+"start": 375.971,
+"end": 376.198
+},
+{
+"id": "w931",
+"text": "kingdom",
+"start": 376.218,
+"end": 376.672
+},
+{
+"id": "w932",
+"text": "really",
+"start": 376.712,
+"end": 377.109
+},
+{
+"id": "w933",
+"text": "was",
+"start": 377.144,
+"end": 377.371
+},
+{
+"id": "w934",
+"text": "famous",
+"start": 377.391,
+"end": 377.788
+},
+{
+"id": "w935",
+"text": "for",
+"start": 377.823,
+"end": 378.05
+},
+{
+"id": "w936",
+"text": "that",
+"start": 378.07,
+"end": 378.354
+},
+{
+"id": "w937",
+"text": "belief.",
+"start": 378.378,
+"end": 378.776
+},
+{
+"id": "w938",
+"text": "But",
+"start": 378.811,
+"end": 379.038
+},
+{
+"id": "w939",
+"text": "that",
+"start": 379.058,
+"end": 379.341
+},
+{
+"id": "w940",
+"text": "explanation",
+"start": 379.366,
+"end": 380.048
+},
+{
+"id": "w941",
+"text": "is",
+"start": 380.107,
+"end": 380.277
+},
+{
+"id": "w942",
+"text": "a",
+"start": 380.292,
+"end": 380.406
+},
+{
+"id": "w943",
+"text": "guess.",
+"start": 380.416,
+"end": 380.756
+},
+{
+"id": "w944",
+"text": "The",
+"start": 381.152,
+"end": 381.314
+},
+{
+"id": "w945",
+"text": "records",
+"start": 381.328,
+"end": 381.651
+},
+{
+"id": "w946",
+"text": "we",
+"start": 381.679,
+"end": 381.8
+},
+{
+"id": "w947",
+"text": "have",
+"start": 381.811,
+"end": 382.013
+},
+{
+"id": "w948",
+"text": "don't",
+"start": 382.031,
+"end": 382.233
+},
+{
+"id": "w949",
+"text": "give",
+"start": 382.25,
+"end": 382.452
+},
+{
+"id": "w950",
+"text": "a",
+"start": 382.47,
+"end": 382.551
+},
+{
+"id": "w951",
+"text": "reason",
+"start": 382.558,
+"end": 382.841
+},
+{
+"id": "w952",
+"text": "at",
+"start": 382.865,
+"end": 382.987
+},
+{
+"id": "w953",
+"text": "all.",
+"start": 382.997,
+"end": 383.159
+},
+{
+"id": "w954",
+"text": "Which",
+"start": 383.689,
+"end": 384.034
+},
+{
+"id": "w955",
+"text": "brings",
+"start": 384.064,
+"end": 384.466
+},
+{
+"id": "w956",
+"text": "us",
+"start": 384.501,
+"end": 384.673
+},
+{
+"id": "w957",
+"text": "back",
+"start": 384.688,
+"end": 384.976
+},
+{
+"id": "w958",
+"text": "to",
+"start": 385.001,
+"end": 385.173
+},
+{
+"id": "w959",
+"text": "Paris,",
+"start": 385.188,
+"end": 385.533
+},
+{
+"id": "w960",
+"text": "and",
+"start": 385.943,
+"end": 386.146
+},
+{
+"id": "w961",
+"text": "to",
+"start": 386.164,
+"end": 386.316
+},
+{
+"id": "w962",
+"text": "the",
+"start": 386.329,
+"end": 386.533
+},
+{
+"id": "w963",
+"text": "painter",
+"start": 386.55,
+"end": 386.957
+},
+{
+"id": "w964",
+"text": "Paul",
+"start": 386.992,
+"end": 387.246
+},
+{
+"id": "w965",
+"text": "Delaroche.",
+"start": 387.268,
+"end": 387.776
+},
+{
+"id": "w966",
+"text": "A",
+"start": 388.496,
+"end": 388.607
+},
+{
+"id": "w967",
+"text": "famous",
+"start": 388.617,
+"end": 389.007
+},
+{
+"id": "w968",
+"text": "quotation",
+"start": 389.041,
+"end": 389.598
+},
+{
+"id": "w969",
+"text": "later",
+"start": 389.647,
+"end": 389.981
+},
+{
+"id": "w970",
+"text": "attributed",
+"start": 390.01,
+"end": 390.623
+},
+{
+"id": "w971",
+"text": "to",
+"start": 390.676,
+"end": 390.843
+},
+{
+"id": "w972",
+"text": "the",
+"start": 390.858,
+"end": 391.081
+},
+{
+"id": "w973",
+"text": "painter",
+"start": 391.1,
+"end": 391.546
+},
+{
+"id": "w974",
+"text": "Paul",
+"start": 391.585,
+"end": 391.863
+},
+{
+"id": "w975",
+"text": "Delaroche",
+"start": 391.887,
+"end": 392.445
+},
+{
+"id": "w976",
+"text": "declared",
+"start": 392.493,
+"end": 392.994
+},
+{
+"id": "w977",
+"text": "that",
+"start": 393.038,
+"end": 393.317
+},
+{
+"id": "w978",
+"text": "painting",
+"start": 393.341,
+"end": 393.842
+},
+{
+"id": "w979",
+"text": "was",
+"start": 393.886,
+"end": 394.109
+},
+{
+"id": "w980",
+"text": "dead.",
+"start": 394.128,
+"end": 394.407
+},
+{
+"id": "w981",
+"text": "It's",
+"start": 394.925,
+"end": 395.085
+},
+{
+"id": "w982",
+"text": "one",
+"start": 395.099,
+"end": 395.259
+},
+{
+"id": "w983",
+"text": "of",
+"start": 395.273,
+"end": 395.393
+},
+{
+"id": "w984",
+"text": "the",
+"start": 395.403,
+"end": 395.563
+},
+{
+"id": "w985",
+"text": "most",
+"start": 395.577,
+"end": 395.777
+},
+{
+"id": "w986",
+"text": "quoted",
+"start": 395.794,
+"end": 396.074
+},
+{
+"id": "w987",
+"text": "lines",
+"start": 396.098,
+"end": 396.338
+},
+{
+"id": "w988",
+"text": "in",
+"start": 396.359,
+"end": 396.479
+},
+{
+"id": "w989",
+"text": "the",
+"start": 396.489,
+"end": 396.649
+},
+{
+"id": "w990",
+"text": "history",
+"start": 396.663,
+"end": 396.983
+},
+{
+"id": "w991",
+"text": "of",
+"start": 397.011,
+"end": 397.131
+},
+{
+"id": "w992",
+"text": "art.",
+"start": 397.141,
+"end": 397.301
+},
+{
+"id": "w993",
+"text": "Exhibitions",
+"start": 397.719,
+"end": 398.222
+},
+{
+"id": "w994",
+"text": "have",
+"start": 398.266,
+"end": 398.475
+},
+{
+"id": "w995",
+"text": "been",
+"start": 398.494,
+"end": 398.703
+},
+{
+"id": "w996",
+"text": "named",
+"start": 398.721,
+"end": 398.973
+},
+{
+"id": "w997",
+"text": "after",
+"start": 398.995,
+"end": 399.246
+},
+{
+"id": "w998",
+"text": "it.",
+"start": 399.268,
+"end": 399.394
+},
+{
+"id": "w999",
+"text": "But",
+"start": 400.057,
+"end": 400.263
+},
+{
+"id": "w1000",
+"text": "researchers",
+"start": 400.281,
+"end": 400.899
+},
+{
+"id": "w1001",
+"text": "who",
+"start": 400.952,
+"end": 401.158
+},
+{
+"id": "w1002",
+"text": "have",
+"start": 401.176,
+"end": 401.434
+},
+{
+"id": "w1003",
+"text": "traced",
+"start": 401.456,
+"end": 401.817
+},
+{
+"id": "w1004",
+"text": "it",
+"start": 401.848,
+"end": 402.002
+},
+{
+"id": "w1005",
+"text": "find",
+"start": 402.016,
+"end": 402.273
+},
+{
+"id": "w1006",
+"text": "it",
+"start": 402.296,
+"end": 402.45
+},
+{
+"id": "w1007",
+"text": "first",
+"start": 402.464,
+"end": 402.773
+},
+{
+"id": "w1008",
+"text": "appearing",
+"start": 402.799,
+"end": 403.314
+},
+{
+"id": "w1009",
+"text": "in",
+"start": 403.359,
+"end": 403.514
+},
+{
+"id": "w1010",
+"text": "print",
+"start": 403.527,
+"end": 403.836
+},
+{
+"id": "w1011",
+"text": "more",
+"start": 403.863,
+"end": 404.12
+},
+{
+"id": "w1012",
+"text": "than",
+"start": 404.143,
+"end": 404.4
+},
+{
+"id": "w1013",
+"text": "thirty",
+"start": 404.422,
+"end": 404.783
+},
+{
+"id": "w1014",
+"text": "years",
+"start": 404.814,
+"end": 405.123
+},
+{
+"id": "w1015",
+"text": "after",
+"start": 405.15,
+"end": 405.459
+},
+{
+"id": "w1016",
+"text": "it",
+"start": 405.486,
+"end": 405.64
+},
+{
+"id": "w1017",
+"text": "was",
+"start": 405.654,
+"end": 405.86
+},
+{
+"id": "w1018",
+"text": "supposedly",
+"start": 405.878,
+"end": 406.444
+},
+{
+"id": "w1019",
+"text": "said.",
+"start": 406.493,
+"end": 406.751
+},
+{
+"id": "w1020",
+"text": "What",
+"start": 407.478,
+"end": 407.747
+},
+{
+"id": "w1021",
+"text": "Delaroche",
+"start": 407.77,
+"end": 408.308
+},
+{
+"id": "w1022",
+"text": "actually",
+"start": 408.355,
+"end": 408.839
+},
+{
+"id": "w1023",
+"text": "wrote",
+"start": 408.881,
+"end": 409.204
+},
+{
+"id": "w1024",
+"text": "in",
+"start": 409.232,
+"end": 409.393
+},
+{
+"id": "w1025",
+"text": "1839",
+"start": 409.407,
+"end": 409.676
+},
+{
+"id": "w1026",
+"text": "survives,",
+"start": 409.699,
+"end": 410.183
+},
+{
+"id": "w1027",
+"text": "because",
+"start": 410.225,
+"end": 410.656
+},
+{
+"id": "w1028",
+"text": "it",
+"start": 410.693,
+"end": 410.854
+},
+{
+"id": "w1029",
+"text": "was",
+"start": 410.868,
+"end": 411.084
+},
+{
+"id": "w1030",
+"text": "read",
+"start": 411.102,
+"end": 411.371
+},
+{
+"id": "w1031",
+"text": "out",
+"start": 411.395,
+"end": 411.61
+},
+{
+"id": "w1032",
+"text": "in",
+"start": 411.628,
+"end": 411.79
+},
+{
+"id": "w1033",
+"text": "public",
+"start": 411.804,
+"end": 412.18
+},
+{
+"id": "w1034",
+"text": "when",
+"start": 412.213,
+"end": 412.482
+},
+{
+"id": "w1035",
+"text": "the",
+"start": 412.505,
+"end": 412.72
+},
+{
+"id": "w1036",
+"text": "process",
+"start": 412.739,
+"end": 413.169
+},
+{
+"id": "w1037",
+"text": "was",
+"start": 413.207,
+"end": 413.422
+},
+{
+"id": "w1038",
+"text": "announced.",
+"start": 413.44,
+"end": 413.978
+},
+{
+"id": "w1039",
+"text": "He",
+"start": 414.542,
+"end": 414.696
+},
+{
+"id": "w1040",
+"text": "praised",
+"start": 414.709,
+"end": 415.119
+},
+{
+"id": "w1041",
+"text": "the",
+"start": 415.155,
+"end": 415.359
+},
+{
+"id": "w1042",
+"text": "daguerreotype's",
+"start": 415.377,
+"end": 416.146
+},
+{
+"id": "w1043",
+"text": "extraordinary",
+"start": 416.213,
+"end": 416.93
+},
+{
+"id": "w1044",
+"text": "precision.",
+"start": 416.992,
+"end": 417.504
+},
+{
+"id": "w1045",
+"text": "He",
+"start": 418.022,
+"end": 418.135
+},
+{
+"id": "w1046",
+"text": "said",
+"start": 418.145,
+"end": 418.333
+},
+{
+"id": "w1047",
+"text": "it",
+"start": 418.349,
+"end": 418.462
+},
+{
+"id": "w1048",
+"text": "would",
+"start": 418.472,
+"end": 418.698
+},
+{
+"id": "w1049",
+"text": "help",
+"start": 418.718,
+"end": 418.906
+},
+{
+"id": "w1050",
+"text": "train",
+"start": 418.922,
+"end": 419.148
+},
+{
+"id": "w1051",
+"text": "painters.",
+"start": 419.168,
+"end": 419.507
+},
+{
+"id": "w1052",
+"text": "One",
+"start": 419.947,
+"end": 420.154
+},
+{
+"id": "w1053",
+"text": "historian",
+"start": 420.172,
+"end": 420.688
+},
+{
+"id": "w1054",
+"text": "quotes",
+"start": 420.733,
+"end": 421.095
+},
+{
+"id": "w1055",
+"text": "him",
+"start": 421.126,
+"end": 421.333
+},
+{
+"id": "w1056",
+"text": "calling",
+"start": 421.351,
+"end": 421.764
+},
+{
+"id": "w1057",
+"text": "it",
+"start": 421.8,
+"end": 421.955
+},
+{
+"id": "w1058",
+"text": "an",
+"start": 421.968,
+"end": 422.123
+},
+{
+"id": "w1059",
+"text": "immense",
+"start": 422.137,
+"end": 422.55
+},
+{
+"id": "w1060",
+"text": "service",
+"start": 422.586,
+"end": 422.999
+},
+{
+"id": "w1061",
+"text": "to",
+"start": 423.035,
+"end": 423.19
+},
+{
+"id": "w1062",
+"text": "the",
+"start": 423.204,
+"end": 423.41
+},
+{
+"id": "w1063",
+"text": "arts.",
+"start": 423.428,
+"end": 423.687
+},
+{
+"id": "w1064",
+"text": "And",
+"start": 424.256,
+"end": 424.415
+},
+{
+"id": "w1065",
+"text": "he",
+"start": 424.429,
+"end": 424.549
+},
+{
+"id": "w1066",
+"text": "didn't",
+"start": 424.559,
+"end": 424.799
+},
+{
+"id": "w1067",
+"text": "stop",
+"start": 424.819,
+"end": 425.019
+},
+{
+"id": "w1068",
+"text": "painting.",
+"start": 425.036,
+"end": 425.395
+},
+{
+"id": "w1069",
+"text": "He",
+"start": 425.699,
+"end": 425.826
+},
+{
+"id": "w1070",
+"text": "kept",
+"start": 425.837,
+"end": 426.048
+},
+{
+"id": "w1071",
+"text": "working",
+"start": 426.067,
+"end": 426.405
+},
+{
+"id": "w1072",
+"text": "until",
+"start": 426.435,
+"end": 426.688
+},
+{
+"id": "w1073",
+"text": "his",
+"start": 426.71,
+"end": 426.879
+},
+{
+"id": "w1074",
+"text": "death,",
+"start": 426.894,
+"end": 427.148
+},
+{
+"id": "w1075",
+"text": "seventeen",
+"start": 427.394,
+"end": 427.91
+},
+{
+"id": "w1076",
+"text": "years",
+"start": 427.955,
+"end": 428.265
+},
+{
+"id": "w1077",
+"text": "later.",
+"start": 428.291,
+"end": 428.601
+},
+{
+"id": "w1078",
+"text": "The",
+"start": 429.392,
+"end": 429.588
+},
+{
+"id": "w1079",
+"text": "man",
+"start": 429.605,
+"end": 429.802
+},
+{
+"id": "w1080",
+"text": "credited",
+"start": 429.819,
+"end": 430.26
+},
+{
+"id": "w1081",
+"text": "with",
+"start": 430.299,
+"end": 430.544
+},
+{
+"id": "w1082",
+"text": "declaring",
+"start": 430.565,
+"end": 431.056
+},
+{
+"id": "w1083",
+"text": "painting",
+"start": 431.099,
+"end": 431.541
+},
+{
+"id": "w1084",
+"text": "dead",
+"start": 431.579,
+"end": 431.824
+},
+{
+"id": "w1085",
+"text": "was,",
+"start": 431.846,
+"end": 432.042
+},
+{
+"id": "w1086",
+"text": "in",
+"start": 432.249,
+"end": 432.468
+},
+{
+"id": "w1087",
+"text": "his",
+"start": 432.487,
+"end": 432.778
+},
+{
+"id": "w1088",
+"text": "own",
+"start": 432.804,
+"end": 433.095
+},
+{
+"id": "w1089",
+"text": "words,",
+"start": 433.121,
+"end": 433.558
+},
+{
+"id": "w1090",
+"text": "one",
+"start": 433.843,
+"end": 434.058
+},
+{
+"id": "w1091",
+"text": "of",
+"start": 434.077,
+"end": 434.239
+},
+{
+"id": "w1092",
+"text": "photography's",
+"start": 434.253,
+"end": 434.953
+},
+{
+"id": "w1093",
+"text": "early",
+"start": 435.014,
+"end": 435.337
+},
+{
+"id": "w1094",
+"text": "supporters.",
+"start": 435.365,
+"end": 435.957
+},
+{
+"id": "w1095",
+"text": "So",
+"start": 436.645,
+"end": 436.808
+},
+{
+"id": "w1096",
+"text": "did",
+"start": 436.822,
+"end": 437.04
+},
+{
+"id": "w1097",
+"text": "photography",
+"start": 437.059,
+"end": 437.712
+},
+{
+"id": "w1098",
+"text": "kill",
+"start": 437.768,
+"end": 438.04
+},
+{
+"id": "w1099",
+"text": "painting?",
+"start": 438.064,
+"end": 438.553
+},
+{
+"id": "w1100",
+"text": "Look",
+"start": 439.113,
+"end": 439.377
+},
+{
+"id": "w1101",
+"text": "at",
+"start": 439.4,
+"end": 439.558
+},
+{
+"id": "w1102",
+"text": "what",
+"start": 439.572,
+"end": 439.836
+},
+{
+"id": "w1103",
+"text": "painters",
+"start": 439.859,
+"end": 440.334
+},
+{
+"id": "w1104",
+"text": "actually",
+"start": 440.376,
+"end": 440.851
+},
+{
+"id": "w1105",
+"text": "did.",
+"start": 440.892,
+"end": 441.104
+},
+{
+"id": "w1106",
+"text": "The",
+"start": 441.863,
+"end": 442.086
+},
+{
+"id": "w1107",
+"text": "great",
+"start": 442.106,
+"end": 442.44
+},
+{
+"id": "w1108",
+"text": "Romantic",
+"start": 442.47,
+"end": 442.972
+},
+{
+"id": "w1109",
+"text": "painter",
+"start": 443.015,
+"end": 443.462
+},
+{
+"id": "w1110",
+"text": "Eug\u00e8ne",
+"start": 443.501,
+"end": 443.891
+},
+{
+"id": "w1111",
+"text": "Delacroix",
+"start": 443.925,
+"end": 444.483
+},
+{
+"id": "w1112",
+"text": "became",
+"start": 444.532,
+"end": 444.922
+},
+{
+"id": "w1113",
+"text": "a",
+"start": 444.956,
+"end": 445.068
+},
+{
+"id": "w1114",
+"text": "founding",
+"start": 445.078,
+"end": 445.58
+},
+{
+"id": "w1115",
+"text": "member",
+"start": 445.623,
+"end": 446.014
+},
+{
+"id": "w1116",
+"text": "of",
+"start": 446.048,
+"end": 446.215
+},
+{
+"id": "w1117",
+"text": "the",
+"start": 446.23,
+"end": 446.453
+},
+{
+"id": "w1118",
+"text": "first",
+"start": 446.473,
+"end": 446.807
+},
+{
+"id": "w1119",
+"text": "society",
+"start": 446.837,
+"end": 447.283
+},
+{
+"id": "w1120",
+"text": "devoted",
+"start": 447.322,
+"end": 447.768
+},
+{
+"id": "w1121",
+"text": "to",
+"start": 447.807,
+"end": 447.974
+},
+{
+"id": "w1122",
+"text": "photography,",
+"start": 447.989,
+"end": 448.659
+},
+{
+"id": "w1123",
+"text": "in",
+"start": 448.717,
+"end": 448.884
+},
+{
+"id": "w1124",
+"text": "1851.",
+"start": 448.899,
+"end": 449.178
+},
+{
+"id": "w1125",
+"text": "He",
+"start": 449.718,
+"end": 449.863
+},
+{
+"id": "w1126",
+"text": "collected",
+"start": 449.876,
+"end": 450.36
+},
+{
+"id": "w1127",
+"text": "photographs",
+"start": 450.403,
+"end": 450.984
+},
+{
+"id": "w1128",
+"text": "and",
+"start": 451.034,
+"end": 451.228
+},
+{
+"id": "w1129",
+"text": "drew",
+"start": 451.245,
+"end": 451.487
+},
+{
+"id": "w1130",
+"text": "from",
+"start": 451.508,
+"end": 451.751
+},
+{
+"id": "w1131",
+"text": "them.",
+"start": 451.772,
+"end": 452.014
+},
+{
+"id": "w1132",
+"text": "And",
+"start": 452.366,
+"end": 452.592
+},
+{
+"id": "w1133",
+"text": "painting",
+"start": 452.612,
+"end": 453.12
+},
+{
+"id": "w1134",
+"text": "began",
+"start": 453.164,
+"end": 453.503
+},
+{
+"id": "w1135",
+"text": "to",
+"start": 453.532,
+"end": 453.702
+},
+{
+"id": "w1136",
+"text": "change.",
+"start": 453.716,
+"end": 454.112
+},
+{
+"id": "w1137",
+"text": "If",
+"start": 454.745,
+"end": 454.895
+},
+{
+"id": "w1138",
+"text": "a",
+"start": 454.908,
+"end": 455.009
+},
+{
+"id": "w1139",
+"text": "machine",
+"start": 455.017,
+"end": 455.418
+},
+{
+"id": "w1140",
+"text": "could",
+"start": 455.453,
+"end": 455.754
+},
+{
+"id": "w1141",
+"text": "record",
+"start": 455.78,
+"end": 456.131
+},
+{
+"id": "w1142",
+"text": "exactly",
+"start": 456.161,
+"end": 456.562
+},
+{
+"id": "w1143",
+"text": "what",
+"start": 456.597,
+"end": 456.848
+},
+{
+"id": "w1144",
+"text": "the",
+"start": 456.87,
+"end": 457.07
+},
+{
+"id": "w1145",
+"text": "eye",
+"start": 457.088,
+"end": 457.288
+},
+{
+"id": "w1146",
+"text": "sees,",
+"start": 457.306,
+"end": 457.556
+},
+{
+"id": "w1147",
+"text": "then",
+"start": 457.884,
+"end": 458.092
+},
+{
+"id": "w1148",
+"text": "painting",
+"start": 458.11,
+"end": 458.483
+},
+{
+"id": "w1149",
+"text": "was",
+"start": 458.516,
+"end": 458.682
+},
+{
+"id": "w1150",
+"text": "free",
+"start": 458.696,
+"end": 458.904
+},
+{
+"id": "w1151",
+"text": "to",
+"start": 458.922,
+"end": 459.046
+},
+{
+"id": "w1152",
+"text": "do",
+"start": 459.057,
+"end": 459.182
+},
+{
+"id": "w1153",
+"text": "what",
+"start": 459.192,
+"end": 459.4
+},
+{
+"id": "w1154",
+"text": "a",
+"start": 459.418,
+"end": 459.501
+},
+{
+"id": "w1155",
+"text": "camera",
+"start": 459.508,
+"end": 459.799
+},
+{
+"id": "w1156",
+"text": "couldn't:",
+"start": 459.824,
+"end": 460.156
+},
+{
+"id": "w1157",
+"text": "to",
+"start": 460.601,
+"end": 460.744
+},
+{
+"id": "w1158",
+"text": "show",
+"start": 460.756,
+"end": 460.995
+},
+{
+"id": "w1159",
+"text": "light,",
+"start": 461.015,
+"end": 461.301
+},
+{
+"id": "w1160",
+"text": "movement,",
+"start": 461.537,
+"end": 461.98
+},
+{
+"id": "w1161",
+"text": "feeling,",
+"start": 462.21,
+"end": 462.66
+},
+{
+"id": "w1162",
+"text": "the",
+"start": 463.049,
+"end": 463.208
+},
+{
+"id": "w1163",
+"text": "impression",
+"start": 463.222,
+"end": 463.658
+},
+{
+"id": "w1164",
+"text": "of",
+"start": 463.696,
+"end": 463.815
+},
+{
+"id": "w1165",
+"text": "a",
+"start": 463.826,
+"end": 463.905
+},
+{
+"id": "w1166",
+"text": "moment.",
+"start": 463.912,
+"end": 464.19
+},
+{
+"id": "w1167",
+"text": "In",
+"start": 464.867,
+"end": 465.021
+},
+{
+"id": "w1168",
+"text": "the",
+"start": 465.034,
+"end": 465.24
+},
+{
+"id": "w1169",
+"text": "spring",
+"start": 465.258,
+"end": 465.617
+},
+{
+"id": "w1170",
+"text": "of",
+"start": 465.648,
+"end": 465.803
+},
+{
+"id": "w1171",
+"text": "1874,",
+"start": 465.816,
+"end": 466.073
+},
+{
+"id": "w1172",
+"text": "a",
+"start": 466.095,
+"end": 466.198
+},
+{
+"id": "w1173",
+"text": "group",
+"start": 466.207,
+"end": 466.515
+},
+{
+"id": "w1174",
+"text": "of",
+"start": 466.542,
+"end": 466.696
+},
+{
+"id": "w1175",
+"text": "young",
+"start": 466.709,
+"end": 467.017
+},
+{
+"id": "w1176",
+"text": "painters",
+"start": 467.044,
+"end": 467.506
+},
+{
+"id": "w1177",
+"text": "who",
+"start": 467.546,
+"end": 467.752
+},
+{
+"id": "w1178",
+"text": "had",
+"start": 467.77,
+"end": 467.975
+},
+{
+"id": "w1179",
+"text": "been",
+"start": 467.993,
+"end": 468.25
+},
+{
+"id": "w1180",
+"text": "shut",
+"start": 468.272,
+"end": 468.529
+},
+{
+"id": "w1181",
+"text": "out",
+"start": 468.551,
+"end": 468.756
+},
+{
+"id": "w1182",
+"text": "of",
+"start": 468.774,
+"end": 468.928
+},
+{
+"id": "w1183",
+"text": "the",
+"start": 468.942,
+"end": 469.147
+},
+{
+"id": "w1184",
+"text": "official",
+"start": 469.165,
+"end": 469.627
+},
+{
+"id": "w1185",
+"text": "Salon",
+"start": 469.667,
+"end": 469.976
+},
+{
+"id": "w1186",
+"text": "held",
+"start": 470.002,
+"end": 470.259
+},
+{
+"id": "w1187",
+"text": "their",
+"start": 470.281,
+"end": 470.59
+},
+{
+"id": "w1188",
+"text": "own",
+"start": 470.616,
+"end": 470.822
+},
+{
+"id": "w1189",
+"text": "exhibition",
+"start": 470.84,
+"end": 471.405
+},
+{
+"id": "w1190",
+"text": "in",
+"start": 471.454,
+"end": 471.608
+},
+{
+"id": "w1191",
+"text": "Paris.",
+"start": 471.621,
+"end": 471.929
+},
+{
+"id": "w1192",
+"text": "A",
+"start": 472.419,
+"end": 472.512
+},
+{
+"id": "w1193",
+"text": "critic",
+"start": 472.52,
+"end": 472.847
+},
+{
+"id": "w1194",
+"text": "mocked",
+"start": 472.876,
+"end": 473.202
+},
+{
+"id": "w1195",
+"text": "them",
+"start": 473.231,
+"end": 473.464
+},
+{
+"id": "w1196",
+"text": "with",
+"start": 473.484,
+"end": 473.718
+},
+{
+"id": "w1197",
+"text": "a",
+"start": 473.738,
+"end": 473.831
+},
+{
+"id": "w1198",
+"text": "new",
+"start": 473.839,
+"end": 474.026
+},
+{
+"id": "w1199",
+"text": "word:",
+"start": 474.042,
+"end": 474.276
+},
+{
+"id": "w1200",
+"text": "Impressionists.",
+"start": 474.59,
+"end": 475.373
+},
+{
+"id": "w1201",
+"text": "Where",
+"start": 475.998,
+"end": 476.178
+},
+{
+"id": "w1202",
+"text": "did",
+"start": 476.194,
+"end": 476.314
+},
+{
+"id": "w1203",
+"text": "they",
+"start": 476.325,
+"end": 476.475
+},
+{
+"id": "w1204",
+"text": "hang",
+"start": 476.488,
+"end": 476.638
+},
+{
+"id": "w1205",
+"text": "their",
+"start": 476.651,
+"end": 476.831
+},
+{
+"id": "w1206",
+"text": "pictures?",
+"start": 476.847,
+"end": 477.117
+},
+{
+"id": "w1207",
+"text": "In",
+"start": 477.59,
+"end": 477.716
+},
+{
+"id": "w1208",
+"text": "the",
+"start": 477.727,
+"end": 477.896
+},
+{
+"id": "w1209",
+"text": "studio",
+"start": 477.911,
+"end": 478.206
+},
+{
+"id": "w1210",
+"text": "of",
+"start": 478.231,
+"end": 478.358
+},
+{
+"id": "w1211",
+"text": "one",
+"start": 478.369,
+"end": 478.537
+},
+{
+"id": "w1212",
+"text": "of",
+"start": 478.552,
+"end": 478.678
+},
+{
+"id": "w1213",
+"text": "the",
+"start": 478.689,
+"end": 478.858
+},
+{
+"id": "w1214",
+"text": "most",
+"start": 478.872,
+"end": 479.083
+},
+{
+"id": "w1215",
+"text": "famous",
+"start": 479.101,
+"end": 479.396
+},
+{
+"id": "w1216",
+"text": "photographers",
+"start": 479.422,
+"end": 480.012
+},
+{
+"id": "w1217",
+"text": "in",
+"start": 480.063,
+"end": 480.189
+},
+{
+"id": "w1218",
+"text": "France,",
+"start": 480.2,
+"end": 480.495
+},
+{
+"id": "w1219",
+"text": "Nadar,",
+"start": 480.673,
+"end": 481.157
+},
+{
+"id": "w1220",
+"text": "on",
+"start": 481.323,
+"end": 481.484
+},
+{
+"id": "w1221",
+"text": "the",
+"start": 481.498,
+"end": 481.713
+},
+{
+"id": "w1222",
+"text": "Boulevard",
+"start": 481.731,
+"end": 482.268
+},
+{
+"id": "w1223",
+"text": "des",
+"start": 482.314,
+"end": 482.529
+},
+{
+"id": "w1224",
+"text": "Capucines.",
+"start": 482.548,
+"end": 483.084
+},
+{
+"id": "w1225",
+"text": "The",
+"start": 483.921,
+"end": 484.135
+},
+{
+"id": "w1226",
+"text": "camera",
+"start": 484.154,
+"end": 484.529
+},
+{
+"id": "w1227",
+"text": "didn't",
+"start": 484.562,
+"end": 484.883
+},
+{
+"id": "w1228",
+"text": "end",
+"start": 484.911,
+"end": 485.125
+},
+{
+"id": "w1229",
+"text": "painting.",
+"start": 485.144,
+"end": 485.626
+},
+{
+"id": "w1230",
+"text": "It",
+"start": 486.079,
+"end": 486.212
+},
+{
+"id": "w1231",
+"text": "pushed",
+"start": 486.224,
+"end": 486.534
+},
+{
+"id": "w1232",
+"text": "painting",
+"start": 486.561,
+"end": 486.96
+},
+{
+"id": "w1233",
+"text": "somewhere",
+"start": 486.995,
+"end": 487.439
+},
+{
+"id": "w1234",
+"text": "new,",
+"start": 487.477,
+"end": 487.655
+},
+{
+"id": "w1235",
+"text": "and",
+"start": 488.026,
+"end": 488.198
+},
+{
+"id": "w1236",
+"text": "the",
+"start": 488.213,
+"end": 488.385
+},
+{
+"id": "w1237",
+"text": "two",
+"start": 488.4,
+"end": 488.572
+},
+{
+"id": "w1238",
+"text": "have",
+"start": 488.587,
+"end": 488.802
+},
+{
+"id": "w1239",
+"text": "borrowed",
+"start": 488.821,
+"end": 489.208
+},
+{
+"id": "w1240",
+"text": "from",
+"start": 489.242,
+"end": 489.457
+},
+{
+"id": "w1241",
+"text": "each",
+"start": 489.475,
+"end": 489.69
+},
+{
+"id": "w1242",
+"text": "other",
+"start": 489.709,
+"end": 489.967
+},
+{
+"id": "w1243",
+"text": "ever",
+"start": 489.99,
+"end": 490.205
+},
+{
+"id": "w1244",
+"text": "since.",
+"start": 490.223,
+"end": 490.482
+},
+{
+"id": "w1245",
+"text": "The",
+"start": 491.309,
+"end": 491.526
+},
+{
+"id": "w1246",
+"text": "fears",
+"start": 491.545,
+"end": 491.871
+},
+{
+"id": "w1247",
+"text": "were",
+"start": 491.899,
+"end": 492.17
+},
+{
+"id": "w1248",
+"text": "real.",
+"start": 492.194,
+"end": 492.465
+},
+{
+"id": "w1249",
+"text": "The",
+"start": 492.908,
+"end": 493.139
+},
+{
+"id": "w1250",
+"text": "livelihoods",
+"start": 493.159,
+"end": 493.852
+},
+{
+"id": "w1251",
+"text": "at",
+"start": 493.912,
+"end": 494.085
+},
+{
+"id": "w1252",
+"text": "stake",
+"start": 494.1,
+"end": 494.446
+},
+{
+"id": "w1253",
+"text": "were",
+"start": 494.477,
+"end": 494.765
+},
+{
+"id": "w1254",
+"text": "real.",
+"start": 494.79,
+"end": 495.079
+},
+{
+"id": "w1255",
+"text": "And",
+"start": 495.368,
+"end": 495.566
+},
+{
+"id": "w1256",
+"text": "the",
+"start": 495.583,
+"end": 495.781
+},
+{
+"id": "w1257",
+"text": "camera",
+"start": 495.799,
+"end": 496.145
+},
+{
+"id": "w1258",
+"text": "changed",
+"start": 496.175,
+"end": 496.572
+},
+{
+"id": "w1259",
+"text": "how",
+"start": 496.606,
+"end": 496.804
+},
+{
+"id": "w1260",
+"text": "people",
+"start": 496.821,
+"end": 497.168
+},
+{
+"id": "w1261",
+"text": "saw",
+"start": 497.198,
+"end": 497.396
+},
+{
+"id": "w1262",
+"text": "their",
+"start": 497.414,
+"end": 497.711
+},
+{
+"id": "w1263",
+"text": "own",
+"start": 497.737,
+"end": 497.935
+},
+{
+"id": "w1264",
+"text": "faces.",
+"start": 497.952,
+"end": 498.249
+},
+{
+"id": "w1265",
+"text": "But",
+"start": 498.847,
+"end": 499.065
+},
+{
+"id": "w1266",
+"text": "some",
+"start": 499.084,
+"end": 499.356
+},
+{
+"id": "w1267",
+"text": "of",
+"start": 499.379,
+"end": 499.543
+},
+{
+"id": "w1268",
+"text": "the",
+"start": 499.557,
+"end": 499.775
+},
+{
+"id": "w1269",
+"text": "most",
+"start": 499.793,
+"end": 500.066
+},
+{
+"id": "w1270",
+"text": "famous",
+"start": 500.089,
+"end": 500.47
+},
+{
+"id": "w1271",
+"text": "stories",
+"start": 500.503,
+"end": 500.939
+},
+{
+"id": "w1272",
+"text": "about",
+"start": 500.977,
+"end": 501.303
+},
+{
+"id": "w1273",
+"text": "that",
+"start": 501.331,
+"end": 501.604
+},
+{
+"id": "w1274",
+"text": "fear,",
+"start": 501.627,
+"end": 501.899
+},
+{
+"id": "w1275",
+"text": "the",
+"start": 502.274,
+"end": 502.488
+},
+{
+"id": "w1276",
+"text": "cursed",
+"start": 502.506,
+"end": 502.88
+},
+{
+"id": "w1277",
+"text": "king",
+"start": 502.913,
+"end": 503.18
+},
+{
+"id": "w1278",
+"text": "and",
+"start": 503.203,
+"end": 503.417
+},
+{
+"id": "w1279",
+"text": "the",
+"start": 503.436,
+"end": 503.649
+},
+{
+"id": "w1280",
+"text": "painter's",
+"start": 503.668,
+"end": 504.149
+},
+{
+"id": "w1281",
+"text": "death",
+"start": 504.191,
+"end": 504.511
+},
+{
+"id": "w1282",
+"text": "sentence",
+"start": 504.539,
+"end": 505.02
+},
+{
+"id": "w1283",
+"text": "for",
+"start": 505.062,
+"end": 505.275
+},
+{
+"id": "w1284",
+"text": "his",
+"start": 505.294,
+"end": 505.508
+},
+{
+"id": "w1285",
+"text": "own",
+"start": 505.526,
+"end": 505.74
+},
+{
+"id": "w1286",
+"text": "art,",
+"start": 505.759,
+"end": 505.972
+},
+{
+"id": "w1287",
+"text": "are",
+"start": 506.234,
+"end": 506.431
+},
+{
+"id": "w1288",
+"text": "harder",
+"start": 506.448,
+"end": 506.792
+},
+{
+"id": "w1289",
+"text": "to",
+"start": 506.822,
+"end": 506.969
+},
+{
+"id": "w1290",
+"text": "pin",
+"start": 506.982,
+"end": 507.178
+},
+{
+"id": "w1291",
+"text": "down",
+"start": 507.196,
+"end": 507.441
+},
+{
+"id": "w1292",
+"text": "than",
+"start": 507.463,
+"end": 507.708
+},
+{
+"id": "w1293",
+"text": "we're",
+"start": 507.73,
+"end": 507.976
+},
+{
+"id": "w1294",
+"text": "told.",
+"start": 507.997,
+"end": 508.243
+},
+{
+"id": "w1295",
+"text": "Every",
+"start": 509.052,
+"end": 509.443
+},
+{
+"id": "w1296",
+"text": "new",
+"start": 509.477,
+"end": 509.738
+},
+{
+"id": "w1297",
+"text": "way",
+"start": 509.761,
+"end": 510.022
+},
+{
+"id": "w1298",
+"text": "of",
+"start": 510.044,
+"end": 510.24
+},
+{
+"id": "w1299",
+"text": "making",
+"start": 510.257,
+"end": 510.713
+},
+{
+"id": "w1300",
+"text": "images",
+"start": 510.753,
+"end": 511.209
+},
+{
+"id": "w1301",
+"text": "arrives",
+"start": 511.249,
+"end": 511.771
+},
+{
+"id": "w1302",
+"text": "with",
+"start": 511.816,
+"end": 512.142
+},
+{
+"id": "w1303",
+"text": "a",
+"start": 512.17,
+"end": 512.301
+},
+{
+"id": "w1304",
+"text": "prophecy",
+"start": 512.312,
+"end": 512.899
+},
+{
+"id": "w1305",
+"text": "of",
+"start": 512.95,
+"end": 513.146
+},
+{
+"id": "w1306",
+"text": "doom.",
+"start": 513.163,
+"end": 513.489
+},
+{
+"id": "w1307",
+"text": "It's",
+"start": 514.234,
+"end": 514.453
+},
+{
+"id": "w1308",
+"text": "worth",
+"start": 514.472,
+"end": 514.799
+},
+{
+"id": "w1309",
+"text": "asking",
+"start": 514.828,
+"end": 515.21
+},
+{
+"id": "w1310",
+"text": "who",
+"start": 515.244,
+"end": 515.462
+},
+{
+"id": "w1311",
+"text": "actually",
+"start": 515.481,
+"end": 515.973
+},
+{
+"id": "w1312",
+"text": "said",
+"start": 516.016,
+"end": 516.289
+},
+{
+"id": "w1313",
+"text": "it,",
+"start": 516.313,
+"end": 516.477
+},
+{
+"id": "w1314",
+"text": "and",
+"start": 516.966,
+"end": 517.133
+},
+{
+"id": "w1315",
+"text": "what",
+"start": 517.147,
+"end": 517.356
+},
+{
+"id": "w1316",
+"text": "happened",
+"start": 517.374,
+"end": 517.749
+},
+{
+"id": "w1317",
+"text": "next.",
+"start": 517.781,
+"end": 517.99
+},
+{
+"id": "w1318",
+"text": "If",
+"start": 518.691,
+"end": 518.832
+},
+{
+"id": "w1319",
+"text": "you",
+"start": 518.844,
+"end": 519.032
+},
+{
+"id": "w1320",
+"text": "enjoyed",
+"start": 519.048,
+"end": 519.423
+},
+{
+"id": "w1321",
+"text": "this,",
+"start": 519.456,
+"end": 519.691
+},
+{
+"id": "w1322",
+"text": "tell",
+"start": 519.711,
+"end": 519.946
+},
+{
+"id": "w1323",
+"text": "me",
+"start": 519.966,
+"end": 520.107
+},
+{
+"id": "w1324",
+"text": "in",
+"start": 520.119,
+"end": 520.26
+},
+{
+"id": "w1325",
+"text": "the",
+"start": 520.272,
+"end": 520.46
+},
+{
+"id": "w1326",
+"text": "comments:",
+"start": 520.476,
+"end": 520.898
+},
+{
+"id": "w1327",
+"text": "which",
+"start": 521.362,
+"end": 521.688
+},
+{
+"id": "w1328",
+"text": "invention",
+"start": 521.716,
+"end": 522.259
+},
+{
+"id": "w1329",
+"text": "do",
+"start": 522.306,
+"end": 522.469
+},
+{
+"id": "w1330",
+"text": "you",
+"start": 522.483,
+"end": 522.701
+},
+{
+"id": "w1331",
+"text": "think",
+"start": 522.719,
+"end": 523.045
+},
+{
+"id": "w1332",
+"text": "is",
+"start": 523.074,
+"end": 523.236
+},
+{
+"id": "w1333",
+"text": "being",
+"start": 523.251,
+"end": 523.576
+},
+{
+"id": "w1334",
+"text": "misjudged",
+"start": 523.605,
+"end": 524.148
+},
+{
+"id": "w1335",
+"text": "today?",
+"start": 524.195,
+"end": 524.521
+}
+]
