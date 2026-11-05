@@ -400,9 +400,14 @@
   },
   {
    "id": "p031c",
-   "src": "assets/shots/p031c.png",
+   "src": "assets/shots/p031c.jpg",
    "anchor": "And there was a second",
-   "prompt": "A portrait painter at an easel gently smoothing a sitter's face on canvas, the elderly sitter beside him looking far more lined than the youthful painted version"
+   "prompt": "A portrait painter at an easel gently smoothing a sitter's face on canvas, the elderly sitter beside him looking far more lined than the youthful painted version",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "move": "pan_right"
   },
   {
    "id": "p031d",
