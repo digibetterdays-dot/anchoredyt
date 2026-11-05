@@ -542,9 +542,13 @@
   },
   {
    "id": "p027a",
-   "src": "assets/shots/p027.png",
+   "src": "assets/shots/p027.jpg",
    "anchor": "Then France did something",
    "prompt": "A government chamber with a king's portrait on the wall, documents with red wax seals on a table, a quill pen",
+   "focus": [
+    0.5,
+    0.4
+   ],
    "start": 216.821,
    "end": 221.238,
    "dur": 4.417,
@@ -553,9 +557,13 @@
   },
   {
    "id": "p027b",
-   "src": "assets/shots/p027.png",
+   "src": "assets/shots/p027.jpg",
    "anchor": "Then France did something",
    "prompt": "A government chamber with a king's portrait on the wall, documents with red wax seals on a table, a quill pen",
+   "focus": [
+    0.5,
+    0.4
+   ],
    "start": 221.238,
    "end": 225.845,
    "dur": 4.607,
@@ -951,9 +959,13 @@
   },
   {
    "id": "p040",
-   "src": "assets/shots/p040.png",
+   "src": "assets/shots/p040.jpg",
    "anchor": "But that explanation is",
    "prompt": "A cracked mirror reflecting a blurred figure, a coral horn charm hanging beside it",
+   "focus": [
+    0.45,
+    0.45
+   ],
    "start": 378.731,
    "end": 383.424,
    "dur": 4.693,
@@ -973,9 +985,13 @@
   },
   {
    "id": "p041a",
-   "src": "assets/shots/p041.png",
+   "src": "assets/shots/p041.jpg",
    "anchor": "A famous quotation later",
    "prompt": "A large painted banner hanging over a modern museum exhibition entrance, its lettering left blank, visitors walking in",
+   "focus": [
+    0.5,
+    0.45
+   ],
    "start": 388.136,
    "end": 393.806,
    "dur": 5.67,
@@ -984,9 +1000,13 @@
   },
   {
    "id": "p041b",
-   "src": "assets/shots/p041.png",
+   "src": "assets/shots/p041.jpg",
    "anchor": "A famous quotation later",
    "prompt": "A large painted banner hanging over a modern museum exhibition entrance, its lettering left blank, visitors walking in",
+   "focus": [
+    0.5,
+    0.45
+   ],
    "start": 393.806,
    "end": 399.726,
    "dur": 5.92,
@@ -1019,9 +1039,13 @@
   },
   {
    "id": "p043a",
-   "src": "assets/shots/p043.png",
+   "src": "assets/shots/p043.jpg",
    "anchor": "What Delaroche actually wrote",
    "prompt": "A 19th-century academic hall, a speaker reading a handwritten report aloud from a lectern, an audience listening",
+   "focus": [
+    0.7,
+    0.45
+   ],
    "start": 407.115,
    "end": 412.659,
    "dur": 5.544,
@@ -1030,9 +1054,13 @@
   },
   {
    "id": "p043b",
-   "src": "assets/shots/p043.png",
+   "src": "assets/shots/p043.jpg",
    "anchor": "What Delaroche actually wrote",
    "prompt": "A 19th-century academic hall, a speaker reading a handwritten report aloud from a lectern, an audience listening",
+   "focus": [
+    0.7,
+    0.45
+   ],
    "start": 412.659,
    "end": 417.942,
    "dur": 5.283,
@@ -1042,9 +1070,13 @@
   },
   {
    "id": "p043c",
-   "src": "assets/shots/p043.png",
+   "src": "assets/shots/p043.jpg",
    "anchor": "What Delaroche actually wrote",
    "prompt": "A 19th-century academic hall, a speaker reading a handwritten report aloud from a lectern, an audience listening",
+   "focus": [
+    0.7,
+    0.45
+   ],
    "start": 417.942,
    "end": 423.971,
    "dur": 6.029,
@@ -1064,10 +1096,14 @@
   },
   {
    "id": "p045a",
-   "src": "assets/shots/p045.png",
+   "src": "assets/shots/p045.jpg",
    "anchor": "The man credited with",
    "prompt": "A painter in a frock coat holding a daguerreotype plate up admiringly to the light beside his easel, a small smile (illustrative, not a likeness)",
    "emphasis": true,
+   "focus": [
+    0.6,
+    0.35
+   ],
    "start": 428.996,
    "end": 432.169,
    "dur": 3.173,
@@ -1076,10 +1112,14 @@
   },
   {
    "id": "p045b",
-   "src": "assets/shots/p045.png",
+   "src": "assets/shots/p045.jpg",
    "anchor": "The man credited with",
    "prompt": "A painter in a frock coat holding a daguerreotype plate up admiringly to the light beside his easel, a small smile (illustrative, not a likeness)",
    "emphasis": true,
+   "focus": [
+    0.6,
+    0.35
+   ],
    "start": 432.169,
    "end": 436.301,
    "dur": 4.132,
@@ -1180,9 +1220,13 @@
   },
   {
    "id": "p049",
-   "src": "assets/shots/p049.png",
+   "src": "assets/shots/p049.jpg",
    "anchor": "A critic mocked them",
    "prompt": "A 19th-century newspaper critic laughing at an impressionistic painting of a sunrise over a harbour in a gallery, other visitors puzzled",
+   "focus": [
+    0.45,
+    0.45
+   ],
    "start": 472.174,
    "end": 475.685,
    "dur": 3.511,
@@ -1190,10 +1234,14 @@
   },
   {
    "id": "p050a",
-   "src": "assets/shots/p050.png",
+   "src": "assets/shots/p050.jpg",
    "anchor": "Where did they hang",
    "prompt": "A Paris boulevard building with a large studio upstairs, its wide windows glowing, a red sign shape with no letters, crowds below, 1874",
    "emphasis": true,
+   "focus": [
+    0.55,
+    0.35
+   ],
    "start": 475.685,
    "end": 479.342,
    "dur": 3.657,
@@ -1202,10 +1250,14 @@
   },
   {
    "id": "p050b",
-   "src": "assets/shots/p050.png",
+   "src": "assets/shots/p050.jpg",
    "anchor": "Where did they hang",
    "prompt": "A Paris boulevard building with a large studio upstairs, its wide windows glowing, a red sign shape with no letters, crowds below, 1874",
    "emphasis": true,
+   "focus": [
+    0.55,
+    0.35
+   ],
    "start": 479.342,
    "end": 483.502,
    "dur": 4.16,
@@ -1215,11 +1267,15 @@
   },
   {
    "id": "p051a",
-   "src": "assets/shots/p051.png",
+   "src": "assets/shots/p051.jpg",
    "anchor": "The camera didn't end",
    "prompt": "A painter and a photographer working side by side in a sunlit studio, an easel and a box camera both aimed at the same vase of flowers",
    "section_start": true,
    "move": "pull_out",
+   "focus": [
+    0.5,
+    0.5
+   ],
    "start": 483.502,
    "end": 486.915,
    "dur": 3.413,
@@ -1227,11 +1283,15 @@
   },
   {
    "id": "p051b",
-   "src": "assets/shots/p051.png",
+   "src": "assets/shots/p051.jpg",
    "anchor": "The camera didn't end",
    "prompt": "A painter and a photographer working side by side in a sunlit studio, an easel and a box camera both aimed at the same vase of flowers",
    "section_start": false,
    "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.5
+   ],
    "start": 486.915,
    "end": 490.896,
    "dur": 3.981,

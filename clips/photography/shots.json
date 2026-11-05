@@ -225,9 +225,13 @@
   },
   {
    "id": "p027",
-   "src": "assets/shots/p027.png",
+   "src": "assets/shots/p027.jpg",
    "anchor": "Then France did something",
-   "prompt": "A government chamber with a king's portrait on the wall, documents with red wax seals on a table, a quill pen"
+   "prompt": "A government chamber with a king's portrait on the wall, documents with red wax seals on a table, a quill pen",
+   "focus": [
+    0.5,
+    0.4
+   ]
   },
   {
    "id": "c05",
@@ -404,9 +408,13 @@
   },
   {
    "id": "p040",
-   "src": "assets/shots/p040.png",
+   "src": "assets/shots/p040.jpg",
    "anchor": "But that explanation is",
-   "prompt": "A cracked mirror reflecting a blurred figure, a coral horn charm hanging beside it"
+   "prompt": "A cracked mirror reflecting a blurred figure, a coral horn charm hanging beside it",
+   "focus": [
+    0.45,
+    0.45
+   ]
   },
   {
    "id": "c10",
@@ -418,9 +426,13 @@
   },
   {
    "id": "p041",
-   "src": "assets/shots/p041.png",
+   "src": "assets/shots/p041.jpg",
    "anchor": "A famous quotation later",
-   "prompt": "A large painted banner hanging over a modern museum exhibition entrance, its lettering left blank, visitors walking in"
+   "prompt": "A large painted banner hanging over a modern museum exhibition entrance, its lettering left blank, visitors walking in",
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "p042",
@@ -438,9 +450,13 @@
   },
   {
    "id": "p043",
-   "src": "assets/shots/p043.png",
+   "src": "assets/shots/p043.jpg",
    "anchor": "What Delaroche actually wrote",
-   "prompt": "A 19th-century academic hall, a speaker reading a handwritten report aloud from a lectern, an audience listening"
+   "prompt": "A 19th-century academic hall, a speaker reading a handwritten report aloud from a lectern, an audience listening",
+   "focus": [
+    0.7,
+    0.45
+   ]
   },
   {
    "id": "o04",
@@ -458,10 +474,14 @@
   },
   {
    "id": "p045",
-   "src": "assets/shots/p045.png",
+   "src": "assets/shots/p045.jpg",
    "anchor": "The man credited with",
    "prompt": "A painter in a frock coat holding a daguerreotype plate up admiringly to the light beside his easel, a small smile (illustrative, not a likeness)",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.6,
+    0.35
+   ]
   },
   {
    "id": "c11",
