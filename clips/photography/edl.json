@@ -725,10 +725,14 @@
   },
   {
    "id": "p031da",
-   "src": "assets/shots/p031d.png",
+   "src": "assets/shots/p031d.jpg",
    "anchor": "The camera had no",
    "prompt": "Extreme close-up of an elderly woman's face in a daguerreotype frame: every wrinkle and freckle sharply visible, dignified, softly lit",
    "emphasis": true,
+   "focus": [
+    0.58,
+    0.4
+   ],
    "start": 288.123,
    "end": 292.06,
    "dur": 3.937,
@@ -737,10 +741,14 @@
   },
   {
    "id": "p031db",
-   "src": "assets/shots/p031d.png",
+   "src": "assets/shots/p031d.jpg",
    "anchor": "The camera had no",
    "prompt": "Extreme close-up of an elderly woman's face in a daguerreotype frame: every wrinkle and freckle sharply visible, dignified, softly lit",
    "emphasis": true,
+   "focus": [
+    0.58,
+    0.4
+   ],
    "start": 292.06,
    "end": 296.245,
    "dur": 4.185,
@@ -760,9 +768,13 @@
   },
   {
    "id": "p032a",
-   "src": "assets/shots/p032.png",
+   "src": "assets/shots/p032.jpg",
    "anchor": "In 1859, photographs were",
    "prompt": "A grand 19th-century Paris exhibition hall with paintings hung floor to ceiling, and in one corner a small separate wall of framed photographs, visitors in top hats",
+   "focus": [
+    0.3,
+    0.4
+   ],
    "start": 301.769,
    "end": 306.566,
    "dur": 4.797,
@@ -771,9 +783,13 @@
   },
   {
    "id": "p032b",
-   "src": "assets/shots/p032.png",
+   "src": "assets/shots/p032.jpg",
    "anchor": "In 1859, photographs were",
    "prompt": "A grand 19th-century Paris exhibition hall with paintings hung floor to ceiling, and in one corner a small separate wall of framed photographs, visitors in top hats",
+   "focus": [
+    0.3,
+    0.4
+   ],
    "start": 306.566,
    "end": 311.517,
    "dur": 4.951,
@@ -850,9 +866,13 @@
   },
   {
    "id": "p038",
-   "src": "assets/shots/p038.png",
+   "src": "assets/shots/p038.jpg",
    "anchor": "And that same history",
    "prompt": "A thick old history book lying open on a library desk beside a stack of others, a reading lamp, the pages not readable",
+   "focus": [
+    0.45,
+    0.55
+   ],
    "start": 344.165,
    "end": 348.31,
    "dur": 4.145,
@@ -1081,9 +1101,13 @@
   },
   {
    "id": "p046",
-   "src": "assets/shots/p046.png",
+   "src": "assets/shots/p046.jpg",
    "anchor": "The great Romantic painter",
    "prompt": "A painter sketching at a desk from a small photograph of a model pinned beside his drawing paper, an artist's studio of the 1850s",
+   "focus": [
+    0.6,
+    0.45
+   ],
    "start": 441.483,
    "end": 444.452,
    "dur": 2.969,
@@ -1102,9 +1126,13 @@
   },
   {
    "id": "p047a",
-   "src": "assets/shots/p047.png",
+   "src": "assets/shots/p047.jpg",
    "anchor": "And painting began to",
    "prompt": "An easel by a sunny riverbank with a loose, bright impressionistic painting of water and light in progress, dappled sunlight",
+   "focus": [
+    0.68,
+    0.45
+   ],
    "start": 452.19,
    "end": 457.804,
    "dur": 5.614,
@@ -1113,9 +1141,13 @@
   },
   {
    "id": "p047b",
-   "src": "assets/shots/p047.png",
+   "src": "assets/shots/p047.jpg",
    "anchor": "And painting began to",
    "prompt": "An easel by a sunny riverbank with a loose, bright impressionistic painting of water and light in progress, dappled sunlight",
+   "focus": [
+    0.68,
+    0.45
+   ],
    "start": 457.804,
    "end": 464.529,
    "dur": 6.725,
