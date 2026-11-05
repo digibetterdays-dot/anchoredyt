@@ -13,7 +13,8 @@ Built with the `documentary-edit` skill (`.claude/skills/documentary-edit/`). Sc
 - [x] Word timings: `words.json` from **script-to-pause alignment** (`align_text.py`), not transcription: huggingface.co is blocked here. Fit: median 12% per stretch, 3 stretches over 50%. Re-run with `hyperframes transcribe` if that host is allowed.
 - [x] Edit plan: `edl.json`, 131 segments, average 4.6 s, shortest 1.9 s. Dropped s022, s035, s064 (too short at the real VO pace)
 - [ ] Music bed (optional): `assets/audio/music.mp3`, a licence the owner confirms
-- [x] **Rendered (Nov 5):** `renders/cascadia-final.mp4` (full quality, 344 MB) and `renders/cascadia-final-1080p-share.mp4` (102 MB), 9:58, 1920x1080. Audio QA passed: -14.8 LUFS, -1.21 dBTP, no dead air. Captions: `renders/cascadia.srt`. Renders are not in git (too large); re-render with `npx --yes hyperframes@0.9.6 render` + `finish_audio.sh`.
+- [x] **Rendered v2 (Nov 5, trimmed cards):** `renders/cascadia-final.mp4` (396 MB) and `renders/cascadia-final-1080p-share.mp4` (115 MB), 9:58. Audio QA: -14.3 LUFS, -1.82 dBTP, no dead air. Captions `renders/cascadia.srt`. Renders not in git.
+- [x] Shorts: `clips/cascadia-short` (orphan tsunami, 44 s), `clips/cascadia-short-shaking` (37 s), `clips/cascadia-short-window` (37 s), all audio-QA passed
 - [ ] Owner: watch and listen to the full cut (nobody has yet)
 
 ## Must verify before recording (these appear on screen)
