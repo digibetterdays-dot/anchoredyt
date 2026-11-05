@@ -124,15 +124,23 @@
   },
   {
    "id": "p011",
-   "src": "assets/shots/p011.png",
+   "src": "assets/shots/p011.jpg",
    "anchor": "Everyone else had a",
-   "prompt": "A silhouette artist at a market stall cutting a black paper profile of a seated customer with small scissors, a row of finished silhouettes pinned behind"
+   "prompt": "A silhouette artist at a market stall cutting a black paper profile of a seated customer with small scissors, a row of finished silhouettes pinned behind",
+   "focus": [
+    0.4,
+    0.5
+   ]
   },
   {
    "id": "p012",
-   "src": "assets/shots/p012.png",
+   "src": "assets/shots/p012.jpg",
    "anchor": "There were machines to",
-   "prompt": "An 18th-century profile-tracing machine: a tall wooden frame with a pointer arm tracing the outline of a seated person's profile onto paper"
+   "prompt": "An 18th-century profile-tracing machine: a tall wooden frame with a pointer arm tracing the outline of a seated person's profile onto paper",
+   "focus": [
+    0.45,
+    0.45
+   ]
   },
   {
    "id": "p013",
@@ -216,9 +224,13 @@
   },
   {
    "id": "p020",
-   "src": "assets/shots/p020.png",
+   "src": "assets/shots/p020.jpg",
    "anchor": "He put it in",
-   "prompt": "A simple wooden box camera on a windowsill of an upstairs room, pointed out at rooftops and a courtyard, long shadows"
+   "prompt": "A simple wooden box camera on a windowsill of an upstairs room, pointed out at rooftops and a courtyard, long shadows",
+   "focus": [
+    0.35,
+    0.55
+   ]
   },
   {
    "id": "p021",
@@ -326,9 +338,13 @@
   },
   {
    "id": "p028",
-   "src": "assets/shots/p028.png",
+   "src": "assets/shots/p028.jpg",
    "anchor": "Within months, people across",
-   "prompt": "A busy 1840 street with several gentlemen setting up wooden box cameras on tripods, curious onlookers gathering"
+   "prompt": "A busy 1840 street with several gentlemen setting up wooden box cameras on tripods, curious onlookers gathering",
+   "focus": [
+    0.5,
+    0.55
+   ]
   },
   {
    "id": "c06",
