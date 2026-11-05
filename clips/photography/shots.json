@@ -342,18 +342,18 @@
    "prompt": "A crowned 19th-century king seen from behind on a palace balcony over the Bay of Naples, Vesuvius in the distance (illustrative, not a likeness)"
   },
   {
-   "id": "p038",
-   "src": "assets/shots/p038.png",
-   "anchor": "And that same history",
-   "prompt": "A thick old history book lying open on a library desk beside a stack of others, a reading lamp, the pages not readable"
-  },
-  {
    "id": "o02",
    "type": "card",
    "anchor": "the king of Naples forbade",
    "text": "1856: photography forbidden",
    "sub": "as reported in a published history · reason not known",
    "overlay": true
+  },
+  {
+   "id": "p038",
+   "src": "assets/shots/p038.png",
+   "anchor": "And that same history",
+   "prompt": "A thick old history book lying open on a library desk beside a stack of others, a reading lamp, the pages not readable"
   },
   {
    "id": "p039",

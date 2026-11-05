@@ -272,14 +272,14 @@ Single scene, one subject only, one 16:9 landscape image, not a collage, not pan
 ```
 
 ## p035 -> `assets/shots/p035.png`
-Line: "The king was Ferdinand..."
+Line: "A published history of..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A crowned 19th-century king seen from behind on a palace balcony over the Bay of Naples, Vesuvius in the distance (illustrative, not a likeness), layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p038 -> `assets/shots/p038.png`
-Line: "A published history of..."
+Line: "And that same history..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A thick old history book lying open on a library desk beside a stack of others, a reading lamp, the pages not readable, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
