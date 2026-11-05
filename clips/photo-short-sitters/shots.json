@@ -1,0 +1,65 @@
+{
+ "title": "Why People Were Shocked by Their First Photograph",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "label": "Illustration",
+ "captions": true,
+ "shots": [
+  {
+   "id": "b01",
+   "anchor": "",
+   "emphasis": true,
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "src": "assets/shots/p030.jpg",
+   "move": "push_fast"
+  },
+  {
+   "id": "b02",
+   "anchor": "And there was a",
+   "focus": [
+    0.6,
+    0.5
+   ],
+   "src": "assets/shots/p009.jpg",
+   "move": "pan_right"
+  },
+  {
+   "id": "b03",
+   "anchor": "A painter could soften",
+   "move": "scan",
+   "src": "assets/shots/p031c.jpg"
+  },
+  {
+   "id": "b04",
+   "anchor": "The camera had no",
+   "emphasis": true,
+   "focus": [
+    0.58,
+    0.4
+   ],
+   "src": "assets/shots/p031d.jpg",
+   "move": "push_fast"
+  },
+  {
+   "id": "o01",
+   "type": "card",
+   "overlay": true,
+   "anchor": "It recorded what was",
+   "text": "Every detail",
+   "sub": "what a painter might have left out"
+  },
+  {
+   "id": "b05",
+   "anchor": "including the details an",
+   "focus": [
+    0.55,
+    0.5
+   ],
+   "src": "assets/shots/p003.jpg",
+   "move": "pan_left"
+  }
+ ]
+}

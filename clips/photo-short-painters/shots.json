@@ -1,0 +1,109 @@
+{
+ "title": "The Invention That Made Painters Fear for Their Jobs",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "label": "Illustration",
+ "captions": true,
+ "shots": [
+  {
+   "id": "a01",
+   "anchor": "",
+   "emphasis": true,
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "src": "assets/shots/p031.jpg",
+   "move": "push_fast"
+  },
+  {
+   "id": "a02",
+   "anchor": "Think about who earned",
+   "move": "pan_right",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/p029.jpg"
+  },
+  {
+   "id": "a03",
+   "anchor": "Portrait painters.",
+   "focus": [
+    0.3,
+    0.5
+   ],
+   "src": "assets/shots/p009.jpg",
+   "move": "pan_right"
+  },
+  {
+   "id": "a04",
+   "anchor": "Miniature painters.",
+   "focus": [
+    0.45,
+    0.4
+   ],
+   "src": "assets/shots/p010.jpg",
+   "move": "pull_out"
+  },
+  {
+   "id": "a05",
+   "anchor": "Silhouette cutters.",
+   "focus": [
+    0.4,
+    0.5
+   ],
+   "src": "assets/shots/p011.jpg",
+   "move": "pan_left"
+  },
+  {
+   "id": "a06",
+   "anchor": "Now a machine could",
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "src": "assets/shots/p030.jpg",
+   "move": "push_in"
+  },
+  {
+   "id": "a07",
+   "anchor": "For portrait painters, this",
+   "focus": [
+    0.4,
+    0.45
+   ],
+   "src": "assets/shots/p031b.jpg",
+   "move": "tilt_down"
+  },
+  {
+   "id": "a08",
+   "anchor": "Others saw the end",
+   "emphasis": true,
+   "focus": [
+    0.3,
+    0.6
+   ],
+   "src": "assets/shots/p052.jpg",
+   "move": "push_fast"
+  },
+  {
+   "id": "a09",
+   "anchor": "The poet and critic",
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "src": "assets/shots/p033.jpg",
+   "move": "pan_right"
+  },
+  {
+   "id": "o01",
+   "type": "card",
+   "overlay": true,
+   "anchor": "Photography, he wrote, was",
+   "text": "“The refuge of every would-be painter…”",
+   "sub": "Charles Baudelaire, Salon of 1859"
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "title": "The Oldest Surviving Photograph Is a Blur. Here'\\''s Why",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "music": null,
+ "label_default": "Illustration",
+ "captions": true,
+ "duration": 41.872,
+ "words": "words.json",
+ "segments": [
+  {
+   "id": "c01",
+   "anchor": "",
+   "emphasis": true,
+   "label": null,
+   "source": "Ni\u00e9pce, c. 1827 \u00b7 Harry Ransom Center",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "src": "assets/shots/p021.jpg",
+   "move": "push_fast",
+   "start": 0.0,
+   "end": 3.394,
+   "dur": 3.394
+  },
+  {
+   "id": "c02a",
+   "anchor": "he coated a pewter",
+   "focus": [
+    0.3,
+    0.6
+   ],
+   "src": "assets/shots/p019.jpg",
+   "move": "pan_right",
+   "start": 3.394,
+   "end": 6.024,
+   "dur": 2.63,
+   "punch": 0
+  },
+  {
+   "id": "c02b",
+   "anchor": "he coated a pewter",
+   "focus": [
+    0.3,
+    0.6
+   ],
+   "src": "assets/shots/p019.jpg",
+   "move": "hold_punch",
+   "start": 6.024,
+   "end": 8.91,
+   "dur": 2.886,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "c03a",
+   "anchor": "He put it in",
+   "focus": [
+    0.35,
+    0.55
+   ],
+   "src": "assets/shots/p020.jpg",
+   "move": "pull_out",
+   "start": 8.91,
+   "end": 11.754,
+   "dur": 2.844,
+   "punch": 0
+  },
+  {
+   "id": "c03b",
+   "anchor": "He put it in",
+   "focus": [
+    0.35,
+    0.55
+   ],
+   "src": "assets/shots/p020.jpg",
+   "move": "hold_punch",
+   "start": 11.754,
+   "end": 14.285,
+   "dur": 2.531,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "c04",
+   "anchor": "What survived is a",
+   "label": null,
+   "move": "scan",
+   "no_split": false,
+   "source": "Ni\u00e9pce, View from the Window at Le Gras, c. 1827 \u00b7 Harry Ransom Center",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "src": "assets/shots/p021.jpg",
+   "start": 14.285,
+   "end": 26.843,
+   "dur": 12.558
+  },
+  {
+   "id": "c04ba",
+   "src": "assets/shots/p018.jpg",
+   "anchor": "The museum that holds",
+   "move": "push_in",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 26.843,
+   "end": 28.679,
+   "dur": 1.836,
+   "punch": 0
+  },
+  {
+   "id": "c04bb",
+   "src": "assets/shots/p018.jpg",
+   "anchor": "The museum that holds",
+   "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 28.679,
+   "end": 30.832,
+   "dur": 2.153,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "c04ca",
+   "src": "assets/shots/p021.jpg",
+   "anchor": "and describes it carefully:",
+   "move": "push_in",
+   "label": null,
+   "source": "Ni\u00e9pce, c. 1827 \u00b7 Harry Ransom Center",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "start": 30.832,
+   "end": 33.205,
+   "dur": 2.373,
+   "punch": 0
+  },
+  {
+   "id": "c04cb",
+   "src": "assets/shots/p021.jpg",
+   "anchor": "and describes it carefully:",
+   "move": "hold_punch",
+   "label": null,
+   "source": "Ni\u00e9pce, c. 1827 \u00b7 Harry Ransom Center",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "start": 33.205,
+   "end": 36.023,
+   "dur": 2.818,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "c05a",
+   "anchor": "Ni\u00e9pce, not Daguerre, is",
+   "focus": [
+    0.6,
+    0.4
+   ],
+   "src": "assets/shots/p022.jpg",
+   "move": "pan_left",
+   "start": 36.023,
+   "end": 38.685,
+   "dur": 2.662,
+   "punch": 0
+  },
+  {
+   "id": "c05b",
+   "anchor": "Ni\u00e9pce, not Daguerre, is",
+   "focus": [
+    0.6,
+    0.4
+   ],
+   "src": "assets/shots/p022.jpg",
+   "move": "hold_punch",
+   "start": 38.685,
+   "end": 41.872,
+   "dur": 3.187,
+   "punch": 1,
+   "section_start": false
+  }
+ ],
+ "overlays": [
+  {
+   "id": "o01",
+   "text": "The first surviving photograph",
+   "sub": "Ni\u00e9pce \u00b7 c. 1827",
+   "start": 23.698,
+   "end": 26.793
+  }
+ ],
+ "problems": []
+}

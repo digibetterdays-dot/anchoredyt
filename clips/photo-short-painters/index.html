@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=1080, height=1920" />
+<script src="assets/vendor/gsap.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#0d0f14}
+#root{position:relative;width:100%;height:100%;font-family:Georgia,'Times New Roman',serif;color:#fff;overflow:hidden}
+.scene{position:absolute;left:0;top:0;width:1080px;height:1920px;overflow:hidden;background:#0d0f14}
+.pic{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.scanpic{position:absolute;max-width:none}
+.card{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#0d0f14;padding:0 10%}
+.cardtxt{font-size:86px;line-height:1.15;text-align:center;letter-spacing:.01em}
+.cardsub{margin-top:28px;font:600 34px/1.3 sans-serif;color:#b9c0cc;text-align:center;letter-spacing:.08em;text-transform:uppercase}
+.tag{position:absolute;left:40px;top:190px;font:700 28px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#e8e8e8}
+.src{position:absolute;right:48px;bottom:260px;font:500 24px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#d8d8d8;max-width:60%}
+.cap{position:absolute;left:5%;width:90%;top:1190px;text-align:center}
+.ovl{position:absolute;left:40px;top:280px;max-width:88%;background:rgba(10,12,18,.72);padding:22px 30px;border-left:6px solid #b5533c;border-radius:6px}
+.ovltxt{font-size:64px;line-height:1.1}
+.ovlsub{margin-top:10px;font:600 28px/1.3 sans-serif;color:#c9cfd8;letter-spacing:.06em;text-transform:uppercase}
+.cap span{display:inline-block;background:rgba(10,12,18,.78);padding:14px 26px;border-radius:20px;font:800 64px/1.15 sans-serif}
+</style></head><body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="45.330" data-width="1080" data-height="1920">
+<audio id="vo" src="assets/audio/voice.wav" data-start="0" data-duration="45.330" data-track-index="9"></audio>
+<div id="g0" class="scene clip" data-start="0.000" data-duration="1.441" data-track-index="1"><img class="pic" id="g0i" src="assets/shots/p031.jpg" style="transform-origin:45% 50%;object-position:45% 50%"></div>
+<div class="tag clip" id="g0tag" data-start="0.000" data-duration="1.391" data-track-index="6">Illustration</div>
+<div id="g1" class="scene clip" data-start="1.391" data-duration="2.473" data-track-index="2"><img class="pic" id="g1i" src="assets/shots/p031.jpg" style="transform-origin:45% 50%;object-position:45% 50%"></div>
+<div class="tag clip" id="g1tag" data-start="1.391" data-duration="2.423" data-track-index="6">Illustration</div>
+<div id="g2" class="scene clip" data-start="3.814" data-duration="3.280" data-track-index="1"><img class="pic" id="g2i" src="assets/shots/p029.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g2tag" data-start="3.814" data-duration="3.230" data-track-index="6">Illustration</div>
+<div id="g3" class="scene clip" data-start="7.044" data-duration="1.432" data-track-index="2"><img class="pic" id="g3i" src="assets/shots/p009.jpg" style="transform-origin:30% 50%;object-position:30% 50%"></div>
+<div class="tag clip" id="g3tag" data-start="7.044" data-duration="1.382" data-track-index="6">Illustration</div>
+<div id="g4" class="scene clip" data-start="8.426" data-duration="1.360" data-track-index="1"><img class="pic" id="g4i" src="assets/shots/p010.jpg" style="transform-origin:45% 40%;object-position:45% 40%"></div>
+<div class="tag clip" id="g4tag" data-start="8.426" data-duration="1.310" data-track-index="6">Illustration</div>
+<div id="g5" class="scene clip" data-start="9.736" data-duration="1.400" data-track-index="2"><img class="pic" id="g5i" src="assets/shots/p011.jpg" style="transform-origin:40% 50%;object-position:40% 50%"></div>
+<div class="tag clip" id="g5tag" data-start="9.736" data-duration="1.350" data-track-index="6">Illustration</div>
+<div id="g6" class="scene clip" data-start="11.086" data-duration="2.678" data-track-index="1"><img class="pic" id="g6i" src="assets/shots/p030.jpg" style="transform-origin:35% 45%;object-position:35% 45%"></div>
+<div class="tag clip" id="g6tag" data-start="11.086" data-duration="2.628" data-track-index="6">Illustration</div>
+<div id="g7" class="scene clip" data-start="13.714" data-duration="2.514" data-track-index="2"><img class="pic" id="g7i" src="assets/shots/p030.jpg" style="transform-origin:35% 45%;object-position:35% 45%"></div>
+<div class="tag clip" id="g7tag" data-start="13.714" data-duration="2.464" data-track-index="6">Illustration</div>
+<div id="g8" class="scene clip" data-start="16.178" data-duration="3.171" data-track-index="1"><img class="pic" id="g8i" src="assets/shots/p030.jpg" style="transform-origin:35% 45%;object-position:35% 45%"></div>
+<div class="tag clip" id="g8tag" data-start="16.178" data-duration="3.121" data-track-index="6">Illustration</div>
+<div id="g9" class="scene clip" data-start="19.299" data-duration="3.500" data-track-index="2"><img class="pic" id="g9i" src="assets/shots/p031b.jpg" style="transform-origin:40% 45%;object-position:40% 45%"></div>
+<div class="tag clip" id="g9tag" data-start="19.299" data-duration="3.450" data-track-index="6">Illustration</div>
+<div id="g10" class="scene clip" data-start="22.749" data-duration="2.951" data-track-index="1"><img class="pic" id="g10i" src="assets/shots/p031b.jpg" style="transform-origin:40% 45%;object-position:40% 45%"></div>
+<div class="tag clip" id="g10tag" data-start="22.749" data-duration="2.901" data-track-index="6">Illustration</div>
+<div id="g11" class="scene clip" data-start="25.650" data-duration="3.277" data-track-index="2"><img class="pic" id="g11i" src="assets/shots/p031b.jpg" style="transform-origin:40% 45%;object-position:40% 45%"></div>
+<div class="tag clip" id="g11tag" data-start="25.650" data-duration="3.227" data-track-index="6">Illustration</div>
+<div id="g12" class="scene clip" data-start="28.877" data-duration="2.505" data-track-index="1"><img class="pic" id="g12i" src="assets/shots/p052.jpg" style="transform-origin:30% 60%;object-position:30% 60%"></div>
+<div class="tag clip" id="g12tag" data-start="28.877" data-duration="2.455" data-track-index="6">Illustration</div>
+<div id="g13" class="scene clip" data-start="31.332" data-duration="3.257" data-track-index="2"><img class="pic" id="g13i" src="assets/shots/p033.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g13tag" data-start="31.332" data-duration="3.207" data-track-index="6">Illustration</div>
+<div id="g14" class="scene clip" data-start="34.539" data-duration="3.703" data-track-index="1"><img class="pic" id="g14i" src="assets/shots/p033.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g14tag" data-start="34.539" data-duration="3.653" data-track-index="6">Illustration</div>
+<div id="g15" class="scene clip" data-start="38.192" data-duration="3.952" data-track-index="2"><img class="pic" id="g15i" src="assets/shots/p033.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g15tag" data-start="38.192" data-duration="3.902" data-track-index="6">Illustration</div>
+<div id="g16" class="scene clip" data-start="42.094" data-duration="3.236" data-track-index="1"><img class="pic" id="g16i" src="assets/shots/p033.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g16tag" data-start="42.094" data-duration="3.236" data-track-index="6">Illustration</div>
+<div class="ovl clip" id="ovl0" data-start="35.397" data-duration="9.833" data-track-index="8"><div class="ovltxt">“The refuge of every would-be painter…”</div><div class="ovlsub">Charles Baudelaire, Salon of 1859</div></div>
+<div class="cap clip" id="cap0" data-start="0.123" data-duration="1.145" data-track-index="5"><span>For painters,</span></div>
+<div class="cap clip" id="cap1" data-start="1.471" data-duration="0.875" data-track-index="5"><span>the timing could</span></div>
+<div class="cap clip" id="cap2" data-start="2.366" data-duration="0.875" data-track-index="5"><span>hardly have been</span></div>
+<div class="cap clip" id="cap3" data-start="3.261" data-duration="0.441" data-track-index="5"><span>worse.</span></div>
+<div class="cap clip" id="cap4" data-start="4.076" data-duration="0.988" data-track-index="5"><span>Think about who</span></div>
+<div class="cap clip" id="cap5" data-start="5.084" data-duration="0.987" data-track-index="5"><span>earned a living</span></div>
+<div class="cap clip" id="cap6" data-start="6.091" data-duration="0.813" data-track-index="5"><span>from faces.</span></div>
+<div class="cap clip" id="cap7" data-start="7.334" data-duration="1.039" data-track-index="5"><span>Portrait painters.</span></div>
+<div class="cap clip" id="cap8" data-start="8.629" data-duration="1.098" data-track-index="5"><span>Miniature painters.</span></div>
+<div class="cap clip" id="cap9" data-start="9.896" data-duration="1.162" data-track-index="5"><span>Silhouette cutters.</span></div>
+<div class="cap clip" id="cap10" data-start="11.264" data-duration="0.888" data-track-index="5"><span>Now a machine</span></div>
+<div class="cap clip" id="cap11" data-start="12.172" data-duration="0.824" data-track-index="5"><span>could take a</span></div>
+<div class="cap clip" id="cap12" data-start="13.016" data-duration="1.405" data-track-index="5"><span>likeness in minutes,</span></div>
+<div class="cap clip" id="cap13" data-start="14.639" data-duration="0.669" data-track-index="5"><span>at a fraction</span></div>
+<div class="cap clip" id="cap14" data-start="15.328" data-duration="0.765" data-track-index="5"><span>of the price,</span></div>
+<div class="cap clip" id="cap15" data-start="16.258" data-duration="0.721" data-track-index="5"><span>and with a</span></div>
+<div class="cap clip" id="cap16" data-start="16.999" data-duration="1.193" data-track-index="5"><span>precision no hand</span></div>
+<div class="cap clip" id="cap17" data-start="18.212" data-duration="0.927" data-track-index="5"><span>could match.</span></div>
+<div class="cap clip" id="cap18" data-start="19.609" data-duration="1.045" data-track-index="5"><span>For portrait painters,</span></div>
+<div class="cap clip" id="cap19" data-start="20.932" data-duration="0.563" data-track-index="5"><span>this was a</span></div>
+<div class="cap clip" id="cap20" data-start="21.515" data-duration="0.899" data-track-index="5"><span>new competitor.</span></div>
+<div class="cap clip" id="cap21" data-start="22.829" data-duration="0.809" data-track-index="5"><span>People could have</span></div>
+<div class="cap clip" id="cap22" data-start="23.658" data-duration="0.809" data-track-index="5"><span>a photograph made</span></div>
+<div class="cap clip" id="cap23" data-start="24.487" data-duration="1.131" data-track-index="5"><span>instead of commissioning</span></div>
+<div class="cap clip" id="cap24" data-start="25.638" data-duration="0.623" data-track-index="5"><span>a painting.</span></div>
+<div class="cap clip" id="cap25" data-start="26.693" data-duration="1.031" data-track-index="5"><span>Some artists saw</span></div>
+<div class="cap clip" id="cap26" data-start="27.744" data-duration="1.019" data-track-index="5"><span>an opportunity.</span></div>
+<div class="cap clip" id="cap27" data-start="29.140" data-duration="0.812" data-track-index="5"><span>Others saw the</span></div>
+<div class="cap clip" id="cap28" data-start="29.972" data-duration="0.702" data-track-index="5"><span>end of their</span></div>
+<div class="cap clip" id="cap29" data-start="30.694" data-duration="0.456" data-track-index="5"><span>trade.</span></div>
+<div class="cap clip" id="cap30" data-start="31.665" data-duration="0.873" data-track-index="5"><span>The poet and</span></div>
+<div class="cap clip" id="cap31" data-start="32.558" data-duration="1.766" data-track-index="5"><span>critic Charles Baudelaire</span></div>
+<div class="cap clip" id="cap32" data-start="34.344" data-duration="0.930" data-track-index="5"><span>was furious.</span></div>
+<div class="cap clip" id="cap33" data-start="35.670" data-duration="0.847" data-track-index="5"><span>Photography,</span></div>
+<div class="cap clip" id="cap34" data-start="36.537" data-duration="0.631" data-track-index="5"><span>he wrote,</span></div>
+<div class="cap clip" id="cap35" data-start="37.188" data-duration="1.064" data-track-index="5"><span>was &quot;the refuge</span></div>
+<div class="cap clip" id="cap36" data-start="38.272" data-duration="1.208" data-track-index="5"><span>of every would-be</span></div>
+<div class="cap clip" id="cap37" data-start="39.500" data-duration="0.558" data-track-index="5"><span>painter,</span></div>
+<div class="cap clip" id="cap38" data-start="40.078" data-duration="1.281" data-track-index="5"><span>every painter too</span></div>
+<div class="cap clip" id="cap39" data-start="41.379" data-duration="1.281" data-track-index="5"><span>ill-endowed or too</span></div>
+<div class="cap clip" id="cap40" data-start="42.680" data-duration="1.209" data-track-index="5"><span>lazy to complete</span></div>
+<div class="cap clip" id="cap41" data-start="43.909" data-duration="0.971" data-track-index="5"><span>his studies.&quot;</span></div>
+</div>
+<script>
+const tl=gsap.timeline({paused:true});
+tl.fromTo("#g0i",{scale:1.02},{scale:1.22,duration:1.441,ease:"power1.in"},0);
+tl.fromTo("#g1i",{scale:1.32},{scale:1.38,duration:2.473,ease:"none"},1.391);
+tl.fromTo("#g2i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:3.28,ease:"none"},3.814);
+tl.fromTo("#g3i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:1.432,ease:"none"},7.044);
+tl.fromTo("#g4i",{scale:1.16},{scale:1.04,duration:1.36,ease:"none"},8.426);
+tl.fromTo("#g5i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:1.4,ease:"none"},9.736);
+tl.fromTo("#g6i",{scale:1.04},{scale:1.14,duration:2.678,ease:"none"},11.086);
+tl.fromTo("#g7i",{scale:1.32},{scale:1.38,duration:2.514,ease:"none"},13.714);
+tl.fromTo("#g8i",{scale:1.32},{scale:1.38,duration:3.171,ease:"none"},16.178);
+tl.fromTo("#g9i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:3.5,ease:"none"},19.299);
+tl.fromTo("#g10i",{scale:1.32},{scale:1.38,duration:2.951,ease:"none"},22.749);
+tl.fromTo("#g11i",{scale:1.32},{scale:1.38,duration:3.277,ease:"none"},25.65);
+tl.fromTo("#g12i",{scale:1.02},{scale:1.22,duration:2.505,ease:"power1.in"},28.877);
+tl.fromTo("#g13i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:3.257,ease:"none"},31.332);
+tl.fromTo("#g14i",{scale:1.32},{scale:1.38,duration:3.703,ease:"none"},34.539);
+tl.fromTo("#g15i",{scale:1.32},{scale:1.38,duration:3.952,ease:"none"},38.192);
+tl.fromTo("#g16i",{scale:1.32},{scale:1.38,duration:3.236,ease:"none"},42.094);
+tl.fromTo("#ovl0",{opacity:0,y:20},{opacity:1,y:0,duration:0.5,ease:"power2.out"},35.497);
+window.__timelines["main"]=tl;tl.seek(0);
+</script></body></html>

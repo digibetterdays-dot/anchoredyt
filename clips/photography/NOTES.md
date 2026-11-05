@@ -33,9 +33,8 @@ p021 (Niépce's Le Gras heliograph, 1827) and p025 (Daguerre's Boulevard du Temp
 - The king is not named in the script (owner decision, Nov 5): say "the king of Naples".
 - Never say: "the king banned photography", "because of the evil eye", "Delaroche said", "the first photograph ever", or the unsourced "stringent truth" quote.
 
-## Shorts planned (from the same VO; reframed Nov 5 so each title rests on documented fact)
-1. **"Painting Is Dead" was never said** (Ch. 6, ~45 s). Verified: first in print 30+ years later; Delaroche's 1839 report praised the process.
-2. **"The Oldest Surviving Photograph Is a Blur. Here's Why"** (Ch. 2, ~45 s, vidIQ 90). Replaces "8 hours or several days?". Substance: Niépce's plate, sunlight on both sides of the courtyard because the exposure ran so long, earliest surviving camera photograph (Ransom Center). The exposure estimate appears once, as "hours, possibly days", not as the hook.
-3. **"Why Painters and Their Sitters Feared the First Cameras"** (Ch. 4, ~45 s, vidIQ 89; owner's angle, Nov 5). Two fears: painters lost a living (portrait trade, Baudelaire 1859); sitters saw their real faces, which a painter would have softened. Visuals p029, p031, p031c, p031d, p030, c07 (Baudelaire card).
-   - Sources for the sitters' side (added Nov 5, search level): Getty "Focus: Daguerreotypes" gallery text (sitters frustrated with grey complexions); Carol Shloss, "The Inconstant Daguerreotype" (subjects' common disappointment with their images), via a UConn dissertation; 1839 New York Observer praising portraits made without the "flattering pencil"; long exposures, head rests, fixed stares. Say "disappointed / unsettled" in narration; "feared" is the title's word for both groups together.
-   - Alternative: "The First Cameras Scared Painters and Shocked Their Sitters" (vidIQ 87).
+## Shorts (built Nov 5; owner: split the fear into two, drop "never said" because it is unverified, not disproved)
+1. `clips/photo-short-painters`: **"The Invention That Made Painters Fear for Their Jobs"** (45 s, vidIQ 88). Ch. 4 painters' lines + Baudelaire 1859.
+2. `clips/photo-short-sitters`: **"Why People Were Shocked by Their First Photograph"** (32 s, vidIQ 95). Painted flattery vs the camera's detail. Sources for sitters' disappointment in the fact check.
+3. `clips/photo-short-blur`: **"The Oldest Surviving Photograph Is a Blur. Here's Why"** (42 s, vidIQ 90). The exposure-estimate sentences are cut; real Le Gras plate with credit.
+Each is cut from the long VO (two ranges joined with 0.3 s gap) by `make_short2.py` in the scratchpad; the ranges are in each project's `shots.json` history in git.

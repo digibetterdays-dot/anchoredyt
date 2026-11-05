@@ -1,0 +1,266 @@
+{
+ "title": "The Invention That Made Painters Fear for Their Jobs",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "music": null,
+ "label_default": "Illustration",
+ "captions": true,
+ "duration": 45.33,
+ "words": "words.json",
+ "segments": [
+  {
+   "id": "a01a",
+   "anchor": "",
+   "emphasis": true,
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "src": "assets/shots/p031.jpg",
+   "move": "push_fast",
+   "start": 0.0,
+   "end": 1.391,
+   "dur": 1.391,
+   "punch": 0
+  },
+  {
+   "id": "a01b",
+   "anchor": "",
+   "emphasis": true,
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "src": "assets/shots/p031.jpg",
+   "move": "hold_punch",
+   "start": 1.391,
+   "end": 3.814,
+   "dur": 2.423,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "a02",
+   "anchor": "Think about who earned",
+   "move": "pan_right",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/p029.jpg",
+   "start": 3.814,
+   "end": 7.044,
+   "dur": 3.23
+  },
+  {
+   "id": "a03",
+   "anchor": "Portrait painters.",
+   "focus": [
+    0.3,
+    0.5
+   ],
+   "src": "assets/shots/p009.jpg",
+   "move": "pan_right",
+   "start": 7.044,
+   "end": 8.426,
+   "dur": 1.382
+  },
+  {
+   "id": "a04",
+   "anchor": "Miniature painters.",
+   "focus": [
+    0.45,
+    0.4
+   ],
+   "src": "assets/shots/p010.jpg",
+   "move": "pull_out",
+   "start": 8.426,
+   "end": 9.736,
+   "dur": 1.31
+  },
+  {
+   "id": "a05",
+   "anchor": "Silhouette cutters.",
+   "focus": [
+    0.4,
+    0.5
+   ],
+   "src": "assets/shots/p011.jpg",
+   "move": "pan_left",
+   "start": 9.736,
+   "end": 11.086,
+   "dur": 1.35
+  },
+  {
+   "id": "a06a",
+   "anchor": "Now a machine could",
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "src": "assets/shots/p030.jpg",
+   "move": "push_in",
+   "start": 11.086,
+   "end": 13.714,
+   "dur": 2.628,
+   "punch": 0
+  },
+  {
+   "id": "a06b",
+   "anchor": "Now a machine could",
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "src": "assets/shots/p030.jpg",
+   "move": "hold_punch",
+   "start": 13.714,
+   "end": 16.178,
+   "dur": 2.464,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "a06c",
+   "anchor": "Now a machine could",
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "src": "assets/shots/p030.jpg",
+   "move": "hold_punch",
+   "start": 16.178,
+   "end": 19.299,
+   "dur": 3.121,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "a07a",
+   "anchor": "For portrait painters, this",
+   "focus": [
+    0.4,
+    0.45
+   ],
+   "src": "assets/shots/p031b.jpg",
+   "move": "tilt_down",
+   "start": 19.299,
+   "end": 22.749,
+   "dur": 3.45,
+   "punch": 0
+  },
+  {
+   "id": "a07b",
+   "anchor": "For portrait painters, this",
+   "focus": [
+    0.4,
+    0.45
+   ],
+   "src": "assets/shots/p031b.jpg",
+   "move": "hold_punch",
+   "start": 22.749,
+   "end": 25.65,
+   "dur": 2.901,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "a07c",
+   "anchor": "For portrait painters, this",
+   "focus": [
+    0.4,
+    0.45
+   ],
+   "src": "assets/shots/p031b.jpg",
+   "move": "hold_punch",
+   "start": 25.65,
+   "end": 28.877,
+   "dur": 3.227,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "a08",
+   "anchor": "Others saw the end",
+   "emphasis": true,
+   "focus": [
+    0.3,
+    0.6
+   ],
+   "src": "assets/shots/p052.jpg",
+   "move": "push_fast",
+   "start": 28.877,
+   "end": 31.332,
+   "dur": 2.455
+  },
+  {
+   "id": "a09a",
+   "anchor": "The poet and critic",
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "src": "assets/shots/p033.jpg",
+   "move": "pan_right",
+   "start": 31.332,
+   "end": 34.539,
+   "dur": 3.207,
+   "punch": 0
+  },
+  {
+   "id": "a09b",
+   "anchor": "The poet and critic",
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "src": "assets/shots/p033.jpg",
+   "move": "hold_punch",
+   "start": 34.539,
+   "end": 38.192,
+   "dur": 3.653,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "a09c",
+   "anchor": "The poet and critic",
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "src": "assets/shots/p033.jpg",
+   "move": "hold_punch",
+   "start": 38.192,
+   "end": 42.094,
+   "dur": 3.902,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "a09d",
+   "anchor": "The poet and critic",
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "src": "assets/shots/p033.jpg",
+   "move": "hold_punch",
+   "start": 42.094,
+   "end": 45.33,
+   "dur": 3.236,
+   "punch": 3,
+   "section_start": false
+  }
+ ],
+ "overlays": [
+  {
+   "id": "o01",
+   "text": "\u201cThe refuge of every would-be painter\u2026\u201d",
+   "sub": "Charles Baudelaire, Salon of 1859",
+   "start": 35.397,
+   "end": 45.23
+  }
+ ],
+ "problems": []
+}

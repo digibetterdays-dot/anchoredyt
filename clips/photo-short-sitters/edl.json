@@ -1,0 +1,167 @@
+{
+ "title": "Why People Were Shocked by Their First Photograph",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "music": null,
+ "label_default": "Illustration",
+ "captions": true,
+ "duration": 32.247,
+ "words": "words.json",
+ "segments": [
+  {
+   "id": "b01a",
+   "anchor": "",
+   "emphasis": true,
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "src": "assets/shots/p030.jpg",
+   "move": "push_fast",
+   "start": 0.0,
+   "end": 2.574,
+   "dur": 2.574,
+   "punch": 0
+  },
+  {
+   "id": "b01b",
+   "anchor": "",
+   "emphasis": true,
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "src": "assets/shots/p030.jpg",
+   "move": "hold_punch",
+   "start": 2.574,
+   "end": 5.038,
+   "dur": 2.464,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "b01c",
+   "anchor": "",
+   "emphasis": true,
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "src": "assets/shots/p030.jpg",
+   "move": "hold_punch",
+   "start": 5.038,
+   "end": 8.184,
+   "dur": 3.146,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "b02a",
+   "anchor": "And there was a",
+   "focus": [
+    0.6,
+    0.5
+   ],
+   "src": "assets/shots/p009.jpg",
+   "move": "pan_right",
+   "start": 8.184,
+   "end": 11.409,
+   "dur": 3.225,
+   "punch": 0
+  },
+  {
+   "id": "b02b",
+   "anchor": "And there was a",
+   "focus": [
+    0.6,
+    0.5
+   ],
+   "src": "assets/shots/p009.jpg",
+   "move": "hold_punch",
+   "start": 11.409,
+   "end": 14.79,
+   "dur": 3.381,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "b03",
+   "anchor": "A painter could soften",
+   "move": "scan",
+   "src": "assets/shots/p031c.jpg",
+   "start": 14.79,
+   "end": 23.813,
+   "dur": 9.023
+  },
+  {
+   "id": "b04a",
+   "anchor": "The camera had no",
+   "emphasis": true,
+   "focus": [
+    0.58,
+    0.4
+   ],
+   "src": "assets/shots/p031d.jpg",
+   "move": "push_fast",
+   "start": 23.813,
+   "end": 26.662,
+   "dur": 2.849,
+   "punch": 0
+  },
+  {
+   "id": "b04b",
+   "anchor": "The camera had no",
+   "emphasis": true,
+   "focus": [
+    0.58,
+    0.4
+   ],
+   "src": "assets/shots/p031d.jpg",
+   "move": "hold_punch",
+   "start": 26.662,
+   "end": 28.334,
+   "dur": 1.672,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "b05a",
+   "anchor": "including the details an",
+   "focus": [
+    0.55,
+    0.5
+   ],
+   "src": "assets/shots/p003.jpg",
+   "move": "pan_left",
+   "start": 28.334,
+   "end": 30.349,
+   "dur": 2.015,
+   "punch": 0
+  },
+  {
+   "id": "b05b",
+   "anchor": "including the details an",
+   "focus": [
+    0.55,
+    0.5
+   ],
+   "src": "assets/shots/p003.jpg",
+   "move": "hold_punch",
+   "start": 30.349,
+   "end": 32.247,
+   "dur": 1.898,
+   "punch": 1,
+   "section_start": false
+  }
+ ],
+ "overlays": [
+  {
+   "id": "o01",
+   "text": "Every detail",
+   "sub": "what a painter might have left out",
+   "start": 26.485,
+   "end": 32.147
+  }
+ ],
+ "problems": []
+}

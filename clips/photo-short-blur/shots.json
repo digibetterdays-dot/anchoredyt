@@ -1,0 +1,95 @@
+{
+ "title": "The Oldest Surviving Photograph Is a Blur. Here'\\''s Why",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "label": "Illustration",
+ "captions": true,
+ "shots": [
+  {
+   "id": "c01",
+   "anchor": "",
+   "emphasis": true,
+   "label": null,
+   "source": "Niépce, c. 1827 · Harry Ransom Center",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "src": "assets/shots/p021.jpg",
+   "move": "push_fast"
+  },
+  {
+   "id": "c02",
+   "anchor": "he coated a pewter",
+   "focus": [
+    0.3,
+    0.6
+   ],
+   "src": "assets/shots/p019.jpg",
+   "move": "pan_right"
+  },
+  {
+   "id": "c03",
+   "anchor": "He put it in",
+   "focus": [
+    0.35,
+    0.55
+   ],
+   "src": "assets/shots/p020.jpg",
+   "move": "pull_out"
+  },
+  {
+   "id": "c04",
+   "anchor": "What survived is a",
+   "label": null,
+   "move": "scan",
+   "no_split": false,
+   "source": "Niépce, View from the Window at Le Gras, c. 1827 · Harry Ransom Center",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "src": "assets/shots/p021.jpg"
+  },
+  {
+   "id": "o01",
+   "type": "card",
+   "overlay": true,
+   "anchor": "This is the first",
+   "text": "The first surviving photograph",
+   "sub": "Niépce · c. 1827"
+  },
+  {
+   "id": "c04b",
+   "src": "assets/shots/p018.jpg",
+   "anchor": "The museum that holds",
+   "move": "push_in",
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "id": "c04c",
+   "src": "assets/shots/p021.jpg",
+   "anchor": "and describes it carefully:",
+   "move": "push_in",
+   "label": null,
+   "source": "Niépce, c. 1827 · Harry Ransom Center",
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "id": "c05",
+   "anchor": "Niépce, not Daguerre, is",
+   "focus": [
+    0.6,
+    0.4
+   ],
+   "src": "assets/shots/p022.jpg",
+   "move": "pan_left"
+  }
+ ]
+}
