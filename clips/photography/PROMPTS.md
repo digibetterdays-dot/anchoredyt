@@ -152,13 +152,6 @@ Line: "He put it in..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A simple wooden box camera on a windowsill of an upstairs room, pointed out at rooftops and a courtyard, long shadows, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
-## p021 -> `assets/shots/p021.png`
-Line: "What survived is a..."
-
-```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A very blurry, grainy, low-contrast view of rooftops and a courtyard on a dull metal plate, like a faint heliograph. ARCHIVAL OPTION: you may use the real public-domain image instead (Wikimedia Commons). If you do, it is shown without the Illustration tag., layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
-```
-
 ## p022 -> `assets/shots/p022.png`
 Line: "Niépce, not Daguerre, is..."
 
@@ -418,4 +411,4 @@ Line: "If you enjoyed this,..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: The Paris rooftop view from the opening, now at golden sunset, a small camera on the windowsill, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
-_59 images._
+_58 images._
