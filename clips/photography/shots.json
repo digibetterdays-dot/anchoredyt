@@ -44,9 +44,13 @@
   },
   {
    "id": "p006",
-   "src": "assets/shots/p006.png",
+   "src": "assets/shots/p006.jpg",
    "anchor": "There's another story, about",
-   "prompt": "A 19th-century Italian king's throne room: an empty gilded throne, red velvet curtains, a tall window over the Bay of Naples with Vesuvius in the distance"
+   "prompt": "A 19th-century Italian king's throne room: an empty gilded throne, red velvet curtains, a tall window over the Bay of Naples with Vesuvius in the distance",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "p007",
@@ -121,10 +125,14 @@
   },
   {
    "id": "p015",
-   "src": "assets/shots/p015.png",
+   "src": "assets/shots/p015.jpg",
    "anchor": "The question was simple.",
    "prompt": "A single beam of sunlight falling through a dark room onto a blank sheet of paper on a table",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.65
+   ]
   },
   {
    "id": "c02",
@@ -146,9 +154,13 @@
   },
   {
    "id": "p017",
-   "src": "assets/shots/p017.png",
+   "src": "assets/shots/p017.jpg",
    "anchor": "Brought out into daylight,",
-   "prompt": "A sequence feeling: a faint image on paper fading into an even dark brown, three sheets side by side from clear to completely dark, no text"
+   "prompt": "A sequence feeling: a faint image on paper fading into an even dark brown, three sheets side by side from clear to completely dark, no text",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "p018",
@@ -244,9 +256,13 @@
   },
   {
    "id": "p026",
-   "src": "assets/shots/p026.png",
+   "src": "assets/shots/p026.jpg",
    "anchor": "On the 7th of",
-   "prompt": "The grand meeting hall of the French Academy of Sciences: rows of gentlemen in dark coats seated, a speaker standing at a lectern with a small framed plate"
+   "prompt": "The grand meeting hall of the French Academy of Sciences: rows of gentlemen in dark coats seated, a speaker standing at a lectern with a small framed plate",
+   "focus": [
+    0.68,
+    0.4
+   ]
   },
   {
    "id": "c04",
@@ -381,9 +397,13 @@
   },
   {
    "id": "p035",
-   "src": "assets/shots/p035.png",
+   "src": "assets/shots/p035.jpg",
    "anchor": "A published history of",
-   "prompt": "A crowned 19th-century king seen from behind on a palace balcony over the Bay of Naples, Vesuvius in the distance (illustrative, not a likeness)"
+   "prompt": "A crowned 19th-century king seen from behind on a palace balcony over the Bay of Naples, Vesuvius in the distance (illustrative, not a likeness)",
+   "focus": [
+    0.72,
+    0.45
+   ]
   },
   {
    "id": "o02",
