@@ -260,9 +260,13 @@
   },
   {
    "id": "s019",
-   "src": "assets/shots/s019.png",
+   "src": "assets/shots/s019.jpg",
    "anchor": "Japanese records called it",
    "prompt": "A closed paper scroll tied with cord beside an ink stone and brush on a low wooden desk, warm lamp light, no visible writing",
+   "focus": [
+    0.45,
+    0.5
+   ],
    "start": 82.422,
    "end": 87.537,
    "dur": 5.115,
@@ -919,9 +923,13 @@
   },
   {
    "id": "s062",
-   "src": "assets/shots/s062.png",
+   "src": "assets/shots/s062.jpg",
    "anchor": "Now let's say you",
    "prompt": "People standing on a forested hilltop at dusk, looking down at flooded lowland, calm and quiet",
+   "focus": [
+    0.72,
+    0.5
+   ],
    "start": 339.87,
    "end": 345.309,
    "dur": 5.439,
