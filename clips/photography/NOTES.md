@@ -4,7 +4,7 @@ Built with the `documentary-edit` skill. Fact check: `../../photography-factchec
 
 ## Status
 - [x] Fact check (Nov 5): web-search level; primary pages blocked in the cloud session. Starred items there to re-check.
-- [x] Script: `VO-SCRIPT.md` (with chapters and pronunciations) / `VO-SCRIPT.txt` (plain, for TTS). 1,331 words, about 9 min (revised Nov 5 with owner wording for claims 1-4).
+- [x] Script: `VO-SCRIPT.md` (with chapters and pronunciations) / `VO-SCRIPT.txt` (plain, for TTS). 1,336 words, about 9 min (revised Nov 5 with owner wording for claims 1-4).
 - [x] Shot list: `shots.json`, 78 shots (59 images, 11 full cards, 8 overlays); anchors tested against estimated timing (avg 4.9 s per shot).
 - [x] Prompts: `PROMPTS.md`, 58 single-scene prompts (p021 is the real image)
 - [ ] Owner: record VO as one file -> `assets/audio/voice.wav`, word for word
