@@ -103,6 +103,7 @@ def cmd_prompts(a):
     aspect = "16:9 landscape" if fmt == "long" else "9:16 portrait"
     style = spec.get("style", "")
     out = [f"# Image prompts: {spec.get('title', a.shots)}", "",
+           "Paste **one prompt per generation**: no batching, grids or variation modes (they merge scenes into panels).", "",
            f"Aspect: **{aspect}**. Style line (append to every prompt): {style or '(none set)'}",
            "No text, letters, logos or watermarks in any image. Leave headroom around the subject: the edit zooms and pans.", ""]
     n = 0
@@ -113,7 +114,11 @@ def cmd_prompts(a):
         out.append(f"## {s['id']} -> `{s.get('src', '')}`" + (f" ({s['aspect']})" if s.get("aspect") else ""))
         out.append(f"Line: \"{s.get('anchor') or '(opening)'}...\"")
         out.append("")
-        out.append(f"Prompt: {s.get('prompt', '(write prompt)')}" + (f", {style}" if style else ""))
+        shape = s.get("aspect") or ("16:9 landscape" if fmt == "long" else "9:16 portrait")
+        out.append("```")
+        out.append(f"Single scene, one subject only, one {shape} image, not a collage, not panels: "
+                   f"{s.get('prompt', '(write prompt)')}" + (f", {style}" if style else ""))
+        out.append("```")
         if s.get("video_prompt"):
             out.append(f"Optional image-to-video: {s['video_prompt']}")
         out.append("")

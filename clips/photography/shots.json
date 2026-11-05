@@ -1,0 +1,484 @@
+{
+ "title": "When Photography Terrified the World",
+ "format": "long",
+ "voice": "assets/audio/voice.wav",
+ "style": "layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark",
+ "label": "Illustration",
+ "shots": [
+  {
+   "id": "p001",
+   "src": "assets/shots/p001.png",
+   "anchor": "",
+   "prompt": "A Paris street in 1839 seen from a high window: grey rooftops, chimneys, a pale morning sky, horse carriages far below",
+   "move": "push_in"
+  },
+  {
+   "id": "p002",
+   "src": "assets/shots/p002.png",
+   "anchor": "at a small silver",
+   "prompt": "A 19th-century painter in a dark frock coat, seen from behind and slightly to the side, holding a small mirror-like silver plate up to the window light, his studio easel blurred behind him; no face detail needed",
+   "focus": [
+    0.55,
+    0.5
+   ]
+  },
+  {
+   "id": "p003",
+   "src": "assets/shots/p003.png",
+   "anchor": "On it is a",
+   "prompt": "Extreme close-up of a small silver daguerreotype plate in a brass frame on dark velvet, the plate showing a tiny, impossibly sharp street scene",
+   "emphasis": true
+  },
+  {
+   "id": "p004",
+   "src": "assets/shots/p004.png",
+   "anchor": "And he says: from",
+   "prompt": "A painter's palette and brushes dropped onto a wooden studio floor, a half-finished canvas on an easel above, dramatic side light",
+   "emphasis": true
+  },
+  {
+   "id": "p005",
+   "src": "assets/shots/p005.png",
+   "anchor": "At least, that's the",
+   "prompt": "A stack of old leather-bound history books on a library table, one lying open, a magnifying glass beside them, no readable text"
+  },
+  {
+   "id": "p006",
+   "src": "assets/shots/p006.png",
+   "anchor": "There's another one, about",
+   "prompt": "A 19th-century Italian king's throne room: an empty gilded throne, red velvet curtains, a tall window over the Bay of Naples with Vesuvius in the distance"
+  },
+  {
+   "id": "p007",
+   "src": "assets/shots/p007.png",
+   "anchor": "Both stories are told",
+   "prompt": "An archive room: tall shelves of document boxes and bound ledgers, a reading lamp on a table, one ledger open with blank pages"
+  },
+  {
+   "id": "p008",
+   "src": "assets/shots/p008.png",
+   "anchor": "And the truth about",
+   "prompt": "An antique wooden box camera with a brass lens on a tripod, pointed at the viewer, warm window light"
+  },
+  {
+   "id": "c01",
+   "type": "card",
+   "anchor": "Before photography, a face",
+   "text": "Chapter 1",
+   "sub": "Before the camera",
+   "section_start": true
+  },
+  {
+   "id": "p009",
+   "src": "assets/shots/p009.png",
+   "anchor": "If you were rich,",
+   "prompt": "A wealthy family posing in a grand drawing room while a portrait painter works at a large canvas, late 18th century"
+  },
+  {
+   "id": "p010",
+   "src": "assets/shots/p010.png",
+   "anchor": "If you were comfortable,",
+   "prompt": "A tiny oval painted portrait miniature of a woman inside an open gold locket, held in a hand, close-up"
+  },
+  {
+   "id": "p011",
+   "src": "assets/shots/p011.png",
+   "anchor": "Everyone else had a",
+   "prompt": "A silhouette artist at a market stall cutting a black paper profile of a seated customer with small scissors, a row of finished silhouettes pinned behind"
+  },
+  {
+   "id": "p012",
+   "src": "assets/shots/p012.png",
+   "anchor": "There were machines to",
+   "prompt": "An 18th-century profile-tracing machine: a tall wooden frame with a pointer arm tracing the outline of a seated person's profile onto paper"
+  },
+  {
+   "id": "p013",
+   "src": "assets/shots/p013.png",
+   "anchor": "And artists had used",
+   "prompt": "Cross-section of a camera obscura box: light from a sunny landscape passing through a lens and forming an upside-down image on the back wall inside the box, simple and clear",
+   "label": null
+  },
+  {
+   "id": "p014",
+   "src": "assets/shots/p014.png",
+   "anchor": "But that image vanished",
+   "prompt": "An artist inside a darkened tent-style camera obscura tracing a glowing projected landscape onto paper with a pencil"
+  },
+  {
+   "id": "p015",
+   "src": "assets/shots/p015.png",
+   "anchor": "The question was simple.",
+   "prompt": "A single beam of sunlight falling through a dark room onto a blank sheet of paper on a table",
+   "emphasis": true
+  },
+  {
+   "id": "c02",
+   "type": "card",
+   "anchor": "Around 1800, an Englishman",
+   "text": "Chapter 2",
+   "sub": "The first photograph",
+   "section_start": true
+  },
+  {
+   "id": "p016",
+   "src": "assets/shots/p016.png",
+   "anchor": "He made images with",
+   "prompt": "A leaf laid on a sheet of treated paper in sunlight, its pale silhouette appearing on darkening paper, a gentleman's hand lifting the leaf, about 1800"
+  },
+  {
+   "id": "p017",
+   "src": "assets/shots/p017.png",
+   "anchor": "Brought out into daylight,",
+   "prompt": "A sequence feeling: a faint image on paper fading into an even dark brown, three sheets side by side from clear to completely dark, no text"
+  },
+  {
+   "id": "p018",
+   "src": "assets/shots/p018.png",
+   "anchor": "The man who finally",
+   "prompt": "A French country manor house in Burgundy, stone walls, a courtyard and outbuildings, calm 1820s afternoon"
+  },
+  {
+   "id": "p019",
+   "src": "assets/shots/p019.png",
+   "anchor": "In the 1820s, at",
+   "prompt": "An inventor's workbench: a pewter plate, a jar of dark asphalt-like varnish, brushes, glass bottles, notes with no readable writing"
+  },
+  {
+   "id": "p020",
+   "src": "assets/shots/p020.png",
+   "anchor": "He put it in",
+   "prompt": "A simple wooden box camera on a windowsill of an upstairs room, pointed out at rooftops and a courtyard, long shadows"
+  },
+  {
+   "id": "p021",
+   "src": "assets/shots/p021.png",
+   "anchor": "What survived is a",
+   "prompt": "A very blurry, grainy, low-contrast view of rooftops and a courtyard on a dull metal plate, like a faint heliograph. ARCHIVAL OPTION: you may use the real public-domain image instead (Wikimedia Commons). If you do, it is shown without the Illustration tag.",
+   "archival": "View from the Window at Le Gras, Niépce, 1827 (Harry Ransom Center), public domain"
+  },
+  {
+   "id": "o01",
+   "type": "card",
+   "anchor": "The museum that holds",
+   "text": "Earliest surviving camera photograph",
+   "sub": "Niépce · c. 1827 · Harry Ransom Center",
+   "overlay": true
+  },
+  {
+   "id": "p022",
+   "src": "assets/shots/p022.png",
+   "anchor": "Niépce, not Daguerre, is",
+   "prompt": "A portrait-style illustration of an elderly French gentleman of the 1820s in a high-collared coat, three-quarter view, thoughtful expression (illustrative, not a likeness)"
+  },
+  {
+   "id": "c03",
+   "type": "card",
+   "anchor": "Niépce found a partner:",
+   "text": "Chapter 3",
+   "sub": "Daguerre and 1839",
+   "section_start": true
+  },
+  {
+   "id": "p023",
+   "src": "assets/shots/p023.png",
+   "anchor": "a showman famous in",
+   "prompt": "A 19th-century Paris diorama theatre: a dark auditorium, an enormous glowing painted landscape on stage lit from behind, a small audience in silhouette"
+  },
+  {
+   "id": "p024",
+   "src": "assets/shots/p024.png",
+   "anchor": "His method was different.",
+   "prompt": "A silver-coated copper plate being held over a small wooden box with a faint vapour rising, a gloved hand, a candle-lit darkroom"
+  },
+  {
+   "id": "p025",
+   "src": "assets/shots/p025.png",
+   "anchor": "The result was a",
+   "prompt": "A daguerreotype in an open leather case, its mirror-like surface reflecting the viewer, an extraordinarily detailed street scene visible at an angle. ARCHIVAL OPTION: you may use the real public-domain image instead (Wikimedia Commons). If you do, it is shown without the Illustration tag.",
+   "archival": "Boulevard du Temple, Daguerre, 1838, public domain"
+  },
+  {
+   "id": "p026",
+   "src": "assets/shots/p026.png",
+   "anchor": "On the 7th of",
+   "prompt": "The grand meeting hall of the French Academy of Sciences: rows of gentlemen in dark coats seated, a speaker standing at a lectern with a small framed plate"
+  },
+  {
+   "id": "c04",
+   "type": "card",
+   "anchor": "but kept the method",
+   "text": "7 January 1839",
+   "sub": "announced in Paris, method kept secret"
+  },
+  {
+   "id": "p027",
+   "src": "assets/shots/p027.png",
+   "anchor": "Then France did something",
+   "prompt": "A government chamber with a king's portrait on the wall, documents with red wax seals on a table, a quill pen"
+  },
+  {
+   "id": "c05",
+   "type": "card",
+   "anchor": "And on the 19th",
+   "text": "19 August 1839",
+   "sub": "the method published: France's gift to the world"
+  },
+  {
+   "id": "p028",
+   "src": "assets/shots/p028.png",
+   "anchor": "Within months, people across",
+   "prompt": "A busy 1840 street with several gentlemen setting up wooden box cameras on tripods, curious onlookers gathering"
+  },
+  {
+   "id": "c06",
+   "type": "card",
+   "anchor": "For painters, the timing",
+   "text": "Chapter 4",
+   "sub": "The fear",
+   "section_start": true
+  },
+  {
+   "id": "p029",
+   "src": "assets/shots/p029.png",
+   "anchor": "Think about who earned",
+   "prompt": "A row of three small artists' shops on a Paris street: a portrait painter's studio, a miniature painter's window, a silhouette cutter's sign with a black profile, no readable text"
+  },
+  {
+   "id": "p030",
+   "src": "assets/shots/p030.png",
+   "anchor": "Now a machine could",
+   "prompt": "A photographer's studio of the 1840s: a sitter clamped in a posing stand with a head brace, the photographer beside a box camera, a skylight above"
+  },
+  {
+   "id": "p031",
+   "src": "assets/shots/p031.png",
+   "anchor": "Some artists saw an",
+   "prompt": "A lonely portrait painter in an empty studio, canvases turned to the wall, looking out the window at a photographer's sign across the street"
+  },
+  {
+   "id": "p032",
+   "src": "assets/shots/p032.png",
+   "anchor": "In 1859, photographs were",
+   "prompt": "A grand 19th-century Paris exhibition hall with paintings hung floor to ceiling, and in one corner a small separate wall of framed photographs, visitors in top hats"
+  },
+  {
+   "id": "c07",
+   "type": "card",
+   "anchor": "Photography, he wrote, was",
+   "text": "“The refuge of every would-be painter…”",
+   "sub": "Charles Baudelaire, Salon of 1859"
+  },
+  {
+   "id": "p033",
+   "src": "assets/shots/p033.png",
+   "anchor": "If photography was allowed",
+   "prompt": "A stern 19th-century critic writing furiously at a desk by candlelight, papers scattered, a quill in hand (illustrative, not a likeness)"
+  },
+  {
+   "id": "p034",
+   "src": "assets/shots/p034.png",
+   "anchor": "Baudelaire, by the way,",
+   "prompt": "A photographer's studio: a man in a dark coat seated, glaring at a large wooden camera on a tripod, the photographer under a black cloth (illustrative, not a likeness)",
+   "emphasis": true
+  },
+  {
+   "id": "c08",
+   "type": "card",
+   "anchor": "Now to that king.",
+   "text": "Chapter 5",
+   "sub": "The king of Naples",
+   "section_start": true
+  },
+  {
+   "id": "p035",
+   "src": "assets/shots/p035.png",
+   "anchor": "You'll find the story",
+   "prompt": "A crowned 19th-century king seen from behind on a palace balcony, looking down at a tiny photographer with a camera on the street below, ominous shadow"
+  },
+  {
+   "id": "p036",
+   "src": "assets/shots/p036.png",
+   "anchor": "The king was Ferdinand",
+   "prompt": "A red coral horn charm and a hand making a protective gesture against the evil eye, Neapolitan folk amulets on a wooden table"
+  },
+  {
+   "id": "p037",
+   "src": "assets/shots/p037.png",
+   "anchor": "But here is what",
+   "prompt": "Ancient Roman frescoes on a ruined wall in Pompeii, with an 1840s camera on a tripod set up before them"
+  },
+  {
+   "id": "c09",
+   "type": "card",
+   "anchor": "Nine years earlier, the",
+   "text": "1847",
+   "sub": "the king grants photographers permission across his kingdom"
+  },
+  {
+   "id": "p038",
+   "src": "assets/shots/p038.png",
+   "anchor": "And the one report",
+   "prompt": "An 1850s photograph sales catalogue lying open on a desk, columns of tiny listings that are not readable, a stereoscope viewer beside it"
+  },
+  {
+   "id": "o02",
+   "type": "card",
+   "anchor": "that the king had",
+   "text": "Photographs of Pompeii prohibited",
+   "sub": "London Stereoscopic Company catalogue, 1856 · no reason given",
+   "overlay": true
+  },
+  {
+   "id": "p039",
+   "src": "assets/shots/p039.png",
+   "anchor": "Not photography. Not his",
+   "prompt": "The ruins of Pompeii under a hazy sky, columns and streets, Vesuvius behind, a closed wooden gate in the foreground",
+   "emphasis": true
+  },
+  {
+   "id": "p040",
+   "src": "assets/shots/p040.png",
+   "anchor": "So, was it the",
+   "prompt": "A cracked mirror reflecting a blurred figure, a coral horn charm hanging beside it"
+  },
+  {
+   "id": "c10",
+   "type": "card",
+   "anchor": "Which brings us back",
+   "text": "Chapter 6",
+   "sub": "The famous words",
+   "section_start": true
+  },
+  {
+   "id": "p041",
+   "src": "assets/shots/p041.png",
+   "anchor": "\"From today, painting is",
+   "prompt": "A large painted banner hanging over a modern museum exhibition entrance, its lettering left blank, visitors walking in"
+  },
+  {
+   "id": "p042",
+   "src": "assets/shots/p042.png",
+   "anchor": "But researchers who have",
+   "prompt": "A researcher's desk with old printed books and journals stacked high, one opened to a page, a lamp and a notepad, no readable text"
+  },
+  {
+   "id": "o03",
+   "type": "card",
+   "anchor": "find it first appearing",
+   "text": "First in print 30+ years later",
+   "sub": "the line attributed to Delaroche",
+   "overlay": true
+  },
+  {
+   "id": "p043",
+   "src": "assets/shots/p043.png",
+   "anchor": "What Delaroche actually wrote",
+   "prompt": "A 19th-century academic hall, a speaker reading a handwritten report aloud from a lectern, an audience listening"
+  },
+  {
+   "id": "o04",
+   "type": "card",
+   "anchor": "One historian quotes him",
+   "text": "“An immense service to the arts”",
+   "sub": "Delaroche on the daguerreotype, 1839",
+   "overlay": true
+  },
+  {
+   "id": "p044",
+   "src": "assets/shots/p044.png",
+   "anchor": "And he didn't stop",
+   "prompt": "A painter's studio with a huge unfinished historical painting on an easel, brushes in jars, rich light (illustrative)"
+  },
+  {
+   "id": "p045",
+   "src": "assets/shots/p045.png",
+   "anchor": "The man credited with",
+   "prompt": "A painter in a frock coat holding a daguerreotype plate up admiringly to the light beside his easel, a small smile (illustrative, not a likeness)",
+   "emphasis": true
+  },
+  {
+   "id": "c11",
+   "type": "card",
+   "anchor": "So did photography kill",
+   "text": "Chapter 7",
+   "sub": "What happened instead",
+   "section_start": true
+  },
+  {
+   "id": "p046",
+   "src": "assets/shots/p046.png",
+   "anchor": "The great Romantic painter",
+   "prompt": "A painter sketching at a desk from a small photograph of a model pinned beside his drawing paper, an artist's studio of the 1850s"
+  },
+  {
+   "id": "c12",
+   "type": "card",
+   "anchor": "became a founding member",
+   "text": "1851",
+   "sub": "Delacroix co-founds the first society devoted to photography"
+  },
+  {
+   "id": "p047",
+   "src": "assets/shots/p047.png",
+   "anchor": "And painting began to",
+   "prompt": "An easel by a sunny riverbank with a loose, bright impressionistic painting of water and light in progress, dappled sunlight"
+  },
+  {
+   "id": "p048",
+   "src": "assets/shots/p048.png",
+   "anchor": "In the spring of",
+   "prompt": "Young painters carrying framed canvases along a Paris boulevard in spring, chestnut trees in bloom"
+  },
+  {
+   "id": "p049",
+   "src": "assets/shots/p049.png",
+   "anchor": "A critic mocked them",
+   "prompt": "A 19th-century newspaper critic laughing at an impressionistic painting of a sunrise over a harbour in a gallery, other visitors puzzled"
+  },
+  {
+   "id": "p050",
+   "src": "assets/shots/p050.png",
+   "anchor": "Where did they hang",
+   "prompt": "A Paris boulevard building with a large studio upstairs, its wide windows glowing, a red sign shape with no letters, crowds below, 1874",
+   "emphasis": true
+  },
+  {
+   "id": "o05",
+   "type": "card",
+   "anchor": "In the studio of",
+   "text": "Nadar's studio, 1874",
+   "sub": "35 boulevard des Capucines · the first Impressionist exhibition",
+   "overlay": true
+  },
+  {
+   "id": "p051",
+   "src": "assets/shots/p051.png",
+   "anchor": "The camera didn't end",
+   "prompt": "A painter and a photographer working side by side in a sunlit studio, an easel and a box camera both aimed at the same vase of flowers",
+   "section_start": true,
+   "move": "pull_out"
+  },
+  {
+   "id": "p052",
+   "src": "assets/shots/p052.png",
+   "anchor": "The fears were real.",
+   "prompt": "A dim workshop of the 1840s with an abandoned miniature painter's table, tiny brushes and an unfinished locket portrait"
+  },
+  {
+   "id": "p053",
+   "src": "assets/shots/p053.png",
+   "anchor": "Every new way of",
+   "prompt": "A timeline of image-making objects on a long shelf: a paintbrush, a camera obscura, a daguerreotype case, a box camera, a modern smartphone, left to right",
+   "aspect": "3:1 panorama, 3240x1080",
+   "label": null
+  },
+  {
+   "id": "p054",
+   "src": "assets/shots/p054.png",
+   "anchor": "If you enjoyed this,",
+   "prompt": "The Paris rooftop view from the opening, now at golden sunset, a small camera on the windowsill",
+   "move": "pull_out"
+  }
+ ]
+}
