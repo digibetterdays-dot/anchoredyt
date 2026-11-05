@@ -838,10 +838,14 @@
   },
   {
    "id": "s089",
-   "src": "assets/shots/s089.png",
+   "src": "assets/shots/s089.jpg",
    "anchor": "Find your route today.",
    "prompt": "A hiker on a ridge above the coast at sunrise, a trail marker post beside them",
-   "move": "pull_out"
+   "move": "pull_out",
+   "focus": [
+    0.62,
+    0.5
+   ]
   }
  ]
 }
