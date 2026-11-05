@@ -215,9 +215,13 @@
   },
   {
    "id": "p022",
-   "src": "assets/shots/p022.png",
+   "src": "assets/shots/p022.jpg",
    "anchor": "Niépce, not Daguerre, is",
-   "prompt": "A portrait-style illustration of an elderly French gentleman of the 1820s in a high-collared coat, three-quarter view, thoughtful expression (illustrative, not a likeness)"
+   "prompt": "A portrait-style illustration of an elderly French gentleman of the 1820s in a high-collared coat, three-quarter view, thoughtful expression (illustrative, not a likeness)",
+   "focus": [
+    0.6,
+    0.4
+   ]
   },
   {
    "id": "c03",
