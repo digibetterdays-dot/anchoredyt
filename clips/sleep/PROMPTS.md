@@ -257,6 +257,34 @@ Line: "The release of growth..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A small child asleep in bed, a growth chart on the wall beside the bed (no numbers), a nightlight glowing, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## z036a -> `assets/shots/z036a.png`
+Line: "All this relaxing has..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A person asleep on their back in bed with mouth slightly open, small paper-cut sound waves rising from them, a partner beside them pulling a pillow over their head, gently comic, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## z036b -> `assets/shots/z036b.png`
+Line: "As you sink deeper..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Simplified side-view cross-section of a sleeping head showing the airway, soft palate and tongue, with air flowing past and a small vibration marked by wavy lines, no labels, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## z036c -> `assets/shots/z036c.png`
+Line: "Sleeping on your back,..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A sleeper on their back next to an empty wine glass on the nightstand, the snore waves bigger, moonlight, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## z036d -> `assets/shots/z036d.png`
+Line: "But loud snoring with..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A doctor's consultation room: a doctor and a patient talking calmly across a desk, a model of a head on a shelf, warm light, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## z037 -> `assets/shots/z037.png`
 Line: "But the night is..."
 
@@ -388,6 +416,27 @@ Line: "Your brain needs sleep..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: The same student asleep peacefully in bed, the books stacked neatly on the desk, morning light arriving, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## z055a -> `assets/shots/z055a.png`
+Line: "And sleep doesn't only..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A person in bed at night with a small dark paper-cut storm cloud hovering over their head, gently held back by a glowing hand, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## z055b -> `assets/shots/z055b.png`
+Line: "In one study, people..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A tired person at a table in the early morning trying to look away from dark floating paper-cut images that keep drifting back into view, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## z055c -> `assets/shots/z055c.png`
+Line: "And even when they..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: The same dark cloud slipping back through a door the person has just closed, symbolic, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## z056 -> `assets/shots/z056.png`
@@ -607,4 +656,4 @@ Line: "But inside your head,..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A dark house at night with a single window glowing warm from within, stars overhead, layered paper-cut illustration, soft paper grain, deep midnight navy and cream palette with one warm amber accent, soft moonlight and lamplight, calm dreamy mood, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
-_86 images._
+_93 images._

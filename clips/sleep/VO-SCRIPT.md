@@ -78,6 +78,10 @@ Stage three: deep sleep. This is the deepest stage of non-REM sleep, also called
 
 The release of growth hormone is closely tied to this stage, which matters especially in childhood and adolescence, when the body is growing fast.
 
+All this relaxing has a side effect you may have heard from across the room. As you sink deeper into sleep, the muscles of your throat, tongue and soft palate relax. Air rushing past that loose tissue makes it vibrate, and that's a snore. Sleeping on your back, or after alcohol, can make the airway narrower and the snore louder.
+
+But loud snoring with pauses in breathing can be a sign of sleep apnea, and that's worth checking with a doctor.
+
 But the night is not over yet. Something very unusual is about to happen.
 
 ## Chapter 4: Your brain wakes up, your body doesn't
@@ -115,6 +119,10 @@ And this isn't just casual observation. A 2024 systematic review and meta-analys
 So staying up all night to study may work against the very thing you're trying to do.
 
 Your brain needs sleep not just to rest, but to process what you've learned.
+
+And sleep doesn't only help you hold on to memories. It may also help you keep unwanted ones at bay.
+
+In one study, people who stayed awake all night found it much harder to push unpleasant images out of their minds than people who had slept. And even when they managed it, the thoughts were more likely to come back.
 
 ## Chapter 6: How much sleep do you really need?
 

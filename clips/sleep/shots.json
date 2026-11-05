@@ -299,6 +299,32 @@
    "prompt": "A small child asleep in bed, a growth chart on the wall beside the bed (no numbers), a nightlight glowing"
   },
   {
+   "id": "z036a",
+   "src": "assets/shots/z036a.png",
+   "anchor": "All this relaxing has",
+   "prompt": "A person asleep on their back in bed with mouth slightly open, small paper-cut sound waves rising from them, a partner beside them pulling a pillow over their head, gently comic"
+  },
+  {
+   "id": "z036b",
+   "src": "assets/shots/z036b.png",
+   "anchor": "As you sink deeper",
+   "prompt": "Simplified side-view cross-section of a sleeping head showing the airway, soft palate and tongue, with air flowing past and a small vibration marked by wavy lines, no labels",
+   "emphasis": true,
+   "label": null
+  },
+  {
+   "id": "z036c",
+   "src": "assets/shots/z036c.png",
+   "anchor": "Sleeping on your back,",
+   "prompt": "A sleeper on their back next to an empty wine glass on the nightstand, the snore waves bigger, moonlight"
+  },
+  {
+   "id": "z036d",
+   "src": "assets/shots/z036d.png",
+   "anchor": "But loud snoring with",
+   "prompt": "A doctor's consultation room: a doctor and a patient talking calmly across a desk, a model of a head on a shelf, warm light"
+  },
+  {
    "id": "z037",
    "src": "assets/shots/z037.png",
    "anchor": "But the night is",
@@ -452,6 +478,25 @@
    "src": "assets/shots/z055.png",
    "anchor": "Your brain needs sleep",
    "prompt": "The same student asleep peacefully in bed, the books stacked neatly on the desk, morning light arriving"
+  },
+  {
+   "id": "z055a",
+   "src": "assets/shots/z055a.png",
+   "anchor": "And sleep doesn't only",
+   "prompt": "A person in bed at night with a small dark paper-cut storm cloud hovering over their head, gently held back by a glowing hand"
+  },
+  {
+   "id": "z055b",
+   "src": "assets/shots/z055b.png",
+   "anchor": "In one study, people",
+   "prompt": "A tired person at a table in the early morning trying to look away from dark floating paper-cut images that keep drifting back into view",
+   "emphasis": true
+  },
+  {
+   "id": "z055c",
+   "src": "assets/shots/z055c.png",
+   "anchor": "And even when they",
+   "prompt": "The same dark cloud slipping back through a door the person has just closed, symbolic"
   },
   {
    "id": "c06",

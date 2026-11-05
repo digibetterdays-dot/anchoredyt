@@ -17,10 +17,18 @@ Checked Nov 5 2026 by web search (PubMed itself is blocked in the cloud session;
 | Hypnic jerks, sleep spindles and memory, slow-wave sleep and growth hormone, REM atonia via brainstem, dreams in NREM | Textbook-level; framed with "linked to", "closely tied", "tend to". Not individually re-checked. | |
 | Glymphatic system | Script already hedged ("proposed", "animal research", "oversimplification"). Keep as written. | |
 
+## Added Nov 5 (owner request)
+| Claim | Status | Source |
+|---|---|---|
+| Snoring: throat, tongue and soft-palate muscles relax going into deeper sleep; air past loose tissue vibrates; worse on your back, after alcohol; loud snoring with pauses can signal sleep apnea | Confirmed (Mayo Clinic "Snoring: symptoms and causes"). No prevalence figure used: the only one found came from a patent filing. | Mayo Clinic |
+| Sleep deprivation impairs suppression of unwanted memories; suppressed thoughts more likely to return | Confirmed. Harrington, Ashton, Sankarasubramanian, Anderson & Cairney, "Losing Control: Sleep Deprivation Impairs the Suppression of Unwanted Thoughts", *Clinical Psychological Science* (online Oct 2020; 2021 issue), PMC7820573. One night of total sleep deprivation vs sleep; think/no-think task with negative and neutral scenes. fMRI follow-up in *PNAS* (doi 10.1073/pnas.2400743122). The "nearly 50%" figure is from press coverage, not used. | PMC; PNAS |
+
 ## Do NOT say
 "Melatonin switches your brain off"; "your brain is washed clean every night"; "you can train yourself to need less sleep"; a single reason why we sleep; "a family with the DEC2 gene"; that the meta-analysis found a large effect.
 
 ## Sources for the description
+- Harrington MO et al. "Losing Control: Sleep Deprivation Impairs the Suppression of Unwanted Thoughts." *Clin Psychol Sci* 2021. PMC7820573
+- Mayo Clinic, "Snoring: symptoms and causes"
 - Crowley R, Alderman E, Javadi A-H, Tamminen J. *Neurosci Biobehav Rev* 2024;167:105929. https://pubmed.ncbi.nlm.nih.gov/39427809/
 - He Y et al. *Science* 2009;325:866-870.
 - Crowley SJ, Acebo C, Carskadon MA. *Sleep Med* 2007;8:602-612.
