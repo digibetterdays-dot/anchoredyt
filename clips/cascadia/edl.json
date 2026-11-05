@@ -1409,9 +1409,13 @@
   },
   {
    "id": "s085",
-   "src": "assets/shots/s085.png",
+   "src": "assets/shots/s085.jpg",
    "anchor": "Open your county's evacuation",
    "prompt": "A family walking up a forest trail past a blank blue route arrow sign",
+   "focus": [
+    0.55,
+    0.6
+   ],
    "start": 567.844,
    "end": 571.748,
    "dur": 3.904,
