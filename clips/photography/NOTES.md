@@ -33,7 +33,8 @@ p021 (Niépce's Le Gras heliograph, 1827) and p025 (Daguerre's Boulevard du Temp
 - The king is not named in the script (owner decision, Nov 5): say "the king of Naples".
 - Never say: "the king banned photography", "because of the evil eye", "Delaroche said", "the first photograph ever", or the unsourced "stringent truth" quote.
 
-## Shorts planned (from the same VO)
-1. "Painting Is Dead" never said (Ch. 6, ~45 s): strongest hook.
-2. The king who banned photography? (Ch. 5, ~50 s).
-3. The first surviving photograph: 8 hours, or several days? (Ch. 2, ~45 s). Don't title it "took days": that is one estimate.
+## Shorts planned (from the same VO; reframed Nov 5 so each title rests on documented fact)
+1. **"Painting Is Dead" was never said** (Ch. 6, ~45 s). Verified: first in print 30+ years later; Delaroche's 1839 report praised the process.
+2. **"The Oldest Surviving Photograph Is a Blur. Here's Why"** (Ch. 2, ~45 s, vidIQ 90). Replaces "8 hours or several days?". Substance: Niépce's plate, sunlight on both sides of the courtyard because the exposure ran so long, earliest surviving camera photograph (Ransom Center). The exposure estimate appears once, as "hours, possibly days", not as the hook.
+3. **"Painters Could Flatter You. Cameras Couldn't."** (Ch. 4, ~40 s, vidIQ 92). Replaces "the king who banned photography?" (the reason is unknown, so no title can rest on it). Substance: painted portraits idealised; the camera recorded what was there; new competitor for portrait painters. Visuals p031c, p031d, p030.
+   - Alternative: **"The Poet Who Hated Photography, Then Posed for It"** (Ch. 4, Baudelaire 1859 quote + Carjat portrait, vidIQ 88).
