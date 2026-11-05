@@ -629,9 +629,13 @@
   },
   {
    "id": "s074",
-   "src": "assets/shots/s074.png",
+   "src": "assets/shots/s074.jpg",
    "anchor": "And here's how long",
-   "prompt": "A town at night with power lines down and every window dark, a single flashlight beam"
+   "prompt": "A town at night with power lines down and every window dark, a single flashlight beam",
+   "focus": [
+    0.7,
+    0.65
+   ]
   },
   {
    "id": "c22",
