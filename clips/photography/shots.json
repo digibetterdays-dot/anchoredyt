@@ -80,9 +80,13 @@
   },
   {
    "id": "p008",
-   "src": "assets/shots/p008.png",
+   "src": "assets/shots/p008.jpg",
    "anchor": "Some of the fears",
-   "prompt": "An antique wooden box camera with a brass lens on a tripod, pointed at the viewer, warm window light"
+   "prompt": "An antique wooden box camera with a brass lens on a tripod, pointed at the viewer, warm window light",
+   "focus": [
+    0.5,
+    0.4
+   ]
   },
   {
    "id": "c01",
@@ -94,15 +98,23 @@
   },
   {
    "id": "p009a",
-   "src": "assets/shots/p009a.png",
+   "src": "assets/shots/p009a.jpg",
    "anchor": "Paintings and drawings were",
-   "prompt": "A large 19th-century history painting of a crowded historic event hanging in a gallery, a visitor in a top hat looking up at it"
+   "prompt": "A large 19th-century history painting of a crowded historic event hanging in a gallery, a visitor in a top hat looking up at it",
+   "focus": [
+    0.6,
+    0.45
+   ]
   },
   {
    "id": "p009",
-   "src": "assets/shots/p009.png",
+   "src": "assets/shots/p009.jpg",
    "anchor": "If you were rich,",
-   "prompt": "A wealthy family posing in a grand drawing room while a portrait painter works at a large canvas, late 18th century"
+   "prompt": "A wealthy family posing in a grand drawing room while a portrait painter works at a large canvas, late 18th century",
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "p010",
