@@ -17,16 +17,6 @@
    "src": "assets/shots/s038.jpg"
   },
   {
-   "id": "k02",
-   "anchor": "What would the shaking",
-   "move": "push_in",
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "src": "assets/shots/s032.jpg"
-  },
-  {
    "id": "k03",
    "anchor": "on a late January",
    "move": "pull_out",
