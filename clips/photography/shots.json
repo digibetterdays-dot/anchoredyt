@@ -32,32 +32,32 @@
   {
    "id": "p004",
    "src": "assets/shots/p004.png",
-   "anchor": "And he says: from",
+   "anchor": "And according to a famous",
    "prompt": "A painter's palette and brushes dropped onto a wooden studio floor, a half-finished canvas on an easel above, dramatic side light",
    "emphasis": true
   },
   {
    "id": "p005",
    "src": "assets/shots/p005.png",
-   "anchor": "At least, that's the",
+   "anchor": "It's been repeated for",
    "prompt": "A stack of old leather-bound history books on a library table, one lying open, a magnifying glass beside them, no readable text"
   },
   {
    "id": "p006",
    "src": "assets/shots/p006.png",
-   "anchor": "There's another one, about",
+   "anchor": "There's another story, about",
    "prompt": "A 19th-century Italian king's throne room: an empty gilded throne, red velvet curtains, a tall window over the Bay of Naples with Vesuvius in the distance"
   },
   {
    "id": "p007",
    "src": "assets/shots/p007.png",
-   "anchor": "Both stories are told",
+   "anchor": "This is the story",
    "prompt": "An archive room: tall shelves of document boxes and bound ledgers, a reading lamp on a table, one ledger open with blank pages"
   },
   {
    "id": "p008",
    "src": "assets/shots/p008.png",
-   "anchor": "And the truth about",
+   "anchor": "Some of the fears",
    "prompt": "An antique wooden box camera with a brass lens on a tripod, pointed at the viewer, warm window light"
   },
   {
@@ -67,6 +67,12 @@
    "text": "Chapter 1",
    "sub": "Before the camera",
    "section_start": true
+  },
+  {
+   "id": "p009a",
+   "src": "assets/shots/p009a.png",
+   "anchor": "Paintings and drawings were",
+   "prompt": "A large 19th-century history painting of a crowded historic event hanging in a gallery, a visitor in a top hat looking up at it"
   },
   {
    "id": "p009",
@@ -117,7 +123,7 @@
    "type": "card",
    "anchor": "Around 1800, an Englishman",
    "text": "Chapter 2",
-   "sub": "The first photograph",
+   "sub": "The first surviving photograph",
    "section_start": true
   },
   {
@@ -160,9 +166,9 @@
   {
    "id": "o01",
    "type": "card",
-   "anchor": "The museum that holds",
-   "text": "Earliest surviving camera photograph",
-   "sub": "Niépce · c. 1827 · Harry Ransom Center",
+   "anchor": "This is the first",
+   "text": "The first surviving photograph",
+   "sub": "Niépce · c. 1827 · earliest surviving camera photograph",
    "overlay": true
   },
   {
@@ -251,10 +257,43 @@
    "prompt": "A photographer's studio of the 1840s: a sitter clamped in a posing stand with a head brace, the photographer beside a box camera, a skylight above"
   },
   {
+   "id": "p031b",
+   "src": "assets/shots/p031b.png",
+   "anchor": "For portrait painters, this",
+   "prompt": "A well-dressed couple in an 1850s photographer's waiting room choosing from a display of framed photographic portraits, while a painter's empty easel stands in the corner"
+  },
+  {
    "id": "p031",
    "src": "assets/shots/p031.png",
    "anchor": "Some artists saw an",
    "prompt": "A lonely portrait painter in an empty studio, canvases turned to the wall, looking out the window at a photographer's sign across the street"
+  },
+  {
+   "id": "p031c",
+   "src": "assets/shots/p031c.png",
+   "anchor": "And there was a second",
+   "prompt": "A portrait painter at an easel gently smoothing a sitter's face on canvas, the elderly sitter beside him looking far more lined than the youthful painted version"
+  },
+  {
+   "id": "p031d",
+   "src": "assets/shots/p031d.png",
+   "anchor": "The camera had no",
+   "prompt": "Extreme close-up of an elderly woman's face in a daguerreotype frame: every wrinkle and freckle sharply visible, dignified, softly lit",
+   "emphasis": true
+  },
+  {
+   "id": "o06",
+   "type": "card",
+   "anchor": "It recorded what was",
+   "text": "Every detail",
+   "sub": "what a painter might have left out",
+   "overlay": true
+  },
+  {
+   "id": "p031e",
+   "src": "assets/shots/p031e.png",
+   "anchor": "The loudest public voices,",
+   "prompt": "A café table in 1850s Paris with newspapers and journals piled up, a cup of coffee, a pen, no readable text"
   },
   {
    "id": "p032",
@@ -293,53 +332,62 @@
   {
    "id": "p035",
    "src": "assets/shots/p035.png",
-   "anchor": "You'll find the story",
-   "prompt": "A crowned 19th-century king seen from behind on a palace balcony, looking down at a tiny photographer with a camera on the street below, ominous shadow"
-  },
-  {
-   "id": "p036",
-   "src": "assets/shots/p036.png",
    "anchor": "The king was Ferdinand",
-   "prompt": "A red coral horn charm and a hand making a protective gesture against the evil eye, Neapolitan folk amulets on a wooden table"
-  },
-  {
-   "id": "p037",
-   "src": "assets/shots/p037.png",
-   "anchor": "But here is what",
-   "prompt": "Ancient Roman frescoes on a ruined wall in Pompeii, with an 1840s camera on a tripod set up before them"
-  },
-  {
-   "id": "c09",
-   "type": "card",
-   "anchor": "Nine years earlier, the",
-   "text": "1847",
-   "sub": "the king grants photographers permission across his kingdom"
+   "prompt": "A crowned 19th-century king seen from behind on a palace balcony over the Bay of Naples, Vesuvius in the distance (illustrative, not a likeness)"
   },
   {
    "id": "p038",
    "src": "assets/shots/p038.png",
-   "anchor": "And the one report",
-   "prompt": "An 1850s photograph sales catalogue lying open on a desk, columns of tiny listings that are not readable, a stereoscope viewer beside it"
+   "anchor": "A published history of",
+   "prompt": "A thick old history book lying open on a library desk beside a stack of others, a reading lamp, the pages not readable"
   },
   {
    "id": "o02",
    "type": "card",
-   "anchor": "that the king had",
-   "text": "Photographs of Pompeii prohibited",
-   "sub": "London Stereoscopic Company catalogue, 1856 · no reason given",
+   "anchor": "he forbade photography in",
+   "text": "1856: photography forbidden",
+   "sub": "as reported in a published history · reason not known",
    "overlay": true
   },
   {
    "id": "p039",
    "src": "assets/shots/p039.png",
-   "anchor": "Not photography. Not his",
+   "anchor": "A London photographic catalogue",
    "prompt": "The ruins of Pompeii under a hazy sky, columns and streets, Vesuvius behind, a closed wooden gate in the foreground",
    "emphasis": true
   },
   {
+   "id": "o07",
+   "type": "card",
+   "anchor": "records a ban on",
+   "text": "Photographs of Pompeii prohibited",
+   "sub": "London Stereoscopic Company catalogue, 1856",
+   "overlay": true
+  },
+  {
+   "id": "p037",
+   "src": "assets/shots/p037.png",
+   "anchor": "The puzzle is that",
+   "prompt": "Ancient Roman frescoes on a ruined wall in Pompeii, with an 1840s camera on a tripod set up before them"
+  },
+  {
+   "id": "c09",
+   "type": "card",
+   "anchor": "So why the change?",
+   "text": "1847 → 1856",
+   "sub": "permission, then prohibition",
+   "overlay": true
+  },
+  {
+   "id": "p036",
+   "src": "assets/shots/p036.png",
+   "anchor": "You'll often read that",
+   "prompt": "A red coral horn charm and a hand making a protective gesture against the evil eye, Neapolitan folk amulets on a wooden table"
+  },
+  {
    "id": "p040",
    "src": "assets/shots/p040.png",
-   "anchor": "So, was it the",
+   "anchor": "But that explanation is",
    "prompt": "A cracked mirror reflecting a blurred figure, a coral horn charm hanging beside it"
   },
   {
@@ -353,7 +401,7 @@
   {
    "id": "p041",
    "src": "assets/shots/p041.png",
-   "anchor": "\"From today, painting is",
+   "anchor": "A famous quotation later",
    "prompt": "A large painted banner hanging over a modern museum exhibition entrance, its lettering left blank, visitors walking in"
   },
   {

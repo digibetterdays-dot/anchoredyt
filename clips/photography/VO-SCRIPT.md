@@ -6,15 +6,15 @@ Read calmly, with a storyteller's curiosity. Slight smile on the myths, straight
 
 Paris, 1839. A famous painter looks at a small silver plate. On it is a street, a rooftop, a sky, every detail sharper than any brush could make it.
 
-And he says: from today, painting is dead.
+And according to a famous line later attributed to him, he declares: from today, painting is dead.
 
-At least, that's the story. It's been repeated for well over a century. There's another one, about a king who banned photography because he feared the evil eye.
+It's been repeated for well over a century. There's another story, about a king who banned photography, and a rumour that he feared the evil eye.
 
-Both stories are told as history. Both are hard to find in the records. And the truth about how the world met the camera turns out to be stranger, and better.
+This is the story of how a new technology frightened people: what it threatened, what it revealed about our faces, and how it changed art for good. Some of the fears were real. Some of the stories about them are harder to pin down than we're told.
 
 ## Chapter 1: Before the camera
 
-Before photography, a face was something you either paid for, or lost.
+Before photography, a face was something you either paid for, or lost. Paintings and drawings were among the main ways anyone recorded a person's appearance, a landscape, or a historic event.
 
 If you were rich, you sat for a portrait painter. If you were comfortable, you might afford a miniature: a tiny painted portrait you could carry in a locket. Everyone else had a silhouette, a black profile cut from paper in a few minutes.
 
@@ -24,7 +24,7 @@ But that image vanished the moment you closed the box. The only way to keep it w
 
 The question was simple. Could light draw the picture by itself?
 
-## Chapter 2: The first photograph
+## Chapter 2: The first surviving photograph
 
 Around 1800, an Englishman named Thomas Wedgwood, son of the famous potter, came close. He made images with light on paper treated with silver. But he couldn't fix them. Brought out into daylight, the pictures slowly darkened until they disappeared.
 
@@ -34,7 +34,7 @@ In the 1820s, at his country house at Le Gras, he coated a pewter plate with a k
 
 What survived is a blurry view of rooftops and a courtyard, the sun seeming to light both sides at once because the exposure lasted so long.
 
-The museum that holds it today dates it to 1827, and calls it the earliest surviving photograph made with a camera. Niépce, not Daguerre, is the first photographer whose camera image still exists.
+This is the first surviving photograph. The museum that holds it today dates it to 1827, and describes it carefully: the earliest surviving photograph made with a camera. Niépce, not Daguerre, is the first photographer whose camera image still exists.
 
 ## Chapter 3: Daguerre and 1839
 
@@ -52,9 +52,15 @@ Within months, people across Europe and America were pointing lenses at streets,
 
 For painters, the timing could hardly have been worse.
 
-Think about who earned a living from faces. Portrait painters. Miniature painters. Silhouette cutters. Now a machine could take a likeness in minutes, at a fraction of the price, and with a precision no hand could match.
+Think about who earned a living from faces. Portrait painters. Miniature painters. Silhouette cutters. Now a machine could take a likeness in minutes, at a fraction of the price, and with a precision no hand could match. For portrait painters, this was a new competitor. People could have a photograph made instead of commissioning a painting.
 
-Some artists saw an opportunity. Others saw the end of their trade. And the loudest voices were not painters at all, but critics.
+Some artists saw an opportunity. Others saw the end of their trade.
+
+And there was a second shock, for the sitters themselves. A painted portrait could flatter. A painter could soften wrinkles, adjust a nose, straighten a posture, and present a person the way the conventions of beauty said they should look.
+
+The camera had no such manners. It recorded what was there, including the details an artist might have chosen to leave out.
+
+The loudest public voices, though, were not painters at all, but critics.
 
 In 1859, photographs were shown at the official Paris Salon for the first time. The poet and critic Charles Baudelaire was furious. Photography, he wrote, was "the refuge of every would-be painter, every painter too ill-endowed or too lazy to complete his studies."
 
@@ -66,21 +72,21 @@ Baudelaire, by the way, later sat for some of the finest photographic portraits 
 
 Now to that king.
 
-You'll find the story told like this: in 1856, the king of Naples banned photography, possibly because it was thought to be linked to the evil eye.
+The king was Ferdinand the Second, ruler of the Kingdom of the Two Sicilies, with its capital at Naples.
 
-The king was Ferdinand the Second, and his kingdom really was famous for its belief in the evil eye, a curse cast by a look.
+A published history of photography reports that in 1856, he forbade photography in his territories. And that same history says plainly that the reason is not known.
 
-But here is what the record seems to show. Nine years earlier, the same king had been so impressed by photographs of ancient frescoes that he gave photographers permission to work throughout his kingdom.
+A London photographic catalogue from that same year records a ban on taking any more photographs of Pompeii. Again, with no reason given.
 
-And the one report from 1856 that does mention a ban, in a London catalogue of photographs, says something much narrower: that the king had prohibited any more photographs of Pompeii. Not photography. Not his kingdom. One ancient city. And it gives no reason at all.
+The puzzle is that only nine years earlier, the same king had been so impressed by photographs of ancient frescoes that he gave photographers permission to work throughout his kingdom.
 
-So, was it the evil eye? Maybe. But no source we found makes that connection. It's a story that grew in the telling.
+So why the change? You'll often read that he feared the evil eye, a curse cast by a look, and his kingdom really was famous for that belief. But that explanation is a guess. The records we have don't give a reason at all.
 
 ## Chapter 6: The famous words
 
 Which brings us back to Paris, and to the painter Paul Delaroche.
 
-"From today, painting is dead." It's one of the most quoted lines in the history of art. Exhibitions have been named after it.
+A famous quotation later attributed to the painter Paul Delaroche declared that painting was dead. It's one of the most quoted lines in the history of art. Exhibitions have been named after it.
 
 But researchers who have traced it find it first appearing in print more than thirty years after it was supposedly said.
 
@@ -108,7 +114,7 @@ Where did they hang their pictures? In the studio of one of the most famous phot
 
 The camera didn't end painting. It pushed painting somewhere new, and the two have borrowed from each other ever since.
 
-The fears were real. The livelihoods at stake were real. But some of the most famous stories about that fear, the cursed king and the painter's death sentence for his own art, are harder to find in the record than we're told.
+The fears were real. The livelihoods at stake were real. And the camera changed how people saw their own faces. But some of the most famous stories about that fear, the cursed king and the painter's death sentence for his own art, are harder to pin down than we're told.
 
 Every new way of making images arrives with a prophecy of doom. It's worth asking who actually said it, and what happened next.
 

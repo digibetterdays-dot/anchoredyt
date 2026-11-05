@@ -27,38 +27,45 @@ Single scene, one subject only, one 16:9 landscape image, not a collage, not pan
 ```
 
 ## p004 -> `assets/shots/p004.png`
-Line: "And he says: from..."
+Line: "And according to a famous..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A painter's palette and brushes dropped onto a wooden studio floor, a half-finished canvas on an easel above, dramatic side light, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p005 -> `assets/shots/p005.png`
-Line: "At least, that's the..."
+Line: "It's been repeated for..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A stack of old leather-bound history books on a library table, one lying open, a magnifying glass beside them, no readable text, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p006 -> `assets/shots/p006.png`
-Line: "There's another one, about..."
+Line: "There's another story, about..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A 19th-century Italian king's throne room: an empty gilded throne, red velvet curtains, a tall window over the Bay of Naples with Vesuvius in the distance, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p007 -> `assets/shots/p007.png`
-Line: "Both stories are told..."
+Line: "This is the story..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: An archive room: tall shelves of document boxes and bound ledgers, a reading lamp on a table, one ledger open with blank pages, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p008 -> `assets/shots/p008.png`
-Line: "And the truth about..."
+Line: "Some of the fears..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: An antique wooden box camera with a brass lens on a tripod, pointed at the viewer, warm window light, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## p009a -> `assets/shots/p009a.png`
+Line: "Paintings and drawings were..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A large 19th-century history painting of a crowded historic event hanging in a gallery, a visitor in a top hat looking up at it, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p009 -> `assets/shots/p009.png`
@@ -215,11 +222,39 @@ Line: "Now a machine could..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A photographer's studio of the 1840s: a sitter clamped in a posing stand with a head brace, the photographer beside a box camera, a skylight above, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## p031b -> `assets/shots/p031b.png`
+Line: "For portrait painters, this..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A well-dressed couple in an 1850s photographer's waiting room choosing from a display of framed photographic portraits, while a painter's empty easel stands in the corner, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## p031 -> `assets/shots/p031.png`
 Line: "Some artists saw an..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A lonely portrait painter in an empty studio, canvases turned to the wall, looking out the window at a photographer's sign across the street, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## p031c -> `assets/shots/p031c.png`
+Line: "And there was a second..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A portrait painter at an easel gently smoothing a sitter's face on canvas, the elderly sitter beside him looking far more lined than the youthful painted version, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## p031d -> `assets/shots/p031d.png`
+Line: "The camera had no..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Extreme close-up of an elderly woman's face in a daguerreotype frame: every wrinkle and freckle sharply visible, dignified, softly lit, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## p031e -> `assets/shots/p031e.png`
+Line: "The loudest public voices,..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A café table in 1850s Paris with newspapers and journals piled up, a cup of coffee, a pen, no readable text, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p032 -> `assets/shots/p032.png`
@@ -244,49 +279,49 @@ Single scene, one subject only, one 16:9 landscape image, not a collage, not pan
 ```
 
 ## p035 -> `assets/shots/p035.png`
-Line: "You'll find the story..."
-
-```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A crowned 19th-century king seen from behind on a palace balcony, looking down at a tiny photographer with a camera on the street below, ominous shadow, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
-```
-
-## p036 -> `assets/shots/p036.png`
 Line: "The king was Ferdinand..."
 
 ```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A red coral horn charm and a hand making a protective gesture against the evil eye, Neapolitan folk amulets on a wooden table, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
-```
-
-## p037 -> `assets/shots/p037.png`
-Line: "But here is what..."
-
-```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Ancient Roman frescoes on a ruined wall in Pompeii, with an 1840s camera on a tripod set up before them, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A crowned 19th-century king seen from behind on a palace balcony over the Bay of Naples, Vesuvius in the distance (illustrative, not a likeness), layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p038 -> `assets/shots/p038.png`
-Line: "And the one report..."
+Line: "A published history of..."
 
 ```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: An 1850s photograph sales catalogue lying open on a desk, columns of tiny listings that are not readable, a stereoscope viewer beside it, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A thick old history book lying open on a library desk beside a stack of others, a reading lamp, the pages not readable, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p039 -> `assets/shots/p039.png`
-Line: "Not photography. Not his..."
+Line: "A London photographic catalogue..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: The ruins of Pompeii under a hazy sky, columns and streets, Vesuvius behind, a closed wooden gate in the foreground, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## p037 -> `assets/shots/p037.png`
+Line: "The puzzle is that..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Ancient Roman frescoes on a ruined wall in Pompeii, with an 1840s camera on a tripod set up before them, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
+## p036 -> `assets/shots/p036.png`
+Line: "You'll often read that..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A red coral horn charm and a hand making a protective gesture against the evil eye, Neapolitan folk amulets on a wooden table, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## p040 -> `assets/shots/p040.png`
-Line: "So, was it the..."
+Line: "But that explanation is..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A cracked mirror reflecting a blurred figure, a coral horn charm hanging beside it, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## p041 -> `assets/shots/p041.png`
-Line: ""From today, painting is..."
+Line: "A famous quotation later..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A large painted banner hanging over a modern museum exhibition entrance, its lettering left blank, visitors walking in, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
@@ -383,4 +418,4 @@ Line: "If you enjoyed this,..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: The Paris rooftop view from the opening, now at golden sunset, a small camera on the windowsill, layered paper-cut illustration, soft paper grain, warm sepia, cream and slate palette with one deep red accent, soft window light, 19th-century setting, clean shapes, no text, no letters, no numbers, no logos, no watermark
 ```
 
-_54 images._
+_59 images._

@@ -4,11 +4,11 @@ Built with the `documentary-edit` skill. Fact check: `../../photography-factchec
 
 ## Status
 - [x] Fact check (Nov 5): web-search level; primary pages blocked in the cloud session. Starred items there to re-check.
-- [x] Script: `VO-SCRIPT.md` (with chapters and pronunciations) / `VO-SCRIPT.txt` (plain, for TTS). 1,196 words, about 8 min.
-- [x] Shot list: `shots.json`, 71 shots (54 images, 12 full cards, 5 overlays); anchors tested against estimated timing (avg 5.0 s per shot).
-- [x] Prompts: `PROMPTS.md`, 54 single-scene prompts
+- [x] Script: `VO-SCRIPT.md` (with chapters and pronunciations) / `VO-SCRIPT.txt` (plain, for TTS). 1,333 words, about 9 min (revised Nov 5 with owner wording for claims 1-4).
+- [x] Shot list: `shots.json`, 78 shots (59 images, 11 full cards, 8 overlays); anchors tested against estimated timing (avg 4.9 s per shot).
+- [x] Prompts: `PROMPTS.md`, 59 single-scene prompts
 - [ ] Owner: record VO as one file -> `assets/audio/voice.wav`, word for word
-- [ ] Owner: generate the 54 stills -> `assets/shots/pNNN.png` (or upload to GitHub, this branch)
+- [ ] Owner: generate the 59 stills -> `assets/shots/pNNN.png` (or upload to GitHub, this branch)
 - [ ] Transcribe/align, plan, build, render, finish audio, QA; Shorts; upload package
 
 ## Titles (vidIQ)
