@@ -430,6 +430,16 @@
    "overlay": true
   },
   {
+   "id": "p031e",
+   "src": "assets/shots/p031e.jpg",
+   "anchor": "The loudest public voices,",
+   "prompt": "A café table in 1850s Paris with newspapers and journals piled up, a cup of coffee, a pen, no readable text",
+   "focus": [
+    0.45,
+    0.45
+   ]
+  },
+  {
    "id": "p032",
    "src": "assets/shots/p032.jpg",
    "anchor": "In 1859, photographs were",

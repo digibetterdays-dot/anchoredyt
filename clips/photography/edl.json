@@ -880,8 +880,8 @@
     0.4
    ],
    "start": 288.123,
-   "end": 294.906,
-   "dur": 6.783,
+   "end": 292.06,
+   "dur": 3.937,
    "punch": 0,
    "move": "push_fast"
   },
@@ -895,12 +895,26 @@
     0.58,
     0.4
    ],
-   "start": 294.906,
-   "end": 301.769,
-   "dur": 6.863,
+   "start": 292.06,
+   "end": 296.245,
+   "dur": 4.185,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
+  },
+  {
+   "id": "p031e",
+   "src": "assets/shots/p031e.jpg",
+   "anchor": "The loudest public voices,",
+   "prompt": "A caf\u00e9 table in 1850s Paris with newspapers and journals piled up, a cup of coffee, a pen, no readable text",
+   "focus": [
+    0.45,
+    0.45
+   ],
+   "start": 296.245,
+   "end": 301.769,
+   "dur": 5.524,
+   "move": "push_in"
   },
   {
    "id": "p032a",
@@ -915,7 +929,7 @@
    "end": 306.566,
    "dur": 4.797,
    "punch": 0,
-   "move": "push_in"
+   "move": "tilt_up"
   },
   {
    "id": "p032b",
@@ -956,7 +970,7 @@
    "start": 321.192,
    "end": 327.99,
    "dur": 6.798,
-   "move": "tilt_up"
+   "move": "pan_right"
   },
   {
    "id": "p034",
@@ -998,7 +1012,7 @@
    "end": 340.173,
    "dur": 4.557,
    "punch": 0,
-   "move": "pan_right"
+   "move": "push_in"
   },
   {
    "id": "p035b",
@@ -1028,7 +1042,7 @@
    "start": 344.165,
    "end": 348.31,
    "dur": 4.145,
-   "move": "push_in"
+   "move": "pan_right"
   },
   {
    "id": "p039a",
@@ -1076,7 +1090,7 @@
    "end": 363.937,
    "dur": 6.09,
    "punch": 0,
-   "move": "pan_right"
+   "move": "pull_out"
   },
   {
    "id": "p037b",
@@ -1107,7 +1121,7 @@
    "end": 374.668,
    "dur": 4.091,
    "punch": 0,
-   "move": "pull_out"
+   "move": "pan_left"
   },
   {
    "id": "p036b",
@@ -1137,7 +1151,7 @@
    "start": 378.731,
    "end": 383.424,
    "dur": 4.693,
-   "move": "pan_left"
+   "move": "tilt_down"
   },
   {
    "id": "c10",
@@ -1164,7 +1178,7 @@
    "end": 393.806,
    "dur": 5.67,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "push_in"
   },
   {
    "id": "p041b",
@@ -1195,7 +1209,7 @@
    "end": 403.279,
    "dur": 3.553,
    "punch": 0,
-   "move": "push_in"
+   "move": "tilt_up"
   },
   {
    "id": "p042b",
@@ -1226,7 +1240,7 @@
    "end": 412.659,
    "dur": 5.544,
    "punch": 0,
-   "move": "tilt_up"
+   "move": "pan_right"
   },
   {
    "id": "p043b",
@@ -1272,7 +1286,7 @@
    "start": 423.971,
    "end": 428.996,
    "dur": 5.025,
-   "move": "pan_right"
+   "move": "push_in"
   },
   {
    "id": "p045a",
@@ -1331,7 +1345,7 @@
    "start": 441.483,
    "end": 444.452,
    "dur": 2.969,
-   "move": "push_in"
+   "move": "pan_right"
   },
   {
    "id": "c12",
@@ -1357,7 +1371,7 @@
    "end": 457.804,
    "dur": 5.614,
    "punch": 0,
-   "move": "pan_right"
+   "move": "pull_out"
   },
   {
    "id": "p047b",
@@ -1388,7 +1402,7 @@
    "end": 468.192,
    "dur": 3.663,
    "punch": 0,
-   "move": "pull_out"
+   "move": "pan_left"
   },
   {
    "id": "p048b",
@@ -1418,7 +1432,7 @@
    "start": 472.174,
    "end": 475.685,
    "dur": 3.511,
-   "move": "pan_left"
+   "move": "tilt_down"
   },
   {
    "id": "p050a",
@@ -1498,7 +1512,7 @@
    "end": 496.741,
    "dur": 5.845,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "push_in"
   },
   {
    "id": "p052b",
@@ -1593,7 +1607,7 @@
    "text": "Every detail",
    "sub": "what a painter might have left out",
    "start": 290.794,
-   "end": 296.757
+   "end": 296.195
   },
   {
    "id": "o02",

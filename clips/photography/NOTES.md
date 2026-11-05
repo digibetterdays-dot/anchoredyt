@@ -10,10 +10,10 @@ Built with the `documentary-edit` skill. Fact check: `../../photography-factchec
 - [x] VO (Nov 5): owner's 3 parts joined in order (0.6 s gaps) -> `assets/audio/voice.wav`, 8:45. Joins land on chapter breaks (end of Ch. 1, end of Ch. 3).
 - [x] Word timings: `words.json` by script-to-pause alignment (huggingface.co still blocked). Fit: median 10%, 8 stretches over 50% (VO may differ slightly from script there).
 - [x] Edit plan: `edl.json`, 109 segments, avg 4.8 s
-- [x] 58 of 59 images filed
+- [x] 59 of 59 images filed
 - [ ] Owner: generate the remaining 1 stills -> `assets/shots/pNNN.png` (or upload to GitHub, this branch)
 - [x] **Rendered (Nov 5):** `renders/photography-final.mp4` (379 MB) and `renders/photography-final-1080p-share.mp4` (107 MB), 8:45, 105 segments. Audio QA: -14.35 LUFS, -1.66 dBTP, no dead air. Captions `renders/photography.srt`. Renders not in git.
-- [x] p031e (café table) never arrived: dropped, neighbours cover it. Add it back to `shots.json` and re-render if made.
+- [x] p031e (café table) arrived after the first render; v2 render has all 59 stills.
 - [ ] Owner: watch/listen to the full cut; then Shorts and upload package
 
 ## Titles (vidIQ)
