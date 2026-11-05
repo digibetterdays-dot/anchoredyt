@@ -21,12 +21,18 @@ else
   ffmpeg -nostdin -v error -y -i "$voice" -af "$vchain" -ar 48000 "$tmp/mix.wav"
 fi
 
-# two-pass loudnorm
-stats=$(ffmpeg -nostdin -hide_banner -i "$tmp/mix.wav" -af loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json -f null - 2>&1 | sed -n '/^{/,/^}/p')
-get(){ echo "$stats" | python3 -I -c "import sys,json;print(json.load(sys.stdin)['$1'])"; }
+# loudness: measure, apply the exact gain to -14 LUFS, then a 4x-oversampled
+# limiter at -2 dBFS catches the peaks the gain pushes up (true peak stays under -1)
+meas(){ ffmpeg -nostdin -hide_banner -i "$1" -af loudnorm=print_format=json -f null - 2>&1 | sed -n '/^{/,/^}/p' \
+        | python3 -I -c "import sys,json;print(json.load(sys.stdin)['input_i'])"; }
+gain=$(python3 -I -c "print(-14 - float('$(meas "$tmp/mix.wav")'))")
 ffmpeg -nostdin -v error -y -i "$tmp/mix.wav" -af \
- "loudnorm=I=-14:TP=-1.5:LRA=11:measured_I=$(get input_i):measured_TP=$(get input_tp):measured_LRA=$(get input_lra):measured_thresh=$(get input_thresh):offset=$(get target_offset):linear=true" \
- -ar 48000 "$tmp/final.wav"
+ "volume=${gain}dB,aresample=192000,alimiter=limit=0.794:attack=1:release=60:level=disabled,aresample=48000" "$tmp/final.wav"
+# the limiter shaves a little loudness off; one correction pass puts it back
+fix=$(python3 -I -c "print(-14 - float('$(meas "$tmp/final.wav")'))")
+ffmpeg -nostdin -v error -y -i "$tmp/final.wav" -af \
+ "volume=${fix}dB,aresample=192000,alimiter=limit=0.794:attack=1:release=60:level=disabled,aresample=48000" "$tmp/final2.wav"
+mv "$tmp/final2.wav" "$tmp/final.wav"
 
 ffmpeg -nostdin -v error -y -i "$video" -i "$tmp/final.wav" -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k -shortest "$out"
 echo "wrote $out"
