@@ -15,7 +15,7 @@ Checked Nov 5 2026 by web search. Primary-source pages (Quote Investigator, Harr
 ## Who was the first photographer?
 
 **Joseph Nicéphore Niépce**, with a careful wording:
-- *View from the Window at Le Gras*, Saint-Loup-de-Varennes, France. Dated **1827** by the Harry Ransom Center (Austin, Texas), which holds it; many sources say "1826 or 1827". The Ransom Center calls it the **earliest surviving photograph made with a camera** (it renamed its display from "The First Photograph" to "The Niépce Heliograph" in 2019). Pewter plate coated with bitumen of Judea; exposure estimates range from about 8 hours to several days. *
+- *View from the Window at Le Gras*, Saint-Loup-de-Varennes, France. Dated **1827** by the Harry Ransom Center (Austin, Texas), which holds it; many sources say "1826 or 1827". The Ransom Center calls it the **earliest surviving photograph made with a camera** (it renamed its display from "The First Photograph" to "The Niépce Heliograph" in 2019). Pewter plate coated with bitumen of Judea; exposure: **about 8 hours** is the traditional estimate (Helmut Gernsheim, from sunlight on both sides of the courtyard); **several days** ("three or more") per Jean-Louis Marignier (Université Paris-Sud), who recreated the process and studied Niépce's letters; the Ransom Center cites the longer estimate (via Smarthistory). Don't confuse with the c. 1832 physautotype (about 8 hours in sun). *
 - Earlier: **Thomas Wedgwood** (son of the potter) made light images around 1800 and published in 1802 with Humphry Davy, but could not **fix** them: they darkened away in daylight. So: first attempts, Wedgwood; earliest surviving camera photograph, Niépce; first practical public process, Daguerre.
 
 ## Daguerre and 1839

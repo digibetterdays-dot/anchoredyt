@@ -4,7 +4,7 @@ Built with the `documentary-edit` skill. Fact check: `../../photography-factchec
 
 ## Status
 - [x] Fact check (Nov 5): web-search level; primary pages blocked in the cloud session. Starred items there to re-check.
-- [x] Script: `VO-SCRIPT.md` (with chapters and pronunciations) / `VO-SCRIPT.txt` (plain, for TTS). 1,317 words, about 9 min (revised Nov 5 with owner wording for claims 1-4).
+- [x] Script: `VO-SCRIPT.md` (with chapters and pronunciations) / `VO-SCRIPT.txt` (plain, for TTS). 1,331 words, about 9 min (revised Nov 5 with owner wording for claims 1-4).
 - [x] Shot list: `shots.json`, 78 shots (59 images, 11 full cards, 8 overlays); anchors tested against estimated timing (avg 4.9 s per shot).
 - [x] Prompts: `PROMPTS.md`, 58 single-scene prompts (p021 is the real image)
 - [ ] Owner: record VO as one file -> `assets/audio/voice.wav`, word for word
@@ -31,4 +31,4 @@ p021 (Niépce's Le Gras heliograph, 1827) and p025 (Daguerre's Boulevard du Temp
 ## Shorts planned (from the same VO)
 1. "Painting Is Dead" never said (Ch. 6, ~45 s): strongest hook.
 2. The king who banned photography? (Ch. 5, ~50 s).
-3. The first photograph took days (Ch. 2, ~45 s).
+3. The first surviving photograph: 8 hours, or several days? (Ch. 2, ~45 s). Don't title it "took days": that is one estimate.
