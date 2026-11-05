@@ -1,0 +1,237 @@
+{
+ "title": "The Orphan Tsunami (Cascadia Short)",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "music": null,
+ "label_default": "Illustration",
+ "captions": true,
+ "duration": 44.248,
+ "words": "words.json",
+ "segments": [
+  {
+   "id": "h01",
+   "src": "assets/shots/s017.jpg",
+   "anchor": "",
+   "emphasis": true,
+   "move": "push_fast",
+   "focus": [
+    0.18,
+    0.62
+   ],
+   "start": 0.0,
+   "end": 1.449,
+   "dur": 1.449
+  },
+  {
+   "id": "h02a",
+   "src": "assets/shots/s016.jpg",
+   "anchor": "Because of a tsunami",
+   "move": "push_in",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 1.449,
+   "end": 3.485,
+   "dur": 2.036,
+   "punch": 0
+  },
+  {
+   "id": "h02b",
+   "src": "assets/shots/s016.jpg",
+   "anchor": "Because of a tsunami",
+   "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 3.485,
+   "end": 5.995,
+   "dur": 2.51,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "h03a",
+   "src": "assets/shots/s017.jpg",
+   "anchor": "In January of the",
+   "move": "pan_right",
+   "focus": [
+    0.18,
+    0.62
+   ],
+   "start": 5.995,
+   "end": 8.628,
+   "dur": 2.633,
+   "punch": 0
+  },
+  {
+   "id": "h03b",
+   "src": "assets/shots/s017.jpg",
+   "anchor": "In January of the",
+   "move": "hold_punch",
+   "focus": [
+    0.18,
+    0.62
+   ],
+   "start": 8.628,
+   "end": 12.697,
+   "dur": 4.069,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "h04",
+   "src": "assets/shots/s018.jpg",
+   "anchor": "Nobody there felt any",
+   "move": "push_in",
+   "focus": [
+    0.82,
+    0.5
+   ],
+   "start": 12.697,
+   "end": 14.672,
+   "dur": 1.975
+  },
+  {
+   "id": "h05a",
+   "src": "assets/shots/s019.jpg",
+   "anchor": "Japanese records called it",
+   "move": "push_in",
+   "focus": [
+    0.42,
+    0.55
+   ],
+   "start": 14.672,
+   "end": 17.374,
+   "dur": 2.702,
+   "punch": 0
+  },
+  {
+   "id": "h05b",
+   "src": "assets/shots/s019.jpg",
+   "anchor": "Japanese records called it",
+   "move": "hold_punch",
+   "focus": [
+    0.42,
+    0.55
+   ],
+   "start": 17.374,
+   "end": 19.788,
+   "dur": 2.414,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "h06",
+   "src": "assets/shots/s020.jpg",
+   "anchor": "Researchers later connected it",
+   "label": null,
+   "move": "scan",
+   "reverse": true,
+   "start": 19.788,
+   "end": 27.596,
+   "dur": 7.808
+  },
+  {
+   "id": "h07a",
+   "src": "assets/shots/s021.jpg",
+   "anchor": "to pin the quake",
+   "move": "pull_out",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 27.596,
+   "end": 30.732,
+   "dur": 3.136,
+   "punch": 0
+  },
+  {
+   "id": "h07b",
+   "src": "assets/shots/s021.jpg",
+   "anchor": "to pin the quake",
+   "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 30.732,
+   "end": 34.328,
+   "dur": 3.596,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "h08a",
+   "src": "assets/shots/s025.jpg",
+   "anchor": "And it's not a",
+   "label": null,
+   "move": "tilt_down",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 34.328,
+   "end": 37.087,
+   "dur": 2.759,
+   "punch": 0
+  },
+  {
+   "id": "h08b",
+   "src": "assets/shots/s025.jpg",
+   "anchor": "And it's not a",
+   "label": null,
+   "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 37.087,
+   "end": 40.969,
+   "dur": 3.882,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "h08c",
+   "src": "assets/shots/s025.jpg",
+   "anchor": "And it's not a",
+   "label": null,
+   "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 40.969,
+   "end": 44.248,
+   "dur": 3.279,
+   "punch": 2,
+   "section_start": false
+  }
+ ],
+ "overlays": [
+  {
+   "id": "o01",
+   "text": "The \u201corphan tsunami\u201d",
+   "sub": "Japan, January 1700",
+   "start": 17.374,
+   "end": 19.738
+  },
+  {
+   "id": "o02",
+   "text": "About magnitude 9",
+   "sub": "January 26, 1700, about 9 p.m.",
+   "start": 31.445,
+   "end": 34.278
+  },
+  {
+   "id": "o03",
+   "text": "More than 40",
+   "sub": "magnitude 8+ quakes in 10,000 years \u00b7 NOAA",
+   "start": 35.909,
+   "end": 44.148
+  }
+ ],
+ "problems": []
+}

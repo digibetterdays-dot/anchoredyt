@@ -333,7 +333,7 @@ def cmd_build(a):
         elif s.get("type", "image") == "image":
             fx, fy = (s.get("focus") or [0.5, 0.5])
             inner = (f'<img class="pic" id="{cid}i" src="{html.escape(s["src"])}" '
-                     f'style="transform-origin:{fx*100:.0f}% {fy*100:.0f}%">')
+                     f'style="transform-origin:{fx*100:.0f}% {fy*100:.0f}%;object-position:{fx*100:.0f}% {fy*100:.0f}%">')
         else:
             inner = f'<div class="card"><div class="cardtxt">{html.escape(s.get("text", ""))}</div>' + \
                     (f'<div class="cardsub">{html.escape(s["sub"])}</div>' if s.get("sub") else "") + "</div>"
@@ -398,7 +398,7 @@ html,body{{width:{W}px;height:{H}px;overflow:hidden;background:#0d0f14}}
 .tag{{position:absolute;left:{40 if short else 48}px;top:{190 if short else 40}px;font:700 {28 if short else 22}px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#e8e8e8}}
 .src{{position:absolute;right:48px;bottom:{260 if short else 40}px;font:500 {24 if short else 20}px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#d8d8d8;max-width:60%}}
 .cap{{position:absolute;left:5%;width:90%;top:{cap_top}px;text-align:center}}
-.ovl{{position:absolute;left:{40 if short else 72}px;bottom:{300 if short else 96}px;max-width:{"88%" if short else "62%"};background:rgba(10,12,18,.72);padding:22px 30px;border-left:6px solid #b5533c;border-radius:6px}}
+.ovl{{position:absolute;left:{40 if short else 72}px;{"top:280px" if short else "bottom:96px"};max-width:{"88%" if short else "62%"};background:rgba(10,12,18,.72);padding:22px 30px;border-left:6px solid #b5533c;border-radius:6px}}
 .ovltxt{{font-size:{64 if short else 60}px;line-height:1.1}}
 .ovlsub{{margin-top:10px;font:600 {28 if short else 24}px/1.3 sans-serif;color:#c9cfd8;letter-spacing:.06em;text-transform:uppercase}}
 .cap span{{display:inline-block;background:rgba(10,12,18,.78);padding:14px 26px;border-radius:20px;font:800 {cap_size}px/1.15 sans-serif}}
