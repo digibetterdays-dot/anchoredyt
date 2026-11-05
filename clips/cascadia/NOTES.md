@@ -6,8 +6,8 @@ Built with the `documentary-edit` skill (`.claude/skills/documentary-edit/`). Sc
 - [x] Shot list: `shots.json`, 118 shots (82 new images, 33 cards, 3 reused images). `shots.json` is the source of truth.
 - [x] Prompt list for the owner: `PROMPTS.md`
 - [x] Anchors tested against the narration text (all found; estimated 12.0 min, 144 segments, average 5.0 s, no shot under 2 s)
-- [x] **65 of 82 stills filed** (Nov 4; uploaded by the owner to branch `claude/sharp-ride-lwydum`, matched to shots by eye, resized to 1920 wide JPG q2). s069 cropped out of its paper frame. Alternates kept in `assets/alt/`.
-- [ ] **17 stills still needed:** s019 s045 s046 s047 s048 s049 s050 s051 s052 s053 s054 s055 s056 s062 s078b s083 s088 into `assets/shots/` (names as in `PROMPTS.md`)
+- [x] **68 of 82 stills filed** (Nov 4; uploaded by the owner to branch `claude/sharp-ride-lwydum`, matched to shots by eye, resized to 1920 wide JPG q2). s069 cropped out of its paper frame. Alternates kept in `assets/alt/`.
+- [ ] **14 stills still needed:** s019 s045 s046 s048 s050 s051 s052 s053 s054 s055 s062 s078b s083 s088 into `assets/shots/` (names as in `PROMPTS.md`)
 - [ ] Fact checks below, **before recording**
 - [x] Voiceover: `assets/audio/voice.wav` (owner's two files joined with 0.6 s gap; 9:58)
 - [x] Word timings: `words.json` from **script-to-pause alignment** (`align_text.py`), not transcription: huggingface.co is blocked here. Fit: median 12% per stretch, 3 stretches over 50%. Re-run with `hyperframes transcribe` if that host is allowed.
@@ -32,6 +32,7 @@ If a figure changes, edit the card text in `shots.json` and the narration togeth
 - **"If it happened today" recovery table (Ch. 7):** shown as four cards in a row (`c22`-`c25`).
 
 ## Image notes
+- **s047:** cropped from a mixed image (US map + hiker + family); slightly soft at 1.7x upscale. Regenerate on its own if it looks soft in the render.
 - **s017 (1700 wave):** styled like Hokusai's Great Wave (public domain, fine) but drawn far taller than the narration's "six to ten feet". Consider a smaller, calmer wave.
 - **s012 / s020:** delivered 16:9 rather than tall map / panorama, so they get a normal push instead of a scan; s012 shows mainly Washington and BC, not the whole zone down to Cape Mendocino.
 - Two tall maps (`s012`, `s047`) and seven 3:1 panoramas are scanned across, not cropped. `s012` plays south to north and `s020` plays right to left, matching the narration.

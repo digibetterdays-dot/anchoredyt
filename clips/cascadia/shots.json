@@ -391,12 +391,16 @@
   },
   {
    "id": "s047",
-   "src": "assets/shots/s047.png",
+   "src": "assets/shots/s047.jpg",
    "anchor": "The USGS lists California,",
    "prompt": "Simplified map of the US west coast states (California, Oregon, Washington) in a warm highlight colour, the rest of the continent pale, no labels or text",
    "aspect": "9:16 tall map, 1080x1920",
    "source": "USGS",
-   "label": null
+   "label": null,
+   "focus": [
+    0.12,
+    0.45
+   ]
   },
   {
    "id": "s048",
@@ -408,9 +412,13 @@
   },
   {
    "id": "s049",
-   "src": "assets/shots/s049.png",
+   "src": "assets/shots/s049.jpg",
    "anchor": "People close to it",
-   "prompt": "A coastal town street right by the sea, shelves already falling inside a shop as a phone lights up on the counter"
+   "prompt": "A coastal town street right by the sea, shelves already falling inside a shop as a phone lights up on the counter",
+   "focus": [
+    0.72,
+    0.5
+   ]
   },
   {
    "id": "c12",
@@ -489,9 +497,13 @@
   },
   {
    "id": "s056",
-   "src": "assets/shots/s056.png",
+   "src": "assets/shots/s056.jpg",
    "anchor": "So Washington has started",
-   "prompt": "A tall concrete tsunami refuge tower with railings and stairs rising above a flat coastal landscape"
+   "prompt": "A tall concrete tsunami refuge tower with railings and stairs rising above a flat coastal landscape",
+   "focus": [
+    0.66,
+    0.45
+   ]
   },
   {
    "id": "s057",
