@@ -446,9 +446,13 @@
   },
   {
    "id": "s050",
-   "src": "assets/shots/s050.png",
+   "src": "assets/shots/s050.jpg",
    "anchor": "Right after the shaking",
-   "prompt": "The ocean pulling back from a beach, exposing wet sea floor, small boats left sitting on the sand"
+   "prompt": "The ocean pulling back from a beach, exposing wet sea floor, small boats left sitting on the sand",
+   "focus": [
+    0.62,
+    0.62
+   ]
   },
   {
    "id": "c13",
