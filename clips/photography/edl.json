@@ -212,10 +212,14 @@
   },
   {
    "id": "p013a",
-   "src": "assets/shots/p013.png",
+   "src": "assets/shots/p013.jpg",
    "anchor": "And artists had used",
    "prompt": "Cross-section of a camera obscura box: light from a sunny landscape passing through a lens and forming an upside-down image on the back wall inside the box, simple and clear",
    "label": null,
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 80.357,
    "end": 84.816,
    "dur": 4.459,
@@ -224,10 +228,14 @@
   },
   {
    "id": "p013b",
-   "src": "assets/shots/p013.png",
+   "src": "assets/shots/p013.jpg",
    "anchor": "And artists had used",
    "prompt": "Cross-section of a camera obscura box: light from a sunny landscape passing through a lens and forming an upside-down image on the back wall inside the box, simple and clear",
    "label": null,
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 84.816,
    "end": 89.377,
    "dur": 4.561,
@@ -237,9 +245,13 @@
   },
   {
    "id": "p014",
-   "src": "assets/shots/p014.png",
+   "src": "assets/shots/p014.jpg",
    "anchor": "But that image vanished",
    "prompt": "An artist inside a darkened tent-style camera obscura tracing a glowing projected landscape onto paper with a pencil",
+   "focus": [
+    0.62,
+    0.55
+   ],
    "start": 89.377,
    "end": 95.666,
    "dur": 6.289,
@@ -290,9 +302,13 @@
   },
   {
    "id": "p018",
-   "src": "assets/shots/p018.png",
+   "src": "assets/shots/p018.jpg",
    "anchor": "The man who finally",
    "prompt": "A French country manor house in Burgundy, stone walls, a courtyard and outbuildings, calm 1820s afternoon",
+   "focus": [
+    0.5,
+    0.5
+   ],
    "start": 118.883,
    "end": 124.54,
    "dur": 5.657,
@@ -451,9 +467,13 @@
   },
   {
    "id": "p023a",
-   "src": "assets/shots/p023.png",
+   "src": "assets/shots/p023.jpg",
    "anchor": "a showman famous in",
    "prompt": "A 19th-century Paris diorama theatre: a dark auditorium, an enormous glowing painted landscape on stage lit from behind, a small audience in silhouette",
+   "focus": [
+    0.6,
+    0.45
+   ],
    "start": 178.373,
    "end": 184.126,
    "dur": 5.753,
@@ -462,9 +482,13 @@
   },
   {
    "id": "p023b",
-   "src": "assets/shots/p023.png",
+   "src": "assets/shots/p023.jpg",
    "anchor": "a showman famous in",
    "prompt": "A 19th-century Paris diorama theatre: a dark auditorium, an enormous glowing painted landscape on stage lit from behind, a small audience in silhouette",
+   "focus": [
+    0.6,
+    0.45
+   ],
    "start": 184.126,
    "end": 189.706,
    "dur": 5.58,
