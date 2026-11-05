@@ -1410,37 +1410,47 @@
   },
   {
    "id": "p053a",
-   "src": "assets/shots/p053.png",
+   "src": "assets/shots/p053.jpg",
    "anchor": "Every new way of",
    "prompt": "A timeline of image-making objects on a long shelf: a paintbrush, a camera obscura, a daguerreotype case, a box camera, a modern smartphone, left to right",
-   "aspect": "3:1 panorama, 3240x1080",
    "label": null,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "move": "pan_right",
    "start": 508.648,
    "end": 514.154,
    "dur": 5.506,
-   "punch": 0,
-   "move": "pan_right"
+   "punch": 0
   },
   {
    "id": "p053b",
-   "src": "assets/shots/p053.png",
+   "src": "assets/shots/p053.jpg",
    "anchor": "Every new way of",
    "prompt": "A timeline of image-making objects on a long shelf: a paintbrush, a camera obscura, a daguerreotype case, a box camera, a modern smartphone, left to right",
-   "aspect": "3:1 panorama, 3240x1080",
    "label": null,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "move": "hold_punch",
    "start": 514.154,
    "end": 518.341,
    "dur": 4.187,
    "punch": 1,
-   "section_start": false,
-   "move": "hold_punch"
+   "section_start": false
   },
   {
    "id": "p054",
-   "src": "assets/shots/p054.png",
+   "src": "assets/shots/p054.jpg",
    "anchor": "If you enjoyed this,",
    "prompt": "The Paris rooftop view from the opening, now at golden sunset, a small camera on the windowsill",
    "move": "pull_out",
+   "focus": [
+    0.3,
+    0.75
+   ],
    "start": 518.341,
    "end": 525.121,
    "dur": 6.78
