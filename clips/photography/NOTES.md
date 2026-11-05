@@ -10,8 +10,8 @@ Built with the `documentary-edit` skill. Fact check: `../../photography-factchec
 - [x] VO (Nov 5): owner's 3 parts joined in order (0.6 s gaps) -> `assets/audio/voice.wav`, 8:45. Joins land on chapter breaks (end of Ch. 1, end of Ch. 3).
 - [x] Word timings: `words.json` by script-to-pause alignment (huggingface.co still blocked). Fit: median 10%, 8 stretches over 50% (VO may differ slightly from script there).
 - [x] Edit plan: `edl.json`, 109 segments, avg 4.8 s
-- [x] 49 of 59 images filed
-- [ ] Owner: generate the remaining 10 stills -> `assets/shots/pNNN.png` (or upload to GitHub, this branch)
+- [x] 51 of 59 images filed
+- [ ] Owner: generate the remaining 8 stills -> `assets/shots/pNNN.png` (or upload to GitHub, this branch)
 - [ ] Transcribe/align, plan, build, render, finish audio, QA; Shorts; upload package
 
 ## Titles (vidIQ)

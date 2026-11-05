@@ -118,9 +118,13 @@
   },
   {
    "id": "p010",
-   "src": "assets/shots/p010.png",
+   "src": "assets/shots/p010.jpg",
    "anchor": "If you were comfortable,",
-   "prompt": "A tiny oval painted portrait miniature of a woman inside an open gold locket, held in a hand, close-up"
+   "prompt": "A tiny oval painted portrait miniature of a woman inside an open gold locket, held in a hand, close-up",
+   "focus": [
+    0.45,
+    0.4
+   ]
   },
   {
    "id": "p011",
@@ -366,9 +370,13 @@
   },
   {
    "id": "p030",
-   "src": "assets/shots/p030.png",
+   "src": "assets/shots/p030.jpg",
    "anchor": "Now a machine could",
-   "prompt": "A photographer's studio of the 1840s: a sitter clamped in a posing stand with a head brace, the photographer beside a box camera, a skylight above"
+   "prompt": "A photographer's studio of the 1840s: a sitter clamped in a posing stand with a head brace, the photographer beside a box camera, a skylight above",
+   "focus": [
+    0.35,
+    0.45
+   ]
   },
   {
    "id": "p031b",
