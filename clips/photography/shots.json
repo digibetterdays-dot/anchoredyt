@@ -28,10 +28,14 @@
   },
   {
    "id": "p003",
-   "src": "assets/shots/p003.png",
+   "src": "assets/shots/p003.jpg",
    "anchor": "On it is a",
    "prompt": "Extreme close-up of a small silver daguerreotype plate in a brass frame on dark velvet, the plate showing a tiny, impossibly sharp street scene",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "p004",
@@ -42,9 +46,13 @@
   },
   {
    "id": "p005",
-   "src": "assets/shots/p005.png",
+   "src": "assets/shots/p005.jpg",
    "anchor": "It's been repeated for",
-   "prompt": "A stack of old leather-bound history books on a library table, one lying open, a magnifying glass beside them, no readable text"
+   "prompt": "A stack of old leather-bound history books on a library table, one lying open, a magnifying glass beside them, no readable text",
+   "focus": [
+    0.5,
+    0.55
+   ]
   },
   {
    "id": "p006",
@@ -58,9 +66,13 @@
   },
   {
    "id": "p007",
-   "src": "assets/shots/p007.png",
+   "src": "assets/shots/p007.jpg",
    "anchor": "This is the story",
-   "prompt": "An archive room: tall shelves of document boxes and bound ledgers, a reading lamp on a table, one ledger open with blank pages"
+   "prompt": "An archive room: tall shelves of document boxes and bound ledgers, a reading lamp on a table, one ledger open with blank pages",
+   "focus": [
+    0.5,
+    0.6
+   ]
   },
   {
    "id": "p008",
@@ -462,9 +474,13 @@
   },
   {
    "id": "p036",
-   "src": "assets/shots/p036.png",
+   "src": "assets/shots/p036.jpg",
    "anchor": "You'll often read that",
-   "prompt": "A red coral horn charm and a hand making a protective gesture against the evil eye, Neapolitan folk amulets on a wooden table"
+   "prompt": "A red coral horn charm and a hand making a protective gesture against the evil eye, Neapolitan folk amulets on a wooden table",
+   "focus": [
+    0.4,
+    0.5
+   ]
   },
   {
    "id": "p040",
@@ -496,9 +512,13 @@
   },
   {
    "id": "p042",
-   "src": "assets/shots/p042.png",
+   "src": "assets/shots/p042.jpg",
    "anchor": "But researchers who have",
-   "prompt": "A researcher's desk with old printed books and journals stacked high, one opened to a page, a lamp and a notepad, no readable text"
+   "prompt": "A researcher's desk with old printed books and journals stacked high, one opened to a page, a lamp and a notepad, no readable text",
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "o03",
