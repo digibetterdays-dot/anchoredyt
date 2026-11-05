@@ -12,6 +12,9 @@ Checked Nov 5 2026 by web search. Primary-source pages (Quote Investigator, Harr
 | "Photography's stringent truth to optical reality could nullify the individual's apprehension of beauty." | **Cut.** | Only source found is the same *Awake!* article, quoting an unnamed "commentator". No author, no date. Don't use it as a quote. |
 | Photos "shattered cherished illusions of beauty and youth." | **Use as the owner's general framing, not as a quote.** | Painted portraits could idealise (soften wrinkles, adjust proportions, improve posture, follow conventions of beauty); a photograph recorded detail an artist might leave out. No claim about how sitters felt (unsourced). |
 
+## Sitters and the camera (added Nov 5, for the Shorts)
+Search-level sources: Getty "Focus: Daguerreotypes" gallery text (lack of colour left many sitters frustrated with their grey complexions); Carol Shloss, "The Inconstant Daguerreotype", p. 163 (subjects' "common disappointment" with their images), cited in a UConn dissertation that also calls the frozen likeness "uncanny and even off-putting"; 1839 New York Observer praising portraits made "not with man's feeble, false, and flattering pencil"; long exposures, metal head rests, fixed stares. No direct 1840s quote from a disappointed sitter found yet.
+
 ## Who was the first photographer?
 
 **Joseph Nicéphore Niépce**, with a careful wording:
