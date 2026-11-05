@@ -136,9 +136,13 @@
   },
   {
    "id": "p016",
-   "src": "assets/shots/p016.png",
+   "src": "assets/shots/p016.jpg",
    "anchor": "He made images with",
-   "prompt": "A leaf laid on a sheet of treated paper in sunlight, its pale silhouette appearing on darkening paper, a gentleman's hand lifting the leaf, about 1800"
+   "prompt": "A leaf laid on a sheet of treated paper in sunlight, its pale silhouette appearing on darkening paper, a gentleman's hand lifting the leaf, about 1800",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "p017",
@@ -158,9 +162,13 @@
   },
   {
    "id": "p019",
-   "src": "assets/shots/p019.png",
+   "src": "assets/shots/p019.jpg",
    "anchor": "In the 1820s, at",
-   "prompt": "An inventor's workbench: a pewter plate, a jar of dark asphalt-like varnish, brushes, glass bottles, notes with no readable writing"
+   "prompt": "An inventor's workbench: a pewter plate, a jar of dark asphalt-like varnish, brushes, glass bottles, notes with no readable writing",
+   "focus": [
+    0.3,
+    0.6
+   ]
   },
   {
    "id": "p020",
@@ -215,16 +223,24 @@
   },
   {
    "id": "p024",
-   "src": "assets/shots/p024.png",
+   "src": "assets/shots/p024.jpg",
    "anchor": "His method was different.",
-   "prompt": "A silver-coated copper plate being held over a small wooden box with a faint vapour rising, a gloved hand, a candle-lit darkroom"
+   "prompt": "A silver-coated copper plate being held over a small wooden box with a faint vapour rising, a gloved hand, a candle-lit darkroom",
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "p025",
-   "src": "assets/shots/p025.png",
+   "src": "assets/shots/p025.jpg",
    "anchor": "The result was a",
    "prompt": "A daguerreotype in an open leather case, its mirror-like surface reflecting the viewer, an extraordinarily detailed street scene visible at an angle. ARCHIVAL OPTION: you may use the real public-domain image instead (Wikimedia Commons). If you do, it is shown without the Illustration tag.",
-   "archival": "Boulevard du Temple, Daguerre, 1838, public domain"
+   "archival": "Boulevard du Temple, Daguerre, 1838, public domain",
+   "focus": [
+    0.6,
+    0.45
+   ]
   },
   {
    "id": "p026",

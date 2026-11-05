@@ -282,9 +282,13 @@
   },
   {
    "id": "p016",
-   "src": "assets/shots/p016.png",
+   "src": "assets/shots/p016.jpg",
    "anchor": "He made images with",
    "prompt": "A leaf laid on a sheet of treated paper in sunlight, its pale silhouette appearing on darkening paper, a gentleman's hand lifting the leaf, about 1800",
+   "focus": [
+    0.5,
+    0.5
+   ],
    "start": 107.775,
    "end": 113.81,
    "dur": 6.035,
@@ -316,9 +320,13 @@
   },
   {
    "id": "p019a",
-   "src": "assets/shots/p019.png",
+   "src": "assets/shots/p019.jpg",
    "anchor": "In the 1820s, at",
    "prompt": "An inventor's workbench: a pewter plate, a jar of dark asphalt-like varnish, brushes, glass bottles, notes with no readable writing",
+   "focus": [
+    0.3,
+    0.6
+   ],
    "start": 124.54,
    "end": 128.943,
    "dur": 4.403,
@@ -327,9 +335,13 @@
   },
   {
    "id": "p019b",
-   "src": "assets/shots/p019.png",
+   "src": "assets/shots/p019.jpg",
    "anchor": "In the 1820s, at",
    "prompt": "An inventor's workbench: a pewter plate, a jar of dark asphalt-like varnish, brushes, glass bottles, notes with no readable writing",
+   "focus": [
+    0.3,
+    0.6
+   ],
    "start": 128.943,
    "end": 133.669,
    "dur": 4.726,
@@ -498,9 +510,13 @@
   },
   {
    "id": "p024a",
-   "src": "assets/shots/p024.png",
+   "src": "assets/shots/p024.jpg",
    "anchor": "His method was different.",
    "prompt": "A silver-coated copper plate being held over a small wooden box with a faint vapour rising, a gloved hand, a candle-lit darkroom",
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 189.706,
    "end": 194.861,
    "dur": 5.155,
@@ -509,9 +525,13 @@
   },
   {
    "id": "p024b",
-   "src": "assets/shots/p024.png",
+   "src": "assets/shots/p024.jpg",
    "anchor": "His method was different.",
    "prompt": "A silver-coated copper plate being held over a small wooden box with a faint vapour rising, a gloved hand, a candle-lit darkroom",
+   "focus": [
+    0.55,
+    0.5
+   ],
    "start": 194.861,
    "end": 199.85,
    "dur": 4.989,
@@ -521,10 +541,14 @@
   },
   {
    "id": "p025",
-   "src": "assets/shots/p025.png",
+   "src": "assets/shots/p025.jpg",
    "anchor": "The result was a",
    "prompt": "A daguerreotype in an open leather case, its mirror-like surface reflecting the viewer, an extraordinarily detailed street scene visible at an angle. ARCHIVAL OPTION: you may use the real public-domain image instead (Wikimedia Commons). If you do, it is shown without the Illustration tag.",
    "archival": "Boulevard du Temple, Daguerre, 1838, public domain",
+   "focus": [
+    0.6,
+    0.45
+   ],
    "start": 199.85,
    "end": 206.315,
    "dur": 6.465,
