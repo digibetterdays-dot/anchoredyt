@@ -627,9 +627,13 @@
   },
   {
    "id": "p052",
-   "src": "assets/shots/p052.png",
+   "src": "assets/shots/p052.jpg",
    "anchor": "The fears were real.",
-   "prompt": "A dim workshop of the 1840s with an abandoned miniature painter's table, tiny brushes and an unfinished locket portrait"
+   "prompt": "A dim workshop of the 1840s with an abandoned miniature painter's table, tiny brushes and an unfinished locket portrait",
+   "focus": [
+    0.3,
+    0.6
+   ]
   },
   {
    "id": "p053",
