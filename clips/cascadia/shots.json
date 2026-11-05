@@ -383,15 +383,23 @@
   },
   {
    "id": "s045",
-   "src": "assets/shots/s045.png",
+   "src": "assets/shots/s045.jpg",
    "anchor": "That's a gap measured",
-   "prompt": "A classroom of children ducking under their desks in an earthquake drill, a teacher crouching with them"
+   "prompt": "A classroom of children ducking under their desks in an earthquake drill, a teacher crouching with them",
+   "focus": [
+    0.5,
+    0.7
+   ]
   },
   {
    "id": "s046",
-   "src": "assets/shots/s046.png",
+   "src": "assets/shots/s046.jpg",
    "anchor": "or to let automated",
-   "prompt": "A commuter train braking on an elevated track, sparks at the wheels, traffic lights below turning red"
+   "prompt": "A commuter train braking on an elevated track, sparks at the wheels, traffic lights below turning red",
+   "focus": [
+    0.45,
+    0.4
+   ]
   },
   {
    "id": "s047",
@@ -408,11 +416,15 @@
   },
   {
    "id": "s048",
-   "src": "assets/shots/s048.png",
+   "src": "assets/shots/s048.jpg",
    "anchor": "But there's an honest",
    "prompt": "Map-like view of a coast with concentric rings spreading from an offshore point, the innermost ring filled rust-red, no labels",
    "emphasis": true,
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "s049",
