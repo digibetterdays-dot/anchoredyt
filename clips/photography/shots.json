@@ -506,16 +506,24 @@
   },
   {
    "id": "p049",
-   "src": "assets/shots/p049.png",
+   "src": "assets/shots/p049.jpg",
    "anchor": "A critic mocked them",
-   "prompt": "A 19th-century newspaper critic laughing at an impressionistic painting of a sunrise over a harbour in a gallery, other visitors puzzled"
+   "prompt": "A 19th-century newspaper critic laughing at an impressionistic painting of a sunrise over a harbour in a gallery, other visitors puzzled",
+   "focus": [
+    0.45,
+    0.45
+   ]
   },
   {
    "id": "p050",
-   "src": "assets/shots/p050.png",
+   "src": "assets/shots/p050.jpg",
    "anchor": "Where did they hang",
    "prompt": "A Paris boulevard building with a large studio upstairs, its wide windows glowing, a red sign shape with no letters, crowds below, 1874",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.55,
+    0.35
+   ]
   },
   {
    "id": "o05",
@@ -527,11 +535,15 @@
   },
   {
    "id": "p051",
-   "src": "assets/shots/p051.png",
+   "src": "assets/shots/p051.jpg",
    "anchor": "The camera didn't end",
    "prompt": "A painter and a photographer working side by side in a sunlit studio, an easel and a box camera both aimed at the same vase of flowers",
    "section_start": true,
-   "move": "pull_out"
+   "move": "pull_out",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "p052",
