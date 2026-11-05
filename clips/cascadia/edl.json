@@ -819,20 +819,9 @@
    "text": "An hour or more",
    "sub": "to walk to high ground in parts of Washington's outer coast",
    "start": 289.026,
-   "end": 294.82,
-   "dur": 5.794,
-   "move": "none"
-  },
-  {
-   "id": "s053",
-   "src": "assets/shots/s053.png",
-   "anchor": "of warning, an hour",
-   "prompt": "A family walking fast on an empty coastal road, looking back over their shoulders at the sea",
-   "emphasis": true,
-   "start": 294.82,
    "end": 297.215,
-   "dur": 2.395,
-   "move": "push_fast"
+   "dur": 8.189,
+   "move": "none"
   },
   {
    "id": "s054",
@@ -1312,10 +1301,14 @@
   },
   {
    "id": "s078b",
-   "src": "assets/shots/s078b.png",
+   "src": "assets/shots/s078b.jpg",
    "anchor": "That sounded like a",
    "prompt": "A grid of many small paper-cut school buildings seen from above, only two or three of them glowing warm, the rest grey",
    "label": null,
+   "focus": [
+    0.68,
+    0.6
+   ],
    "start": 494.663,
    "end": 499.589,
    "dur": 4.926,
@@ -1428,9 +1421,13 @@
   },
   {
    "id": "s083",
-   "src": "assets/shots/s083.png",
+   "src": "assets/shots/s083.jpg",
    "anchor": "The old advice was",
    "prompt": "An emergency kit laid out on a table: water jugs, a flashlight, canned food, a radio, a first-aid box, no labels",
+   "focus": [
+    0.5,
+    0.5
+   ],
    "start": 550.395,
    "end": 556.161,
    "dur": 5.766,
@@ -1533,9 +1530,13 @@
   },
   {
    "id": "s088a",
-   "src": "assets/shots/s088.png",
+   "src": "assets/shots/s088.jpg",
    "anchor": "It's not a prediction.",
    "prompt": "A lighthouse on a headland under moving clouds, waves below",
+   "focus": [
+    0.7,
+    0.45
+   ],
    "start": 584.284,
    "end": 587.831,
    "dur": 3.547,
@@ -1544,9 +1545,13 @@
   },
   {
    "id": "s088b",
-   "src": "assets/shots/s088.png",
+   "src": "assets/shots/s088.jpg",
    "anchor": "It's not a prediction.",
    "prompt": "A lighthouse on a headland under moving clouds, waves below",
+   "focus": [
+    0.7,
+    0.45
+   ],
    "start": 587.831,
    "end": 591.4,
    "dur": 3.569,

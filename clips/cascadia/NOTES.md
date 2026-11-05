@@ -6,8 +6,8 @@ Built with the `documentary-edit` skill (`.claude/skills/documentary-edit/`). Sc
 - [x] Shot list: `shots.json`, 118 shots (82 new images, 33 cards, 3 reused images). `shots.json` is the source of truth.
 - [x] Prompt list for the owner: `PROMPTS.md`
 - [x] Anchors tested against the narration text (all found; estimated 12.0 min, 144 segments, average 5.0 s, no shot under 2 s)
-- [x] **78 of 82 stills filed** (Nov 4; uploaded by the owner to branch `claude/sharp-ride-lwydum`, matched to shots by eye, resized to 1920 wide JPG q2). s069 cropped out of its paper frame. Alternates kept in `assets/alt/`.
-- [ ] **4 stills still needed:** s053 s078b s083 s088 into `assets/shots/` (names as in `PROMPTS.md`)
+- [x] **81 of 81 stills filed** (Nov 4; uploaded by the owner to branch `claude/sharp-ride-lwydum`, matched to shots by eye, resized to 1920 wide JPG q2). s069 cropped out of its paper frame. Alternates kept in `assets/alt/`.
+- [x] All stills in. s053 (family looking back) never arrived: dropped; s052 holds through that line with a punch-in. Add it back to `shots.json` if a still is made later.
 - [ ] Fact checks below, **before recording**
 - [x] Voiceover: `assets/audio/voice.wav` (owner's two files joined with 0.6 s gap; 9:58)
 - [x] Word timings: `words.json` from **script-to-pause alignment** (`align_text.py`), not transcription: huggingface.co is blocked here. Fit: median 12% per stretch, 3 stretches over 50%. Re-run with `hyperframes transcribe` if that host is allowed.

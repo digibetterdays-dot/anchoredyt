@@ -497,13 +497,6 @@
    "sub": "to walk to high ground in parts of Washington's outer coast"
   },
   {
-   "id": "s053",
-   "src": "assets/shots/s053.png",
-   "anchor": "of warning, an hour",
-   "prompt": "A family walking fast on an empty coastal road, looking back over their shoulders at the sea",
-   "emphasis": true
-  },
-  {
    "id": "s054",
    "src": "assets/shots/s054.jpg",
    "anchor": "Take the city of",
@@ -795,10 +788,14 @@
   },
   {
    "id": "s078b",
-   "src": "assets/shots/s078b.png",
+   "src": "assets/shots/s078b.jpg",
    "anchor": "That sounded like a",
    "prompt": "A grid of many small paper-cut school buildings seen from above, only two or three of them glowing warm, the rest grey",
-   "label": null
+   "label": null,
+   "focus": [
+    0.68,
+    0.6
+   ]
   },
   {
    "id": "c31",
@@ -844,9 +841,13 @@
   },
   {
    "id": "s083",
-   "src": "assets/shots/s083.png",
+   "src": "assets/shots/s083.jpg",
    "anchor": "The old advice was",
-   "prompt": "An emergency kit laid out on a table: water jugs, a flashlight, canned food, a radio, a first-aid box, no labels"
+   "prompt": "An emergency kit laid out on a table: water jugs, a flashlight, canned food, a radio, a first-aid box, no labels",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "c33",
@@ -896,9 +897,13 @@
   },
   {
    "id": "s088",
-   "src": "assets/shots/s088.png",
+   "src": "assets/shots/s088.jpg",
    "anchor": "It's not a prediction.",
-   "prompt": "A lighthouse on a headland under moving clouds, waves below"
+   "prompt": "A lighthouse on a headland under moving clouds, waves below",
+   "focus": [
+    0.7,
+    0.45
+   ]
   },
   {
    "id": "s089",
