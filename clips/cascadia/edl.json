@@ -410,9 +410,13 @@
   },
   {
    "id": "s028",
-   "src": "assets/shots/s028.png",
+   "src": "assets/shots/s028.jpg",
    "anchor": "and about 15 percent",
    "prompt": "An hourglass with sand running, a quiet coastline visible through the window behind it",
+   "focus": [
+    0.37,
+    0.55
+   ],
    "start": 148.232,
    "end": 152.863,
    "dur": 4.631,
@@ -420,9 +424,13 @@
   },
   {
    "id": "s029",
-   "src": "assets/shots/s029.png",
+   "src": "assets/shots/s029.jpg",
    "anchor": "You'll see higher numbers,",
    "prompt": "A stack of old research reports and binders on a desk, a desk lamp, no readable text",
+   "focus": [
+    0.55,
+    0.6
+   ],
    "start": 152.863,
    "end": 157.066,
    "dur": 4.203,
