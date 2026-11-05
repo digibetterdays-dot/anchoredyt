@@ -522,10 +522,14 @@
   },
   {
    "id": "s055",
-   "src": "assets/shots/s055.png",
+   "src": "assets/shots/s055.jpg",
    "anchor": "And in some places,",
    "prompt": "A long flat sandy peninsula with ocean on both sides and no high ground anywhere, seen from above",
-   "label": null
+   "label": null,
+   "focus": [
+    0.78,
+    0.25
+   ]
   },
   {
    "id": "s056",
