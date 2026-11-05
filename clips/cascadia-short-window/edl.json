@@ -1,0 +1,244 @@
+{
+ "title": "10 Minutes of Warning, an Hour of Walking",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "music": null,
+ "label_default": "Illustration",
+ "captions": true,
+ "duration": 37.552,
+ "words": "words.json",
+ "segments": [
+  {
+   "id": "w01a",
+   "anchor": "",
+   "emphasis": true,
+   "move": "push_fast",
+   "focus": [
+    0.62,
+    0.62
+   ],
+   "src": "assets/shots/s050.jpg",
+   "start": 0.0,
+   "end": 2.678,
+   "dur": 2.678,
+   "punch": 0
+  },
+  {
+   "id": "w01b",
+   "anchor": "",
+   "emphasis": true,
+   "move": "hold_punch",
+   "focus": [
+    0.62,
+    0.62
+   ],
+   "src": "assets/shots/s050.jpg",
+   "start": 2.678,
+   "end": 5.566,
+   "dur": 2.888,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "w01c",
+   "anchor": "",
+   "emphasis": true,
+   "move": "hold_punch",
+   "focus": [
+    0.62,
+    0.62
+   ],
+   "src": "assets/shots/s050.jpg",
+   "start": 5.566,
+   "end": 8.466,
+   "dur": 2.9,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "w02",
+   "anchor": "depending on the source",
+   "move": "push_in",
+   "focus": [
+    0.66,
+    0.45
+   ],
+   "src": "assets/shots/s056.jpg",
+   "start": 8.466,
+   "end": 11.249,
+   "dur": 2.783
+  },
+  {
+   "id": "w03a",
+   "anchor": "In Washington, a state",
+   "move": "pan_right",
+   "focus": [
+    0.7,
+    0.7
+   ],
+   "src": "assets/shots/s051.jpg",
+   "start": 11.249,
+   "end": 13.939,
+   "dur": 2.69,
+   "punch": 0
+  },
+  {
+   "id": "w03b",
+   "anchor": "In Washington, a state",
+   "move": "hold_punch",
+   "focus": [
+    0.7,
+    0.7
+   ],
+   "src": "assets/shots/s051.jpg",
+   "start": 13.939,
+   "end": 16.665,
+   "dur": 2.726,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "w03c",
+   "anchor": "In Washington, a state",
+   "move": "hold_punch",
+   "focus": [
+    0.7,
+    0.7
+   ],
+   "src": "assets/shots/s051.jpg",
+   "start": 16.665,
+   "end": 19.334,
+   "dur": 2.669,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "w03d",
+   "anchor": "In Washington, a state",
+   "move": "hold_punch",
+   "focus": [
+    0.7,
+    0.7
+   ],
+   "src": "assets/shots/s051.jpg",
+   "start": 19.334,
+   "end": 22.287,
+   "dur": 2.953,
+   "punch": 3,
+   "section_start": false
+  },
+  {
+   "id": "w04",
+   "anchor": "to reach high ground.",
+   "move": "pull_out",
+   "focus": [
+    0.78,
+    0.25
+   ],
+   "label": null,
+   "src": "assets/shots/s055.jpg",
+   "start": 22.287,
+   "end": 23.641,
+   "dur": 1.354
+  },
+  {
+   "id": "w05a",
+   "anchor": "And here's the problem.",
+   "move": "push_in",
+   "focus": [
+    0.33,
+    0.6
+   ],
+   "src": "assets/shots/s052.jpg",
+   "start": 23.641,
+   "end": 26.986,
+   "dur": 3.345,
+   "punch": 0
+  },
+  {
+   "id": "w05b",
+   "anchor": "And here's the problem.",
+   "move": "hold_punch",
+   "focus": [
+    0.33,
+    0.6
+   ],
+   "src": "assets/shots/s052.jpg",
+   "start": 26.986,
+   "end": 30.052,
+   "dur": 3.066,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "w05c",
+   "anchor": "And here's the problem.",
+   "move": "hold_punch",
+   "focus": [
+    0.33,
+    0.6
+   ],
+   "src": "assets/shots/s052.jpg",
+   "start": 30.052,
+   "end": 33.439,
+   "dur": 3.387,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "w06a",
+   "anchor": "Ten to fifteen minutes",
+   "move": "push_in",
+   "focus": [
+    0.72,
+    0.5
+   ],
+   "emphasis": true,
+   "src": "assets/shots/s062.jpg",
+   "start": 33.439,
+   "end": 35.632,
+   "dur": 2.193,
+   "punch": 0
+  },
+  {
+   "id": "w06b",
+   "anchor": "Ten to fifteen minutes",
+   "move": "hold_punch",
+   "focus": [
+    0.72,
+    0.5
+   ],
+   "emphasis": true,
+   "src": "assets/shots/s062.jpg",
+   "start": 35.632,
+   "end": 37.552,
+   "dur": 1.92,
+   "punch": 1,
+   "section_start": false
+  }
+ ],
+ "overlays": [
+  {
+   "id": "o01",
+   "text": "10 to 30 minutes",
+   "sub": "Oregon coast, counted from when shaking BEGINS",
+   "start": 3.615,
+   "end": 11.199
+  },
+  {
+   "id": "o02",
+   "text": "10 to 15 minutes",
+   "sub": "Washington outer coast, counted from when shaking STOPS",
+   "start": 17.801,
+   "end": 23.591
+  },
+  {
+   "id": "o03",
+   "text": "An hour or more",
+   "sub": "to walk to high ground, parts of Washington's outer coast",
+   "start": 28.976,
+   "end": 33.389
+  }
+ ],
+ "problems": []
+}

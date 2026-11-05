@@ -1,0 +1,105 @@
+{
+ "title": "Why Cascadia Shakes for Minutes",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "label": "Illustration",
+ "captions": true,
+ "shots": [
+  {
+   "id": "k01",
+   "anchor": "",
+   "emphasis": true,
+   "move": "push_fast",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/s038.jpg"
+  },
+  {
+   "id": "k02",
+   "anchor": "What would the shaking",
+   "move": "push_in",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/s032.jpg"
+  },
+  {
+   "id": "k03",
+   "anchor": "on a late January",
+   "move": "pull_out",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/s021.jpg"
+  },
+  {
+   "id": "k04",
+   "anchor": "The authors of Oregon's",
+   "move": "pan_right",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/s034.jpg"
+  },
+  {
+   "id": "k05",
+   "anchor": "No one can predict",
+   "move": "push_in",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "src": "assets/shots/alt-s035-birds.jpg"
+  },
+  {
+   "id": "k06",
+   "anchor": "The key difference from",
+   "move": "scan",
+   "label": null,
+   "src": "assets/shots/s036.jpg"
+  },
+  {
+   "id": "k07",
+   "anchor": "State geologists in Oregon",
+   "move": "push_in",
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "src": "assets/shots/s037.jpg"
+  },
+  {
+   "id": "o01",
+   "type": "card",
+   "overlay": true,
+   "anchor": "Some of their briefings",
+   "text": "Several minutes",
+   "sub": "Oregon state geologists; some briefings: 3 to 5"
+  },
+  {
+   "id": "k08",
+   "anchor": "Several minutes. That's long",
+   "move": "tilt_down",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/s038.jpg"
+  },
+  {
+   "id": "k09",
+   "anchor": "and long enough that",
+   "move": "push_in",
+   "focus": [
+    0.5,
+    0.55
+   ],
+   "src": "assets/shots/s040.jpg"
+  }
+ ]
+}

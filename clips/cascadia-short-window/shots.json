@@ -1,0 +1,96 @@
+{
+ "title": "10 Minutes of Warning, an Hour of Walking",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "label": "Illustration",
+ "captions": true,
+ "shots": [
+  {
+   "id": "w01",
+   "anchor": "",
+   "emphasis": true,
+   "move": "push_fast",
+   "focus": [
+    0.62,
+    0.62
+   ],
+   "src": "assets/shots/s050.jpg"
+  },
+  {
+   "id": "o01",
+   "type": "card",
+   "overlay": true,
+   "anchor": "Estimates for the Oregon",
+   "text": "10 to 30 minutes",
+   "sub": "Oregon coast, counted from when shaking BEGINS"
+  },
+  {
+   "id": "w02",
+   "anchor": "depending on the source",
+   "move": "push_in",
+   "focus": [
+    0.66,
+    0.45
+   ],
+   "src": "assets/shots/s056.jpg"
+  },
+  {
+   "id": "w03",
+   "anchor": "In Washington, a state",
+   "move": "pan_right",
+   "focus": [
+    0.7,
+    0.7
+   ],
+   "src": "assets/shots/s051.jpg"
+  },
+  {
+   "id": "o02",
+   "type": "card",
+   "overlay": true,
+   "anchor": "found that people may",
+   "text": "10 to 15 minutes",
+   "sub": "Washington outer coast, counted from when shaking STOPS"
+  },
+  {
+   "id": "w04",
+   "anchor": "to reach high ground.",
+   "move": "pull_out",
+   "focus": [
+    0.78,
+    0.25
+   ],
+   "label": null,
+   "src": "assets/shots/s055.jpg"
+  },
+  {
+   "id": "w05",
+   "anchor": "And here's the problem.",
+   "move": "push_in",
+   "focus": [
+    0.33,
+    0.6
+   ],
+   "src": "assets/shots/s052.jpg"
+  },
+  {
+   "id": "o03",
+   "type": "card",
+   "overlay": true,
+   "anchor": "it can take an",
+   "text": "An hour or more",
+   "sub": "to walk to high ground, parts of Washington's outer coast"
+  },
+  {
+   "id": "w06",
+   "anchor": "Ten to fifteen minutes",
+   "move": "push_in",
+   "focus": [
+    0.72,
+    0.5
+   ],
+   "emphasis": true,
+   "src": "assets/shots/s062.jpg"
+  }
+ ]
+}
