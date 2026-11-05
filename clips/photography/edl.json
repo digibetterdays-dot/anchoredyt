@@ -10,22 +10,26 @@
  "segments": [
   {
    "id": "p001",
-   "src": "assets/shots/p001.png",
+   "src": "assets/shots/p001.jpg",
    "anchor": "",
    "prompt": "A Paris street in 1839 seen from a high window: grey rooftops, chimneys, a pale morning sky, horse carriages far below",
    "move": "push_in",
+   "focus": [
+    0.5,
+    0.65
+   ],
    "start": 0.0,
    "end": 3.932,
    "dur": 3.932
   },
   {
    "id": "p002",
-   "src": "assets/shots/p002.png",
+   "src": "assets/shots/p002.jpg",
    "anchor": "at a small silver",
    "prompt": "A 19th-century painter in a dark frock coat, seen from behind and slightly to the side, holding a small mirror-like silver plate up to the window light, his studio easel blurred behind him; no face detail needed",
    "focus": [
-    0.55,
-    0.5
+    0.5,
+    0.35
    ],
    "start": 3.932,
    "end": 7.083,
