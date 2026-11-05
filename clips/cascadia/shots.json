@@ -663,9 +663,13 @@
   },
   {
    "id": "s075",
-   "src": "assets/shots/s075.png",
+   "src": "assets/shots/s075.jpg",
    "anchor": "The plan says businesses",
-   "prompt": "A small shop owner standing in a dark store holding a flashlight, shelves stocked but no power"
+   "prompt": "A small shop owner standing in a dark store holding a flashlight, shelves stocked but no power",
+   "focus": [
+    0.35,
+    0.5
+   ]
   },
   {
    "id": "c26",
@@ -676,9 +680,13 @@
   },
   {
    "id": "s076",
-   "src": "assets/shots/s076.png",
+   "src": "assets/shots/s076.jpg",
    "anchor": "Now compare that with",
-   "prompt": "A Japanese city at night, line crews on bucket trucks, lights coming back on block by block"
+   "prompt": "A Japanese city at night, line crews on bucket trucks, lights coming back on block by block",
+   "focus": [
+    0.72,
+    0.65
+   ]
   },
   {
    "id": "c27",
