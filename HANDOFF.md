@@ -72,6 +72,9 @@ Tools needed locally: Node 22+, ffmpeg/ffprobe, Python 3, Chrome (HyperFrames us
 ## Queue: When Photography Terrified the World
 **Rendered** (Nov 5, 8:45; `clips/photography/renders/`, local only). Next: owner review, Shorts, upload package. See `clips/photography/NOTES.md`.
 
+## Queue: Why Do We Sleep?
+Fact check, script, shot list and prompts done (`clips/sleep/`, `sleep-factcheck.md`). Waiting on the owner's VO and 86 stills.
+
 ## Next steps (after Cascadia)
 0. (done: see START HERE) Cascadia timing check (if huggingface.co is now reachable: `curl -sI https://huggingface.co`): in `clips/cascadia`, run `npx --yes hyperframes@0.9.6 transcribe assets/audio/voice.wav --model small.en --engine whisper`, save the words as `words-whisper.json`, compare anchor times against `words.json` (from script-to-pause alignment), switch to the transcript if they differ, re-run `doc_edit.py plan` + `build`, and report which cuts moved.
 1. Cascadia: owner generates the stills in `clips/cascadia/PROMPTS.md`; clear the 5 on-screen fact checks in `clips/cascadia/NOTES.md`; record voice; then run the `documentary-edit` skill steps 2-5.

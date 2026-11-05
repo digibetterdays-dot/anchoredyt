@@ -1,0 +1,175 @@
+# Why Do We Sleep? What Happens to Your Brain When You Close Your Eyes: voiceover script
+
+Fast-paced, curious, warm. Lean into the questions; slow down on the reveals ("Why does your brain need to make you unconscious...", "REM atonia", the final line). Pause about 1.5 s at each chapter break and about 0.4 s before each reveal. Pronunciations: suprachiasmatic "soo-pruh-ky-az-MAT-ik", circadian "ser-KAY-dee-un", adenosine "uh-DEN-oh-seen", glymphatic "glim-FAT-ik", Carskadon "CAR-ska-don", Fjell "fyell", Walhovd "VAHL-hovd", atonia "ay-TOH-nee-uh".
+
+## Opening hook
+
+Every night, you do something extraordinary.
+
+You lie down, close your eyes, and gradually lose awareness of the world around you.
+
+For several hours, you become less responsive to your surroundings. Your muscles relax. Your breathing changes. Your brain begins cycling through different patterns of activity.
+
+And yet, your brain isn't simply switching off.
+
+In fact, while you sleep, your brain is doing some of its most important work. It is organizing memories, regulating important biological processes, and helping prepare you for another day.
+
+But here's the really fascinating question. Why does your brain need to make you unconscious for all this to happen?
+
+Scientists understand many of the brain systems that control sleep, and the different stages we pass through. But there is still no single explanation for why sleep evolved, or why it does everything it does.
+
+So let's follow your brain through an ordinary night, and discover what really happens when you fall asleep.
+
+## Chapter 1: Who tells your brain when to sleep?
+
+Have you ever noticed that you get sleepy at roughly the same time every night?
+
+That's not simply a habit. Your body has an internal timing system called the circadian rhythm. This biological clock runs on a cycle of about 24 hours, and helps coordinate sleep, wakefulness, body temperature, hormone release, and more.
+
+One of its most important control centers is a tiny structure in the brain called the suprachiasmatic nucleus, or SCN. It receives information about light from your eyes, and uses it to keep your internal clock in step with the outside world.
+
+When evening comes and the light fades, your brain signals the pineal gland to release more melatonin.
+
+Melatonin is often called the sleep hormone, but there's an important distinction. It doesn't switch your brain off. It acts more like a signal, telling your body that night has arrived.
+
+Meanwhile, another process has been building all day. As you stay awake, a chemical called adenosine gradually accumulates in the brain, contributing to what scientists call sleep pressure. The longer you stay awake, the stronger that pressure generally becomes.
+
+So your sleepiness depends on two interacting systems: your biological clock, and the time you've spent awake.
+
+Here's something you may have noticed. Stay up much later than usual, and you may feel sleepy at your normal bedtime, then get a temporary burst of alertness. That's partly because your circadian clock can promote wakefulness for a while, even when sleep pressure is high.
+
+Your brain is balancing two competing forces. And when the sleep-promoting systems finally win, you begin to drift off.
+
+## Chapter 2: Why do teenagers want to sleep later?
+
+Here's something that may surprise parents and teachers.
+
+A teenager who struggles to fall asleep at nine o'clock may not simply be lazy or undisciplined.
+
+During puberty, the biological timing of sleep naturally shifts later for many young people. The evening release of melatonin tends to come later, and sleep pressure builds more slowly.
+
+Researchers including Mary Carskadon have studied these developmental changes, and explain why adolescents so commonly drift toward a later sleep schedule.
+
+The result? A teenager may feel wide awake late at night, and struggle to wake up early for school. That creates a conflict between the teenage body clock and the early schedules of modern life.
+
+The American Academy of Sleep Medicine recommends that teenagers aged 13 to 18 regularly get 8 to 10 hours of sleep.
+
+So the next time a teenager says, "I'm just not sleepy yet," remember: there may be a genuine biological reason.
+
+## Chapter 3: Your brain doesn't just switch off
+
+Now imagine you've finally fallen asleep. What happens next?
+
+Scientists divide sleep into two major types: non-REM sleep and REM sleep. Non-REM sleep has three stages, moving from light sleep into deep sleep.
+
+A typical night is made of repeated cycles through these stages, each lasting about 90 minutes. Most people go through four to six cycles in a full night.
+
+Let's take a closer look.
+
+Stage one: the transition. This is the brief period between being awake and being asleep. Your breathing and heartbeat begin to slow, your muscles relax, and your brain activity starts to change.
+
+You may feel something strange here: a sudden sense of falling, followed by a quick muscle jerk. These are called hypnic jerks, or sleep starts. They're common, and generally harmless.
+
+Stage two: light sleep. You are now genuinely asleep. Your body temperature begins to drop, your breathing slows, and your eye movements stop.
+
+Your brain also produces brief bursts of electrical activity called sleep spindles. Research has linked them to memory processing and learning. So even in this ordinary-sounding stage, your brain is at work.
+
+Stage three: deep sleep. This is the deepest stage of non-REM sleep, also called slow-wave sleep. Your heartbeat and breathing reach some of their lowest levels of the night. It becomes harder to wake you, and your body is busy with processes that support repair and recovery.
+
+The release of growth hormone is closely tied to this stage, which matters especially in childhood and adolescence, when the body is growing fast.
+
+But the night is not over yet. Something very unusual is about to happen.
+
+## Chapter 4: Your brain wakes up, your body doesn't
+
+About 90 minutes after you fall asleep, you typically enter a remarkable stage called REM sleep. REM stands for rapid eye movement, and as the name suggests, your eyes move rapidly beneath your closed eyelids.
+
+But here's the strange part. Your brain becomes highly active. In some ways, its electrical activity resembles the patterns of wakefulness. And this is the stage where vivid dreams are especially common.
+
+Yet while your brain is busy creating dreams, most of your voluntary muscles are temporarily switched off.
+
+Why? Imagine dreaming that you're running from a dangerous animal. If your body followed every movement in your dream, you might actually start running around your bedroom.
+
+During REM sleep, the brainstem activates pathways that temporarily block most movement in your skeletal muscles. This protective state is called REM atonia. It helps keep you from acting out your dreams.
+
+Your eyes can move, your breathing continues, your heart keeps beating, but most of your voluntary muscles stay still.
+
+It's almost as if your brain is watching an elaborate movie, while keeping your body out of the action.
+
+And one more detail: REM isn't the only time you dream. Dreams can happen in non-REM sleep too, though they tend to feel different.
+
+## Chapter 5: Your brain's night shift
+
+Have you ever studied something difficult, gone to bed, and understood it better the next morning?
+
+Sleep may have helped.
+
+Researchers have found that sleep contributes to memory consolidation: the process that makes newly learned information more stable, and weaves it into long-term memory.
+
+Think of your brain as a desk covered with papers after a busy day. New names, new facts, new skills, countless events. Sleep helps your brain sort through some of it, and strengthen what matters.
+
+Different stages seem to help in different ways. Deep non-REM sleep is especially associated with consolidating facts and experiences, while REM sleep also appears to play a role in memory and emotional learning.
+
+And this isn't just casual observation. A 2024 systematic review and meta-analysis examined 39 research reports involving 1,234 participants. It found that restricting sleep was associated with poorer memory formation.
+
+So staying up all night to study may work against the very thing you're trying to do.
+
+Your brain needs sleep not just to rest, but to process what you've learned.
+
+## Chapter 6: How much sleep do you really need?
+
+Now here's a question that divides people. Some say they function perfectly well on four or five hours. Others say they need nine or ten.
+
+So how much is enough?
+
+Sleep needs vary with age, and from person to person. According to the National Sleep Foundation, newborns need around 14 to 17 hours over a 24-hour period, often in several short stretches. Teenagers need 8 to 10. And sleep experts recommend that most adults regularly get at least seven.
+
+But what about the rare people who genuinely need very little?
+
+Scientists have found genetic variations linked to naturally short sleep. A well-known 2009 study, published in the journal Science, identified a rare mutation in a gene called DEC2 in a mother and daughter who naturally slept for much shorter periods. When researchers gave mice the corresponding mutation, the mice slept less too.
+
+So biology and genetics can shape how much sleep some people need.
+
+But here's the important warning: these rare genetic cases don't mean ordinary people can train themselves to live healthily on three or four hours a night. For most of us, regularly cutting sleep short has real consequences.
+
+## Chapter 7: Does your brain clean itself while you sleep?
+
+Here's one of the most intriguing areas of modern sleep research.
+
+Your brain produces metabolic waste as it works. Researchers have been investigating a proposed waste-clearance system called the glymphatic system. The idea is that fluid moving through the spaces around blood vessels may help carry certain waste away from brain tissue.
+
+Animal research has suggested that sleep influences this process. Human studies are now investigating how sleep affects the movement of fluid and the clearance of substances in and around the brain.
+
+But scientists are still working out exactly how this system operates in humans, and how much it contributes to the benefits of sleep.
+
+So it's tempting to say your brain gets washed clean every night, but that would be an oversimplification. What we can say is that sleep appears to influence important clearance processes in the brain, and that this is an exciting area of research.
+
+## Chapter 8: Why do we have to sleep at all?
+
+We've seen that sleep is connected to memory, learning, biological timing, physical recovery, and much more.
+
+But one enormous question remains. Why did evolution produce a state in which animals become less responsive to their surroundings for hours at a time?
+
+Think about the risk. A sleeping animal is less alert to predators. A sleeping human can't easily respond to danger. And yet, sleep is found throughout the animal kingdom.
+
+Scientists have proposed several explanations. One emphasizes conserving energy. Another says sleep helps restore and maintain the body and brain. Others focus on memory, learning, and reorganizing the connections between neurons. And some involve clearing metabolic waste.
+
+The most likely answer may be that sleep serves several important functions, not just one.
+
+A 2025 review by the neuroscientists Anders Fjell and Kristine Walhovd weighed these competing theories, and noted that scientists still don't agree on one fundamental reason why we sleep.
+
+And that is what makes sleep so fascinating. We understand many of the mechanisms. But its full evolutionary purpose is still an open scientific question.
+
+## Close: The extraordinary thing that happens when you do nothing
+
+Every night, you surrender hours of conscious control. You stop responding normally to the world. You become vulnerable. You can't simply decide to stay alert forever.
+
+Yet during those hours, your brain and body carry on with essential work. Your memories are being processed. Your biological systems follow carefully coordinated rhythms. Your body goes through processes linked to recovery and maintenance.
+
+Sleep is not simply the absence of activity. It is a different kind of activity, one your brain and body depend on.
+
+And perhaps the most surprising thing is this: you can spend an entire night asleep without being aware of most of what happens inside your own brain.
+
+So tonight, when you close your eyes, remember. The world may think you've switched off.
+
+But inside your head, an extraordinary night shift is just beginning.
