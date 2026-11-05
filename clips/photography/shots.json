@@ -380,15 +380,23 @@
   },
   {
    "id": "p031b",
-   "src": "assets/shots/p031b.png",
+   "src": "assets/shots/p031b.jpg",
    "anchor": "For portrait painters, this",
-   "prompt": "A well-dressed couple in an 1850s photographer's waiting room choosing from a display of framed photographic portraits, while a painter's empty easel stands in the corner"
+   "prompt": "A well-dressed couple in an 1850s photographer's waiting room choosing from a display of framed photographic portraits, while a painter's empty easel stands in the corner",
+   "focus": [
+    0.4,
+    0.45
+   ]
   },
   {
    "id": "p031",
-   "src": "assets/shots/p031.png",
+   "src": "assets/shots/p031.jpg",
    "anchor": "Some artists saw an",
-   "prompt": "A lonely portrait painter in an empty studio, canvases turned to the wall, looking out the window at a photographer's sign across the street"
+   "prompt": "A lonely portrait painter in an empty studio, canvases turned to the wall, looking out the window at a photographer's sign across the street",
+   "focus": [
+    0.45,
+    0.5
+   ]
   },
   {
    "id": "p031c",
