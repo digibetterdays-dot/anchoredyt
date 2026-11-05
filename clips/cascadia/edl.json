@@ -774,9 +774,13 @@
   },
   {
    "id": "s051",
-   "src": "assets/shots/s051.png",
+   "src": "assets/shots/s051.jpg",
    "anchor": "In Washington, a state",
    "prompt": "The low, flat outer coast of Washington: dunes, a small town of low houses, no hills nearby, overcast",
+   "focus": [
+    0.7,
+    0.7
+   ],
    "start": 271.299,
    "end": 277.851,
    "dur": 6.552,
@@ -832,9 +836,13 @@
   },
   {
    "id": "s054",
-   "src": "assets/shots/s054.png",
+   "src": "assets/shots/s054.jpg",
    "anchor": "Take the city of",
    "prompt": "A small Oregon beach town: a seaside promenade, low buildings, a river mouth and a wide beach, seen from above",
+   "focus": [
+    0.45,
+    0.4
+   ],
    "start": 297.215,
    "end": 299.922,
    "dur": 2.707,
