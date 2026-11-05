@@ -24,7 +24,8 @@ Built with the `documentary-edit` skill. Fact check: `../../photography-factchec
 p021 (Niépce's Le Gras heliograph, 1827) and p025 (Daguerre's Boulevard du Temple, 1838) can be the real public-domain images. If used, set `"label": null` on that shot in `shots.json` (it is a real photograph, not an illustration) and add the credit to the description.
 
 ## Rules for this video
-- No illustration shows a real person as a likeness: Delaroche, Baudelaire, Daguerre, Niépce, Ferdinand II appear from behind, in silhouette or "illustrative, not a likeness".
+- No illustration shows a real person as a likeness: Delaroche, Baudelaire, Daguerre, Niépce, the king of Naples appear from behind, in silhouette or "illustrative, not a likeness".
+- The king is not named in the script (owner decision, Nov 5): say "the king of Naples".
 - Never say: "the king banned photography", "because of the evil eye", "Delaroche said", "the first photograph ever", or the unsourced "stringent truth" quote.
 
 ## Shorts planned (from the same VO)

@@ -33,6 +33,9 @@ Checked Nov 5 2026 by web search. Primary-source pages (Quote Investigator, Harr
 ## Before photography
 Portrait painting and miniatures for those who could pay; silhouettes and profile-tracing machines (the physiognotrace, 18th century) for those who couldn't; the camera obscura, whose image could only be traced by hand. (General; widely documented.)
 
+## Owner decision (Nov 5)
+The script does not name the king; it says "the king of Naples". (Ferdinand II reigned 1830-1859, so it would be him, but naming him adds nothing the claim needs.)
+
 ## Do NOT say
 "The king banned photography" as fact (say: a published history reports he forbade it in 1856, reason unknown); "because of the evil eye" (a guess, never a fact); Delaroche "said" the line (say: is credited with); "the first photograph ever" (say: earliest surviving photograph made with a camera); the "stringent truth" quote.
 

@@ -338,19 +338,19 @@
   {
    "id": "p035",
    "src": "assets/shots/p035.png",
-   "anchor": "The king was Ferdinand",
+   "anchor": "A published history of",
    "prompt": "A crowned 19th-century king seen from behind on a palace balcony over the Bay of Naples, Vesuvius in the distance (illustrative, not a likeness)"
   },
   {
    "id": "p038",
    "src": "assets/shots/p038.png",
-   "anchor": "A published history of",
+   "anchor": "And that same history",
    "prompt": "A thick old history book lying open on a library desk beside a stack of others, a reading lamp, the pages not readable"
   },
   {
    "id": "o02",
    "type": "card",
-   "anchor": "he forbade photography in",
+   "anchor": "the king of Naples forbade",
    "text": "1856: photography forbidden",
    "sub": "as reported in a published history · reason not known",
    "overlay": true
