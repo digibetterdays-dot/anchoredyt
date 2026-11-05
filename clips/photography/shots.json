@@ -529,9 +529,13 @@
   },
   {
    "id": "p037",
-   "src": "assets/shots/p037.png",
+   "src": "assets/shots/p037.jpg",
    "anchor": "The puzzle is that",
-   "prompt": "Ancient Roman frescoes on a ruined wall in Pompeii, with an 1840s camera on a tripod set up before them"
+   "prompt": "Ancient Roman frescoes on a ruined wall in Pompeii, with an 1840s camera on a tripod set up before them",
+   "focus": [
+    0.45,
+    0.45
+   ]
   },
   {
    "id": "c09",
