@@ -12,7 +12,9 @@ Built with the `documentary-edit` skill. Fact check: `../../photography-factchec
 - [x] Edit plan: `edl.json`, 109 segments, avg 4.8 s
 - [x] 58 of 59 images filed
 - [ ] Owner: generate the remaining 1 stills -> `assets/shots/pNNN.png` (or upload to GitHub, this branch)
-- [ ] Transcribe/align, plan, build, render, finish audio, QA; Shorts; upload package
+- [x] **Rendered (Nov 5):** `renders/photography-final.mp4` (379 MB) and `renders/photography-final-1080p-share.mp4` (107 MB), 8:45, 105 segments. Audio QA: -14.35 LUFS, -1.66 dBTP, no dead air. Captions `renders/photography.srt`. Renders not in git.
+- [x] p031e (café table) never arrived: dropped, neighbours cover it. Add it back to `shots.json` and re-render if made.
+- [ ] Owner: watch/listen to the full cut; then Shorts and upload package
 
 ## Titles (vidIQ)
 - "When Photography Terrified the World" 85 (working title)
