@@ -39,10 +39,14 @@
   },
   {
    "id": "p004",
-   "src": "assets/shots/p004.png",
+   "src": "assets/shots/p004.jpg",
    "anchor": "And according to a famous",
    "prompt": "A painter's palette and brushes dropped onto a wooden studio floor, a half-finished canvas on an easel above, dramatic side light",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.38,
+    0.65
+   ]
   },
   {
    "id": "p005",
@@ -324,9 +328,13 @@
   },
   {
    "id": "p029",
-   "src": "assets/shots/p029.png",
+   "src": "assets/shots/p029.jpg",
    "anchor": "Think about who earned",
-   "prompt": "A row of three small artists' shops on a Paris street: a portrait painter's studio, a miniature painter's window, a silhouette cutter's sign with a black profile, no readable text"
+   "prompt": "A row of three small artists' shops on a Paris street: a portrait painter's studio, a miniature painter's window, a silhouette cutter's sign with a black profile, no readable text",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "p030",
@@ -445,10 +453,14 @@
   },
   {
    "id": "p039",
-   "src": "assets/shots/p039.png",
+   "src": "assets/shots/p039.jpg",
    "anchor": "A London photographic catalogue",
    "prompt": "The ruins of Pompeii under a hazy sky, columns and streets, Vesuvius behind, a closed wooden gate in the foreground",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.35,
+    0.6
+   ]
   },
   {
    "id": "o07",
