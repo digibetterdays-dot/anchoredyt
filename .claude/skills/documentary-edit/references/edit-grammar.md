@@ -39,6 +39,7 @@ Rules: never the same move twice in a row; avoid three zoom-ins in a row; moves 
 - **Chapter card** (`type: card`): black card, serif title, optional small subtitle. Long form only, one per chapter, 2-3 s, over a pause in the VO. Shorts never get chapter cards.
 
 ## 5. Text on screen
+- **Card budget:** about one full black card per 30 s of video (chapter titles plus the few numbers the story turns on). Everything else is an `overlay` lower-third on the art; a video that is a third black screen feels like a slideshow.
 - **Numbers and dates** that carry the story get a card or a `source` caption: "1,250 to more than 10,000 deaths", with source "Oregon Resilience Plan". Copy figures exactly from the script.
 - **Shorts** get burned-in captions (3 words a group, punctuation breaks a group), placed in the lower-middle safe area, clear of the UI at the bottom.
 - **Long form** gets no burned-in captions; upload the SRT instead.

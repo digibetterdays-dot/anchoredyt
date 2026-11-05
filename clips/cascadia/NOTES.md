@@ -32,6 +32,10 @@ If a figure changes, edit the card text in `shots.json` and the narration togeth
 - **"YOUR WINDOW" countdown bar (Ch. 6):** replaced by two separate cards (`c13` Oregon 10-30 min *from when shaking begins*, `c14` Washington 10-15 min *from when shaking stops*), keeping the script's rule never to mix the two on screen.
 - **"If it happened today" recovery table (Ch. 7):** shown as four cards in a row (`c22`-`c25`).
 
+## Cards (Nov 5 trim)
+- 33 cards cut to **18 full cards** (9 chapter titles + c07 odds, c13/c14 tsunami windows, c18 ODOT quote, c20 deaths, c21 losses, c26 outages, c30/c31 schools). The other 15 are `overlay` lower-thirds on the art, ending with their sentence.
+- Recovery overlays c23-c25 sit on reused stills (s071, s069, s072: ids s074r1-r3) so s074 doesn't hold 20 s.
+
 ## Image notes
 - **s047:** cropped from a mixed image (US map + hiker + family); slightly soft at 1.7x upscale. Regenerate on its own if it looks soft in the render.
 - **s017 (1700 wave):** styled like Hokusai's Great Wave (public domain, fine) but drawn far taller than the narration's "six to ten feet". Consider a smaller, calmer wave.

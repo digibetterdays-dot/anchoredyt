@@ -152,20 +152,9 @@
    "prompt": "View from above of a rugged forested coastline with a long dark undersea trench running parallel offshore",
    "label": null,
    "start": 44.279,
-   "end": 47.717,
-   "dur": 3.438,
-   "move": "pan_right"
-  },
-  {
-   "id": "c02",
-   "type": "card",
-   "anchor": "NOAA puts it at",
-   "text": "About 700 miles long",
-   "sub": "Cascadia subduction zone \u00b7 NOAA",
-   "start": 47.717,
    "end": 51.152,
-   "dur": 3.435,
-   "move": "none"
+   "dur": 6.873,
+   "move": "pan_right"
   },
   {
    "id": "s012",
@@ -302,36 +291,39 @@
    "move": "hold_punch"
   },
   {
-   "id": "s021",
+   "id": "s021a",
    "src": "assets/shots/s021.jpg",
    "anchor": "to pin the quake",
    "prompt": "The Pacific Northwest coast on a winter night in 1700: moonlit cedar forest at the shoreline, the sea pulling back from the beach",
    "start": 95.346,
-   "end": 99.195,
-   "dur": 3.849,
+   "end": 100.798,
+   "dur": 5.452,
+   "punch": 0,
    "move": "push_in"
   },
   {
-   "id": "c04",
-   "type": "card",
-   "anchor": "It's estimated at about",
-   "text": "About magnitude 9",
-   "sub": "January 26, 1700, about 9 p.m.",
-   "start": 99.195,
-   "end": 103.659,
-   "dur": 4.464,
-   "move": "none"
+   "id": "s021b",
+   "src": "assets/shots/s021.jpg",
+   "anchor": "to pin the quake",
+   "prompt": "The Pacific Northwest coast on a winter night in 1700: moonlit cedar forest at the shoreline, the sea pulling back from the beach",
+   "start": 100.798,
+   "end": 106.27,
+   "dur": 5.472,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
-   "id": "c05",
-   "type": "card",
-   "anchor": "According to NOAA, geologic",
-   "text": "More than 40",
-   "sub": "earthquakes above magnitude 8 in the last 10,000 years \u00b7 NOAA",
-   "start": 103.659,
+   "id": "s021c",
+   "src": "assets/shots/s021.jpg",
+   "anchor": "to pin the quake",
+   "prompt": "The Pacific Northwest coast on a winter night in 1700: moonlit cedar forest at the shoreline, the sea pulling back from the beach",
+   "start": 106.27,
    "end": 111.695,
-   "dur": 8.036,
-   "move": "none"
+   "dur": 5.425,
+   "punch": 2,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "s023",
@@ -427,7 +419,7 @@
    "move": "push_in"
   },
   {
-   "id": "s029",
+   "id": "s029a",
    "src": "assets/shots/s029.jpg",
    "anchor": "You'll see higher numbers,",
    "prompt": "A stack of old research reports and binders on a desk, a desk lamp, no readable text",
@@ -436,20 +428,26 @@
     0.6
    ],
    "start": 152.863,
-   "end": 157.066,
-   "dur": 4.203,
+   "end": 158.231,
+   "dur": 5.368,
+   "punch": 0,
    "move": "tilt_up"
   },
   {
-   "id": "c08",
-   "type": "card",
-   "anchor": "Those cover a broader",
-   "text": "Not the same question",
-   "sub": "older one-in-three figures cover a broader group of large earthquakes",
-   "start": 157.066,
+   "id": "s029b",
+   "src": "assets/shots/s029.jpg",
+   "anchor": "You'll see higher numbers,",
+   "prompt": "A stack of old research reports and binders on a desk, a desk lamp, no readable text",
+   "focus": [
+    0.55,
+    0.6
+   ],
+   "start": 158.231,
    "end": 163.707,
-   "dur": 6.641,
-   "move": "none"
+   "dur": 5.476,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "s030",
@@ -552,20 +550,9 @@
     0.45
    ],
    "start": 198.058,
-   "end": 202.046,
-   "dur": 3.988,
-   "move": "push_in"
-  },
-  {
-   "id": "c10",
-   "type": "card",
-   "anchor": "Some of their briefings",
-   "text": "Several minutes",
-   "sub": "Oregon state geologists; some briefings: three to five",
-   "start": 202.046,
    "end": 204.469,
-   "dur": 2.423,
-   "move": "none"
+   "dur": 6.411,
+   "move": "push_in"
   },
   {
    "id": "s038",
@@ -798,7 +785,7 @@
    "move": "none"
   },
   {
-   "id": "s052",
+   "id": "s052a",
    "src": "assets/shots/s052.jpg",
    "anchor": "And here's the problem.",
    "prompt": "A long straight road through flat coastal lowland, a family walking along it, hills very far away on the horizon",
@@ -808,23 +795,30 @@
     0.6
    ],
    "start": 283.691,
-   "end": 289.026,
-   "dur": 5.335,
+   "end": 290.264,
+   "dur": 6.573,
+   "punch": 0,
    "move": "pull_out"
   },
   {
-   "id": "c15",
-   "type": "card",
-   "anchor": "it can take an",
-   "text": "An hour or more",
-   "sub": "to walk to high ground in parts of Washington's outer coast",
-   "start": 289.026,
+   "id": "s052b",
+   "src": "assets/shots/s052.jpg",
+   "anchor": "And here's the problem.",
+   "prompt": "A long straight road through flat coastal lowland, a family walking along it, hills very far away on the horizon",
+   "aspect": "3:1 panorama, 3240x1080",
+   "focus": [
+    0.33,
+    0.6
+   ],
+   "start": 290.264,
    "end": 297.215,
-   "dur": 8.189,
-   "move": "none"
+   "dur": 6.951,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
-   "id": "s054",
+   "id": "s054a",
    "src": "assets/shots/s054.jpg",
    "anchor": "Take the city of",
    "prompt": "A small Oregon beach town: a seaside promenade, low buildings, a river mouth and a wide beach, seen from above",
@@ -833,20 +827,26 @@
     0.4
    ],
    "start": 297.215,
-   "end": 299.922,
-   "dur": 2.707,
+   "end": 304.43,
+   "dur": 7.215,
+   "punch": 0,
    "move": "pan_left"
   },
   {
-   "id": "c16",
-   "type": "card",
-   "anchor": "The resilience plan cites",
-   "text": "83%",
-   "sub": "of Seaside's population lives inside the tsunami zone \u00b7 Oregon Resilience Plan",
-   "start": 299.922,
+   "id": "s054b",
+   "src": "assets/shots/s054.jpg",
+   "anchor": "Take the city of",
+   "prompt": "A small Oregon beach town: a seaside promenade, low buildings, a river mouth and a wide beach, seen from above",
+   "focus": [
+    0.45,
+    0.4
+   ],
+   "start": 304.43,
    "end": 310.596,
-   "dur": 10.674,
-   "move": "none"
+   "dur": 6.166,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "s055",
@@ -1048,25 +1048,27 @@
    "move": "push_fast"
   },
   {
-   "id": "s070",
+   "id": "s070a",
    "src": "assets/shots/s070.jpg",
    "anchor": "That's why the 2013",
    "prompt": "An empty state legislature chamber: rows of wooden desks, tall windows, flags without symbols",
    "start": 380.31,
-   "end": 386.842,
-   "dur": 6.532,
+   "end": 386.117,
+   "dur": 5.807,
+   "punch": 0,
    "move": "push_in"
   },
   {
-   "id": "c19",
-   "type": "card",
-   "anchor": "Oregon is far from",
-   "text": "Far from resilient",
-   "sub": "Oregon Resilience Plan, 2013",
-   "start": 386.842,
+   "id": "s070b",
+   "src": "assets/shots/s070.jpg",
+   "anchor": "That's why the 2013",
+   "prompt": "An empty state legislature chamber: rows of wooden desks, tall windows, flags without symbols",
+   "start": 386.117,
    "end": 392.191,
-   "dur": 5.349,
-   "move": "none"
+   "dur": 6.074,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "c20",
@@ -1121,7 +1123,7 @@
    "move": "pan_left"
   },
   {
-   "id": "s074",
+   "id": "s074a",
    "src": "assets/shots/s074.jpg",
    "anchor": "And here's how long",
    "prompt": "A town at night with power lines down and every window dark, a single flashlight beam",
@@ -1130,53 +1132,56 @@
     0.65
    ],
    "start": 420.034,
-   "end": 423.664,
-   "dur": 3.63,
+   "end": 423.76,
+   "dur": 3.726,
+   "punch": 0,
    "move": "tilt_down"
   },
   {
-   "id": "c22",
-   "type": "card",
-   "anchor": "Electricity: one to three",
-   "text": "Electricity",
-   "sub": "1\u20133 months in the Willamette Valley \u00b7 3\u20136 months on the coast",
-   "start": 423.664,
+   "id": "s074b",
+   "src": "assets/shots/s074.jpg",
+   "anchor": "And here's how long",
+   "prompt": "A town at night with power lines down and every window dark, a single flashlight beam",
+   "focus": [
+    0.7,
+    0.65
+   ],
+   "start": 423.76,
    "end": 428.699,
-   "dur": 5.035,
-   "move": "none"
+   "dur": 4.939,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
-   "id": "c23",
-   "type": "card",
+   "id": "s074r1",
+   "src": "assets/shots/s071.jpg",
    "anchor": "Police and fire stations",
-   "text": "Police and fire stations",
-   "sub": "2\u20134 months in the valley",
+   "note": "reuses s071 under recovery overlay",
    "start": 428.699,
    "end": 432.148,
    "dur": 3.449,
-   "move": "none"
+   "move": "push_in"
   },
   {
-   "id": "c24",
-   "type": "card",
+   "id": "s074r2",
+   "src": "assets/shots/s069.jpg",
    "anchor": "Drinking water and sewer",
-   "text": "Drinking water and sewer",
-   "sub": "1 month to 1 year in the valley \u00b7 1\u20133 years on the coast",
+   "note": "reuses s069 under recovery overlay",
    "start": 432.148,
    "end": 437.578,
    "dur": 5.43,
-   "move": "none"
+   "move": "tilt_up"
   },
   {
-   "id": "c25",
-   "type": "card",
+   "id": "s074r3",
+   "src": "assets/shots/s072.jpg",
    "anchor": "Hospitals: about a year",
-   "text": "Hospitals",
-   "sub": "about 1.5 years in the valley \u00b7 3 years on the coast",
+   "note": "reuses s072 under recovery overlay",
    "start": 437.578,
    "end": 441.952,
    "dur": 4.374,
-   "move": "none"
+   "move": "pan_right"
   },
   {
    "id": "s075a",
@@ -1221,7 +1226,7 @@
    "move": "none"
   },
   {
-   "id": "s076",
+   "id": "s076a",
    "src": "assets/shots/s076.jpg",
    "anchor": "Now compare that with",
    "prompt": "A Japanese city at night, line crews on bucket trucks, lights coming back on block by block",
@@ -1230,40 +1235,65 @@
     0.65
    ],
    "start": 454.401,
-   "end": 460.055,
-   "dur": 5.654,
-   "move": "tilt_up"
+   "end": 459.523,
+   "dur": 5.122,
+   "punch": 0,
+   "move": "pan_right"
   },
   {
-   "id": "c27",
-   "type": "card",
-   "anchor": "more than 90 percent",
-   "text": "90% of power back in 10 days",
-   "sub": "Japan, after the 2011 magnitude 9.0 earthquake",
-   "start": 460.055,
+   "id": "s076b",
+   "src": "assets/shots/s076.jpg",
+   "anchor": "Now compare that with",
+   "prompt": "A Japanese city at night, line crews on bucket trucks, lights coming back on block by block",
+   "focus": [
+    0.72,
+    0.65
+   ],
+   "start": 459.523,
+   "end": 463.838,
+   "dur": 4.315,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "s076c",
+   "src": "assets/shots/s076.jpg",
+   "anchor": "Now compare that with",
+   "prompt": "A Japanese city at night, line crews on bucket trucks, lights coming back on block by block",
+   "focus": [
+    0.72,
+    0.65
+   ],
+   "start": 463.838,
    "end": 469.419,
-   "dur": 9.364,
-   "move": "none"
+   "dur": 5.581,
+   "punch": 2,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
-   "id": "s077",
+   "id": "s077a",
    "src": "assets/shots/s077.jpg",
    "anchor": "After Chile's magnitude 8.8",
    "prompt": "A Chilean coastal town street in sunshine, workers repairing power lines, people walking",
    "start": 469.419,
-   "end": 475.891,
-   "dur": 6.472,
-   "move": "pan_right"
+   "end": 476.035,
+   "dur": 6.616,
+   "punch": 0,
+   "move": "pull_out"
   },
   {
-   "id": "c28",
-   "type": "card",
-   "anchor": "That gap, between months",
-   "text": "Months to years vs. days to weeks",
-   "start": 475.891,
+   "id": "s077b",
+   "src": "assets/shots/s077.jpg",
+   "anchor": "After Chile's magnitude 8.8",
+   "prompt": "A Chilean coastal town street in sunshine, workers repairing power lines, people walking",
+   "start": 476.035,
    "end": 482.323,
-   "dur": 6.432,
-   "move": "none"
+   "dur": 6.288,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "c29",
@@ -1285,7 +1315,7 @@
    "start": 484.712,
    "end": 487.173,
    "dur": 2.461,
-   "move": "push_in"
+   "move": "pan_left"
   },
   {
    "id": "c30",
@@ -1312,7 +1342,7 @@
    "start": 494.663,
    "end": 499.589,
    "dur": 4.926,
-   "move": "pan_right"
+   "move": "tilt_down"
   },
   {
    "id": "c31",
@@ -1335,7 +1365,7 @@
    "end": 516.306,
    "dur": 6.288,
    "punch": 0,
-   "move": "pull_out"
+   "move": "push_in"
   },
   {
    "id": "s079b",
@@ -1358,7 +1388,7 @@
    "end": 527.72,
    "dur": 5.24,
    "punch": 0,
-   "move": "pan_left"
+   "move": "tilt_up"
   },
   {
    "id": "s080b",
@@ -1382,7 +1412,7 @@
    "end": 536.816,
    "dur": 3.417,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "pan_right"
   },
   {
    "id": "s081b",
@@ -1420,7 +1450,7 @@
    "move": "none"
   },
   {
-   "id": "s083",
+   "id": "s083a",
    "src": "assets/shots/s083.jpg",
    "anchor": "The old advice was",
    "prompt": "An emergency kit laid out on a table: water jugs, a flashlight, canned food, a radio, a first-aid box, no labels",
@@ -1429,21 +1459,26 @@
     0.5
    ],
    "start": 550.395,
-   "end": 556.161,
-   "dur": 5.766,
+   "end": 554.741,
+   "dur": 4.346,
+   "punch": 0,
    "move": "push_in"
   },
   {
-   "id": "c33",
-   "type": "card",
-   "anchor": "prepare for a minimum",
-   "text": "Two weeks, at minimum",
-   "sub": "Oregon Resilience Plan recommendation",
-   "needs_verify": "current OEM wording",
-   "start": 556.161,
+   "id": "s083b",
+   "src": "assets/shots/s083.jpg",
+   "anchor": "The old advice was",
+   "prompt": "An emergency kit laid out on a table: water jugs, a flashlight, canned food, a radio, a first-aid box, no labels",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 554.741,
    "end": 559.501,
-   "dur": 3.34,
-   "move": "none"
+   "dur": 4.76,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "s084a",
@@ -1454,7 +1489,7 @@
    "end": 563.594,
    "dur": 4.093,
    "punch": 0,
-   "move": "tilt_up"
+   "move": "pan_right"
   },
   {
    "id": "s084b",
@@ -1480,7 +1515,7 @@
    "start": 567.844,
    "end": 571.748,
    "dur": 3.904,
-   "move": "pan_right"
+   "move": "pull_out"
   },
   {
    "id": "s086",
@@ -1494,7 +1529,7 @@
    "start": 571.748,
    "end": 575.378,
    "dur": 3.63,
-   "move": "push_in"
+   "move": "pan_left"
   },
   {
    "id": "s087a",
@@ -1541,7 +1576,7 @@
    "end": 587.831,
    "dur": 3.547,
    "punch": 0,
-   "move": "pan_right"
+   "move": "tilt_down"
   },
   {
    "id": "s088b",
@@ -1572,6 +1607,113 @@
    "start": 591.4,
    "end": 598.33,
    "dur": 6.93
+  }
+ ],
+ "overlays": [
+  {
+   "id": "c02",
+   "text": "About 700 miles long",
+   "sub": "Cascadia subduction zone \u00b7 NOAA",
+   "start": 47.717,
+   "end": 57.573
+  },
+  {
+   "id": "c04",
+   "text": "About magnitude 9",
+   "sub": "January 26, 1700, about 9 p.m.",
+   "start": 99.195,
+   "end": 102.425
+  },
+  {
+   "id": "c05",
+   "text": "More than 40",
+   "sub": "earthquakes above magnitude 8 in the last 10,000 years \u00b7 NOAA",
+   "start": 103.659,
+   "end": 111.645
+  },
+  {
+   "id": "c08",
+   "text": "Not the same question",
+   "sub": "older one-in-three figures cover a broader group of large earthquakes",
+   "start": 157.066,
+   "end": 162.814
+  },
+  {
+   "id": "c10",
+   "text": "Several minutes",
+   "sub": "Oregon state geologists; some briefings: three to five",
+   "start": 202.046,
+   "end": 204.419
+  },
+  {
+   "id": "c15",
+   "text": "An hour or more",
+   "sub": "to walk to high ground in parts of Washington's outer coast",
+   "start": 289.026,
+   "end": 294.08
+  },
+  {
+   "id": "c16",
+   "text": "83%",
+   "sub": "of Seaside's population lives inside the tsunami zone \u00b7 Oregon Resilience Plan",
+   "start": 299.922,
+   "end": 309.922
+  },
+  {
+   "id": "c19",
+   "text": "Far from resilient",
+   "sub": "Oregon Resilience Plan, 2013",
+   "start": 386.842,
+   "end": 392.091
+  },
+  {
+   "id": "c22",
+   "text": "Electricity",
+   "sub": "1\u20133 months in the Willamette Valley \u00b7 3\u20136 months on the coast",
+   "start": 423.664,
+   "end": 428.649
+  },
+  {
+   "id": "c23",
+   "text": "Police and fire stations",
+   "sub": "2\u20134 months in the valley",
+   "start": 429.043,
+   "end": 432.098
+  },
+  {
+   "id": "c24",
+   "text": "Drinking water and sewer",
+   "sub": "1 month to 1 year in the valley \u00b7 1\u20133 years on the coast",
+   "start": 432.785,
+   "end": 437.528
+  },
+  {
+   "id": "c25",
+   "text": "Hospitals",
+   "sub": "about 1.5 years in the valley \u00b7 3 years on the coast",
+   "start": 438.581,
+   "end": 441.902
+  },
+  {
+   "id": "c27",
+   "text": "90% of power back in 10 days",
+   "sub": "Japan, after the 2011 magnitude 9.0 earthquake",
+   "start": 460.055,
+   "end": 469.369
+  },
+  {
+   "id": "c28",
+   "text": "Months to years vs. days to weeks",
+   "sub": null,
+   "start": 475.891,
+   "end": 482.223
+  },
+  {
+   "id": "c33",
+   "text": "Two weeks, at minimum",
+   "sub": "Oregon Resilience Plan recommendation",
+   "start": 556.161,
+   "end": 559.451
   }
  ],
  "problems": []

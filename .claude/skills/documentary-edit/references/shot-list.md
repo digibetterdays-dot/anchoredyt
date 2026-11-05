@@ -50,6 +50,7 @@ Paths are relative to the folder holding `shots.json` (the HyperFrames project).
 | `emphasis` | `true` = hard push for a key line |
 | `allow_short` | `true` = accept a shot up to 15% under the minimum (fast hook cuts) |
 | `section_start` | `true` = crossfade in (new chapter or time jump) |
+| `overlay` | cards only: `true` = show the text as a lower-third over the previous shot instead of a full black card (use for minor figures; keep chapter titles and the key numbers as full cards) |
 | `text`, `sub` | card title and subtitle |
 | `label` | override the tag; `null` hides it (maps, graphics, cards) |
 | `source` | small source credit for a figure on screen |

@@ -153,8 +153,34 @@ def cmd_plan(a):
             t = prev_end + gap * 0.5 if gap > 0.25 else max(0.0, w["start"] - LEAD)
             if not timed:
                 t = 0.0
-        timed.append(dict(s, start=round(t, 3)))
+        timed.append(dict(s, start=round(t, 3), _wi=(idx - 1 if anchor else 0)))
 
+    for j, s in enumerate(timed):
+        s["end"] = timed[j + 1]["start"] if j + 1 < len(timed) else round(end_t, 3)
+        s["dur"] = round(s["end"] - s["start"], 3)
+
+    # overlay cards: text laid over the picture underneath instead of a black
+    # card; the shot before them simply holds longer
+    # an overlay stays up until the next card (overlay or full), at most 10 s;
+    # images cutting underneath don't end it
+    cards = [s for s in timed if s.get("type") == "card"]
+    overlays = []
+    for k, c in enumerate(cards):
+        if not c.get("overlay"):
+            continue
+        nxt = cards[k + 1]["start"] if k + 1 < len(cards) else end_t
+        # end with the sentence the figure is spoken in (+0.8 s), 3-10 s on screen
+        wi = c.get("_wi", 0)
+        while wi < len(words) - 1 and not re.search(r"[.?!][\"')]*$", words[wi]["text"]):
+            wi += 1
+        end = max(words[wi]["end"] + 0.8, c["start"] + 3.0)
+        # never spill onto a new picture that starts after the sentence ends
+        later = [t["start"] for t in timed if t.get("type") != "card" and t["start"] >= words[wi]["end"] - 0.05]
+        if later:
+            end = min(end, max(later[0] - 0.05, c["start"] + 2.0))
+        overlays.append(dict(id=c["id"], text=c.get("text", ""), sub=c.get("sub"), start=c["start"],
+                             end=round(min(end, nxt - 0.1, c["start"] + 10.0, end_t), 3)))
+    timed = [s for s in timed if not (s.get("type") == "card" and s.get("overlay"))]
     for j, s in enumerate(timed):
         s["end"] = timed[j + 1]["start"] if j + 1 < len(timed) else round(end_t, 3)
         s["dur"] = round(s["end"] - s["start"], 3)
@@ -216,10 +242,12 @@ def cmd_plan(a):
         s["move"] = mv
         last = mv
 
+    for s_ in segs:
+        s_.pop("_wi", None)
     edl = {"title": spec.get("title", ""), "format": spec.get("format", "long"), "voice": voice,
            "music": spec.get("music"), "label_default": spec.get("label", "Illustration"),
            "captions": spec.get("captions", fmt["captions"]), "duration": round(end_t, 3),
-           "words": os.path.relpath(os.path.abspath(a.words), base), "segments": segs, "problems": problems}
+           "words": os.path.relpath(os.path.abspath(a.words), base), "segments": segs, "overlays": overlays, "problems": problems}
     outp = a.o or os.path.join(base, "edl.json")
     json.dump(edl, open(outp, "w", encoding="utf-8"), indent=1)
 
@@ -329,6 +357,12 @@ def cmd_build(a):
             clips.append(f'<div class="src clip" id="{cid}src" data-start="{s["start"]:.3f}" data-duration="{s["dur"]:.3f}" '
                          f'data-track-index="7">Source: {html.escape(s["source"])}</div>')
 
+    for k, o in enumerate(edl.get("overlays", [])):
+        clips.append(f'<div class="ovl clip" id="ovl{k}" data-start="{o["start"]:.3f}" data-duration="{o["end"] - o["start"]:.3f}" '
+                     f'data-track-index="8"><div class="ovltxt">{html.escape(o["text"])}</div>'
+                     + (f'<div class="ovlsub">{html.escape(o["sub"])}</div>' if o.get("sub") else "") + "</div>")
+        js.append(f'tl.fromTo("#ovl{k}",{{opacity:0,y:20}},{{opacity:1,y:0,duration:0.5,ease:"power2.out"}},{o["start"] + 0.1:.3f});')
+
     if edl.get("captions"):
         words = load_words(os.path.join(base, edl["words"]))
         groups = caption_groups(words, 3 if short else 6)
@@ -364,6 +398,9 @@ html,body{{width:{W}px;height:{H}px;overflow:hidden;background:#0d0f14}}
 .tag{{position:absolute;left:{40 if short else 48}px;top:{190 if short else 40}px;font:700 {28 if short else 22}px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#e8e8e8}}
 .src{{position:absolute;right:48px;bottom:{260 if short else 40}px;font:500 {24 if short else 20}px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#d8d8d8;max-width:60%}}
 .cap{{position:absolute;left:5%;width:90%;top:{cap_top}px;text-align:center}}
+.ovl{{position:absolute;left:{40 if short else 72}px;bottom:{300 if short else 96}px;max-width:{"88%" if short else "62%"};background:rgba(10,12,18,.72);padding:22px 30px;border-left:6px solid #b5533c;border-radius:6px}}
+.ovltxt{{font-size:{64 if short else 60}px;line-height:1.1}}
+.ovlsub{{margin-top:10px;font:600 {28 if short else 24}px/1.3 sans-serif;color:#c9cfd8;letter-spacing:.06em;text-transform:uppercase}}
 .cap span{{display:inline-block;background:rgba(10,12,18,.78);padding:14px 26px;border-radius:20px;font:800 {cap_size}px/1.15 sans-serif}}
 </style></head><body>
 <div id="root" data-composition-id="main" data-start="0" data-duration="{D:.3f}" data-width="{W}" data-height="{H}">
