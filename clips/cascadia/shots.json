@@ -308,9 +308,13 @@
   },
   {
    "id": "s037",
-   "src": "assets/shots/s037.png",
+   "src": "assets/shots/s037.jpg",
    "anchor": "State geologists in Oregon",
-   "prompt": "Geologists in a briefing room, one pointing at a large projected map of a coastline, no readable text"
+   "prompt": "Geologists in a briefing room, one pointing at a large projected map of a coastline, no readable text",
+   "focus": [
+    0.55,
+    0.45
+   ]
   },
   {
    "id": "c10",
@@ -327,7 +331,7 @@
   },
   {
    "id": "s040",
-   "src": "assets/shots/s040.png",
+   "src": "assets/shots/s040.jpg",
    "anchor": "and long enough that",
    "prompt": "A person in the Drop, Cover and Hold On position under a sturdy wooden table, holding a table leg"
   },
