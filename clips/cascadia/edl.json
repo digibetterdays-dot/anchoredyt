@@ -1403,9 +1403,13 @@
   },
   {
    "id": "s086",
-   "src": "assets/shots/s086.png",
+   "src": "assets/shots/s086.jpg",
    "anchor": "That's the difference between",
    "prompt": "A family standing on high ground above the coast on a calm morning, looking out at the sea",
+   "focus": [
+    0.66,
+    0.55
+   ],
    "start": 571.748,
    "end": 575.378,
    "dur": 3.63,
