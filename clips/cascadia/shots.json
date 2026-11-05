@@ -456,10 +456,14 @@
   },
   {
    "id": "s052",
-   "src": "assets/shots/s052.png",
+   "src": "assets/shots/s052.jpg",
    "anchor": "And here's the problem.",
    "prompt": "A long straight road through flat coastal lowland, a family walking along it, hills very far away on the horizon",
-   "aspect": "3:1 panorama, 3240x1080"
+   "aspect": "3:1 panorama, 3240x1080",
+   "focus": [
+    0.33,
+    0.6
+   ]
   },
   {
    "id": "c15",
