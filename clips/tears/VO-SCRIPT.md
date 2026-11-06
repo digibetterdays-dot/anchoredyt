@@ -20,9 +20,9 @@ And here's how they get spread around: every blink. Each time your eyelid comes 
 
 The second kind are reflex tears. These are your eye's emergency response. Dust, smoke, wind, or the chemical that rises off a chopped onion: something irritates the eye, and the glands flood it with extra fluid to wash the problem away. It's the same reason your eyes water when you yawn hard, or laugh until it hurts.
 
-Then there's the third kind, the strange one: emotional tears. Grief. Relief. Pride. A wedding. A song. A goodbye at an airport. Humans cry when feelings get too big to hold. And scientists still argue about exactly why we do it.
+Then there's the third kind, the strange one: emotional tears. Grief. Frustration. Pain, of the body or of the mind. A song. A goodbye at an airport. Humans cry when feelings get too big to hold. And scientists still argue about exactly why we do it.
 
-And it isn't only sadness. People cry at weddings, at graduations, when a team finally wins. Psychologists at Yale have studied these happy tears. They found that when a good feeling becomes overwhelming, people often show it with an expression that normally belongs to the opposite emotion, like crying when you're thrilled. Their early evidence suggests it may help bring a big emotion back down to a level you can handle.
+And it isn't only sadness. Relief, pride and achievement can bring tears too. People cry at weddings, at graduations, when a team finally wins. Psychologists at Yale have studied these happy tears. They found that when a good feeling becomes overwhelming, people often show it with an expression that normally belongs to the opposite emotion, like crying when you're thrilled. Their early evidence suggests it may help bring a big emotion back down to a level you can handle.
 
 ## Chapter 2: Are emotional tears different?
 
@@ -44,6 +44,8 @@ It's normal. Babies do make some tears from birth, enough to keep their eyes moi
 
 So for those first weeks, a baby's cry is pure sound. And that tells us something. Long before we can speak, crying is how we say: I'm hungry. I'm cold. I need you. Crying starts as communication, and in a way, it never stops being that.
 
+Babies even seem to catch crying from each other. In a classic study from 1971, newborns just a few days old cried more when they heard another newborn crying than when they heard an artificial cry, or plain noise. Researchers still debate whether that's an early form of empathy, or simply a reaction to the sound. But either way, crying spreads.
+
 ## Chapter 5: Only humans?
 
 Here's another strange thing. Plenty of animals make tears. Dogs, cats and horses all need them to keep their eyes wet and to wash out dust. But when scientists looked for animals that shed tears because of their feelings, they came up empty. In one survey of veterinarians, zookeepers and other people who work with animals, nobody could point to a clear case.
@@ -58,7 +60,7 @@ His short version: we cry because we need other people.
 
 Scientists have tested this. In one huge study, researchers showed more than 7,000 people in 41 countries photos of faces. Some photos had tears added digitally; others didn't. Everything else was identical.
 
-The result: people were more willing to offer support to the faces with tears. Across cultures, a tear seems to say, come closer.
+The result: people were more willing to offer support to the faces with tears. Across cultures, a tear seems to say, come closer. It's a kind of language that needs no words.
 
 ## Chapter 7: Does crying make you feel better?
 
@@ -70,7 +72,9 @@ So what made the difference? One of the biggest factors was other people. Those 
 
 ## Chapter 8: Is holding back tears harmful?
 
-And what about holding tears back? You've probably heard that bottling up tears damages your health. The honest answer is that science hasn't proven that.
+And what about holding tears back? You've probably heard that crying is a healthy outlet, and that bottling up your tears for years can damage your health. It's one of the oldest ideas about crying. When one researcher looked at 140 years of magazine articles about tears, 94 percent said crying was good for you, and many warned against holding it in.
+
+But when scientists reviewed the actual research, including the editor of a major book called Adult Crying, they found there simply aren't enough good studies to show it. In one study, how often people cried had no link at all with how healthy they said they were. The honest answer is that science hasn't proven that holding back tears makes you ill.
 
 People really do differ. Studies of adults suggest that women cry somewhere around two to five times a month, and men about once a month or less, though the range from person to person is huge. Some people cry easily, others rarely, and neither one alone tells you whether someone is healthy or coping well. What seems to matter more is how people handle the feelings underneath.
 

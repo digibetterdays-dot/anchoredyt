@@ -142,12 +142,6 @@
    "overlay": true
   },
   {
-   "id": "t017",
-   "src": "assets/shots/t017.png",
-   "anchor": "Grief. Relief. Pride. A",
-   "prompt": "A wedding scene seen from the back of the room: rows of chairs, flowers, warm fairy lights, guests seen from behind, no faces visible"
-  },
-  {
    "id": "t018",
    "src": "assets/shots/t018.png",
    "anchor": "Humans cry when feelings",
@@ -159,6 +153,12 @@
    "src": "assets/shots/t019.png",
    "anchor": "And it isn't only",
    "prompt": "Graduation caps thrown into a bright sky above a crowd seen from behind, no faces visible"
+  },
+  {
+   "id": "t017",
+   "src": "assets/shots/t017.png",
+   "anchor": "People cry at weddings,",
+   "prompt": "A wedding scene seen from the back of the room: rows of chairs, flowers, warm fairy lights, guests seen from behind, no faces visible"
   },
   {
    "id": "t020",
@@ -330,6 +330,19 @@
    "anchor": "Crying starts as communication,",
    "prompt": "A paper-cut sound wave rising from a crib and turning into a glowing line that connects to an adult's hand reaching in, symbolic, hands only",
    "emphasis": true
+  },
+  {
+   "id": "t039a",
+   "src": "assets/shots/t039a.png",
+   "anchor": "Babies even seem to",
+   "prompt": "Two hospital bassinets side by side seen from above, soft blankets, a paper-cut sound ripple spreading from one bassinet and reaching the other, no baby faces visible"
+  },
+  {
+   "id": "t039b",
+   "src": "assets/shots/t039b.png",
+   "anchor": "Researchers still debate whether",
+   "prompt": "A paper-cut ear shape and a paper-cut heart shape side by side on a cream background, joined by a dotted line with a small question mark made of stars (no letters), symbolic",
+   "label": null
   },
   {
    "id": "c05",
@@ -529,9 +542,29 @@
    "prompt": "A glass bottle with a cork, filled with swirling blue paper-cut waves, on a windowsill, symbolic"
   },
   {
+   "id": "t061a",
+   "src": "assets/shots/t061a.png",
+   "anchor": "When one researcher looked",
+   "prompt": "A fan of old magazines and newspapers from different eras spread across a wooden table under a lamp, the oldest yellowed, no readable text"
+  },
+  {
+   "id": "o09",
+   "type": "card",
+   "anchor": "94 percent said crying",
+   "text": "94% said crying is good for you",
+   "sub": "140 years of popular articles · Cornelius 1986",
+   "overlay": true
+  },
+  {
+   "id": "t061b",
+   "src": "assets/shots/t061b.png",
+   "anchor": "But when scientists reviewed",
+   "prompt": "A closed thick book lying on a stack of research journals in a quiet library, a reading lamp, no readable text"
+  },
+  {
    "id": "t062",
    "src": "assets/shots/t062.png",
-   "anchor": "The honest answer is",
+   "anchor": "In one study, how",
    "prompt": "A stack of smooth river stones balanced on a rock beside a calm lake, paper-cut, still water",
    "emphasis": true
   },

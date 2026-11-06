@@ -24,11 +24,20 @@ Checked Nov 6 2026 by web search (abstracts, repository pages and review papers;
 | Vingerhoets: tears grew out of young animals' distress calls, shifting to a silent close-range signal; "we cry because we need other people" | Confirmed as his hypothesis (presented as "an idea"). | TIME (2016) interview; Vingerhoets 2013 |
 | Women cry about 2-5 times a month, men about once or less | Confirmed as review ranges: "women 2 - 5 times per month, men .5 - 1 time per month" (Vingerhoets & Scheirs 2000, cited in Vingerhoets & Bylsma). The popular "5.3 vs 1.4" (Frey 1983) could not be confirmed for men (one source gives 1.3), so not used. | Vingerhoets & Bylsma review |
 
+## Added Nov 6, second pass (owner's notes: triggers, joy, contagion, nonverbal language, holding back tears, the book *Adult Crying*)
+| Claim | Status | Source |
+|---|---|---|
+| Triggers include grief, frustration, physical or psychological pain; relief, pride and achievement bring tears too | Consistent with Vingerhoets' model of adult crying (helplessness, loss, pain, and positive and moving events). Happy tears as above (Aragón 2015). | Vingerhoets, Cornelius, Van Heck & Becht, "Adult crying: A model and review of the literature", *Review of General Psychology* 4(4):354 (2000) |
+| Crying is contagious | **Narrowed to what is shown:** contagious crying in infants. Simner (1971): newborns about 3 days old cried most to another newborn's cry, more than to white noise, a synthetic cry or an older infant's cry. Geangu et al. (2010): also at 1, 3, 6 and 9 months. Debate: Ruffman et al. argue it may be a reaction to the sound, not empathy (said in the script). No solid source found for adults "catching" tears, so not claimed. | Geangu et al. 2010, *Infant Behavior and Development*; Vreden et al. 2025, *Developmental Science* (PMC11733258) |
+| Crying is a powerful nonverbal language | Supported as framing by the 41-country tear study (Zickfeld 2021) and Vingerhoets' "we cry because we need other people". Script: "a kind of language that needs no words". | as above |
+| "Crying is a useful outlet, and systematically holding back tears may damage our health" | **NOT supported; kept as a belief.** The phrase matches a 2014 Awake! (JW.org) article, which itself adds that the benefits "have not been scientifically verified". Vingerhoets (editor of *Adult Crying*, 2001, with Cornelius) and Bylsma, "Crying and health: popular and scientific conceptions", *Psihologijske teme* 16(2):275-296 (2007): on crying inhibition and health risk "there is a lack of sound studies"; crying frequency vs self-reported health correlated 0.00 (Vingerhoets et al. 1993). The book's chapters "Crying and health" (Vingerhoets & Scheirs) and "Crying and catharsis" (Cornelius) are cited by later work as showing no faster recovery after crying. Script presents the outlet/holding-back idea as a popular belief and says science hasn't proven it. | Hrčak (open access); Hendriks et al. 2008 (Springer) |
+| 140 years of magazine articles: 94% said crying is good for you, many warned against holding it in | Confirmed. Cornelius (1986): 72 popular articles, 1848-1985; "94% promoted crying as beneficial" (as summarised in Rottenberg, Bylsma & Vingerhoets 2008, "Is crying beneficial?"; TIME 2016). | ResearchGate (Rottenberg et al. 2008); TIME |
+
 ## Wording fix (not a fact)
 S03 "even reading this sentence would get uncomfortable" -> "and even just keeping them open would get uncomfortable" (it is a voiceover).
 
 ## Do NOT say
-"Crying flushes toxins/stress hormones out" (not in the 1981 paper); "emotional tears are chemically proven different" (one old study, women only); "most people feel better after crying" without the caveat; "holding tears in makes you ill"; "babies can't make tears".
+"Crying flushes toxins/stress hormones out" (not in the 1981 paper); "emotional tears are chemically proven different" (one old study, women only); "most people feel better after crying" without the caveat; "holding tears in makes you ill" (present it only as a popular belief); "crying is contagious" for adults (only infant contagious crying is shown); "babies can't make tears".
 
 ## Sources for the description
 - Frey WH, DeSota-Johnson D, Hoffman C, McCall JT. Effect of stimulus on the chemical composition of human tears. *Am J Ophthalmol* 1981;92(4):559-567
@@ -41,3 +50,8 @@ S03 "even reading this sentence would get uncomfortable" -> "and even just keepi
 - Aragón OR, Clark MS, Dyer RL, Bargh JA. Dimorphous expressions of positive emotion. *Psychol Sci* 2015;26(3):259-273
 - Vingerhoets AJJM. *Why Only Humans Weep: Unravelling the Mysteries of Tears*. Oxford University Press, 2013
 - Gračanin A, Bylsma LM, Vingerhoets AJJM. Why only humans shed emotional tears. *Human Nature* 2018
+- Vingerhoets AJJM, Cornelius RR (eds). *Adult Crying: A Biopsychosocial Approach*. Brunner-Routledge, 2001
+- Vingerhoets AJJM, Bylsma LM. Crying and health: popular and scientific conceptions. *Psihologijske teme* 2007;16(2):275-296
+- Cornelius RR. Prescience in the pre-scientific study of weeping? A history of weeping in the popular press from the mid-1800s to the present. 1986
+- Simner ML. Newborn's response to the cry of another infant. *Developmental Psychology* 1971
+- Geangu E et al. Contagious crying beyond the first days of life. *Infant Behav Dev* 2010

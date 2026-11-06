@@ -117,13 +117,6 @@ Line: "Then there's the third..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: An airport departure gate at night, one hand slowly slipping out of another hand, a suitcase handle in the foreground, hands only, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
-## t017 -> `assets/shots/t017.png`
-Line: "Grief. Relief. Pride. A..."
-
-```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A wedding scene seen from the back of the room: rows of chairs, flowers, warm fairy lights, guests seen from behind, no faces visible, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
-```
-
 ## t018 -> `assets/shots/t018.png`
 Line: "Humans cry when feelings..."
 
@@ -136,6 +129,13 @@ Line: "And it isn't only..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Graduation caps thrown into a bright sky above a crowd seen from behind, no faces visible, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
+## t017 -> `assets/shots/t017.png`
+Line: "People cry at weddings,..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A wedding scene seen from the back of the room: rows of chairs, flowers, warm fairy lights, guests seen from behind, no faces visible, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## t020 -> `assets/shots/t020.png`
@@ -276,6 +276,20 @@ Line: "Crying starts as communication,..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A paper-cut sound wave rising from a crib and turning into a glowing line that connects to an adult's hand reaching in, symbolic, hands only, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
+## t039a -> `assets/shots/t039a.png`
+Line: "Babies even seem to..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Two hospital bassinets side by side seen from above, soft blankets, a paper-cut sound ripple spreading from one bassinet and reaching the other, no baby faces visible, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
+## t039b -> `assets/shots/t039b.png`
+Line: "Researchers still debate whether..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A paper-cut ear shape and a paper-cut heart shape side by side on a cream background, joined by a dotted line with a small question mark made of stars (no letters), symbolic, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## t040 -> `assets/shots/t040.png`
@@ -432,8 +446,22 @@ Line: "You've probably heard that..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A glass bottle with a cork, filled with swirling blue paper-cut waves, on a windowsill, symbolic, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## t061a -> `assets/shots/t061a.png`
+Line: "When one researcher looked..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A fan of old magazines and newspapers from different eras spread across a wooden table under a lamp, the oldest yellowed, no readable text, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
+## t061b -> `assets/shots/t061b.png`
+Line: "But when scientists reviewed..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A closed thick book lying on a stack of research journals in a quiet library, a reading lamp, no readable text, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## t062 -> `assets/shots/t062.png`
-Line: "The honest answer is..."
+Line: "In one study, how..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A stack of smooth river stones balanced on a rock beside a calm lake, paper-cut, still water, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
@@ -509,4 +537,4 @@ Line: "When was the last..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A warm cinema at night seen from the back row, empty seats, the screen glowing softly, cosy, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
-_72 images._
+_76 images._
