@@ -749,10 +749,14 @@
   },
   {
    "id": "z056",
-   "src": "assets/shots/z056.png",
+   "src": "assets/shots/z056.jpg",
    "anchor": "So how much is",
    "prompt": "Three beds of different sizes in a row: a crib, a single bed, a double bed, under a starry ceiling",
-   "allow_short": true
+   "allow_short": true,
+   "focus": [
+    0.5,
+    0.55
+   ]
   },
   {
    "id": "z057",
@@ -844,10 +848,14 @@
   },
   {
    "id": "z064",
-   "src": "assets/shots/z064.png",
+   "src": "assets/shots/z064.jpg",
    "anchor": "But here's the important",
    "prompt": "A tired person dragging through a gray morning, holding a large coffee, everything around slightly blurred",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.55
+   ]
   },
   {
    "id": "c07",
@@ -943,9 +951,13 @@
   },
   {
    "id": "z072",
-   "src": "assets/shots/z072.png",
+   "src": "assets/shots/z072.jpg",
    "anchor": "But one enormous question",
-   "prompt": "A deer asleep in a moonlit forest clearing, vulnerable and still"
+   "prompt": "A deer asleep in a moonlit forest clearing, vulnerable and still",
+   "focus": [
+    0.45,
+    0.55
+   ]
   },
   {
    "id": "z073",
@@ -1013,9 +1025,13 @@
   },
   {
    "id": "z079",
-   "src": "assets/shots/z079.png",
+   "src": "assets/shots/z079.jpg",
    "anchor": "A 2025 review by",
-   "prompt": "Two neuroscientists at a desk with stacks of papers and a brain model, seen from behind, warm lamp light"
+   "prompt": "Two neuroscientists at a desk with stacks of papers and a brain model, seen from behind, warm lamp light",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z080",
