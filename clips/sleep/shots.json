@@ -106,9 +106,13 @@
   },
   {
    "id": "z013",
-   "src": "assets/shots/z013.png",
+   "src": "assets/shots/z013.jpg",
    "anchor": "When evening comes and",
-   "prompt": "A city skyline at dusk with windows lighting up, the sky turning from orange to deep blue"
+   "prompt": "A city skyline at dusk with windows lighting up, the sky turning from orange to deep blue",
+   "focus": [
+    0.5,
+    0.6
+   ]
   },
   {
    "id": "o01",
@@ -120,15 +124,23 @@
   },
   {
    "id": "z014",
-   "src": "assets/shots/z014.png",
+   "src": "assets/shots/z014.jpg",
    "anchor": "Melatonin is often called",
-   "prompt": "A small glowing amber messenger, like a lantern-bearer, walking through a dim landscape inside a stylised body, gentle and symbolic"
+   "prompt": "A small glowing amber messenger, like a lantern-bearer, walking through a dim landscape inside a stylised body, gentle and symbolic",
+   "focus": [
+    0.4,
+    0.6
+   ]
   },
   {
    "id": "z015",
-   "src": "assets/shots/z015.png",
+   "src": "assets/shots/z015.jpg",
    "anchor": "Meanwhile, another process has",
-   "prompt": "A clear glass jar slowly filling with glowing grains of sand on a desk as the window behind turns from day to night"
+   "prompt": "A clear glass jar slowly filling with glowing grains of sand on a desk as the window behind turns from day to night",
+   "focus": [
+    0.5,
+    0.65
+   ]
   },
   {
    "id": "o02",
@@ -153,9 +165,13 @@
   },
   {
    "id": "z018",
-   "src": "assets/shots/z018.png",
+   "src": "assets/shots/z018.jpg",
    "anchor": "Here's something you may",
-   "prompt": "A person sitting up in bed wide awake at night with bright eyes, a phone dark on the nightstand, moonlight"
+   "prompt": "A person sitting up in bed wide awake at night with bright eyes, a phone dark on the nightstand, moonlight",
+   "focus": [
+    0.6,
+    0.45
+   ]
   },
   {
    "id": "z019",
@@ -180,9 +196,13 @@
   },
   {
    "id": "z021",
-   "src": "assets/shots/z021.png",
+   "src": "assets/shots/z021.jpg",
    "anchor": "A teenager who struggles",
-   "prompt": "A teenager lying awake in bed at nine o'clock, eyes open, a clock on the wall showing a blank face, a parent's silhouette in the lit doorway"
+   "prompt": "A teenager lying awake in bed at nine o'clock, eyes open, a clock on the wall showing a blank face, a parent's silhouette in the lit doorway",
+   "focus": [
+    0.6,
+    0.6
+   ]
   },
   {
    "id": "z022",
