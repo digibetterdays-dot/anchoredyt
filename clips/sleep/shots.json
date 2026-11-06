@@ -7,16 +7,24 @@
  "shots": [
   {
    "id": "z001",
-   "src": "assets/shots/z001.png",
+   "src": "assets/shots/z001.jpg",
    "anchor": "",
    "prompt": "A quiet bedroom at night seen from the doorway: a person asleep under a blanket, moonlight through a window, a bedside clock, deep calm",
-   "move": "push_in"
+   "move": "push_in",
+   "focus": [
+    0.6,
+    0.55
+   ]
   },
   {
    "id": "z002",
-   "src": "assets/shots/z002.png",
+   "src": "assets/shots/z002.jpg",
    "anchor": "You lie down, close",
-   "prompt": "Close-up of a person's face on a pillow, eyes just closing, soft lamp light fading"
+   "prompt": "Close-up of a person's face on a pillow, eyes just closing, soft lamp light fading",
+   "focus": [
+    0.55,
+    0.45
+   ]
   },
   {
    "id": "z003",
@@ -494,7 +502,8 @@
    "id": "z048",
    "src": "assets/shots/z048.png",
    "anchor": "Sleep may have helped.",
-   "prompt": "A student asleep on a pile of open books at a desk, a lamp still on, early dawn at the window"
+   "prompt": "A student asleep on a pile of open books at a desk, a lamp still on, early dawn at the window",
+   "allow_short": true
   },
   {
    "id": "z049",
@@ -582,7 +591,8 @@
    "id": "z056",
    "src": "assets/shots/z056.png",
    "anchor": "So how much is",
-   "prompt": "Three beds of different sizes in a row: a crib, a single bed, a double bed, under a starry ceiling"
+   "prompt": "Three beds of different sizes in a row: a crib, a single bed, a double bed, under a starry ceiling",
+   "allow_short": true
   },
   {
    "id": "z057",

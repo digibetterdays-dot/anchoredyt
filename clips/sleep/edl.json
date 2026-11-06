@@ -1,0 +1,2160 @@
+{
+ "title": "Why Do We Sleep? What Happens to Your Brain When You Close Your Eyes",
+ "format": "long",
+ "voice": "assets/audio/voice.wav",
+ "music": null,
+ "label_default": "Illustration",
+ "captions": false,
+ "duration": 821.232,
+ "words": "words.json",
+ "segments": [
+  {
+   "id": "z001",
+   "src": "assets/shots/z001.jpg",
+   "anchor": "",
+   "prompt": "A quiet bedroom at night seen from the doorway: a person asleep under a blanket, moonlight through a window, a bedside clock, deep calm",
+   "move": "push_in",
+   "focus": [
+    0.6,
+    0.55
+   ],
+   "start": 0.0,
+   "end": 4.056,
+   "dur": 4.056
+  },
+  {
+   "id": "z002",
+   "src": "assets/shots/z002.jpg",
+   "anchor": "You lie down, close",
+   "prompt": "Close-up of a person's face on a pillow, eyes just closing, soft lamp light fading",
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "start": 4.056,
+   "end": 10.536,
+   "dur": 6.48,
+   "move": "pan_right"
+  },
+  {
+   "id": "z003a",
+   "src": "assets/shots/z003.jpg",
+   "anchor": "For several hours, you",
+   "prompt": "A sleeping person seen from above, the blanket rising with slow breathing, the room dim and blue",
+   "focus": [
+    0.55,
+    0.5
+   ],
+   "start": 10.536,
+   "end": 16.439,
+   "dur": 5.903,
+   "punch": 0,
+   "move": "pull_out"
+  },
+  {
+   "id": "z003b",
+   "src": "assets/shots/z003.jpg",
+   "anchor": "For several hours, you",
+   "prompt": "A sleeping person seen from above, the blanket rising with slow breathing, the room dim and blue",
+   "focus": [
+    0.55,
+    0.5
+   ],
+   "start": 16.439,
+   "end": 22.411,
+   "dur": 5.972,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z004",
+   "src": "assets/shots/z004.jpg",
+   "anchor": "And yet, your brain",
+   "prompt": "Cross-section illustration of a sleeping person's head on a pillow, the brain inside glowing softly with warm amber light",
+   "emphasis": true,
+   "label": null,
+   "focus": [
+    0.25,
+    0.4
+   ],
+   "start": 22.411,
+   "end": 26.367,
+   "dur": 3.956,
+   "move": "push_fast"
+  },
+  {
+   "id": "z005a",
+   "src": "assets/shots/z005.png",
+   "anchor": "In fact, while you",
+   "prompt": "A tiny paper-cut night shift inside a brain: small workers carrying glowing folders and lanterns along corridors, whimsical but calm",
+   "label": null,
+   "start": 26.367,
+   "end": 33.235,
+   "dur": 6.868,
+   "punch": 0,
+   "move": "pan_left"
+  },
+  {
+   "id": "z005b",
+   "src": "assets/shots/z005.png",
+   "anchor": "In fact, while you",
+   "prompt": "A tiny paper-cut night shift inside a brain: small workers carrying glowing folders and lanterns along corridors, whimsical but calm",
+   "label": null,
+   "start": 33.235,
+   "end": 40.222,
+   "dur": 6.987,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z006a",
+   "src": "assets/shots/z006.jpg",
+   "anchor": "But here's the really",
+   "prompt": "A single closed eye in close-up, with a faint question-mark-shaped wisp of starlight above it (no letters)",
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "start": 40.222,
+   "end": 44.212,
+   "dur": 3.99,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z006b",
+   "src": "assets/shots/z006.jpg",
+   "anchor": "But here's the really",
+   "prompt": "A single closed eye in close-up, with a faint question-mark-shaped wisp of starlight above it (no letters)",
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "start": 44.212,
+   "end": 48.438,
+   "dur": 4.226,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z007a",
+   "src": "assets/shots/z007.jpg",
+   "anchor": "Scientists understand many of",
+   "prompt": "A scientist's desk at night with brain diagrams pinned on a board, a lamp, notebooks, no readable text",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "start": 48.438,
+   "end": 55.394,
+   "dur": 6.956,
+   "punch": 0,
+   "move": "tilt_down"
+  },
+  {
+   "id": "z007b",
+   "src": "assets/shots/z007.jpg",
+   "anchor": "Scientists understand many of",
+   "prompt": "A scientist's desk at night with brain diagrams pinned on a board, a lamp, notebooks, no readable text",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "start": 55.394,
+   "end": 62.383,
+   "dur": 6.989,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z008a",
+   "src": "assets/shots/z008.jpg",
+   "anchor": "So let's follow your",
+   "prompt": "A long hallway of doors at night, moonlight on the floor, leading into the distance, a feeling of a journey",
+   "move": "push_in",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "start": 62.383,
+   "end": 65.919,
+   "dur": 3.536,
+   "punch": 0
+  },
+  {
+   "id": "z008b",
+   "src": "assets/shots/z008.jpg",
+   "anchor": "So let's follow your",
+   "prompt": "A long hallway of doors at night, moonlight on the floor, leading into the distance, a feeling of a journey",
+   "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "start": 65.919,
+   "end": 69.412,
+   "dur": 3.493,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "c01",
+   "type": "card",
+   "anchor": "Have you ever noticed",
+   "text": "Chapter 1",
+   "sub": "Who tells your brain when to sleep?",
+   "section_start": true,
+   "start": 69.412,
+   "end": 74.29,
+   "dur": 4.878,
+   "move": "none"
+  },
+  {
+   "id": "z009",
+   "src": "assets/shots/z009.png",
+   "anchor": "That's not simply a",
+   "prompt": "A large paper-cut clock face made of a sun and moon, with a sleeping figure curled at its center (no numbers)",
+   "label": null,
+   "start": 74.29,
+   "end": 81.237,
+   "dur": 6.947,
+   "move": "push_in"
+  },
+  {
+   "id": "z010a",
+   "src": "assets/shots/z010.png",
+   "anchor": "This biological clock runs",
+   "prompt": "A circular day-night cycle diagram: sun rising, high, setting, moon, around a human silhouette, warm to dark blue gradient, no labels",
+   "label": null,
+   "start": 81.237,
+   "end": 86.394,
+   "dur": 5.157,
+   "punch": 0,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z010b",
+   "src": "assets/shots/z010.png",
+   "anchor": "This biological clock runs",
+   "prompt": "A circular day-night cycle diagram: sun rising, high, setting, moon, around a human silhouette, warm to dark blue gradient, no labels",
+   "label": null,
+   "start": 86.394,
+   "end": 92.058,
+   "dur": 5.664,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z011a",
+   "src": "assets/shots/z011.png",
+   "anchor": "One of its most",
+   "prompt": "Simplified side-view illustration of a human brain with one tiny spot just above where the optic nerves cross glowing amber, no labels",
+   "emphasis": true,
+   "label": null,
+   "start": 92.058,
+   "end": 96.498,
+   "dur": 4.44,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z011b",
+   "src": "assets/shots/z011.png",
+   "anchor": "One of its most",
+   "prompt": "Simplified side-view illustration of a human brain with one tiny spot just above where the optic nerves cross glowing amber, no labels",
+   "emphasis": true,
+   "label": null,
+   "start": 96.498,
+   "end": 101.053,
+   "dur": 4.555,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z012a",
+   "src": "assets/shots/z012.png",
+   "anchor": "It receives information about",
+   "prompt": "Light rays entering an eye and traveling as a glowing thread back to a small point in the brain, side view, simple and clear, no labels",
+   "label": null,
+   "start": 101.053,
+   "end": 104.109,
+   "dur": 3.056,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z012b",
+   "src": "assets/shots/z012.png",
+   "anchor": "It receives information about",
+   "prompt": "Light rays entering an eye and traveling as a glowing thread back to a small point in the brain, side view, simple and clear, no labels",
+   "label": null,
+   "start": 104.109,
+   "end": 108.411,
+   "dur": 4.302,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z013a",
+   "src": "assets/shots/z013.jpg",
+   "anchor": "When evening comes and",
+   "prompt": "A city skyline at dusk with windows lighting up, the sky turning from orange to deep blue",
+   "focus": [
+    0.5,
+    0.6
+   ],
+   "start": 108.411,
+   "end": 112.103,
+   "dur": 3.692,
+   "punch": 0,
+   "move": "push_in"
+  },
+  {
+   "id": "z013b",
+   "src": "assets/shots/z013.jpg",
+   "anchor": "When evening comes and",
+   "prompt": "A city skyline at dusk with windows lighting up, the sky turning from orange to deep blue",
+   "focus": [
+    0.5,
+    0.6
+   ],
+   "start": 112.103,
+   "end": 115.896,
+   "dur": 3.793,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z014a",
+   "src": "assets/shots/z014.jpg",
+   "anchor": "Melatonin is often called",
+   "prompt": "A small glowing amber messenger, like a lantern-bearer, walking through a dim landscape inside a stylised body, gentle and symbolic",
+   "focus": [
+    0.4,
+    0.6
+   ],
+   "start": 115.896,
+   "end": 121.671,
+   "dur": 5.775,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z014b",
+   "src": "assets/shots/z014.jpg",
+   "anchor": "Melatonin is often called",
+   "prompt": "A small glowing amber messenger, like a lantern-bearer, walking through a dim landscape inside a stylised body, gentle and symbolic",
+   "focus": [
+    0.4,
+    0.6
+   ],
+   "start": 121.671,
+   "end": 127.673,
+   "dur": 6.002,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z015a",
+   "src": "assets/shots/z015.jpg",
+   "anchor": "Meanwhile, another process has",
+   "prompt": "A clear glass jar slowly filling with glowing grains of sand on a desk as the window behind turns from day to night",
+   "focus": [
+    0.5,
+    0.65
+   ],
+   "start": 127.673,
+   "end": 132.178,
+   "dur": 4.505,
+   "punch": 0,
+   "move": "pull_out"
+  },
+  {
+   "id": "z015b",
+   "src": "assets/shots/z015.jpg",
+   "anchor": "Meanwhile, another process has",
+   "prompt": "A clear glass jar slowly filling with glowing grains of sand on a desk as the window behind turns from day to night",
+   "focus": [
+    0.5,
+    0.65
+   ],
+   "start": 132.178,
+   "end": 137.147,
+   "dur": 4.969,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z015c",
+   "src": "assets/shots/z015.jpg",
+   "anchor": "Meanwhile, another process has",
+   "prompt": "A clear glass jar slowly filling with glowing grains of sand on a desk as the window behind turns from day to night",
+   "focus": [
+    0.5,
+    0.65
+   ],
+   "start": 137.147,
+   "end": 142.014,
+   "dur": 4.867,
+   "punch": 2,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z016",
+   "src": "assets/shots/z016.png",
+   "anchor": "The longer you stay",
+   "prompt": "A person at a desk late at night, head heavy in one hand, a lamp on, papers in front of them",
+   "start": 142.014,
+   "end": 146.699,
+   "dur": 4.685,
+   "move": "pan_left"
+  },
+  {
+   "id": "z017a",
+   "src": "assets/shots/z017.png",
+   "anchor": "So your sleepiness depends",
+   "prompt": "A balance scale with a sun-and-clock on one side and a heavy glowing sand jar on the other, paper-cut, centered",
+   "label": null,
+   "start": 146.699,
+   "end": 150.802,
+   "dur": 4.103,
+   "punch": 0,
+   "move": "tilt_down"
+  },
+  {
+   "id": "z017b",
+   "src": "assets/shots/z017.png",
+   "anchor": "So your sleepiness depends",
+   "prompt": "A balance scale with a sun-and-clock on one side and a heavy glowing sand jar on the other, paper-cut, centered",
+   "label": null,
+   "start": 150.802,
+   "end": 154.98,
+   "dur": 4.178,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z018a",
+   "src": "assets/shots/z018.jpg",
+   "anchor": "Here's something you may",
+   "prompt": "A person sitting up in bed wide awake at night with bright eyes, a phone dark on the nightstand, moonlight",
+   "focus": [
+    0.6,
+    0.45
+   ],
+   "start": 154.98,
+   "end": 160.5,
+   "dur": 5.52,
+   "punch": 0,
+   "move": "push_in"
+  },
+  {
+   "id": "z018b",
+   "src": "assets/shots/z018.jpg",
+   "anchor": "Here's something you may",
+   "prompt": "A person sitting up in bed wide awake at night with bright eyes, a phone dark on the nightstand, moonlight",
+   "focus": [
+    0.6,
+    0.45
+   ],
+   "start": 160.5,
+   "end": 166.206,
+   "dur": 5.706,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z018c",
+   "src": "assets/shots/z018.jpg",
+   "anchor": "Here's something you may",
+   "prompt": "A person sitting up in bed wide awake at night with bright eyes, a phone dark on the nightstand, moonlight",
+   "focus": [
+    0.6,
+    0.45
+   ],
+   "start": 166.206,
+   "end": 171.775,
+   "dur": 5.569,
+   "punch": 2,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z019",
+   "src": "assets/shots/z019.png",
+   "anchor": "Your brain is balancing",
+   "prompt": "A tug-of-war between a moon figure and a sun figure over a sleeping person's head, whimsical, paper-cut",
+   "start": 171.775,
+   "end": 175.067,
+   "dur": 3.292,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z020",
+   "src": "assets/shots/z020.png",
+   "anchor": "And when the sleep-promoting",
+   "prompt": "A person drifting down onto a cloud-like pillow, the room dissolving into stars",
+   "move": "pull_out",
+   "start": 175.067,
+   "end": 179.993,
+   "dur": 4.926
+  },
+  {
+   "id": "c02",
+   "type": "card",
+   "anchor": "Here's something that may",
+   "text": "Chapter 2",
+   "sub": "Why do teenagers want to sleep later?",
+   "section_start": true,
+   "start": 179.993,
+   "end": 183.994,
+   "dur": 4.001,
+   "move": "none"
+  },
+  {
+   "id": "z021a",
+   "src": "assets/shots/z021.jpg",
+   "anchor": "A teenager who struggles",
+   "prompt": "A teenager lying awake in bed at nine o'clock, eyes open, a clock on the wall showing a blank face, a parent's silhouette in the lit doorway",
+   "focus": [
+    0.6,
+    0.6
+   ],
+   "start": 183.994,
+   "end": 187.527,
+   "dur": 3.533,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z021b",
+   "src": "assets/shots/z021.jpg",
+   "anchor": "A teenager who struggles",
+   "prompt": "A teenager lying awake in bed at nine o'clock, eyes open, a clock on the wall showing a blank face, a parent's silhouette in the lit doorway",
+   "focus": [
+    0.6,
+    0.6
+   ],
+   "start": 187.527,
+   "end": 191.07,
+   "dur": 3.543,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z022",
+   "src": "assets/shots/z022.png",
+   "anchor": "During puberty, the biological",
+   "prompt": "Two clock faces side by side, the second one turned later than the first, paper-cut, no numbers",
+   "label": null,
+   "start": 191.07,
+   "end": 197.757,
+   "dur": 6.687,
+   "move": "push_in"
+  },
+  {
+   "id": "z023",
+   "src": "assets/shots/z023.png",
+   "anchor": "The evening release of",
+   "prompt": "A teenager's bedroom at night, the moon rising late outside the window, the teen reading under a lamp",
+   "start": 197.757,
+   "end": 204.048,
+   "dur": 6.291,
+   "move": "pan_right"
+  },
+  {
+   "id": "z024a",
+   "src": "assets/shots/z024.png",
+   "anchor": "Researchers including Mary Carskadon",
+   "prompt": "A sleep lab: a bed with monitoring wires, a window into a control room with screens, soft night lighting, no readable text",
+   "start": 204.048,
+   "end": 209.16,
+   "dur": 5.112,
+   "punch": 0,
+   "move": "pull_out"
+  },
+  {
+   "id": "z024b",
+   "src": "assets/shots/z024.png",
+   "anchor": "Researchers including Mary Carskadon",
+   "prompt": "A sleep lab: a bed with monitoring wires, a window into a control room with screens, soft night lighting, no readable text",
+   "start": 209.16,
+   "end": 214.473,
+   "dur": 5.313,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z025",
+   "src": "assets/shots/z025.png",
+   "anchor": "The result? A teenager",
+   "prompt": "A teenager slumped at a school desk in early morning light, head on arms, a sunrise through the classroom window",
+   "emphasis": true,
+   "start": 214.473,
+   "end": 221.376,
+   "dur": 6.903,
+   "move": "push_fast"
+  },
+  {
+   "id": "z026a",
+   "src": "assets/shots/z026.png",
+   "anchor": "That creates a conflict",
+   "prompt": "A school bus arriving in the dark before dawn, streetlights still on, a sleepy teen waiting at the stop",
+   "start": 221.376,
+   "end": 226.195,
+   "dur": 4.819,
+   "punch": 0,
+   "move": "pan_left"
+  },
+  {
+   "id": "z026b",
+   "src": "assets/shots/z026.png",
+   "anchor": "That creates a conflict",
+   "prompt": "A school bus arriving in the dark before dawn, streetlights still on, a sleepy teen waiting at the stop",
+   "start": 226.195,
+   "end": 231.242,
+   "dur": 5.047,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z026c",
+   "src": "assets/shots/z026.png",
+   "anchor": "That creates a conflict",
+   "prompt": "A school bus arriving in the dark before dawn, streetlights still on, a sleepy teen waiting at the stop",
+   "start": 231.242,
+   "end": 236.145,
+   "dur": 4.903,
+   "punch": 2,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z027a",
+   "src": "assets/shots/z027.png",
+   "anchor": "So the next time",
+   "prompt": "A teenager and a parent at a kitchen table in the evening, the teen shrugging with a small smile, warm lamp light",
+   "start": 236.145,
+   "end": 240.412,
+   "dur": 4.267,
+   "punch": 0,
+   "move": "tilt_down"
+  },
+  {
+   "id": "z027b",
+   "src": "assets/shots/z027.png",
+   "anchor": "So the next time",
+   "prompt": "A teenager and a parent at a kitchen table in the evening, the teen shrugging with a small smile, warm lamp light",
+   "start": 240.412,
+   "end": 244.242,
+   "dur": 3.83,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "c03",
+   "type": "card",
+   "anchor": "Now imagine you've finally",
+   "text": "Chapter 3",
+   "sub": "Your brain doesn't just switch off",
+   "section_start": true,
+   "start": 244.242,
+   "end": 248.916,
+   "dur": 4.674,
+   "move": "none"
+  },
+  {
+   "id": "z028a",
+   "src": "assets/shots/z028.jpg",
+   "anchor": "Scientists divide sleep into",
+   "prompt": "A night sky landscape split into two layers: a calm blue ocean of waves below (deep sleep) and a bright aurora above (REM), symbolic, no labels",
+   "focus": [
+    0.6,
+    0.65
+   ],
+   "start": 248.916,
+   "end": 254.673,
+   "dur": 5.757,
+   "punch": 0,
+   "move": "push_in"
+  },
+  {
+   "id": "z028b",
+   "src": "assets/shots/z028.jpg",
+   "anchor": "Scientists divide sleep into",
+   "prompt": "A night sky landscape split into two layers: a calm blue ocean of waves below (deep sleep) and a bright aurora above (REM), symbolic, no labels",
+   "focus": [
+    0.6,
+    0.65
+   ],
+   "start": 254.673,
+   "end": 259.615,
+   "dur": 4.942,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z029a",
+   "src": "assets/shots/z029.png",
+   "anchor": "A typical night is",
+   "prompt": "A long paper-cut landscape of rolling hills and valleys at night, a tiny sleeper on a cloud gliding along the waves of the terrain, left to right, no labels",
+   "aspect": "3:1 panorama, 3240x1080",
+   "label": null,
+   "start": 259.615,
+   "end": 265.503,
+   "dur": 5.888,
+   "punch": 0,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z029b",
+   "src": "assets/shots/z029.png",
+   "anchor": "A typical night is",
+   "prompt": "A long paper-cut landscape of rolling hills and valleys at night, a tiny sleeper on a cloud gliding along the waves of the terrain, left to right, no labels",
+   "aspect": "3:1 panorama, 3240x1080",
+   "label": null,
+   "start": 265.503,
+   "end": 270.488,
+   "dur": 4.985,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z030a",
+   "src": "assets/shots/z030.jpg",
+   "anchor": "Stage one: the transition.",
+   "prompt": "A person half asleep in bed, eyes fluttering, the edges of the room softly blurring into night",
+   "section_start": true,
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "start": 270.488,
+   "end": 277.014,
+   "dur": 6.526,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z030b",
+   "src": "assets/shots/z030.jpg",
+   "anchor": "Stage one: the transition.",
+   "prompt": "A person half asleep in bed, eyes fluttering, the edges of the room softly blurring into night",
+   "section_start": false,
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "start": 277.014,
+   "end": 283.398,
+   "dur": 6.384,
+   "punch": 1,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z031a",
+   "src": "assets/shots/z031.png",
+   "anchor": "You may feel something",
+   "prompt": "A dreamlike figure falling through soft starry space, arms out, a bed far below, startled but safe",
+   "emphasis": true,
+   "start": 283.398,
+   "end": 289.179,
+   "dur": 5.781,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z031b",
+   "src": "assets/shots/z031.png",
+   "anchor": "You may feel something",
+   "prompt": "A dreamlike figure falling through soft starry space, arms out, a bed far below, startled but safe",
+   "emphasis": true,
+   "start": 289.179,
+   "end": 295.374,
+   "dur": 6.195,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z032a",
+   "src": "assets/shots/z032.jpg",
+   "anchor": "Stage two: light sleep.",
+   "prompt": "A sleeping person turned on their side, peaceful, a thermometer on the nightstand showing a lower level, cool blue light",
+   "focus": [
+    0.6,
+    0.45
+   ],
+   "start": 295.374,
+   "end": 300.032,
+   "dur": 4.658,
+   "punch": 0,
+   "move": "push_in"
+  },
+  {
+   "id": "z032b",
+   "src": "assets/shots/z032.jpg",
+   "anchor": "Stage two: light sleep.",
+   "prompt": "A sleeping person turned on their side, peaceful, a thermometer on the nightstand showing a lower level, cool blue light",
+   "focus": [
+    0.6,
+    0.45
+   ],
+   "start": 300.032,
+   "end": 305.452,
+   "dur": 5.42,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z033a",
+   "src": "assets/shots/z033.png",
+   "anchor": "Your brain also produces",
+   "prompt": "A glowing line of brain waves with short bright bursts like sparks along it, floating over a sleeping head, no labels",
+   "label": null,
+   "start": 305.452,
+   "end": 312.307,
+   "dur": 6.855,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z033b",
+   "src": "assets/shots/z033.png",
+   "anchor": "Your brain also produces",
+   "prompt": "A glowing line of brain waves with short bright bursts like sparks along it, floating over a sleeping head, no labels",
+   "label": null,
+   "start": 312.307,
+   "end": 319.263,
+   "dur": 6.956,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z034a",
+   "src": "assets/shots/z034.png",
+   "anchor": "Stage three: deep sleep.",
+   "prompt": "A person in very deep sleep sinking into a soft dark pillow like an ocean floor, slow calm waves around them",
+   "emphasis": true,
+   "start": 319.263,
+   "end": 323.3,
+   "dur": 4.037,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z034b",
+   "src": "assets/shots/z034.png",
+   "anchor": "Stage three: deep sleep.",
+   "prompt": "A person in very deep sleep sinking into a soft dark pillow like an ocean floor, slow calm waves around them",
+   "emphasis": true,
+   "start": 323.3,
+   "end": 327.375,
+   "dur": 4.075,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z035a",
+   "src": "assets/shots/z035.png",
+   "anchor": "Your heartbeat and breathing",
+   "prompt": "A gentle heart shape and lungs drawn in soft light inside a sleeping figure, beating slowly, symbolic",
+   "start": 327.375,
+   "end": 333.034,
+   "dur": 5.659,
+   "punch": 0,
+   "move": "pull_out"
+  },
+  {
+   "id": "z035b",
+   "src": "assets/shots/z035.png",
+   "anchor": "Your heartbeat and breathing",
+   "prompt": "A gentle heart shape and lungs drawn in soft light inside a sleeping figure, beating slowly, symbolic",
+   "start": 333.034,
+   "end": 338.587,
+   "dur": 5.553,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z036a",
+   "src": "assets/shots/z036.png",
+   "anchor": "The release of growth",
+   "prompt": "A small child asleep in bed, a growth chart on the wall beside the bed (no numbers), a nightlight glowing",
+   "start": 338.587,
+   "end": 342.471,
+   "dur": 3.884,
+   "punch": 0,
+   "move": "pan_left"
+  },
+  {
+   "id": "z036b",
+   "src": "assets/shots/z036.png",
+   "anchor": "The release of growth",
+   "prompt": "A small child asleep in bed, a growth chart on the wall beside the bed (no numbers), a nightlight glowing",
+   "start": 342.471,
+   "end": 347.316,
+   "dur": 4.845,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z036a",
+   "src": "assets/shots/z036a.jpg",
+   "anchor": "All this relaxing has",
+   "prompt": "A person asleep on their back in bed with mouth slightly open, small paper-cut sound waves rising from them, a partner beside them pulling a pillow over their head, gently comic",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "start": 347.316,
+   "end": 351.77,
+   "dur": 4.454,
+   "move": "tilt_down"
+  },
+  {
+   "id": "z036ba",
+   "src": "assets/shots/z036b.jpg",
+   "anchor": "As you sink deeper",
+   "prompt": "Simplified side-view cross-section of a sleeping head showing the airway, soft palate and tongue, with air flowing past and a small vibration marked by wavy lines, no labels",
+   "emphasis": true,
+   "label": null,
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "start": 351.77,
+   "end": 357.434,
+   "dur": 5.664,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z036bb",
+   "src": "assets/shots/z036b.jpg",
+   "anchor": "As you sink deeper",
+   "prompt": "Simplified side-view cross-section of a sleeping head showing the airway, soft palate and tongue, with air flowing past and a small vibration marked by wavy lines, no labels",
+   "emphasis": true,
+   "label": null,
+   "focus": [
+    0.55,
+    0.45
+   ],
+   "start": 357.434,
+   "end": 363.053,
+   "dur": 5.619,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z036c",
+   "src": "assets/shots/z036c.jpg",
+   "anchor": "Sleeping on your back,",
+   "prompt": "A sleeper on their back next to an empty wine glass on the nightstand, the snore waves bigger, moonlight",
+   "focus": [
+    0.4,
+    0.55
+   ],
+   "start": 363.053,
+   "end": 369.173,
+   "dur": 6.12,
+   "move": "push_in"
+  },
+  {
+   "id": "z036da",
+   "src": "assets/shots/z036d.jpg",
+   "anchor": "But loud snoring with",
+   "prompt": "A doctor's consultation room: a doctor and a patient talking calmly across a desk, a model of a head on a shelf, warm light",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 369.173,
+   "end": 372.596,
+   "dur": 3.423,
+   "punch": 0,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z036db",
+   "src": "assets/shots/z036d.jpg",
+   "anchor": "But loud snoring with",
+   "prompt": "A doctor's consultation room: a doctor and a patient talking calmly across a desk, a model of a head on a shelf, warm light",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 372.596,
+   "end": 376.184,
+   "dur": 3.588,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z037",
+   "src": "assets/shots/z037.png",
+   "anchor": "But the night is",
+   "prompt": "The bedroom window at the deepest hour of night, stars overhead, a hint of something stirring, suspenseful",
+   "start": 376.184,
+   "end": 381.533,
+   "dur": 5.349,
+   "move": "pan_right"
+  },
+  {
+   "id": "c04",
+   "type": "card",
+   "anchor": "About 90 minutes after",
+   "text": "Chapter 4",
+   "sub": "Your brain wakes up, your body doesn't",
+   "section_start": true,
+   "start": 381.533,
+   "end": 387.779,
+   "dur": 6.246,
+   "move": "none"
+  },
+  {
+   "id": "z038a",
+   "src": "assets/shots/z038.png",
+   "anchor": "REM stands for rapid",
+   "prompt": "Extreme close-up of closed eyelids with the eyes moving beneath them, motion lines suggested, soft light",
+   "start": 387.779,
+   "end": 391.932,
+   "dur": 4.153,
+   "punch": 0,
+   "move": "push_in"
+  },
+  {
+   "id": "z038b",
+   "src": "assets/shots/z038.png",
+   "anchor": "REM stands for rapid",
+   "prompt": "Extreme close-up of closed eyelids with the eyes moving beneath them, motion lines suggested, soft light",
+   "start": 391.932,
+   "end": 395.123,
+   "dur": 3.191,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z039a",
+   "src": "assets/shots/z039.png",
+   "anchor": "But here's the strange",
+   "prompt": "Cross-section of a sleeping head with the brain lit up brightly in many colours while the body lies dark and still",
+   "emphasis": true,
+   "label": null,
+   "start": 395.123,
+   "end": 399.962,
+   "dur": 4.839,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z039b",
+   "src": "assets/shots/z039.png",
+   "anchor": "But here's the strange",
+   "prompt": "Cross-section of a sleeping head with the brain lit up brightly in many colours while the body lies dark and still",
+   "emphasis": true,
+   "label": null,
+   "start": 399.962,
+   "end": 404.185,
+   "dur": 4.223,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z040",
+   "src": "assets/shots/z040.jpg",
+   "anchor": "And this is the",
+   "prompt": "A vivid dreamscape spilling out of a sleeping person's head: floating islands, a flying whale, a door in the sky",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "start": 404.185,
+   "end": 408.477,
+   "dur": 4.292,
+   "move": "pan_right"
+  },
+  {
+   "id": "z041",
+   "src": "assets/shots/z041.png",
+   "anchor": "Yet while your brain",
+   "prompt": "A sleeping body drawn as a marionette with all its strings gently held still by a calm hand from above, symbolic",
+   "start": 408.477,
+   "end": 415.47,
+   "dur": 6.993,
+   "move": "pull_out"
+  },
+  {
+   "id": "z042",
+   "src": "assets/shots/z042.png",
+   "anchor": "Why? Imagine dreaming that",
+   "prompt": "A person in pajamas running from a huge paper-cut tiger through a dream forest, exaggerated and slightly comic",
+   "start": 415.47,
+   "end": 419.619,
+   "dur": 4.149,
+   "move": "pan_left"
+  },
+  {
+   "id": "z043",
+   "src": "assets/shots/z043.png",
+   "anchor": "If your body followed",
+   "prompt": "The same person, in reality, lying perfectly still in bed while a faint dream tiger prowls on the ceiling above them",
+   "start": 419.619,
+   "end": 424.996,
+   "dur": 5.377,
+   "move": "tilt_down"
+  },
+  {
+   "id": "z044a",
+   "src": "assets/shots/z044.png",
+   "anchor": "During REM sleep, the",
+   "prompt": "Simplified diagram of the brain and spinal cord with a signal going down from the brainstem, a soft barrier stopping it at the limbs, no labels",
+   "label": null,
+   "start": 424.996,
+   "end": 431.828,
+   "dur": 6.832,
+   "punch": 0,
+   "move": "push_in"
+  },
+  {
+   "id": "z044b",
+   "src": "assets/shots/z044.png",
+   "anchor": "During REM sleep, the",
+   "prompt": "Simplified diagram of the brain and spinal cord with a signal going down from the brainstem, a soft barrier stopping it at the limbs, no labels",
+   "label": null,
+   "start": 431.828,
+   "end": 437.628,
+   "dur": 5.8,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z045a",
+   "src": "assets/shots/z045.png",
+   "anchor": "Your eyes can move,",
+   "prompt": "A sleeping person with only the eyes, chest and heart softly glowing, the rest of the body dim and still",
+   "start": 437.628,
+   "end": 442.455,
+   "dur": 4.827,
+   "punch": 0,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z045b",
+   "src": "assets/shots/z045.png",
+   "anchor": "Your eyes can move,",
+   "prompt": "A sleeping person with only the eyes, chest and heart softly glowing, the rest of the body dim and still",
+   "start": 442.455,
+   "end": 447.373,
+   "dur": 4.918,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z046a",
+   "src": "assets/shots/z046.png",
+   "anchor": "It's almost as if",
+   "prompt": "A tiny brain character sitting in a dark cinema watching a glowing dream on screen, while a body sleeps in the seat beside it",
+   "emphasis": true,
+   "start": 447.373,
+   "end": 451.197,
+   "dur": 3.824,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z046b",
+   "src": "assets/shots/z046.png",
+   "anchor": "It's almost as if",
+   "prompt": "A tiny brain character sitting in a dark cinema watching a glowing dream on screen, while a body sleeps in the seat beside it",
+   "emphasis": true,
+   "start": 451.197,
+   "end": 454.981,
+   "dur": 3.784,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z047a",
+   "src": "assets/shots/z047.png",
+   "anchor": "And one more detail:",
+   "prompt": "Several small dream bubbles floating over a sleeper in calm blue deep-sleep light, quieter and simpler than the REM dream",
+   "start": 454.981,
+   "end": 460.158,
+   "dur": 5.177,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z047b",
+   "src": "assets/shots/z047.png",
+   "anchor": "And one more detail:",
+   "prompt": "Several small dream bubbles floating over a sleeper in calm blue deep-sleep light, quieter and simpler than the REM dream",
+   "start": 460.158,
+   "end": 466.532,
+   "dur": 6.374,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "c05",
+   "type": "card",
+   "anchor": "Have you ever studied",
+   "text": "Chapter 5",
+   "sub": "Your brain's night shift",
+   "section_start": true,
+   "start": 466.532,
+   "end": 472.582,
+   "dur": 6.05,
+   "move": "none"
+  },
+  {
+   "id": "z048",
+   "src": "assets/shots/z048.png",
+   "anchor": "Sleep may have helped.",
+   "prompt": "A student asleep on a pile of open books at a desk, a lamp still on, early dawn at the window",
+   "allow_short": true,
+   "start": 472.582,
+   "end": 474.31,
+   "dur": 1.728,
+   "move": "push_in"
+  },
+  {
+   "id": "z049a",
+   "src": "assets/shots/z049.png",
+   "anchor": "Researchers have found that",
+   "prompt": "Glowing threads being woven from loose strands into a strong rope inside a brain shape, symbolic of memory forming",
+   "label": null,
+   "start": 474.31,
+   "end": 479.438,
+   "dur": 5.128,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z049b",
+   "src": "assets/shots/z049.png",
+   "anchor": "Researchers have found that",
+   "prompt": "Glowing threads being woven from loose strands into a strong rope inside a brain shape, symbolic of memory forming",
+   "label": null,
+   "start": 479.438,
+   "end": 484.919,
+   "dur": 5.481,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z050a",
+   "src": "assets/shots/z050.png",
+   "anchor": "Think of your brain",
+   "prompt": "A messy desk covered with papers, photos and notes after a busy day, lamp on, no readable text",
+   "start": 484.919,
+   "end": 489.427,
+   "dur": 4.508,
+   "punch": 0,
+   "move": "pull_out"
+  },
+  {
+   "id": "z050b",
+   "src": "assets/shots/z050.png",
+   "anchor": "Think of your brain",
+   "prompt": "A messy desk covered with papers, photos and notes after a busy day, lamp on, no readable text",
+   "start": 489.427,
+   "end": 493.635,
+   "dur": 4.208,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z051",
+   "src": "assets/shots/z051.png",
+   "anchor": "Sleep helps your brain",
+   "prompt": "The same desk at night with tiny paper-cut helpers filing papers into neat drawers and a cabinet",
+   "emphasis": true,
+   "start": 493.635,
+   "end": 498.485,
+   "dur": 4.85,
+   "move": "push_fast"
+  },
+  {
+   "id": "z052a",
+   "src": "assets/shots/z052.png",
+   "anchor": "Different stages seem to",
+   "prompt": "A night landscape with a deep blue ocean (deep sleep) and a bright aurora sky (REM), each carrying glowing memories, symbolic, no labels",
+   "label": null,
+   "start": 498.485,
+   "end": 503.013,
+   "dur": 4.528,
+   "punch": 0,
+   "move": "pan_left"
+  },
+  {
+   "id": "z052b",
+   "src": "assets/shots/z052.png",
+   "anchor": "Different stages seem to",
+   "prompt": "A night landscape with a deep blue ocean (deep sleep) and a bright aurora sky (REM), each carrying glowing memories, symbolic, no labels",
+   "label": null,
+   "start": 503.013,
+   "end": 507.283,
+   "dur": 4.27,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z052c",
+   "src": "assets/shots/z052.png",
+   "anchor": "Different stages seem to",
+   "prompt": "A night landscape with a deep blue ocean (deep sleep) and a bright aurora sky (REM), each carrying glowing memories, symbolic, no labels",
+   "label": null,
+   "start": 507.283,
+   "end": 512.561,
+   "dur": 5.278,
+   "punch": 2,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z053a",
+   "src": "assets/shots/z053.png",
+   "anchor": "And this isn't just",
+   "prompt": "A researcher's screen showing a forest plot of many small horizontal lines and diamonds, abstract, no readable text",
+   "label": null,
+   "start": 512.561,
+   "end": 518.183,
+   "dur": 5.622,
+   "punch": 0,
+   "move": "tilt_down"
+  },
+  {
+   "id": "z053b",
+   "src": "assets/shots/z053.png",
+   "anchor": "And this isn't just",
+   "prompt": "A researcher's screen showing a forest plot of many small horizontal lines and diamonds, abstract, no readable text",
+   "label": null,
+   "start": 518.183,
+   "end": 524.63,
+   "dur": 6.447,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z053c",
+   "src": "assets/shots/z053.png",
+   "anchor": "And this isn't just",
+   "prompt": "A researcher's screen showing a forest plot of many small horizontal lines and diamonds, abstract, no readable text",
+   "label": null,
+   "start": 524.63,
+   "end": 529.721,
+   "dur": 5.091,
+   "punch": 2,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z054",
+   "src": "assets/shots/z054.png",
+   "anchor": "So staying up all",
+   "prompt": "A tired student at 3 a.m. surrounded by coffee cups and textbooks, the clock (blank face) glowing, the city dark outside",
+   "emphasis": true,
+   "start": 529.721,
+   "end": 535.322,
+   "dur": 5.601,
+   "move": "push_fast"
+  },
+  {
+   "id": "z055",
+   "src": "assets/shots/z055.png",
+   "anchor": "Your brain needs sleep",
+   "prompt": "The same student asleep peacefully in bed, the books stacked neatly on the desk, morning light arriving",
+   "start": 535.322,
+   "end": 540.214,
+   "dur": 4.892,
+   "move": "push_in"
+  },
+  {
+   "id": "z055a",
+   "src": "assets/shots/z055a.png",
+   "anchor": "And sleep doesn't only",
+   "prompt": "A person in bed at night with a small dark paper-cut storm cloud hovering over their head, gently held back by a glowing hand",
+   "start": 540.214,
+   "end": 545.87,
+   "dur": 5.656,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z055ba",
+   "src": "assets/shots/z055b.png",
+   "anchor": "In one study, people",
+   "prompt": "A tired person at a table in the early morning trying to look away from dark floating paper-cut images that keep drifting back into view",
+   "emphasis": true,
+   "start": 545.87,
+   "end": 549.577,
+   "dur": 3.707,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z055bb",
+   "src": "assets/shots/z055b.png",
+   "anchor": "In one study, people",
+   "prompt": "A tired person at a table in the early morning trying to look away from dark floating paper-cut images that keep drifting back into view",
+   "emphasis": true,
+   "start": 549.577,
+   "end": 553.586,
+   "dur": 4.009,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z055c",
+   "src": "assets/shots/z055c.png",
+   "anchor": "And even when they",
+   "prompt": "The same dark cloud slipping back through a door the person has just closed, symbolic",
+   "start": 553.586,
+   "end": 557.602,
+   "dur": 4.016,
+   "move": "pan_right"
+  },
+  {
+   "id": "c06",
+   "type": "card",
+   "anchor": "Now here's a question",
+   "text": "Chapter 6",
+   "sub": "How much sleep do you really need?",
+   "section_start": true,
+   "start": 557.602,
+   "end": 566.425,
+   "dur": 8.823,
+   "move": "none"
+  },
+  {
+   "id": "z056",
+   "src": "assets/shots/z056.png",
+   "anchor": "So how much is",
+   "prompt": "Three beds of different sizes in a row: a crib, a single bed, a double bed, under a starry ceiling",
+   "allow_short": true,
+   "start": 566.425,
+   "end": 568.332,
+   "dur": 1.907,
+   "move": "push_in"
+  },
+  {
+   "id": "z057a",
+   "src": "assets/shots/z057.png",
+   "anchor": "Sleep needs vary with",
+   "prompt": "A newborn baby asleep in a crib, a soft mobile of moons and stars above",
+   "start": 568.332,
+   "end": 574.942,
+   "dur": 6.61,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z057b",
+   "src": "assets/shots/z057.png",
+   "anchor": "Sleep needs vary with",
+   "prompt": "A newborn baby asleep in a crib, a soft mobile of moons and stars above",
+   "start": 574.942,
+   "end": 581.014,
+   "dur": 6.072,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z058",
+   "src": "assets/shots/z058.png",
+   "anchor": "Teenagers need 8 to",
+   "prompt": "A teenager asleep in a bedroom with posters (no text) and a guitar, moonlight",
+   "allow_short": true,
+   "start": 581.014,
+   "end": 583.24,
+   "dur": 2.226,
+   "move": "pull_out"
+  },
+  {
+   "id": "z059",
+   "src": "assets/shots/z059.png",
+   "anchor": "And sleep experts recommend",
+   "prompt": "An adult asleep in bed with a book closed on the nightstand and glasses folded on it, calm",
+   "start": 583.24,
+   "end": 587.997,
+   "dur": 4.757,
+   "move": "pan_left"
+  },
+  {
+   "id": "z060",
+   "src": "assets/shots/z060.png",
+   "anchor": "But what about the",
+   "prompt": "A person bright-eyed at dawn jogging past sleeping houses, the sky just turning light",
+   "start": 587.997,
+   "end": 592.026,
+   "dur": 4.029,
+   "move": "tilt_down"
+  },
+  {
+   "id": "z061",
+   "src": "assets/shots/z061.png",
+   "anchor": "Scientists have found genetic",
+   "prompt": "A glowing DNA double helix made of paper-cut strands with one small segment highlighted in amber",
+   "label": null,
+   "start": 592.026,
+   "end": 597.253,
+   "dur": 5.227,
+   "move": "push_in"
+  },
+  {
+   "id": "z062a",
+   "src": "assets/shots/z062.png",
+   "anchor": "A well-known 2009 study,",
+   "prompt": "A mother and her adult daughter having breakfast at sunrise, both wide awake and cheerful, while the street outside is still dark",
+   "start": 597.253,
+   "end": 603.546,
+   "dur": 6.293,
+   "punch": 0,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z062b",
+   "src": "assets/shots/z062.png",
+   "anchor": "A well-known 2009 study,",
+   "prompt": "A mother and her adult daughter having breakfast at sunrise, both wide awake and cheerful, while the street outside is still dark",
+   "start": 603.546,
+   "end": 609.891,
+   "dur": 6.345,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z063a",
+   "src": "assets/shots/z063.png",
+   "anchor": "When researchers gave mice",
+   "prompt": "Two small paper-cut lab mice, one curled asleep and one awake exploring, in a clean cage, soft light",
+   "start": 609.891,
+   "end": 615.221,
+   "dur": 5.33,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z063b",
+   "src": "assets/shots/z063.png",
+   "anchor": "When researchers gave mice",
+   "prompt": "Two small paper-cut lab mice, one curled asleep and one awake exploring, in a clean cage, soft light",
+   "start": 615.221,
+   "end": 620.564,
+   "dur": 5.343,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z064a",
+   "src": "assets/shots/z064.png",
+   "anchor": "But here's the important",
+   "prompt": "A tired person dragging through a gray morning, holding a large coffee, everything around slightly blurred",
+   "emphasis": true,
+   "start": 620.564,
+   "end": 625.293,
+   "dur": 4.729,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z064b",
+   "src": "assets/shots/z064.png",
+   "anchor": "But here's the important",
+   "prompt": "A tired person dragging through a gray morning, holding a large coffee, everything around slightly blurred",
+   "emphasis": true,
+   "start": 625.293,
+   "end": 630.089,
+   "dur": 4.796,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z064c",
+   "src": "assets/shots/z064.png",
+   "anchor": "But here's the important",
+   "prompt": "A tired person dragging through a gray morning, holding a large coffee, everything around slightly blurred",
+   "emphasis": true,
+   "start": 630.089,
+   "end": 634.92,
+   "dur": 4.831,
+   "punch": 2,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "c07",
+   "type": "card",
+   "anchor": "Here's one of the",
+   "text": "Chapter 7",
+   "sub": "Does your brain clean itself while you sleep?",
+   "section_start": true,
+   "start": 634.92,
+   "end": 638.836,
+   "dur": 3.916,
+   "move": "none"
+  },
+  {
+   "id": "z065",
+   "src": "assets/shots/z065.png",
+   "anchor": "Your brain produces metabolic",
+   "prompt": "Inside a stylised brain: tiny glowing particles drifting between soft folds, like dust in moonlight",
+   "label": null,
+   "start": 638.836,
+   "end": 642.463,
+   "dur": 3.627,
+   "move": "push_in"
+  },
+  {
+   "id": "z066a",
+   "src": "assets/shots/z066.png",
+   "anchor": "Researchers have been investigating",
+   "prompt": "Simplified illustration of a blood vessel in brain tissue with clear fluid flowing along the space around it, carrying small particles away, no labels",
+   "emphasis": true,
+   "label": null,
+   "start": 642.463,
+   "end": 648.813,
+   "dur": 6.35,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z066b",
+   "src": "assets/shots/z066.png",
+   "anchor": "Researchers have been investigating",
+   "prompt": "Simplified illustration of a blood vessel in brain tissue with clear fluid flowing along the space around it, carrying small particles away, no labels",
+   "emphasis": true,
+   "label": null,
+   "start": 648.813,
+   "end": 655.422,
+   "dur": 6.609,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z067",
+   "src": "assets/shots/z067.png",
+   "anchor": "Animal research has suggested",
+   "prompt": "A sleeping mouse curled in a nest in a quiet laboratory at night",
+   "start": 655.422,
+   "end": 659.41,
+   "dur": 3.988,
+   "move": "pan_right"
+  },
+  {
+   "id": "z068a",
+   "src": "assets/shots/z068.png",
+   "anchor": "Human studies are now",
+   "prompt": "A person lying in an MRI scanner in a dim room, a technician silhouette behind glass",
+   "start": 659.41,
+   "end": 662.948,
+   "dur": 3.538,
+   "punch": 0,
+   "move": "pull_out"
+  },
+  {
+   "id": "z068b",
+   "src": "assets/shots/z068.png",
+   "anchor": "Human studies are now",
+   "prompt": "A person lying in an MRI scanner in a dim room, a technician silhouette behind glass",
+   "start": 662.948,
+   "end": 666.743,
+   "dur": 3.795,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z069a",
+   "src": "assets/shots/z069.png",
+   "anchor": "But scientists are still",
+   "prompt": "A half-finished paper-cut map of the brain's channels pinned on a wall, pieces still being placed by a hand",
+   "label": null,
+   "start": 666.743,
+   "end": 670.964,
+   "dur": 4.221,
+   "punch": 0,
+   "move": "pan_left"
+  },
+  {
+   "id": "z069b",
+   "src": "assets/shots/z069.png",
+   "anchor": "But scientists are still",
+   "prompt": "A half-finished paper-cut map of the brain's channels pinned on a wall, pieces still being placed by a hand",
+   "label": null,
+   "start": 670.964,
+   "end": 673.998,
+   "dur": 3.034,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z070",
+   "src": "assets/shots/z070.png",
+   "anchor": "So it's tempting to",
+   "prompt": "A cartoonish washing machine with a brain inside being rinsed, crossed through by a gentle sweep of light, slightly humorous",
+   "emphasis": true,
+   "start": 673.998,
+   "end": 680.427,
+   "dur": 6.429,
+   "move": "push_fast"
+  },
+  {
+   "id": "z071a",
+   "src": "assets/shots/z071.png",
+   "anchor": "What we can say",
+   "prompt": "Soft fluid currents glowing faintly around a sleeping brain silhouette, calm and hopeful",
+   "label": null,
+   "start": 680.427,
+   "end": 684.732,
+   "dur": 4.305,
+   "punch": 0,
+   "move": "tilt_down"
+  },
+  {
+   "id": "z071b",
+   "src": "assets/shots/z071.png",
+   "anchor": "What we can say",
+   "prompt": "Soft fluid currents glowing faintly around a sleeping brain silhouette, calm and hopeful",
+   "label": null,
+   "start": 684.732,
+   "end": 689.007,
+   "dur": 4.275,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "c08",
+   "type": "card",
+   "anchor": "We've seen that sleep",
+   "text": "Chapter 8",
+   "sub": "Why do we have to sleep at all?",
+   "section_start": true,
+   "start": 689.007,
+   "end": 696.223,
+   "dur": 7.216,
+   "move": "none"
+  },
+  {
+   "id": "z072a",
+   "src": "assets/shots/z072.png",
+   "anchor": "But one enormous question",
+   "prompt": "A deer asleep in a moonlit forest clearing, vulnerable and still",
+   "start": 696.223,
+   "end": 700.909,
+   "dur": 4.686,
+   "punch": 0,
+   "move": "push_in"
+  },
+  {
+   "id": "z072b",
+   "src": "assets/shots/z072.png",
+   "anchor": "But one enormous question",
+   "prompt": "A deer asleep in a moonlit forest clearing, vulnerable and still",
+   "start": 700.909,
+   "end": 705.617,
+   "dur": 4.708,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z073a",
+   "src": "assets/shots/z073.png",
+   "anchor": "Think about the risk.",
+   "prompt": "A sleeping zebra in tall grass at night with a lion's eyes glinting in the darkness nearby",
+   "emphasis": true,
+   "start": 705.617,
+   "end": 709.822,
+   "dur": 4.205,
+   "punch": 0,
+   "move": "push_fast"
+  },
+  {
+   "id": "z073b",
+   "src": "assets/shots/z073.png",
+   "anchor": "Think about the risk.",
+   "prompt": "A sleeping zebra in tall grass at night with a lion's eyes glinting in the darkness nearby",
+   "emphasis": true,
+   "start": 709.822,
+   "end": 712.681,
+   "dur": 2.859,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z074",
+   "src": "assets/shots/z074.png",
+   "anchor": "And yet, sleep is",
+   "prompt": "A collage-like row of sleeping animals: a cat curled, a bird with its head tucked, a dolphin floating, a dog, a bat hanging, paper-cut",
+   "aspect": "3:1 panorama, 3240x1080",
+   "start": 712.681,
+   "end": 716.223,
+   "dur": 3.542,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z075",
+   "src": "assets/shots/z075.png",
+   "anchor": "Scientists have proposed several",
+   "prompt": "A wooden signpost at night with four arrows pointing different ways (no letters), a moonlit path",
+   "start": 716.223,
+   "end": 719.762,
+   "dur": 3.539,
+   "move": "pan_right"
+  },
+  {
+   "id": "z076a",
+   "src": "assets/shots/z076.png",
+   "anchor": "One emphasizes conserving energy.",
+   "prompt": "A battery-shaped lantern slowly recharging beside a sleeping figure, symbolic",
+   "start": 719.762,
+   "end": 723.326,
+   "dur": 3.564,
+   "punch": 0,
+   "move": "push_in"
+  },
+  {
+   "id": "z076b",
+   "src": "assets/shots/z076.png",
+   "anchor": "One emphasizes conserving energy.",
+   "prompt": "A battery-shaped lantern slowly recharging beside a sleeping figure, symbolic",
+   "start": 723.326,
+   "end": 727.351,
+   "dur": 4.025,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z077a",
+   "src": "assets/shots/z077.png",
+   "anchor": "Others focus on memory,",
+   "prompt": "A brain made of tiny glowing connections, some strengthening and some fading, like a living map",
+   "label": null,
+   "start": 727.351,
+   "end": 732.294,
+   "dur": 4.943,
+   "punch": 0,
+   "move": "pan_right"
+  },
+  {
+   "id": "z077b",
+   "src": "assets/shots/z077.png",
+   "anchor": "Others focus on memory,",
+   "prompt": "A brain made of tiny glowing connections, some strengthening and some fading, like a living map",
+   "label": null,
+   "start": 732.294,
+   "end": 736.938,
+   "dur": 4.644,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z078",
+   "src": "assets/shots/z078.png",
+   "anchor": "The most likely answer",
+   "prompt": "A single key with many teeth, each tooth shaped like a different symbol: a battery, a wrench, a book, a broom",
+   "emphasis": true,
+   "start": 736.938,
+   "end": 742.649,
+   "dur": 5.711,
+   "move": "push_fast"
+  },
+  {
+   "id": "z079a",
+   "src": "assets/shots/z079.png",
+   "anchor": "A 2025 review by",
+   "prompt": "Two neuroscientists at a desk with stacks of papers and a brain model, seen from behind, warm lamp light",
+   "start": 742.649,
+   "end": 748.917,
+   "dur": 6.268,
+   "punch": 0,
+   "move": "pull_out"
+  },
+  {
+   "id": "z079b",
+   "src": "assets/shots/z079.png",
+   "anchor": "A 2025 review by",
+   "prompt": "Two neuroscientists at a desk with stacks of papers and a brain model, seen from behind, warm lamp light",
+   "start": 748.917,
+   "end": 755.175,
+   "dur": 6.258,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z080a",
+   "src": "assets/shots/z080.png",
+   "anchor": "And that is what",
+   "prompt": "A night sky full of stars arranged in the faint shape of a brain, a tiny figure looking up from a hill",
+   "move": "pull_out",
+   "start": 755.175,
+   "end": 760.237,
+   "dur": 5.062,
+   "punch": 0
+  },
+  {
+   "id": "z080b",
+   "src": "assets/shots/z080.png",
+   "anchor": "And that is what",
+   "prompt": "A night sky full of stars arranged in the faint shape of a brain, a tiny figure looking up from a hill",
+   "move": "hold_punch",
+   "start": 760.237,
+   "end": 765.865,
+   "dur": 5.628,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "z081a",
+   "src": "assets/shots/z081.png",
+   "anchor": "Every night, you surrender",
+   "prompt": "A person letting go of a kite string at dusk, the kite drifting into the stars",
+   "section_start": true,
+   "start": 765.865,
+   "end": 771.716,
+   "dur": 5.851,
+   "punch": 0,
+   "move": "pan_left"
+  },
+  {
+   "id": "z081b",
+   "src": "assets/shots/z081.png",
+   "anchor": "Every night, you surrender",
+   "prompt": "A person letting go of a kite string at dusk, the kite drifting into the stars",
+   "section_start": false,
+   "start": 771.716,
+   "end": 777.269,
+   "dur": 5.553,
+   "punch": 1,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z082a",
+   "src": "assets/shots/z082.png",
+   "anchor": "Yet during those hours,",
+   "prompt": "The tiny paper-cut night shift inside a sleeping brain again, workers carrying lanterns and folders, busy and calm",
+   "label": null,
+   "start": 777.269,
+   "end": 782.388,
+   "dur": 5.119,
+   "punch": 0,
+   "move": "tilt_down"
+  },
+  {
+   "id": "z082b",
+   "src": "assets/shots/z082.png",
+   "anchor": "Yet during those hours,",
+   "prompt": "The tiny paper-cut night shift inside a sleeping brain again, workers carrying lanterns and folders, busy and calm",
+   "label": null,
+   "start": 782.388,
+   "end": 787.595,
+   "dur": 5.207,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z082c",
+   "src": "assets/shots/z082.png",
+   "anchor": "Yet during those hours,",
+   "prompt": "The tiny paper-cut night shift inside a sleeping brain again, workers carrying lanterns and folders, busy and calm",
+   "label": null,
+   "start": 787.595,
+   "end": 792.408,
+   "dur": 4.813,
+   "punch": 2,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z083a",
+   "src": "assets/shots/z083.png",
+   "anchor": "Sleep is not simply",
+   "prompt": "A city at night seen from above: dark streets but countless warm windows still lit, quietly busy",
+   "start": 792.408,
+   "end": 795.908,
+   "dur": 3.5,
+   "punch": 0,
+   "move": "push_in"
+  },
+  {
+   "id": "z083b",
+   "src": "assets/shots/z083.png",
+   "anchor": "Sleep is not simply",
+   "prompt": "A city at night seen from above: dark streets but countless warm windows still lit, quietly busy",
+   "start": 795.908,
+   "end": 800.543,
+   "dur": 4.635,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z084a",
+   "src": "assets/shots/z084.jpg",
+   "anchor": "And perhaps the most",
+   "prompt": "A sleeper's face in moonlight, peaceful, unaware of a glowing world inside their head",
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "start": 800.543,
+   "end": 805.272,
+   "dur": 4.729,
+   "punch": 0,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z084b",
+   "src": "assets/shots/z084.jpg",
+   "anchor": "And perhaps the most",
+   "prompt": "A sleeper's face in moonlight, peaceful, unaware of a glowing world inside their head",
+   "focus": [
+    0.35,
+    0.45
+   ],
+   "start": 805.272,
+   "end": 810.208,
+   "dur": 4.936,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z085",
+   "src": "assets/shots/z085.png",
+   "anchor": "So tonight, when you",
+   "prompt": "The bedroom from the opening again, the lamp switching off, moonlight remaining",
+   "start": 810.208,
+   "end": 816.339,
+   "dur": 6.131,
+   "move": "pan_right"
+  },
+  {
+   "id": "z086",
+   "src": "assets/shots/z086.jpg",
+   "anchor": "But inside your head,",
+   "prompt": "A dark house at night with a single window glowing warm from within, stars overhead",
+   "move": "pull_out",
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 816.339,
+   "end": 821.232,
+   "dur": 4.893
+  }
+ ],
+ "overlays": [
+  {
+   "id": "o01",
+   "text": "Melatonin",
+   "sub": "released by the pineal gland as light fades",
+   "start": 111.261,
+   "end": 115.846
+  },
+  {
+   "id": "o02",
+   "text": "Sleep pressure",
+   "sub": "adenosine builds the longer you're awake",
+   "start": 138.076,
+   "end": 141.964
+  },
+  {
+   "id": "o03",
+   "text": "8 to 10 hours",
+   "sub": "recommended for ages 13-18 \u00b7 American Academy of Sleep Medicine",
+   "start": 227.505,
+   "end": 236.095
+  },
+  {
+   "id": "o04",
+   "text": "About 90 minutes",
+   "sub": "per cycle \u00b7 4 to 6 cycles a night",
+   "start": 263.425,
+   "end": 266.425
+  },
+  {
+   "id": "o05",
+   "text": "REM atonia",
+   "sub": "most voluntary muscles temporarily still",
+   "start": 431.751,
+   "end": 435.386
+  },
+  {
+   "id": "o06",
+   "text": "39 reports \u00b7 1,234 people",
+   "sub": "less sleep, poorer memory formation \u00b7 2024 meta-analysis",
+   "start": 515.422,
+   "end": 525.045
+  },
+  {
+   "id": "o07",
+   "text": "Newborns: 14-17 hours",
+   "sub": "National Sleep Foundation",
+   "start": 571.976,
+   "end": 580.964
+  },
+  {
+   "id": "o08",
+   "text": "Adults: at least 7 hours",
+   "sub": "American Academy of Sleep Medicine",
+   "start": 583.586,
+   "end": 587.947
+  }
+ ],
+ "problems": []
+}
