@@ -715,10 +715,14 @@
   },
   {
    "id": "z065",
-   "src": "assets/shots/z065.png",
+   "src": "assets/shots/z065.jpg",
    "anchor": "Your brain produces metabolic",
    "prompt": "Inside a stylised brain: tiny glowing particles drifting between soft folds, like dust in moonlight",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z066",
@@ -756,10 +760,14 @@
   },
   {
    "id": "z071",
-   "src": "assets/shots/z071.png",
+   "src": "assets/shots/z071.jpg",
    "anchor": "What we can say",
    "prompt": "Soft fluid currents glowing faintly around a sleeping brain silhouette, calm and hopeful",
-   "label": null
+   "label": null,
+   "focus": [
+    0.55,
+    0.7
+   ]
   },
   {
    "id": "c08",
