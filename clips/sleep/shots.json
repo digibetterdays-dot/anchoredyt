@@ -233,10 +233,14 @@
   },
   {
    "id": "z020",
-   "src": "assets/shots/z020.png",
+   "src": "assets/shots/z020.jpg",
    "anchor": "And when the sleep-promoting",
    "prompt": "A person drifting down onto a cloud-like pillow, the room dissolving into stars",
-   "move": "pull_out"
+   "move": "pull_out",
+   "focus": [
+    0.4,
+    0.5
+   ]
   },
   {
    "id": "c02",
@@ -289,10 +293,14 @@
   },
   {
    "id": "z025",
-   "src": "assets/shots/z025.png",
+   "src": "assets/shots/z025.jpg",
    "anchor": "The result? A teenager",
    "prompt": "A teenager slumped at a school desk in early morning light, head on arms, a sunrise through the classroom window",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.55
+   ]
   },
   {
    "id": "z026",
@@ -314,9 +322,13 @@
   },
   {
    "id": "z027",
-   "src": "assets/shots/z027.png",
+   "src": "assets/shots/z027.jpg",
    "anchor": "So the next time",
-   "prompt": "A teenager and a parent at a kitchen table in the evening, the teen shrugging with a small smile, warm lamp light"
+   "prompt": "A teenager and a parent at a kitchen table in the evening, the teen shrugging with a small smile, warm lamp light",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "c03",
