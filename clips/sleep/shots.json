@@ -308,17 +308,25 @@
   },
   {
    "id": "z036a",
-   "src": "assets/shots/z036a.png",
+   "src": "assets/shots/z036a.jpg",
    "anchor": "All this relaxing has",
-   "prompt": "A person asleep on their back in bed with mouth slightly open, small paper-cut sound waves rising from them, a partner beside them pulling a pillow over their head, gently comic"
+   "prompt": "A person asleep on their back in bed with mouth slightly open, small paper-cut sound waves rising from them, a partner beside them pulling a pillow over their head, gently comic",
+   "focus": [
+    0.5,
+    0.4
+   ]
   },
   {
    "id": "z036b",
-   "src": "assets/shots/z036b.png",
+   "src": "assets/shots/z036b.jpg",
    "anchor": "As you sink deeper",
    "prompt": "Simplified side-view cross-section of a sleeping head showing the airway, soft palate and tongue, with air flowing past and a small vibration marked by wavy lines, no labels",
    "emphasis": true,
-   "label": null
+   "label": null,
+   "focus": [
+    0.55,
+    0.45
+   ]
   },
   {
    "id": "z036c",
@@ -332,9 +340,13 @@
   },
   {
    "id": "z036d",
-   "src": "assets/shots/z036d.png",
+   "src": "assets/shots/z036d.jpg",
    "anchor": "But loud snoring with",
-   "prompt": "A doctor's consultation room: a doctor and a patient talking calmly across a desk, a model of a head on a shelf, warm light"
+   "prompt": "A doctor's consultation room: a doctor and a patient talking calmly across a desk, a model of a head on a shelf, warm light",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z037",
