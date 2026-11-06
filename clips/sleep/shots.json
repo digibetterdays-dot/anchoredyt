@@ -507,10 +507,14 @@
   },
   {
    "id": "z049",
-   "src": "assets/shots/z049.png",
+   "src": "assets/shots/z049.jpg",
    "anchor": "Researchers have found that",
    "prompt": "Glowing threads being woven from loose strands into a strong rope inside a brain shape, symbolic of memory forming",
-   "label": null
+   "label": null,
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "z050",
@@ -549,29 +553,45 @@
   },
   {
    "id": "z054",
-   "src": "assets/shots/z054.png",
+   "src": "assets/shots/z054.jpg",
    "anchor": "So staying up all",
    "prompt": "A tired student at 3 a.m. surrounded by coffee cups and textbooks, the clock (blank face) glowing, the city dark outside",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.55,
+    0.55
+   ]
   },
   {
    "id": "z055",
-   "src": "assets/shots/z055.png",
+   "src": "assets/shots/z055.jpg",
    "anchor": "Your brain needs sleep",
-   "prompt": "The same student asleep peacefully in bed, the books stacked neatly on the desk, morning light arriving"
+   "prompt": "The same student asleep peacefully in bed, the books stacked neatly on the desk, morning light arriving",
+   "focus": [
+    0.55,
+    0.45
+   ]
   },
   {
    "id": "z055a",
-   "src": "assets/shots/z055a.png",
+   "src": "assets/shots/z055a.jpg",
    "anchor": "And sleep doesn't only",
-   "prompt": "A person in bed at night with a small dark paper-cut storm cloud hovering over their head, gently held back by a glowing hand"
+   "prompt": "A person in bed at night with a small dark paper-cut storm cloud hovering over their head, gently held back by a glowing hand",
+   "focus": [
+    0.4,
+    0.4
+   ]
   },
   {
    "id": "z055b",
-   "src": "assets/shots/z055b.png",
+   "src": "assets/shots/z055b.jpg",
    "anchor": "In one study, people",
    "prompt": "A tired person at a table in the early morning trying to look away from dark floating paper-cut images that keep drifting back into view",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.4,
+    0.4
+   ]
   },
   {
    "id": "z055c",
