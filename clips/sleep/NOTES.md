@@ -13,7 +13,7 @@ Built with the `documentary-edit` skill. Fact check: `../../sleep-factcheck.md`.
 - [x] 93 of 93 stills filed. Final shot z086: lone glowing house (owner approved Nov 6); child-at-window and framed versions kept in `assets/alt/`.
 - [x] **Rendered (Nov 6):** `renders/sleep-final.mp4` (482 MB) and `renders/sleep-final-1080p-share.mp4` (103 MB), 13:41, 164 segments from 101 shots, avg 5.0 s. Audio QA: -14.24 LUFS, -1.49 dBTP, no dead air. Captions `renders/sleep.srt`. Contact sheet checked; nobody has watched or listened in full yet. Renders not in git.
 - [x] Upload package: `UPLOAD.md` (long form vidIQ 99; chapters from the card times)
-- [ ] Shorts rendering (Nov 6)
+- [x] Shorts rendered (Nov 6): teens 0:50, REM 0:48, memories 0:22, snore 0:29, all 1080x1920. Audio QA all pass (-14.26 to -14.40 LUFS, peaks -1.83 to -1.90 dBTP, no dead air). Framing checked on snapshots of every segment; nobody has watched them in full.
 
 ## Look
 Same paper-cut house style; night palette (midnight navy, cream, one warm amber accent). Diagrams (brain, waves, DNA, clocks) carry no Illustration tag; scenes do.
