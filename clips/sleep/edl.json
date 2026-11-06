@@ -5,7 +5,7 @@
  "music": null,
  "label_default": "Illustration",
  "captions": false,
- "duration": 821.232,
+ "duration": 836.029,
  "words": "words.json",
  "segments": [
   {
@@ -181,7 +181,7 @@
    "move": "hold_punch"
   },
   {
-   "id": "z008a",
+   "id": "z008",
    "src": "assets/shots/z008.jpg",
    "anchor": "So let's follow your",
    "prompt": "A long hallway of doors at night, moonlight on the floor, leading into the distance, a feeling of a journey",
@@ -191,25 +191,8 @@
     0.45
    ],
    "start": 62.383,
-   "end": 65.919,
-   "dur": 3.536,
-   "punch": 0
-  },
-  {
-   "id": "z008b",
-   "src": "assets/shots/z008.jpg",
-   "anchor": "So let's follow your",
-   "prompt": "A long hallway of doors at night, moonlight on the floor, leading into the distance, a feeling of a journey",
-   "move": "hold_punch",
-   "focus": [
-    0.5,
-    0.45
-   ],
-   "start": 65.919,
-   "end": 69.412,
-   "dur": 3.493,
-   "punch": 1,
-   "section_start": false
+   "end": 68.912,
+   "dur": 6.529
   },
   {
    "id": "c01",
@@ -218,13 +201,14 @@
    "text": "Chapter 1",
    "sub": "Who tells your brain when to sleep?",
    "section_start": true,
-   "start": 69.412,
-   "end": 74.29,
-   "dur": 4.878,
+   "start": 68.912,
+   "_resume": 71.532,
+   "end": 71.532,
+   "dur": 2.62,
    "move": "none"
   },
   {
-   "id": "z009",
+   "id": "z009a",
    "src": "assets/shots/z009.jpg",
    "anchor": "That's not simply a",
    "prompt": "A large paper-cut clock face made of a sun and moon, with a sleeping figure curled at its center (no numbers)",
@@ -233,10 +217,28 @@
     0.45,
     0.6
    ],
-   "start": 74.29,
-   "end": 81.237,
-   "dur": 6.947,
-   "move": "push_in"
+   "start": 71.532,
+   "end": 77.134,
+   "dur": 5.602,
+   "punch": 0,
+   "move": "tilt_up"
+  },
+  {
+   "id": "z009b",
+   "src": "assets/shots/z009.jpg",
+   "anchor": "That's not simply a",
+   "prompt": "A large paper-cut clock face made of a sun and moon, with a sleeping figure curled at its center (no numbers)",
+   "label": null,
+   "focus": [
+    0.45,
+    0.6
+   ],
+   "start": 77.134,
+   "end": 82.798,
+   "dur": 5.664,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "z010a",
@@ -248,11 +250,11 @@
     0.5,
     0.5
    ],
-   "start": 81.237,
-   "end": 86.394,
+   "start": 82.798,
+   "end": 87.955,
    "dur": 5.157,
    "punch": 0,
-   "move": "tilt_up"
+   "move": "pan_right"
   },
   {
    "id": "z010b",
@@ -264,9 +266,9 @@
     0.5,
     0.5
    ],
-   "start": 86.394,
-   "end": 92.058,
-   "dur": 5.664,
+   "start": 87.955,
+   "end": 93.62,
+   "dur": 5.665,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -282,9 +284,9 @@
     0.52,
     0.52
    ],
-   "start": 92.058,
-   "end": 96.498,
-   "dur": 4.44,
+   "start": 93.62,
+   "end": 98.059,
+   "dur": 4.439,
    "punch": 0,
    "move": "push_fast"
   },
@@ -299,8 +301,8 @@
     0.52,
     0.52
    ],
-   "start": 96.498,
-   "end": 101.053,
+   "start": 98.059,
+   "end": 102.614,
    "dur": 4.555,
    "punch": 1,
    "section_start": false,
@@ -316,11 +318,11 @@
     0.55,
     0.45
    ],
-   "start": 101.053,
-   "end": 104.109,
+   "start": 102.614,
+   "end": 105.67,
    "dur": 3.056,
    "punch": 0,
-   "move": "pan_right"
+   "move": "push_in"
   },
   {
    "id": "z012b",
@@ -332,8 +334,8 @@
     0.55,
     0.45
    ],
-   "start": 104.109,
-   "end": 108.411,
+   "start": 105.67,
+   "end": 109.972,
    "dur": 4.302,
    "punch": 1,
    "section_start": false,
@@ -348,11 +350,11 @@
     0.5,
     0.6
    ],
-   "start": 108.411,
-   "end": 112.103,
+   "start": 109.972,
+   "end": 113.664,
    "dur": 3.692,
    "punch": 0,
-   "move": "push_in"
+   "move": "pan_right"
   },
   {
    "id": "z013b",
@@ -363,8 +365,8 @@
     0.5,
     0.6
    ],
-   "start": 112.103,
-   "end": 115.896,
+   "start": 113.664,
+   "end": 117.457,
    "dur": 3.793,
    "punch": 1,
    "section_start": false,
@@ -379,11 +381,11 @@
     0.4,
     0.6
    ],
-   "start": 115.896,
-   "end": 121.671,
+   "start": 117.457,
+   "end": 123.232,
    "dur": 5.775,
    "punch": 0,
-   "move": "pan_right"
+   "move": "pull_out"
   },
   {
    "id": "z014b",
@@ -394,8 +396,8 @@
     0.4,
     0.6
    ],
-   "start": 121.671,
-   "end": 127.673,
+   "start": 123.232,
+   "end": 129.234,
    "dur": 6.002,
    "punch": 1,
    "section_start": false,
@@ -410,11 +412,11 @@
     0.5,
     0.65
    ],
-   "start": 127.673,
-   "end": 132.178,
+   "start": 129.234,
+   "end": 133.739,
    "dur": 4.505,
    "punch": 0,
-   "move": "pull_out"
+   "move": "pan_left"
   },
   {
    "id": "z015b",
@@ -425,8 +427,8 @@
     0.5,
     0.65
    ],
-   "start": 132.178,
-   "end": 137.147,
+   "start": 133.739,
+   "end": 138.708,
    "dur": 4.969,
    "punch": 1,
    "section_start": false,
@@ -441,8 +443,8 @@
     0.5,
     0.65
    ],
-   "start": 137.147,
-   "end": 142.014,
+   "start": 138.708,
+   "end": 143.575,
    "dur": 4.867,
    "punch": 2,
    "section_start": false,
@@ -457,10 +459,10 @@
     0.55,
     0.45
    ],
-   "start": 142.014,
-   "end": 146.699,
+   "start": 143.575,
+   "end": 148.26,
    "dur": 4.685,
-   "move": "pan_left"
+   "move": "tilt_down"
   },
   {
    "id": "z017a",
@@ -472,11 +474,11 @@
     0.5,
     0.5
    ],
-   "start": 146.699,
-   "end": 150.802,
+   "start": 148.26,
+   "end": 152.363,
    "dur": 4.103,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "push_in"
   },
   {
    "id": "z017b",
@@ -488,8 +490,8 @@
     0.5,
     0.5
    ],
-   "start": 150.802,
-   "end": 154.98,
+   "start": 152.363,
+   "end": 156.541,
    "dur": 4.178,
    "punch": 1,
    "section_start": false,
@@ -504,11 +506,11 @@
     0.6,
     0.45
    ],
-   "start": 154.98,
-   "end": 160.5,
+   "start": 156.541,
+   "end": 162.061,
    "dur": 5.52,
    "punch": 0,
-   "move": "push_in"
+   "move": "tilt_up"
   },
   {
    "id": "z018b",
@@ -519,8 +521,8 @@
     0.6,
     0.45
    ],
-   "start": 160.5,
-   "end": 166.206,
+   "start": 162.061,
+   "end": 167.767,
    "dur": 5.706,
    "punch": 1,
    "section_start": false,
@@ -535,9 +537,9 @@
     0.6,
     0.45
    ],
-   "start": 166.206,
-   "end": 171.775,
-   "dur": 5.569,
+   "start": 167.767,
+   "end": 173.337,
+   "dur": 5.57,
    "punch": 2,
    "section_start": false,
    "move": "hold_punch"
@@ -551,10 +553,10 @@
     0.5,
     0.45
    ],
-   "start": 171.775,
-   "end": 175.067,
-   "dur": 3.292,
-   "move": "tilt_up"
+   "start": 173.337,
+   "end": 176.628,
+   "dur": 3.291,
+   "move": "pan_right"
   },
   {
    "id": "z020",
@@ -566,9 +568,9 @@
     0.4,
     0.5
    ],
-   "start": 175.067,
-   "end": 179.993,
-   "dur": 4.926
+   "start": 176.628,
+   "end": 181.039,
+   "dur": 4.411
   },
   {
    "id": "c02",
@@ -577,9 +579,10 @@
    "text": "Chapter 2",
    "sub": "Why do teenagers want to sleep later?",
    "section_start": true,
-   "start": 179.993,
-   "end": 183.994,
-   "dur": 4.001,
+   "start": 181.039,
+   "_resume": 183.659,
+   "end": 183.659,
+   "dur": 2.62,
    "move": "none"
   },
   {
@@ -591,11 +594,11 @@
     0.6,
     0.6
    ],
-   "start": 183.994,
-   "end": 187.527,
-   "dur": 3.533,
+   "start": 183.659,
+   "end": 188.994,
+   "dur": 5.335,
    "punch": 0,
-   "move": "pan_right"
+   "move": "push_in"
   },
   {
    "id": "z021b",
@@ -606,9 +609,9 @@
     0.6,
     0.6
    ],
-   "start": 187.527,
-   "end": 191.07,
-   "dur": 3.543,
+   "start": 188.994,
+   "end": 194.161,
+   "dur": 5.167,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -623,10 +626,10 @@
     0.5,
     0.5
    ],
-   "start": 191.07,
-   "end": 197.757,
-   "dur": 6.687,
-   "move": "push_in"
+   "start": 194.161,
+   "end": 200.847,
+   "dur": 6.686,
+   "move": "pan_right"
   },
   {
    "id": "z023",
@@ -637,10 +640,10 @@
     0.75,
     0.5
    ],
-   "start": 197.757,
-   "end": 204.048,
-   "dur": 6.291,
-   "move": "pan_right"
+   "start": 200.847,
+   "end": 207.139,
+   "dur": 6.292,
+   "move": "pull_out"
   },
   {
    "id": "z024a",
@@ -651,11 +654,11 @@
     0.55,
     0.5
    ],
-   "start": 204.048,
-   "end": 209.16,
+   "start": 207.139,
+   "end": 212.251,
    "dur": 5.112,
    "punch": 0,
-   "move": "pull_out"
+   "move": "pan_left"
   },
   {
    "id": "z024b",
@@ -666,8 +669,8 @@
     0.55,
     0.5
    ],
-   "start": 209.16,
-   "end": 214.473,
+   "start": 212.251,
+   "end": 217.564,
    "dur": 5.313,
    "punch": 1,
    "section_start": false,
@@ -683,8 +686,8 @@
     0.5,
     0.55
    ],
-   "start": 214.473,
-   "end": 221.376,
+   "start": 217.564,
+   "end": 224.467,
    "dur": 6.903,
    "move": "push_fast"
   },
@@ -697,11 +700,11 @@
     0.6,
     0.55
    ],
-   "start": 221.376,
-   "end": 226.195,
+   "start": 224.467,
+   "end": 229.286,
    "dur": 4.819,
    "punch": 0,
-   "move": "pan_left"
+   "move": "tilt_down"
   },
   {
    "id": "z026b",
@@ -712,8 +715,8 @@
     0.6,
     0.55
    ],
-   "start": 226.195,
-   "end": 231.242,
+   "start": 229.286,
+   "end": 234.333,
    "dur": 5.047,
    "punch": 1,
    "section_start": false,
@@ -728,8 +731,8 @@
     0.6,
     0.55
    ],
-   "start": 231.242,
-   "end": 236.145,
+   "start": 234.333,
+   "end": 239.236,
    "dur": 4.903,
    "punch": 2,
    "section_start": false,
@@ -744,11 +747,11 @@
     0.5,
     0.5
    ],
-   "start": 236.145,
-   "end": 240.412,
-   "dur": 4.267,
+   "start": 239.236,
+   "end": 242.726,
+   "dur": 3.49,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "push_in"
   },
   {
    "id": "z027b",
@@ -759,9 +762,9 @@
     0.5,
     0.5
    ],
-   "start": 240.412,
-   "end": 244.242,
-   "dur": 3.83,
+   "start": 242.726,
+   "end": 247.086,
+   "dur": 4.36,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -773,9 +776,10 @@
    "text": "Chapter 3",
    "sub": "Your brain doesn't just switch off",
    "section_start": true,
-   "start": 244.242,
-   "end": 248.916,
-   "dur": 4.674,
+   "start": 247.086,
+   "_resume": 249.706,
+   "end": 249.706,
+   "dur": 2.62,
    "move": "none"
   },
   {
@@ -787,11 +791,11 @@
     0.6,
     0.65
    ],
-   "start": 248.916,
-   "end": 254.673,
-   "dur": 5.757,
+   "start": 249.706,
+   "end": 254.162,
+   "dur": 4.456,
    "punch": 0,
-   "move": "push_in"
+   "move": "tilt_up"
   },
   {
    "id": "z028b",
@@ -802,10 +806,26 @@
     0.6,
     0.65
    ],
-   "start": 254.673,
-   "end": 259.615,
-   "dur": 4.942,
+   "start": 254.162,
+   "end": 259.831,
+   "dur": 5.669,
    "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z028c",
+   "src": "assets/shots/z028.jpg",
+   "anchor": "Scientists divide sleep into",
+   "prompt": "A night sky landscape split into two layers: a calm blue ocean of waves below (deep sleep) and a bright aurora above (REM), symbolic, no labels",
+   "focus": [
+    0.6,
+    0.65
+   ],
+   "start": 259.831,
+   "end": 264.773,
+   "dur": 4.942,
+   "punch": 2,
    "section_start": false,
    "move": "hold_punch"
   },
@@ -821,8 +841,8 @@
     0.35,
     0.55
    ],
-   "start": 259.615,
-   "end": 270.488,
+   "start": 264.773,
+   "end": 275.646,
    "dur": 10.873
   },
   {
@@ -835,11 +855,11 @@
     0.35,
     0.45
    ],
-   "start": 270.488,
-   "end": 277.014,
+   "start": 275.646,
+   "end": 282.172,
    "dur": 6.526,
    "punch": 0,
-   "move": "tilt_up"
+   "move": "push_in"
   },
   {
    "id": "z030b",
@@ -851,8 +871,8 @@
     0.35,
     0.45
    ],
-   "start": 277.014,
-   "end": 283.398,
+   "start": 282.172,
+   "end": 288.556,
    "dur": 6.384,
    "punch": 1,
    "move": "hold_punch"
@@ -867,8 +887,8 @@
     0.5,
     0.45
    ],
-   "start": 283.398,
-   "end": 289.179,
+   "start": 288.556,
+   "end": 294.337,
    "dur": 5.781,
    "punch": 0,
    "move": "push_fast"
@@ -883,8 +903,8 @@
     0.5,
     0.45
    ],
-   "start": 289.179,
-   "end": 295.374,
+   "start": 294.337,
+   "end": 300.532,
    "dur": 6.195,
    "punch": 1,
    "section_start": false,
@@ -899,8 +919,8 @@
     0.6,
     0.45
    ],
-   "start": 295.374,
-   "end": 300.032,
+   "start": 300.532,
+   "end": 305.19,
    "dur": 4.658,
    "punch": 0,
    "move": "pan_right"
@@ -914,8 +934,8 @@
     0.6,
     0.45
    ],
-   "start": 300.032,
-   "end": 305.452,
+   "start": 305.19,
+   "end": 310.61,
    "dur": 5.42,
    "punch": 1,
    "section_start": false,
@@ -931,11 +951,11 @@
     0.5,
     0.4
    ],
-   "start": 305.452,
-   "end": 312.307,
+   "start": 310.61,
+   "end": 317.465,
    "dur": 6.855,
    "punch": 0,
-   "move": "push_in"
+   "move": "pull_out"
   },
   {
    "id": "z033b",
@@ -947,8 +967,8 @@
     0.5,
     0.4
    ],
-   "start": 312.307,
-   "end": 319.263,
+   "start": 317.465,
+   "end": 324.421,
    "dur": 6.956,
    "punch": 1,
    "section_start": false,
@@ -964,8 +984,8 @@
     0.5,
     0.5
    ],
-   "start": 319.263,
-   "end": 323.3,
+   "start": 324.421,
+   "end": 328.458,
    "dur": 4.037,
    "punch": 0,
    "move": "push_fast"
@@ -980,8 +1000,8 @@
     0.5,
     0.5
    ],
-   "start": 323.3,
-   "end": 327.375,
+   "start": 328.458,
+   "end": 332.533,
    "dur": 4.075,
    "punch": 1,
    "section_start": false,
@@ -996,11 +1016,11 @@
     0.55,
     0.5
    ],
-   "start": 327.375,
-   "end": 333.034,
+   "start": 332.533,
+   "end": 338.192,
    "dur": 5.659,
    "punch": 0,
-   "move": "pan_right"
+   "move": "pan_left"
   },
   {
    "id": "z035b",
@@ -1011,8 +1031,8 @@
     0.55,
     0.5
    ],
-   "start": 333.034,
-   "end": 338.587,
+   "start": 338.192,
+   "end": 343.745,
    "dur": 5.553,
    "punch": 1,
    "section_start": false,
@@ -1027,11 +1047,11 @@
     0.45,
     0.55
    ],
-   "start": 338.587,
-   "end": 342.471,
+   "start": 343.745,
+   "end": 347.629,
    "dur": 3.884,
    "punch": 0,
-   "move": "pull_out"
+   "move": "tilt_down"
   },
   {
    "id": "z036b",
@@ -1042,8 +1062,8 @@
     0.45,
     0.55
    ],
-   "start": 342.471,
-   "end": 347.316,
+   "start": 347.629,
+   "end": 352.474,
    "dur": 4.845,
    "punch": 1,
    "section_start": false,
@@ -1058,10 +1078,10 @@
     0.5,
     0.4
    ],
-   "start": 347.316,
-   "end": 351.77,
+   "start": 352.474,
+   "end": 356.928,
    "dur": 4.454,
-   "move": "pan_left"
+   "move": "push_in"
   },
   {
    "id": "z036ba",
@@ -1074,8 +1094,8 @@
     0.55,
     0.45
    ],
-   "start": 351.77,
-   "end": 357.434,
+   "start": 356.928,
+   "end": 362.592,
    "dur": 5.664,
    "punch": 0,
    "move": "push_fast"
@@ -1091,9 +1111,9 @@
     0.55,
     0.45
    ],
-   "start": 357.434,
-   "end": 363.053,
-   "dur": 5.619,
+   "start": 362.592,
+   "end": 368.212,
+   "dur": 5.62,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -1107,10 +1127,10 @@
     0.4,
     0.55
    ],
-   "start": 363.053,
-   "end": 369.173,
-   "dur": 6.12,
-   "move": "tilt_down"
+   "start": 368.212,
+   "end": 374.331,
+   "dur": 6.119,
+   "move": "tilt_up"
   },
   {
    "id": "z036da",
@@ -1121,11 +1141,11 @@
     0.5,
     0.5
    ],
-   "start": 369.173,
-   "end": 372.596,
+   "start": 374.331,
+   "end": 377.754,
    "dur": 3.423,
    "punch": 0,
-   "move": "push_in"
+   "move": "pan_right"
   },
   {
    "id": "z036db",
@@ -1136,8 +1156,8 @@
     0.5,
     0.5
    ],
-   "start": 372.596,
-   "end": 376.184,
+   "start": 377.754,
+   "end": 381.342,
    "dur": 3.588,
    "punch": 1,
    "section_start": false,
@@ -1152,10 +1172,10 @@
     0.5,
     0.45
    ],
-   "start": 376.184,
-   "end": 381.533,
-   "dur": 5.349,
-   "move": "tilt_up"
+   "start": 381.342,
+   "end": 386.386,
+   "dur": 5.044,
+   "move": "push_in"
   },
   {
    "id": "c04",
@@ -1164,9 +1184,10 @@
    "text": "Chapter 4",
    "sub": "Your brain wakes up, your body doesn't",
    "section_start": true,
-   "start": 381.533,
-   "end": 387.779,
-   "dur": 6.246,
+   "start": 386.386,
+   "_resume": 389.006,
+   "end": 389.006,
+   "dur": 2.62,
    "move": "none"
   },
   {
@@ -1178,9 +1199,9 @@
     0.5,
     0.5
    ],
-   "start": 387.779,
-   "end": 391.932,
-   "dur": 4.153,
+   "start": 389.006,
+   "end": 394.996,
+   "dur": 5.99,
    "punch": 0,
    "move": "pan_right"
   },
@@ -1193,9 +1214,9 @@
     0.5,
     0.5
    ],
-   "start": 391.932,
-   "end": 395.123,
-   "dur": 3.191,
+   "start": 394.996,
+   "end": 402.231,
+   "dur": 7.235,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -1211,8 +1232,8 @@
     0.3,
     0.4
    ],
-   "start": 395.123,
-   "end": 399.962,
+   "start": 402.231,
+   "end": 407.07,
    "dur": 4.839,
    "punch": 0,
    "move": "push_fast"
@@ -1228,8 +1249,8 @@
     0.3,
     0.4
    ],
-   "start": 399.962,
-   "end": 404.185,
+   "start": 407.07,
+   "end": 411.293,
    "dur": 4.223,
    "punch": 1,
    "section_start": false,
@@ -1244,10 +1265,10 @@
     0.5,
     0.4
    ],
-   "start": 404.185,
-   "end": 408.477,
+   "start": 411.293,
+   "end": 415.585,
    "dur": 4.292,
-   "move": "push_in"
+   "move": "pull_out"
   },
   {
    "id": "z041",
@@ -1258,10 +1279,10 @@
     0.5,
     0.55
    ],
-   "start": 408.477,
-   "end": 415.47,
-   "dur": 6.993,
-   "move": "pan_right"
+   "start": 415.585,
+   "end": 422.577,
+   "dur": 6.992,
+   "move": "pan_left"
   },
   {
    "id": "z042",
@@ -1272,10 +1293,10 @@
     0.6,
     0.5
    ],
-   "start": 415.47,
-   "end": 419.619,
-   "dur": 4.149,
-   "move": "pull_out"
+   "start": 422.577,
+   "end": 426.727,
+   "dur": 4.15,
+   "move": "tilt_down"
   },
   {
    "id": "z043",
@@ -1286,10 +1307,10 @@
     0.45,
     0.45
    ],
-   "start": 419.619,
-   "end": 424.996,
-   "dur": 5.377,
-   "move": "pan_left"
+   "start": 426.727,
+   "end": 432.105,
+   "dur": 5.378,
+   "move": "push_in"
   },
   {
    "id": "z044a",
@@ -1301,11 +1322,11 @@
     0.4,
     0.35
    ],
-   "start": 424.996,
-   "end": 431.828,
-   "dur": 6.832,
+   "start": 432.105,
+   "end": 438.936,
+   "dur": 6.831,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "tilt_up"
   },
   {
    "id": "z044b",
@@ -1317,8 +1338,8 @@
     0.4,
     0.35
    ],
-   "start": 431.828,
-   "end": 437.628,
+   "start": 438.936,
+   "end": 444.736,
    "dur": 5.8,
    "punch": 1,
    "section_start": false,
@@ -1333,11 +1354,11 @@
     0.55,
     0.5
    ],
-   "start": 437.628,
-   "end": 442.455,
+   "start": 444.736,
+   "end": 449.563,
    "dur": 4.827,
    "punch": 0,
-   "move": "push_in"
+   "move": "pan_right"
   },
   {
    "id": "z045b",
@@ -1348,8 +1369,8 @@
     0.55,
     0.5
    ],
-   "start": 442.455,
-   "end": 447.373,
+   "start": 449.563,
+   "end": 454.481,
    "dur": 4.918,
    "punch": 1,
    "section_start": false,
@@ -1365,8 +1386,8 @@
     0.55,
     0.5
    ],
-   "start": 447.373,
-   "end": 451.197,
+   "start": 454.481,
+   "end": 458.305,
    "dur": 3.824,
    "punch": 0,
    "move": "push_fast"
@@ -1381,9 +1402,9 @@
     0.55,
     0.5
    ],
-   "start": 451.197,
-   "end": 454.981,
-   "dur": 3.784,
+   "start": 458.305,
+   "end": 462.09,
+   "dur": 3.785,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -1397,11 +1418,11 @@
     0.5,
     0.45
    ],
-   "start": 454.981,
-   "end": 460.158,
-   "dur": 5.177,
+   "start": 462.09,
+   "end": 467.266,
+   "dur": 5.176,
    "punch": 0,
-   "move": "tilt_up"
+   "move": "push_in"
   },
   {
    "id": "z047b",
@@ -1412,9 +1433,9 @@
     0.5,
     0.45
    ],
-   "start": 460.158,
-   "end": 466.532,
-   "dur": 6.374,
+   "start": 467.266,
+   "end": 473.298,
+   "dur": 6.032,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -1426,13 +1447,14 @@
    "text": "Chapter 5",
    "sub": "Your brain's night shift",
    "section_start": true,
-   "start": 466.532,
-   "end": 472.582,
-   "dur": 6.05,
+   "start": 473.298,
+   "_resume": 475.918,
+   "end": 475.918,
+   "dur": 2.62,
    "move": "none"
   },
   {
-   "id": "z048",
+   "id": "z048a",
    "src": "assets/shots/z048.jpg",
    "anchor": "Sleep may have helped.",
    "prompt": "A student asleep on a pile of open books at a desk, a lamp still on, early dawn at the window",
@@ -1441,10 +1463,28 @@
     0.6,
     0.6
    ],
-   "start": 472.582,
-   "end": 474.31,
-   "dur": 1.728,
+   "start": 475.918,
+   "end": 479.124,
+   "dur": 3.206,
+   "punch": 0,
    "move": "pan_right"
+  },
+  {
+   "id": "z048b",
+   "src": "assets/shots/z048.jpg",
+   "anchor": "Sleep may have helped.",
+   "prompt": "A student asleep on a pile of open books at a desk, a lamp still on, early dawn at the window",
+   "allow_short": true,
+   "focus": [
+    0.6,
+    0.6
+   ],
+   "start": 479.124,
+   "end": 483.294,
+   "dur": 4.17,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "z049a",
@@ -1456,11 +1496,11 @@
     0.55,
     0.5
    ],
-   "start": 474.31,
-   "end": 479.438,
+   "start": 483.294,
+   "end": 488.422,
    "dur": 5.128,
    "punch": 0,
-   "move": "push_in"
+   "move": "pull_out"
   },
   {
    "id": "z049b",
@@ -1472,9 +1512,9 @@
     0.55,
     0.5
    ],
-   "start": 479.438,
-   "end": 484.919,
-   "dur": 5.481,
+   "start": 488.422,
+   "end": 493.904,
+   "dur": 5.482,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -1488,11 +1528,11 @@
     0.5,
     0.6
    ],
-   "start": 484.919,
-   "end": 489.427,
-   "dur": 4.508,
+   "start": 493.904,
+   "end": 498.411,
+   "dur": 4.507,
    "punch": 0,
-   "move": "pan_right"
+   "move": "pan_left"
   },
   {
    "id": "z050b",
@@ -1503,9 +1543,9 @@
     0.5,
     0.6
    ],
-   "start": 489.427,
-   "end": 493.635,
-   "dur": 4.208,
+   "start": 498.411,
+   "end": 502.62,
+   "dur": 4.209,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -1520,9 +1560,9 @@
     0.55,
     0.55
    ],
-   "start": 493.635,
-   "end": 498.485,
-   "dur": 4.85,
+   "start": 502.62,
+   "end": 507.469,
+   "dur": 4.849,
    "move": "push_fast"
   },
   {
@@ -1535,11 +1575,11 @@
     0.55,
     0.45
    ],
-   "start": 498.485,
-   "end": 503.013,
+   "start": 507.469,
+   "end": 511.997,
    "dur": 4.528,
    "punch": 0,
-   "move": "pull_out"
+   "move": "tilt_down"
   },
   {
    "id": "z052b",
@@ -1551,8 +1591,8 @@
     0.55,
     0.45
    ],
-   "start": 503.013,
-   "end": 507.283,
+   "start": 511.997,
+   "end": 516.267,
    "dur": 4.27,
    "punch": 1,
    "section_start": false,
@@ -1568,9 +1608,9 @@
     0.55,
     0.45
    ],
-   "start": 507.283,
-   "end": 512.561,
-   "dur": 5.278,
+   "start": 516.267,
+   "end": 521.544,
+   "dur": 5.277,
    "punch": 2,
    "section_start": false,
    "move": "hold_punch"
@@ -1585,11 +1625,11 @@
     0.5,
     0.45
    ],
-   "start": 512.561,
-   "end": 518.183,
-   "dur": 5.622,
+   "start": 521.544,
+   "end": 527.167,
+   "dur": 5.623,
    "punch": 0,
-   "move": "pan_left"
+   "move": "push_in"
   },
   {
    "id": "z053b",
@@ -1601,8 +1641,8 @@
     0.5,
     0.45
    ],
-   "start": 518.183,
-   "end": 524.63,
+   "start": 527.167,
+   "end": 533.614,
    "dur": 6.447,
    "punch": 1,
    "section_start": false,
@@ -1618,8 +1658,8 @@
     0.5,
     0.45
    ],
-   "start": 524.63,
-   "end": 529.721,
+   "start": 533.614,
+   "end": 538.705,
    "dur": 5.091,
    "punch": 2,
    "section_start": false,
@@ -1635,8 +1675,8 @@
     0.55,
     0.55
    ],
-   "start": 529.721,
-   "end": 535.322,
+   "start": 538.705,
+   "end": 544.306,
    "dur": 5.601,
    "move": "push_fast"
   },
@@ -1649,10 +1689,10 @@
     0.55,
     0.45
    ],
-   "start": 535.322,
-   "end": 540.214,
+   "start": 544.306,
+   "end": 549.198,
    "dur": 4.892,
-   "move": "tilt_down"
+   "move": "tilt_up"
   },
   {
    "id": "z055a",
@@ -1663,10 +1703,10 @@
     0.4,
     0.4
    ],
-   "start": 540.214,
-   "end": 545.87,
-   "dur": 5.656,
-   "move": "push_in"
+   "start": 549.198,
+   "end": 554.855,
+   "dur": 5.657,
+   "move": "pan_right"
   },
   {
    "id": "z055ba",
@@ -1678,9 +1718,9 @@
     0.4,
     0.4
    ],
-   "start": 545.87,
-   "end": 549.577,
-   "dur": 3.707,
+   "start": 554.855,
+   "end": 558.561,
+   "dur": 3.706,
    "punch": 0,
    "move": "push_fast"
   },
@@ -1694,8 +1734,8 @@
     0.4,
     0.4
    ],
-   "start": 549.577,
-   "end": 553.586,
+   "start": 558.561,
+   "end": 562.57,
    "dur": 4.009,
    "punch": 1,
    "section_start": false,
@@ -1710,10 +1750,10 @@
     0.55,
     0.45
    ],
-   "start": 553.586,
-   "end": 557.602,
-   "dur": 4.016,
-   "move": "tilt_up"
+   "start": 562.57,
+   "end": 566.316,
+   "dur": 3.746,
+   "move": "push_in"
   },
   {
    "id": "c06",
@@ -1722,13 +1762,14 @@
    "text": "Chapter 6",
    "sub": "How much sleep do you really need?",
    "section_start": true,
-   "start": 557.602,
-   "end": 566.425,
-   "dur": 8.823,
+   "start": 566.316,
+   "_resume": 568.936,
+   "end": 568.936,
+   "dur": 2.62,
    "move": "none"
   },
   {
-   "id": "z056",
+   "id": "z056a",
    "src": "assets/shots/z056.jpg",
    "anchor": "So how much is",
    "prompt": "Three beds of different sizes in a row: a crib, a single bed, a double bed, under a starry ceiling",
@@ -1737,10 +1778,28 @@
     0.5,
     0.55
    ],
-   "start": 566.425,
-   "end": 568.332,
-   "dur": 1.907,
+   "start": 568.936,
+   "end": 574.126,
+   "dur": 5.19,
+   "punch": 0,
    "move": "pan_right"
+  },
+  {
+   "id": "z056b",
+   "src": "assets/shots/z056.jpg",
+   "anchor": "So how much is",
+   "prompt": "Three beds of different sizes in a row: a crib, a single bed, a double bed, under a starry ceiling",
+   "allow_short": true,
+   "focus": [
+    0.5,
+    0.55
+   ],
+   "start": 574.126,
+   "end": 579.335,
+   "dur": 5.209,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "z057a",
@@ -1751,11 +1810,11 @@
     0.35,
     0.6
    ],
-   "start": 568.332,
-   "end": 574.942,
-   "dur": 6.61,
+   "start": 579.335,
+   "end": 585.946,
+   "dur": 6.611,
    "punch": 0,
-   "move": "push_in"
+   "move": "pull_out"
   },
   {
    "id": "z057b",
@@ -1766,9 +1825,9 @@
     0.35,
     0.6
    ],
-   "start": 574.942,
-   "end": 581.014,
-   "dur": 6.072,
+   "start": 585.946,
+   "end": 592.019,
+   "dur": 6.073,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -1783,10 +1842,10 @@
     0.7,
     0.55
    ],
-   "start": 581.014,
-   "end": 583.24,
+   "start": 592.019,
+   "end": 594.245,
    "dur": 2.226,
-   "move": "pan_right"
+   "move": "pan_left"
   },
   {
    "id": "z059",
@@ -1797,10 +1856,10 @@
     0.4,
     0.5
    ],
-   "start": 583.24,
-   "end": 587.997,
-   "dur": 4.757,
-   "move": "pull_out"
+   "start": 594.245,
+   "end": 599.001,
+   "dur": 4.756,
+   "move": "tilt_down"
   },
   {
    "id": "z060",
@@ -1811,10 +1870,10 @@
     0.35,
     0.5
    ],
-   "start": 587.997,
-   "end": 592.026,
-   "dur": 4.029,
-   "move": "pan_left"
+   "start": 599.001,
+   "end": 603.031,
+   "dur": 4.03,
+   "move": "push_in"
   },
   {
    "id": "z061",
@@ -1826,10 +1885,10 @@
     0.5,
     0.45
    ],
-   "start": 592.026,
-   "end": 597.253,
-   "dur": 5.227,
-   "move": "tilt_down"
+   "start": 603.031,
+   "end": 608.256,
+   "dur": 5.225,
+   "move": "tilt_up"
   },
   {
    "id": "z062a",
@@ -1840,11 +1899,11 @@
     0.5,
     0.5
    ],
-   "start": 597.253,
-   "end": 603.546,
-   "dur": 6.293,
+   "start": 608.256,
+   "end": 614.55,
+   "dur": 6.294,
    "punch": 0,
-   "move": "push_in"
+   "move": "pan_right"
   },
   {
    "id": "z062b",
@@ -1855,8 +1914,8 @@
     0.5,
     0.5
    ],
-   "start": 603.546,
-   "end": 609.891,
+   "start": 614.55,
+   "end": 620.895,
    "dur": 6.345,
    "punch": 1,
    "section_start": false,
@@ -1871,11 +1930,11 @@
     0.45,
     0.6
    ],
-   "start": 609.891,
-   "end": 615.221,
+   "start": 620.895,
+   "end": 626.225,
    "dur": 5.33,
    "punch": 0,
-   "move": "tilt_up"
+   "move": "push_in"
   },
   {
    "id": "z063b",
@@ -1886,9 +1945,9 @@
     0.45,
     0.6
    ],
-   "start": 615.221,
-   "end": 620.564,
-   "dur": 5.343,
+   "start": 626.225,
+   "end": 631.569,
+   "dur": 5.344,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -1903,9 +1962,9 @@
     0.5,
     0.55
    ],
-   "start": 620.564,
-   "end": 625.293,
-   "dur": 4.729,
+   "start": 631.569,
+   "end": 636.297,
+   "dur": 4.728,
    "punch": 0,
    "move": "push_fast"
   },
@@ -1919,8 +1978,8 @@
     0.5,
     0.55
    ],
-   "start": 625.293,
-   "end": 630.089,
+   "start": 636.297,
+   "end": 641.093,
    "dur": 4.796,
    "punch": 1,
    "section_start": false,
@@ -1936,9 +1995,9 @@
     0.5,
     0.55
    ],
-   "start": 630.089,
-   "end": 634.92,
-   "dur": 4.831,
+   "start": 641.093,
+   "end": 645.592,
+   "dur": 4.499,
    "punch": 2,
    "section_start": false,
    "move": "hold_punch"
@@ -1950,13 +2009,14 @@
    "text": "Chapter 7",
    "sub": "Does your brain clean itself while you sleep?",
    "section_start": true,
-   "start": 634.92,
-   "end": 638.836,
-   "dur": 3.916,
+   "start": 645.592,
+   "_resume": 648.212,
+   "end": 648.212,
+   "dur": 2.62,
    "move": "none"
   },
   {
-   "id": "z065",
+   "id": "z065a",
    "src": "assets/shots/z065.jpg",
    "anchor": "Your brain produces metabolic",
    "prompt": "Inside a stylised brain: tiny glowing particles drifting between soft folds, like dust in moonlight",
@@ -1965,10 +2025,28 @@
     0.5,
     0.5
    ],
-   "start": 638.836,
-   "end": 642.463,
-   "dur": 3.627,
+   "start": 648.212,
+   "end": 651.828,
+   "dur": 3.616,
+   "punch": 0,
    "move": "pan_right"
+  },
+  {
+   "id": "z065b",
+   "src": "assets/shots/z065.jpg",
+   "anchor": "Your brain produces metabolic",
+   "prompt": "Inside a stylised brain: tiny glowing particles drifting between soft folds, like dust in moonlight",
+   "label": null,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "start": 651.828,
+   "end": 655.362,
+   "dur": 3.534,
+   "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
   },
   {
    "id": "z066a",
@@ -1981,8 +2059,8 @@
     0.5,
     0.55
    ],
-   "start": 642.463,
-   "end": 648.813,
+   "start": 655.362,
+   "end": 661.712,
    "dur": 6.35,
    "punch": 0,
    "move": "push_fast"
@@ -1998,9 +2076,9 @@
     0.5,
     0.55
    ],
-   "start": 648.813,
-   "end": 655.422,
-   "dur": 6.609,
+   "start": 661.712,
+   "end": 668.322,
+   "dur": 6.61,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -2014,10 +2092,10 @@
     0.45,
     0.5
    ],
-   "start": 655.422,
-   "end": 659.41,
-   "dur": 3.988,
-   "move": "push_in"
+   "start": 668.322,
+   "end": 672.309,
+   "dur": 3.987,
+   "move": "pull_out"
   },
   {
    "id": "z068a",
@@ -2028,11 +2106,11 @@
     0.4,
     0.55
    ],
-   "start": 659.41,
-   "end": 662.948,
+   "start": 672.309,
+   "end": 675.847,
    "dur": 3.538,
    "punch": 0,
-   "move": "pan_right"
+   "move": "pan_left"
   },
   {
    "id": "z068b",
@@ -2043,8 +2121,8 @@
     0.4,
     0.55
    ],
-   "start": 662.948,
-   "end": 666.743,
+   "start": 675.847,
+   "end": 679.642,
    "dur": 3.795,
    "punch": 1,
    "section_start": false,
@@ -2060,11 +2138,11 @@
     0.5,
     0.45
    ],
-   "start": 666.743,
-   "end": 670.964,
+   "start": 679.642,
+   "end": 683.863,
    "dur": 4.221,
    "punch": 0,
-   "move": "pull_out"
+   "move": "tilt_down"
   },
   {
    "id": "z069b",
@@ -2076,9 +2154,9 @@
     0.5,
     0.45
    ],
-   "start": 670.964,
-   "end": 673.998,
-   "dur": 3.034,
+   "start": 683.863,
+   "end": 686.898,
+   "dur": 3.035,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -2093,9 +2171,9 @@
     0.5,
     0.5
    ],
-   "start": 673.998,
-   "end": 680.427,
-   "dur": 6.429,
+   "start": 686.898,
+   "end": 693.326,
+   "dur": 6.428,
    "move": "push_fast"
   },
   {
@@ -2108,11 +2186,11 @@
     0.55,
     0.7
    ],
-   "start": 680.427,
-   "end": 684.732,
+   "start": 693.326,
+   "end": 697.631,
    "dur": 4.305,
    "punch": 0,
-   "move": "pan_left"
+   "move": "push_in"
   },
   {
    "id": "z071b",
@@ -2124,9 +2202,9 @@
     0.55,
     0.7
    ],
-   "start": 684.732,
-   "end": 689.007,
-   "dur": 4.275,
+   "start": 697.631,
+   "end": 701.575,
+   "dur": 3.944,
    "punch": 1,
    "section_start": false,
    "move": "hold_punch"
@@ -2138,9 +2216,10 @@
    "text": "Chapter 8",
    "sub": "Why do we have to sleep at all?",
    "section_start": true,
-   "start": 689.007,
-   "end": 696.223,
-   "dur": 7.216,
+   "start": 701.575,
+   "_resume": 704.195,
+   "end": 704.195,
+   "dur": 2.62,
    "move": "none"
   },
   {
@@ -2152,11 +2231,11 @@
     0.45,
     0.55
    ],
-   "start": 696.223,
-   "end": 700.909,
-   "dur": 4.686,
+   "start": 704.195,
+   "end": 709.895,
+   "dur": 5.7,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "tilt_up"
   },
   {
    "id": "z072b",
@@ -2167,10 +2246,26 @@
     0.45,
     0.55
    ],
-   "start": 700.909,
-   "end": 705.617,
-   "dur": 4.708,
+   "start": 709.895,
+   "end": 715.107,
+   "dur": 5.212,
    "punch": 1,
+   "section_start": false,
+   "move": "hold_punch"
+  },
+  {
+   "id": "z072c",
+   "src": "assets/shots/z072.jpg",
+   "anchor": "But one enormous question",
+   "prompt": "A deer asleep in a moonlit forest clearing, vulnerable and still",
+   "focus": [
+    0.45,
+    0.55
+   ],
+   "start": 715.107,
+   "end": 720.413,
+   "dur": 5.306,
+   "punch": 2,
    "section_start": false,
    "move": "hold_punch"
   },
@@ -2184,9 +2279,9 @@
     0.45,
     0.6
    ],
-   "start": 705.617,
-   "end": 709.822,
-   "dur": 4.205,
+   "start": 720.413,
+   "end": 724.619,
+   "dur": 4.206,
    "punch": 0,
    "move": "push_fast"
   },
@@ -2200,8 +2295,8 @@
     0.45,
     0.6
    ],
-   "start": 709.822,
-   "end": 712.681,
+   "start": 724.619,
+   "end": 727.478,
    "dur": 2.859,
    "punch": 1,
    "section_start": false,
@@ -2217,8 +2312,8 @@
     0.5
    ],
    "move": "pan_right",
-   "start": 712.681,
-   "end": 716.223,
+   "start": 727.478,
+   "end": 731.02,
    "dur": 3.542
   },
   {
@@ -2230,8 +2325,8 @@
     0.65,
     0.5
    ],
-   "start": 716.223,
-   "end": 719.762,
+   "start": 731.02,
+   "end": 734.559,
    "dur": 3.539,
    "move": "push_in"
   },
@@ -2244,11 +2339,11 @@
     0.4,
     0.5
    ],
-   "start": 719.762,
-   "end": 723.326,
+   "start": 734.559,
+   "end": 738.123,
    "dur": 3.564,
    "punch": 0,
-   "move": "tilt_up"
+   "move": "pan_right"
   },
   {
    "id": "z076b",
@@ -2259,8 +2354,8 @@
     0.4,
     0.5
    ],
-   "start": 723.326,
-   "end": 727.351,
+   "start": 738.123,
+   "end": 742.148,
    "dur": 4.025,
    "punch": 1,
    "section_start": false,
@@ -2276,11 +2371,11 @@
     0.5,
     0.45
    ],
-   "start": 727.351,
-   "end": 732.294,
+   "start": 742.148,
+   "end": 747.091,
    "dur": 4.943,
    "punch": 0,
-   "move": "pan_right"
+   "move": "pull_out"
   },
   {
    "id": "z077b",
@@ -2292,8 +2387,8 @@
     0.5,
     0.45
    ],
-   "start": 732.294,
-   "end": 736.938,
+   "start": 747.091,
+   "end": 751.735,
    "dur": 4.644,
    "punch": 1,
    "section_start": false,
@@ -2309,9 +2404,9 @@
     0.45,
     0.45
    ],
-   "start": 736.938,
-   "end": 742.649,
-   "dur": 5.711,
+   "start": 751.735,
+   "end": 757.447,
+   "dur": 5.712,
    "move": "push_fast"
   },
   {
@@ -2323,11 +2418,11 @@
     0.5,
     0.5
    ],
-   "start": 742.649,
-   "end": 748.917,
-   "dur": 6.268,
+   "start": 757.447,
+   "end": 763.714,
+   "dur": 6.267,
    "punch": 0,
-   "move": "push_in"
+   "move": "pan_left"
   },
   {
    "id": "z079b",
@@ -2338,8 +2433,8 @@
     0.5,
     0.5
    ],
-   "start": 748.917,
-   "end": 755.175,
+   "start": 763.714,
+   "end": 769.972,
    "dur": 6.258,
    "punch": 1,
    "section_start": false,
@@ -2355,8 +2450,8 @@
     0.5,
     0.45
    ],
-   "start": 755.175,
-   "end": 760.237,
+   "start": 769.972,
+   "end": 775.034,
    "dur": 5.062,
    "punch": 0
   },
@@ -2370,9 +2465,9 @@
     0.5,
     0.45
    ],
-   "start": 760.237,
-   "end": 765.865,
-   "dur": 5.628,
+   "start": 775.034,
+   "end": 780.661,
+   "dur": 5.627,
    "punch": 1,
    "section_start": false
   },
@@ -2386,11 +2481,11 @@
     0.5,
     0.5
    ],
-   "start": 765.865,
-   "end": 771.716,
-   "dur": 5.851,
+   "start": 780.661,
+   "end": 786.513,
+   "dur": 5.852,
    "punch": 0,
-   "move": "pan_right"
+   "move": "tilt_down"
   },
   {
    "id": "z081b",
@@ -2402,8 +2497,8 @@
     0.5,
     0.5
    ],
-   "start": 771.716,
-   "end": 777.269,
+   "start": 786.513,
+   "end": 792.066,
    "dur": 5.553,
    "punch": 1,
    "move": "hold_punch"
@@ -2418,11 +2513,11 @@
     0.6,
     0.45
    ],
-   "start": 777.269,
-   "end": 782.388,
+   "start": 792.066,
+   "end": 797.185,
    "dur": 5.119,
    "punch": 0,
-   "move": "pull_out"
+   "move": "push_in"
   },
   {
    "id": "z082b",
@@ -2434,8 +2529,8 @@
     0.6,
     0.45
    ],
-   "start": 782.388,
-   "end": 787.595,
+   "start": 797.185,
+   "end": 802.392,
    "dur": 5.207,
    "punch": 1,
    "section_start": false,
@@ -2451,8 +2546,8 @@
     0.6,
     0.45
    ],
-   "start": 787.595,
-   "end": 792.408,
+   "start": 802.392,
+   "end": 807.205,
    "dur": 4.813,
    "punch": 2,
    "section_start": false,
@@ -2467,11 +2562,11 @@
     0.55,
     0.45
    ],
-   "start": 792.408,
-   "end": 795.908,
+   "start": 807.205,
+   "end": 810.705,
    "dur": 3.5,
    "punch": 0,
-   "move": "pan_left"
+   "move": "tilt_up"
   },
   {
    "id": "z083b",
@@ -2482,8 +2577,8 @@
     0.55,
     0.45
    ],
-   "start": 795.908,
-   "end": 800.543,
+   "start": 810.705,
+   "end": 815.34,
    "dur": 4.635,
    "punch": 1,
    "section_start": false,
@@ -2498,11 +2593,11 @@
     0.35,
     0.45
    ],
-   "start": 800.543,
-   "end": 805.272,
+   "start": 815.34,
+   "end": 820.069,
    "dur": 4.729,
    "punch": 0,
-   "move": "tilt_down"
+   "move": "pan_right"
   },
   {
    "id": "z084b",
@@ -2513,8 +2608,8 @@
     0.35,
     0.45
    ],
-   "start": 805.272,
-   "end": 810.208,
+   "start": 820.069,
+   "end": 825.005,
    "dur": 4.936,
    "punch": 1,
    "section_start": false,
@@ -2529,9 +2624,9 @@
     0.6,
     0.5
    ],
-   "start": 810.208,
-   "end": 816.339,
-   "dur": 6.131,
+   "start": 825.005,
+   "end": 831.135,
+   "dur": 6.13,
    "move": "push_in"
   },
   {
@@ -2545,9 +2640,9 @@
     0.6,
     0.55
    ],
-   "start": 816.339,
-   "end": 821.232,
-   "dur": 4.893
+   "start": 831.135,
+   "end": 836.029,
+   "dur": 4.894
   }
  ],
  "overlays": [
@@ -2555,57 +2650,57 @@
    "id": "o01",
    "text": "Melatonin",
    "sub": "released by the pineal gland as light fades",
-   "start": 111.261,
-   "end": 115.846
+   "start": 112.822,
+   "end": 117.407
   },
   {
    "id": "o02",
    "text": "Sleep pressure",
    "sub": "adenosine builds the longer you're awake",
-   "start": 138.076,
-   "end": 141.964
+   "start": 139.637,
+   "end": 143.525
   },
   {
    "id": "o03",
    "text": "8 to 10 hours",
    "sub": "recommended for ages 13-18 \u00b7 American Academy of Sleep Medicine",
-   "start": 227.505,
-   "end": 236.095
+   "start": 230.596,
+   "end": 239.186
   },
   {
    "id": "o04",
    "text": "About 90 minutes",
    "sub": "per cycle \u00b7 4 to 6 cycles a night",
-   "start": 263.425,
-   "end": 266.425
+   "start": 268.583,
+   "end": 271.583
   },
   {
    "id": "o05",
    "text": "REM atonia",
    "sub": "most voluntary muscles temporarily still",
-   "start": 431.751,
-   "end": 435.386
+   "start": 438.859,
+   "end": 442.494
   },
   {
    "id": "o06",
    "text": "39 reports \u00b7 1,234 people",
    "sub": "less sleep, poorer memory formation \u00b7 2024 meta-analysis",
-   "start": 515.422,
-   "end": 525.045
+   "start": 524.405,
+   "end": 534.029
   },
   {
    "id": "o07",
    "text": "Newborns: 14-17 hours",
    "sub": "National Sleep Foundation",
-   "start": 571.976,
-   "end": 580.964
+   "start": 582.979,
+   "end": 591.969
   },
   {
    "id": "o08",
    "text": "Adults: at least 7 hours",
    "sub": "American Academy of Sleep Medicine",
-   "start": 583.586,
-   "end": 587.947
+   "start": 594.59,
+   "end": 598.951
   }
  ],
  "problems": []

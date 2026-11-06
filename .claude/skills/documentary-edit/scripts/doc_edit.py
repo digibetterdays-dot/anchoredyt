@@ -22,6 +22,7 @@ FORMATS = {
 MOVES = ["push_in", "pan_right", "pull_out", "pan_left", "tilt_down", "push_in", "tilt_up", "pan_right"]
 LEAD = 0.08        # cut this many seconds before the anchor word starts
 TAIL = 0.6         # hold after the last word
+PAUSE_CARD = 1.8   # a full card whose anchor follows a pause this long sits in the pause (voice resumes on the next picture)
 XFADE = 0.45       # crossfade length at section changes
 
 
@@ -156,9 +157,19 @@ def cmd_plan(a):
             gap = w["start"] - prev_end
             # cut in the pause if there is one, else just before the word
             t = prev_end + gap * 0.5 if gap > 0.25 else max(0.0, w["start"] - LEAD)
+            resume = None
+            # a full card in a real pause fills the pause; the voice resumes on the next picture
+            if s.get("type") == "card" and not s.get("overlay") and gap >= PAUSE_CARD:
+                t, resume = prev_end + 0.12, w["start"] - 0.06
             if not timed:
                 t = 0.0
         timed.append(dict(s, start=round(t, 3), _wi=(idx - 1 if anchor else 0)))
+        if anchor and resume is not None:
+            timed[-1]["_resume"] = round(resume, 3)
+
+    for j, s in enumerate(timed):
+        if j and timed[j - 1].get("_resume") is not None and s.get("type") != "card":
+            s["start"] = timed[j - 1]["_resume"]
 
     for j, s in enumerate(timed):
         s["end"] = timed[j + 1]["start"] if j + 1 < len(timed) else round(end_t, 3)

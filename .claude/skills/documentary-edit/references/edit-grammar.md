@@ -36,7 +36,7 @@ Rules: never the same move twice in a row; avoid three zoom-ins in a row; moves 
 ## 4. Transitions
 - **Hard cut** is the default. Documentaries cut; fades read as slideshow.
 - **Crossfade (0.45 s)** only at a `section_start` (new chapter, time jump, shift in mood).
-- **Chapter card** (`type: card`): black card, serif title, optional small subtitle. Long form only, one per chapter, 2-3 s, over a pause in the VO. Shorts never get chapter cards.
+- **Chapter card** (`type: card`): black card, serif title, optional small subtitle. Long form only, one per chapter, 2-3 s, over a pause in the VO. Shorts never get chapter cards. If the VO has no pause there (read straight through), open one: insert silence so about 2.8 s separates the chapter's first word from the word before, shift `words.json` to match, and the planner then puts the card in the pause (any full card after a pause of 1.8 s or more fills it, and the voice resumes on the next picture). Run the audio QA with `QA_PAUSES=<number of chapter cards>`.
 
 ## 5. Text on screen
 - **Card budget:** about one full black card per 30 s of video (chapter titles plus the few numbers the story turns on). Everything else is an `overlay` lower-third on the art; a video that is a third black screen feels like a slideshow.
