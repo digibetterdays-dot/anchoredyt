@@ -60,7 +60,7 @@ cascadia earthquake, cascadia subduction zone, cascadia fault, pacific northwest
 Do you know your evacuation route? Post your city and your nearest high ground, so others nearby can learn from it.
 ```
 
-**Thumbnail:** a calm coastline with a thin red crack running through the water, plus the word **CASCADIA**. Use s082 (coast with the red line offshore) or s001 (ferry in fog) as the base. Keep text to one word.
+**Thumbnail:** `thumbnail/cascadia-thumbnail.jpg` (1280x720): s082, the harbour town with the red fault line offshore, with **"CASCADIA"** across the sky.
 
 **End screen:** the three Shorts, or a "subscribe" element.
 
