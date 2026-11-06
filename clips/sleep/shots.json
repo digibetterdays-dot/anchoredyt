@@ -488,9 +488,13 @@
   },
   {
    "id": "z041",
-   "src": "assets/shots/z041.png",
+   "src": "assets/shots/z041.jpg",
    "anchor": "Yet while your brain",
-   "prompt": "A sleeping body drawn as a marionette with all its strings gently held still by a calm hand from above, symbolic"
+   "prompt": "A sleeping body drawn as a marionette with all its strings gently held still by a calm hand from above, symbolic",
+   "focus": [
+    0.5,
+    0.55
+   ]
   },
   {
    "id": "z042",
@@ -500,9 +504,13 @@
   },
   {
    "id": "z043",
-   "src": "assets/shots/z043.png",
+   "src": "assets/shots/z043.jpg",
    "anchor": "If your body followed",
-   "prompt": "The same person, in reality, lying perfectly still in bed while a faint dream tiger prowls on the ceiling above them"
+   "prompt": "The same person, in reality, lying perfectly still in bed while a faint dream tiger prowls on the ceiling above them",
+   "focus": [
+    0.45,
+    0.45
+   ]
   },
   {
    "id": "z044",
@@ -521,9 +529,13 @@
   },
   {
    "id": "z045",
-   "src": "assets/shots/z045.png",
+   "src": "assets/shots/z045.jpg",
    "anchor": "Your eyes can move,",
-   "prompt": "A sleeping person with only the eyes, chest and heart softly glowing, the rest of the body dim and still"
+   "prompt": "A sleeping person with only the eyes, chest and heart softly glowing, the rest of the body dim and still",
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "z046",
@@ -534,9 +546,13 @@
   },
   {
    "id": "z047",
-   "src": "assets/shots/z047.png",
+   "src": "assets/shots/z047.jpg",
    "anchor": "And one more detail:",
-   "prompt": "Several small dream bubbles floating over a sleeper in calm blue deep-sleep light, quieter and simpler than the REM dream"
+   "prompt": "Several small dream bubbles floating over a sleeper in calm blue deep-sleep light, quieter and simpler than the REM dream",
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "c05",
@@ -548,10 +564,14 @@
   },
   {
    "id": "z048",
-   "src": "assets/shots/z048.png",
+   "src": "assets/shots/z048.jpg",
    "anchor": "Sleep may have helped.",
    "prompt": "A student asleep on a pile of open books at a desk, a lamp still on, early dawn at the window",
-   "allow_short": true
+   "allow_short": true,
+   "focus": [
+    0.6,
+    0.6
+   ]
   },
   {
    "id": "z049",
