@@ -354,7 +354,8 @@
    "anchor": "A typical night is",
    "prompt": "A long paper-cut landscape of rolling hills and valleys at night, a tiny sleeper on a cloud gliding along the waves of the terrain, left to right, no labels",
    "aspect": "3:1 panorama, 3240x1080",
-   "label": null,
+   "move": "pan_right",
+   "no_split": true,
    "focus": [
     0.35,
     0.55
@@ -504,17 +505,25 @@
   },
   {
    "id": "z038",
-   "src": "assets/shots/z038.png",
+   "src": "assets/shots/z038.jpg",
    "anchor": "REM stands for rapid",
-   "prompt": "Extreme close-up of closed eyelids with the eyes moving beneath them, motion lines suggested, soft light"
+   "prompt": "Extreme close-up of closed eyelids with the eyes moving beneath them, motion lines suggested, soft light",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z039",
-   "src": "assets/shots/z039.png",
+   "src": "assets/shots/z039.jpg",
    "anchor": "But here's the strange",
    "prompt": "Cross-section of a sleeping head with the brain lit up brightly in many colours while the body lies dark and still",
    "emphasis": true,
-   "label": null
+   "label": null,
+   "focus": [
+    0.3,
+    0.4
+   ]
   },
   {
    "id": "z040",
@@ -1046,10 +1055,14 @@
   },
   {
    "id": "z081",
-   "src": "assets/shots/z081.png",
+   "src": "assets/shots/z081.jpg",
    "anchor": "Every night, you surrender",
    "prompt": "A person letting go of a kite string at dusk, the kite drifting into the stars",
-   "section_start": true
+   "section_start": true,
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z082",

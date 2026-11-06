@@ -1,0 +1,504 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=1920, height=1080" />
+<script src="assets/vendor/gsap.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#0d0f14}
+#root{position:relative;width:100%;height:100%;font-family:Georgia,'Times New Roman',serif;color:#fff;overflow:hidden}
+.scene{position:absolute;left:0;top:0;width:1920px;height:1080px;overflow:hidden;background:#0d0f14}
+.pic{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.scanpic{position:absolute;max-width:none}
+.card{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#0d0f14;padding:0 10%}
+.cardtxt{font-size:88px;line-height:1.15;text-align:center;letter-spacing:.01em}
+.cardsub{margin-top:28px;font:600 34px/1.3 sans-serif;color:#b9c0cc;text-align:center;letter-spacing:.08em;text-transform:uppercase}
+.tag{position:absolute;left:48px;top:40px;font:700 22px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#e8e8e8}
+.src{position:absolute;right:48px;bottom:40px;font:500 20px sans-serif;background:rgba(10,12,18,.62);padding:6px 14px;border-radius:10px;color:#d8d8d8;max-width:60%}
+.cap{position:absolute;left:5%;width:90%;top:864px;text-align:center}
+.ovl{position:absolute;left:72px;bottom:96px;max-width:62%;background:rgba(10,12,18,.72);padding:22px 30px;border-left:6px solid #b5533c;border-radius:6px}
+.ovltxt{font-size:60px;line-height:1.1}
+.ovlsub{margin-top:10px;font:600 24px/1.3 sans-serif;color:#c9cfd8;letter-spacing:.06em;text-transform:uppercase}
+.cap span{display:inline-block;background:rgba(10,12,18,.78);padding:14px 26px;border-radius:20px;font:800 44px/1.15 sans-serif}
+</style></head><body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="821.232" data-width="1920" data-height="1080">
+<audio id="vo" src="assets/audio/voice.wav" data-start="0" data-duration="821.232" data-track-index="9"></audio>
+<div id="g0" class="scene clip" data-start="0.000" data-duration="4.106" data-track-index="1"><img class="pic" id="g0i" src="assets/shots/z001.jpg" style="transform-origin:60% 55%;object-position:60% 55%"></div>
+<div class="tag clip" id="g0tag" data-start="0.000" data-duration="4.056" data-track-index="6">Illustration</div>
+<div id="g1" class="scene clip" data-start="4.056" data-duration="6.530" data-track-index="2"><img class="pic" id="g1i" src="assets/shots/z002.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g1tag" data-start="4.056" data-duration="6.480" data-track-index="6">Illustration</div>
+<div id="g2" class="scene clip" data-start="10.536" data-duration="5.953" data-track-index="1"><img class="pic" id="g2i" src="assets/shots/z003.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g2tag" data-start="10.536" data-duration="5.903" data-track-index="6">Illustration</div>
+<div id="g3" class="scene clip" data-start="16.439" data-duration="6.022" data-track-index="2"><img class="pic" id="g3i" src="assets/shots/z003.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g3tag" data-start="16.439" data-duration="5.972" data-track-index="6">Illustration</div>
+<div id="g4" class="scene clip" data-start="22.411" data-duration="4.006" data-track-index="1"><img class="pic" id="g4i" src="assets/shots/z004.jpg" style="transform-origin:25% 40%;object-position:25% 40%"></div>
+<div id="g5" class="scene clip" data-start="26.367" data-duration="6.918" data-track-index="2"><img class="pic" id="g5i" src="assets/shots/z005.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g6" class="scene clip" data-start="33.235" data-duration="7.037" data-track-index="1"><img class="pic" id="g6i" src="assets/shots/z005.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g7" class="scene clip" data-start="40.222" data-duration="4.040" data-track-index="2"><img class="pic" id="g7i" src="assets/shots/z006.jpg" style="transform-origin:50% 40%;object-position:50% 40%"></div>
+<div class="tag clip" id="g7tag" data-start="40.222" data-duration="3.990" data-track-index="6">Illustration</div>
+<div id="g8" class="scene clip" data-start="44.212" data-duration="4.276" data-track-index="1"><img class="pic" id="g8i" src="assets/shots/z006.jpg" style="transform-origin:50% 40%;object-position:50% 40%"></div>
+<div class="tag clip" id="g8tag" data-start="44.212" data-duration="4.226" data-track-index="6">Illustration</div>
+<div id="g9" class="scene clip" data-start="48.438" data-duration="7.006" data-track-index="2"><img class="pic" id="g9i" src="assets/shots/z007.jpg" style="transform-origin:50% 40%;object-position:50% 40%"></div>
+<div class="tag clip" id="g9tag" data-start="48.438" data-duration="6.956" data-track-index="6">Illustration</div>
+<div id="g10" class="scene clip" data-start="55.394" data-duration="7.039" data-track-index="1"><img class="pic" id="g10i" src="assets/shots/z007.jpg" style="transform-origin:50% 40%;object-position:50% 40%"></div>
+<div class="tag clip" id="g10tag" data-start="55.394" data-duration="6.989" data-track-index="6">Illustration</div>
+<div id="g11" class="scene clip" data-start="62.383" data-duration="3.586" data-track-index="2"><img class="pic" id="g11i" src="assets/shots/z008.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g11tag" data-start="62.383" data-duration="3.536" data-track-index="6">Illustration</div>
+<div id="g12" class="scene clip" data-start="65.919" data-duration="3.543" data-track-index="1"><img class="pic" id="g12i" src="assets/shots/z008.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g12tag" data-start="65.919" data-duration="3.493" data-track-index="6">Illustration</div>
+<div id="g13" class="scene clip" data-start="68.962" data-duration="5.378" data-track-index="2"><div class="card"><div class="cardtxt">Chapter 1</div><div class="cardsub">Who tells your brain when to sleep?</div></div></div>
+<div id="g14" class="scene clip" data-start="74.290" data-duration="6.997" data-track-index="1"><img class="pic" id="g14i" src="assets/shots/z009.jpg" style="transform-origin:45% 60%;object-position:45% 60%"></div>
+<div id="g15" class="scene clip" data-start="81.237" data-duration="5.207" data-track-index="2"><img class="pic" id="g15i" src="assets/shots/z010.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div id="g16" class="scene clip" data-start="86.394" data-duration="5.714" data-track-index="1"><img class="pic" id="g16i" src="assets/shots/z010.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div id="g17" class="scene clip" data-start="92.058" data-duration="4.490" data-track-index="2"><img class="pic" id="g17i" src="assets/shots/z011.jpg" style="transform-origin:52% 52%;object-position:52% 52%"></div>
+<div id="g18" class="scene clip" data-start="96.498" data-duration="4.605" data-track-index="1"><img class="pic" id="g18i" src="assets/shots/z011.jpg" style="transform-origin:52% 52%;object-position:52% 52%"></div>
+<div id="g19" class="scene clip" data-start="101.053" data-duration="3.106" data-track-index="2"><img class="pic" id="g19i" src="assets/shots/z012.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div id="g20" class="scene clip" data-start="104.109" data-duration="4.352" data-track-index="1"><img class="pic" id="g20i" src="assets/shots/z012.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div id="g21" class="scene clip" data-start="108.411" data-duration="3.742" data-track-index="2"><img class="pic" id="g21i" src="assets/shots/z013.jpg" style="transform-origin:50% 60%;object-position:50% 60%"></div>
+<div class="tag clip" id="g21tag" data-start="108.411" data-duration="3.692" data-track-index="6">Illustration</div>
+<div id="g22" class="scene clip" data-start="112.103" data-duration="3.843" data-track-index="1"><img class="pic" id="g22i" src="assets/shots/z013.jpg" style="transform-origin:50% 60%;object-position:50% 60%"></div>
+<div class="tag clip" id="g22tag" data-start="112.103" data-duration="3.793" data-track-index="6">Illustration</div>
+<div id="g23" class="scene clip" data-start="115.896" data-duration="5.825" data-track-index="2"><img class="pic" id="g23i" src="assets/shots/z014.jpg" style="transform-origin:40% 60%;object-position:40% 60%"></div>
+<div class="tag clip" id="g23tag" data-start="115.896" data-duration="5.775" data-track-index="6">Illustration</div>
+<div id="g24" class="scene clip" data-start="121.671" data-duration="6.052" data-track-index="1"><img class="pic" id="g24i" src="assets/shots/z014.jpg" style="transform-origin:40% 60%;object-position:40% 60%"></div>
+<div class="tag clip" id="g24tag" data-start="121.671" data-duration="6.002" data-track-index="6">Illustration</div>
+<div id="g25" class="scene clip" data-start="127.673" data-duration="4.555" data-track-index="2"><img class="pic" id="g25i" src="assets/shots/z015.jpg" style="transform-origin:50% 65%;object-position:50% 65%"></div>
+<div class="tag clip" id="g25tag" data-start="127.673" data-duration="4.505" data-track-index="6">Illustration</div>
+<div id="g26" class="scene clip" data-start="132.178" data-duration="5.019" data-track-index="1"><img class="pic" id="g26i" src="assets/shots/z015.jpg" style="transform-origin:50% 65%;object-position:50% 65%"></div>
+<div class="tag clip" id="g26tag" data-start="132.178" data-duration="4.969" data-track-index="6">Illustration</div>
+<div id="g27" class="scene clip" data-start="137.147" data-duration="4.917" data-track-index="2"><img class="pic" id="g27i" src="assets/shots/z015.jpg" style="transform-origin:50% 65%;object-position:50% 65%"></div>
+<div class="tag clip" id="g27tag" data-start="137.147" data-duration="4.867" data-track-index="6">Illustration</div>
+<div id="g28" class="scene clip" data-start="142.014" data-duration="4.735" data-track-index="1"><img class="pic" id="g28i" src="assets/shots/z016.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g28tag" data-start="142.014" data-duration="4.685" data-track-index="6">Illustration</div>
+<div id="g29" class="scene clip" data-start="146.699" data-duration="4.153" data-track-index="2"><img class="pic" id="g29i" src="assets/shots/z017.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div id="g30" class="scene clip" data-start="150.802" data-duration="4.228" data-track-index="1"><img class="pic" id="g30i" src="assets/shots/z017.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div id="g31" class="scene clip" data-start="154.980" data-duration="5.570" data-track-index="2"><img class="pic" id="g31i" src="assets/shots/z018.jpg" style="transform-origin:60% 45%;object-position:60% 45%"></div>
+<div class="tag clip" id="g31tag" data-start="154.980" data-duration="5.520" data-track-index="6">Illustration</div>
+<div id="g32" class="scene clip" data-start="160.500" data-duration="5.756" data-track-index="1"><img class="pic" id="g32i" src="assets/shots/z018.jpg" style="transform-origin:60% 45%;object-position:60% 45%"></div>
+<div class="tag clip" id="g32tag" data-start="160.500" data-duration="5.706" data-track-index="6">Illustration</div>
+<div id="g33" class="scene clip" data-start="166.206" data-duration="5.619" data-track-index="2"><img class="pic" id="g33i" src="assets/shots/z018.jpg" style="transform-origin:60% 45%;object-position:60% 45%"></div>
+<div class="tag clip" id="g33tag" data-start="166.206" data-duration="5.569" data-track-index="6">Illustration</div>
+<div id="g34" class="scene clip" data-start="171.775" data-duration="3.342" data-track-index="1"><img class="pic" id="g34i" src="assets/shots/z019.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g34tag" data-start="171.775" data-duration="3.292" data-track-index="6">Illustration</div>
+<div id="g35" class="scene clip" data-start="175.067" data-duration="4.976" data-track-index="2"><img class="pic" id="g35i" src="assets/shots/z020.jpg" style="transform-origin:40% 50%;object-position:40% 50%"></div>
+<div class="tag clip" id="g35tag" data-start="175.067" data-duration="4.926" data-track-index="6">Illustration</div>
+<div id="g36" class="scene clip" data-start="179.543" data-duration="4.501" data-track-index="1"><div class="card"><div class="cardtxt">Chapter 2</div><div class="cardsub">Why do teenagers want to sleep later?</div></div></div>
+<div id="g37" class="scene clip" data-start="183.994" data-duration="3.583" data-track-index="2"><img class="pic" id="g37i" src="assets/shots/z021.jpg" style="transform-origin:60% 60%;object-position:60% 60%"></div>
+<div class="tag clip" id="g37tag" data-start="183.994" data-duration="3.533" data-track-index="6">Illustration</div>
+<div id="g38" class="scene clip" data-start="187.527" data-duration="3.593" data-track-index="1"><img class="pic" id="g38i" src="assets/shots/z021.jpg" style="transform-origin:60% 60%;object-position:60% 60%"></div>
+<div class="tag clip" id="g38tag" data-start="187.527" data-duration="3.543" data-track-index="6">Illustration</div>
+<div id="g39" class="scene clip" data-start="191.070" data-duration="6.737" data-track-index="2"><img class="pic" id="g39i" src="assets/shots/z022.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div id="g40" class="scene clip" data-start="197.757" data-duration="6.341" data-track-index="1"><img class="pic" id="g40i" src="assets/shots/z023.jpg" style="transform-origin:75% 50%;object-position:75% 50%"></div>
+<div class="tag clip" id="g40tag" data-start="197.757" data-duration="6.291" data-track-index="6">Illustration</div>
+<div id="g41" class="scene clip" data-start="204.048" data-duration="5.162" data-track-index="2"><img class="pic" id="g41i" src="assets/shots/z024.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g41tag" data-start="204.048" data-duration="5.112" data-track-index="6">Illustration</div>
+<div id="g42" class="scene clip" data-start="209.160" data-duration="5.363" data-track-index="1"><img class="pic" id="g42i" src="assets/shots/z024.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g42tag" data-start="209.160" data-duration="5.313" data-track-index="6">Illustration</div>
+<div id="g43" class="scene clip" data-start="214.473" data-duration="6.953" data-track-index="2"><img class="pic" id="g43i" src="assets/shots/z025.jpg" style="transform-origin:50% 55%;object-position:50% 55%"></div>
+<div class="tag clip" id="g43tag" data-start="214.473" data-duration="6.903" data-track-index="6">Illustration</div>
+<div id="g44" class="scene clip" data-start="221.376" data-duration="4.869" data-track-index="1"><img class="pic" id="g44i" src="assets/shots/z026.jpg" style="transform-origin:60% 55%;object-position:60% 55%"></div>
+<div class="tag clip" id="g44tag" data-start="221.376" data-duration="4.819" data-track-index="6">Illustration</div>
+<div id="g45" class="scene clip" data-start="226.195" data-duration="5.097" data-track-index="2"><img class="pic" id="g45i" src="assets/shots/z026.jpg" style="transform-origin:60% 55%;object-position:60% 55%"></div>
+<div class="tag clip" id="g45tag" data-start="226.195" data-duration="5.047" data-track-index="6">Illustration</div>
+<div id="g46" class="scene clip" data-start="231.242" data-duration="4.953" data-track-index="1"><img class="pic" id="g46i" src="assets/shots/z026.jpg" style="transform-origin:60% 55%;object-position:60% 55%"></div>
+<div class="tag clip" id="g46tag" data-start="231.242" data-duration="4.903" data-track-index="6">Illustration</div>
+<div id="g47" class="scene clip" data-start="236.145" data-duration="4.317" data-track-index="2"><img class="pic" id="g47i" src="assets/shots/z027.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g47tag" data-start="236.145" data-duration="4.267" data-track-index="6">Illustration</div>
+<div id="g48" class="scene clip" data-start="240.412" data-duration="3.880" data-track-index="1"><img class="pic" id="g48i" src="assets/shots/z027.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g48tag" data-start="240.412" data-duration="3.830" data-track-index="6">Illustration</div>
+<div id="g49" class="scene clip" data-start="243.792" data-duration="5.174" data-track-index="2"><div class="card"><div class="cardtxt">Chapter 3</div><div class="cardsub">Your brain doesn&#x27;t just switch off</div></div></div>
+<div id="g50" class="scene clip" data-start="248.916" data-duration="5.807" data-track-index="1"><img class="pic" id="g50i" src="assets/shots/z028.jpg" style="transform-origin:60% 65%;object-position:60% 65%"></div>
+<div class="tag clip" id="g50tag" data-start="248.916" data-duration="5.757" data-track-index="6">Illustration</div>
+<div id="g51" class="scene clip" data-start="254.673" data-duration="4.992" data-track-index="2"><img class="pic" id="g51i" src="assets/shots/z028.jpg" style="transform-origin:60% 65%;object-position:60% 65%"></div>
+<div class="tag clip" id="g51tag" data-start="254.673" data-duration="4.942" data-track-index="6">Illustration</div>
+<div id="g52" class="scene clip" data-start="259.615" data-duration="10.923" data-track-index="1"><img class="pic" id="g52i" src="assets/shots/z029.jpg" style="transform-origin:35% 55%;object-position:35% 55%"></div>
+<div class="tag clip" id="g52tag" data-start="259.615" data-duration="10.873" data-track-index="6">Illustration</div>
+<div id="g53" class="scene clip" data-start="270.038" data-duration="7.026" data-track-index="2"><img class="pic" id="g53i" src="assets/shots/z030.jpg" style="transform-origin:35% 45%;object-position:35% 45%"></div>
+<div class="tag clip" id="g53tag" data-start="270.488" data-duration="6.526" data-track-index="6">Illustration</div>
+<div id="g54" class="scene clip" data-start="277.014" data-duration="6.434" data-track-index="1"><img class="pic" id="g54i" src="assets/shots/z030.jpg" style="transform-origin:35% 45%;object-position:35% 45%"></div>
+<div class="tag clip" id="g54tag" data-start="277.014" data-duration="6.384" data-track-index="6">Illustration</div>
+<div id="g55" class="scene clip" data-start="283.398" data-duration="5.831" data-track-index="2"><img class="pic" id="g55i" src="assets/shots/z031.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g55tag" data-start="283.398" data-duration="5.781" data-track-index="6">Illustration</div>
+<div id="g56" class="scene clip" data-start="289.179" data-duration="6.245" data-track-index="1"><img class="pic" id="g56i" src="assets/shots/z031.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g56tag" data-start="289.179" data-duration="6.195" data-track-index="6">Illustration</div>
+<div id="g57" class="scene clip" data-start="295.374" data-duration="4.708" data-track-index="2"><img class="pic" id="g57i" src="assets/shots/z032.jpg" style="transform-origin:60% 45%;object-position:60% 45%"></div>
+<div class="tag clip" id="g57tag" data-start="295.374" data-duration="4.658" data-track-index="6">Illustration</div>
+<div id="g58" class="scene clip" data-start="300.032" data-duration="5.470" data-track-index="1"><img class="pic" id="g58i" src="assets/shots/z032.jpg" style="transform-origin:60% 45%;object-position:60% 45%"></div>
+<div class="tag clip" id="g58tag" data-start="300.032" data-duration="5.420" data-track-index="6">Illustration</div>
+<div id="g59" class="scene clip" data-start="305.452" data-duration="6.905" data-track-index="2"><img class="pic" id="g59i" src="assets/shots/z033.jpg" style="transform-origin:50% 40%;object-position:50% 40%"></div>
+<div id="g60" class="scene clip" data-start="312.307" data-duration="7.006" data-track-index="1"><img class="pic" id="g60i" src="assets/shots/z033.jpg" style="transform-origin:50% 40%;object-position:50% 40%"></div>
+<div id="g61" class="scene clip" data-start="319.263" data-duration="4.087" data-track-index="2"><img class="pic" id="g61i" src="assets/shots/z034.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g61tag" data-start="319.263" data-duration="4.037" data-track-index="6">Illustration</div>
+<div id="g62" class="scene clip" data-start="323.300" data-duration="4.125" data-track-index="1"><img class="pic" id="g62i" src="assets/shots/z034.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g62tag" data-start="323.300" data-duration="4.075" data-track-index="6">Illustration</div>
+<div id="g63" class="scene clip" data-start="327.375" data-duration="5.709" data-track-index="2"><img class="pic" id="g63i" src="assets/shots/z035.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g63tag" data-start="327.375" data-duration="5.659" data-track-index="6">Illustration</div>
+<div id="g64" class="scene clip" data-start="333.034" data-duration="5.603" data-track-index="1"><img class="pic" id="g64i" src="assets/shots/z035.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g64tag" data-start="333.034" data-duration="5.553" data-track-index="6">Illustration</div>
+<div id="g65" class="scene clip" data-start="338.587" data-duration="3.934" data-track-index="2"><img class="pic" id="g65i" src="assets/shots/z036.jpg" style="transform-origin:45% 55%;object-position:45% 55%"></div>
+<div class="tag clip" id="g65tag" data-start="338.587" data-duration="3.884" data-track-index="6">Illustration</div>
+<div id="g66" class="scene clip" data-start="342.471" data-duration="4.895" data-track-index="1"><img class="pic" id="g66i" src="assets/shots/z036.jpg" style="transform-origin:45% 55%;object-position:45% 55%"></div>
+<div class="tag clip" id="g66tag" data-start="342.471" data-duration="4.845" data-track-index="6">Illustration</div>
+<div id="g67" class="scene clip" data-start="347.316" data-duration="4.504" data-track-index="2"><img class="pic" id="g67i" src="assets/shots/z036a.jpg" style="transform-origin:50% 40%;object-position:50% 40%"></div>
+<div class="tag clip" id="g67tag" data-start="347.316" data-duration="4.454" data-track-index="6">Illustration</div>
+<div id="g68" class="scene clip" data-start="351.770" data-duration="5.714" data-track-index="1"><img class="pic" id="g68i" src="assets/shots/z036b.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div id="g69" class="scene clip" data-start="357.434" data-duration="5.669" data-track-index="2"><img class="pic" id="g69i" src="assets/shots/z036b.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div id="g70" class="scene clip" data-start="363.053" data-duration="6.170" data-track-index="1"><img class="pic" id="g70i" src="assets/shots/z036c.jpg" style="transform-origin:40% 55%;object-position:40% 55%"></div>
+<div class="tag clip" id="g70tag" data-start="363.053" data-duration="6.120" data-track-index="6">Illustration</div>
+<div id="g71" class="scene clip" data-start="369.173" data-duration="3.473" data-track-index="2"><img class="pic" id="g71i" src="assets/shots/z036d.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g71tag" data-start="369.173" data-duration="3.423" data-track-index="6">Illustration</div>
+<div id="g72" class="scene clip" data-start="372.596" data-duration="3.638" data-track-index="1"><img class="pic" id="g72i" src="assets/shots/z036d.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g72tag" data-start="372.596" data-duration="3.588" data-track-index="6">Illustration</div>
+<div id="g73" class="scene clip" data-start="376.184" data-duration="5.399" data-track-index="2"><img class="pic" id="g73i" src="assets/shots/z037.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g73tag" data-start="376.184" data-duration="5.349" data-track-index="6">Illustration</div>
+<div id="g74" class="scene clip" data-start="381.083" data-duration="6.746" data-track-index="1"><div class="card"><div class="cardtxt">Chapter 4</div><div class="cardsub">Your brain wakes up, your body doesn&#x27;t</div></div></div>
+<div id="g75" class="scene clip" data-start="387.779" data-duration="4.203" data-track-index="2"><img class="pic" id="g75i" src="assets/shots/z038.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g75tag" data-start="387.779" data-duration="4.153" data-track-index="6">Illustration</div>
+<div id="g76" class="scene clip" data-start="391.932" data-duration="3.241" data-track-index="1"><img class="pic" id="g76i" src="assets/shots/z038.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g76tag" data-start="391.932" data-duration="3.191" data-track-index="6">Illustration</div>
+<div id="g77" class="scene clip" data-start="395.123" data-duration="4.889" data-track-index="2"><img class="pic" id="g77i" src="assets/shots/z039.jpg" style="transform-origin:30% 40%;object-position:30% 40%"></div>
+<div id="g78" class="scene clip" data-start="399.962" data-duration="4.273" data-track-index="1"><img class="pic" id="g78i" src="assets/shots/z039.jpg" style="transform-origin:30% 40%;object-position:30% 40%"></div>
+<div id="g79" class="scene clip" data-start="404.185" data-duration="4.342" data-track-index="2"><img class="pic" id="g79i" src="assets/shots/z040.jpg" style="transform-origin:50% 40%;object-position:50% 40%"></div>
+<div class="tag clip" id="g79tag" data-start="404.185" data-duration="4.292" data-track-index="6">Illustration</div>
+<div id="g80" class="scene clip" data-start="408.477" data-duration="7.043" data-track-index="1"><img class="pic" id="g80i" src="assets/shots/z041.jpg" style="transform-origin:50% 55%;object-position:50% 55%"></div>
+<div class="tag clip" id="g80tag" data-start="408.477" data-duration="6.993" data-track-index="6">Illustration</div>
+<div id="g81" class="scene clip" data-start="415.470" data-duration="4.199" data-track-index="2"><img class="pic" id="g81i" src="assets/shots/z042.jpg" style="transform-origin:60% 50%;object-position:60% 50%"></div>
+<div class="tag clip" id="g81tag" data-start="415.470" data-duration="4.149" data-track-index="6">Illustration</div>
+<div id="g82" class="scene clip" data-start="419.619" data-duration="5.427" data-track-index="1"><img class="pic" id="g82i" src="assets/shots/z043.jpg" style="transform-origin:45% 45%;object-position:45% 45%"></div>
+<div class="tag clip" id="g82tag" data-start="419.619" data-duration="5.377" data-track-index="6">Illustration</div>
+<div id="g83" class="scene clip" data-start="424.996" data-duration="6.882" data-track-index="2"><img class="pic" id="g83i" src="assets/shots/z044.jpg" style="transform-origin:40% 35%;object-position:40% 35%"></div>
+<div id="g84" class="scene clip" data-start="431.828" data-duration="5.850" data-track-index="1"><img class="pic" id="g84i" src="assets/shots/z044.jpg" style="transform-origin:40% 35%;object-position:40% 35%"></div>
+<div id="g85" class="scene clip" data-start="437.628" data-duration="4.877" data-track-index="2"><img class="pic" id="g85i" src="assets/shots/z045.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g85tag" data-start="437.628" data-duration="4.827" data-track-index="6">Illustration</div>
+<div id="g86" class="scene clip" data-start="442.455" data-duration="4.968" data-track-index="1"><img class="pic" id="g86i" src="assets/shots/z045.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g86tag" data-start="442.455" data-duration="4.918" data-track-index="6">Illustration</div>
+<div id="g87" class="scene clip" data-start="447.373" data-duration="3.874" data-track-index="2"><img class="pic" id="g87i" src="assets/shots/z046.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g87tag" data-start="447.373" data-duration="3.824" data-track-index="6">Illustration</div>
+<div id="g88" class="scene clip" data-start="451.197" data-duration="3.834" data-track-index="1"><img class="pic" id="g88i" src="assets/shots/z046.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div class="tag clip" id="g88tag" data-start="451.197" data-duration="3.784" data-track-index="6">Illustration</div>
+<div id="g89" class="scene clip" data-start="454.981" data-duration="5.227" data-track-index="2"><img class="pic" id="g89i" src="assets/shots/z047.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g89tag" data-start="454.981" data-duration="5.177" data-track-index="6">Illustration</div>
+<div id="g90" class="scene clip" data-start="460.158" data-duration="6.424" data-track-index="1"><img class="pic" id="g90i" src="assets/shots/z047.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g90tag" data-start="460.158" data-duration="6.374" data-track-index="6">Illustration</div>
+<div id="g91" class="scene clip" data-start="466.082" data-duration="6.550" data-track-index="2"><div class="card"><div class="cardtxt">Chapter 5</div><div class="cardsub">Your brain&#x27;s night shift</div></div></div>
+<div id="g92" class="scene clip" data-start="472.582" data-duration="1.778" data-track-index="1"><img class="pic" id="g92i" src="assets/shots/z048.jpg" style="transform-origin:60% 60%;object-position:60% 60%"></div>
+<div class="tag clip" id="g92tag" data-start="472.582" data-duration="1.728" data-track-index="6">Illustration</div>
+<div id="g93" class="scene clip" data-start="474.310" data-duration="5.178" data-track-index="2"><img class="pic" id="g93i" src="assets/shots/z049.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div id="g94" class="scene clip" data-start="479.438" data-duration="5.531" data-track-index="1"><img class="pic" id="g94i" src="assets/shots/z049.jpg" style="transform-origin:55% 50%;object-position:55% 50%"></div>
+<div id="g95" class="scene clip" data-start="484.919" data-duration="4.558" data-track-index="2"><img class="pic" id="g95i" src="assets/shots/z050.jpg" style="transform-origin:50% 60%;object-position:50% 60%"></div>
+<div class="tag clip" id="g95tag" data-start="484.919" data-duration="4.508" data-track-index="6">Illustration</div>
+<div id="g96" class="scene clip" data-start="489.427" data-duration="4.258" data-track-index="1"><img class="pic" id="g96i" src="assets/shots/z050.jpg" style="transform-origin:50% 60%;object-position:50% 60%"></div>
+<div class="tag clip" id="g96tag" data-start="489.427" data-duration="4.208" data-track-index="6">Illustration</div>
+<div id="g97" class="scene clip" data-start="493.635" data-duration="4.900" data-track-index="2"><img class="pic" id="g97i" src="assets/shots/z051.jpg" style="transform-origin:55% 55%;object-position:55% 55%"></div>
+<div class="tag clip" id="g97tag" data-start="493.635" data-duration="4.850" data-track-index="6">Illustration</div>
+<div id="g98" class="scene clip" data-start="498.485" data-duration="4.578" data-track-index="1"><img class="pic" id="g98i" src="assets/shots/z052.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div id="g99" class="scene clip" data-start="503.013" data-duration="4.320" data-track-index="2"><img class="pic" id="g99i" src="assets/shots/z052.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div id="g100" class="scene clip" data-start="507.283" data-duration="5.328" data-track-index="1"><img class="pic" id="g100i" src="assets/shots/z052.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div id="g101" class="scene clip" data-start="512.561" data-duration="5.672" data-track-index="2"><img class="pic" id="g101i" src="assets/shots/z053.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g102" class="scene clip" data-start="518.183" data-duration="6.497" data-track-index="1"><img class="pic" id="g102i" src="assets/shots/z053.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g103" class="scene clip" data-start="524.630" data-duration="5.141" data-track-index="2"><img class="pic" id="g103i" src="assets/shots/z053.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g104" class="scene clip" data-start="529.721" data-duration="5.651" data-track-index="1"><img class="pic" id="g104i" src="assets/shots/z054.jpg" style="transform-origin:55% 55%;object-position:55% 55%"></div>
+<div class="tag clip" id="g104tag" data-start="529.721" data-duration="5.601" data-track-index="6">Illustration</div>
+<div id="g105" class="scene clip" data-start="535.322" data-duration="4.942" data-track-index="2"><img class="pic" id="g105i" src="assets/shots/z055.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g105tag" data-start="535.322" data-duration="4.892" data-track-index="6">Illustration</div>
+<div id="g106" class="scene clip" data-start="540.214" data-duration="5.706" data-track-index="1"><img class="pic" id="g106i" src="assets/shots/z055a.jpg" style="transform-origin:40% 40%;object-position:40% 40%"></div>
+<div class="tag clip" id="g106tag" data-start="540.214" data-duration="5.656" data-track-index="6">Illustration</div>
+<div id="g107" class="scene clip" data-start="545.870" data-duration="3.757" data-track-index="2"><img class="pic" id="g107i" src="assets/shots/z055b.jpg" style="transform-origin:40% 40%;object-position:40% 40%"></div>
+<div class="tag clip" id="g107tag" data-start="545.870" data-duration="3.707" data-track-index="6">Illustration</div>
+<div id="g108" class="scene clip" data-start="549.577" data-duration="4.059" data-track-index="1"><img class="pic" id="g108i" src="assets/shots/z055b.jpg" style="transform-origin:40% 40%;object-position:40% 40%"></div>
+<div class="tag clip" id="g108tag" data-start="549.577" data-duration="4.009" data-track-index="6">Illustration</div>
+<div id="g109" class="scene clip" data-start="553.586" data-duration="4.066" data-track-index="2"><img class="pic" id="g109i" src="assets/shots/z055c.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g109tag" data-start="553.586" data-duration="4.016" data-track-index="6">Illustration</div>
+<div id="g110" class="scene clip" data-start="557.152" data-duration="9.323" data-track-index="1"><div class="card"><div class="cardtxt">Chapter 6</div><div class="cardsub">How much sleep do you really need?</div></div></div>
+<div id="g111" class="scene clip" data-start="566.425" data-duration="1.957" data-track-index="2"><img class="pic" id="g111i" src="assets/shots/z056.jpg" style="transform-origin:50% 55%;object-position:50% 55%"></div>
+<div class="tag clip" id="g111tag" data-start="566.425" data-duration="1.907" data-track-index="6">Illustration</div>
+<div id="g112" class="scene clip" data-start="568.332" data-duration="6.660" data-track-index="1"><img class="pic" id="g112i" src="assets/shots/z057.jpg" style="transform-origin:35% 60%;object-position:35% 60%"></div>
+<div class="tag clip" id="g112tag" data-start="568.332" data-duration="6.610" data-track-index="6">Illustration</div>
+<div id="g113" class="scene clip" data-start="574.942" data-duration="6.122" data-track-index="2"><img class="pic" id="g113i" src="assets/shots/z057.jpg" style="transform-origin:35% 60%;object-position:35% 60%"></div>
+<div class="tag clip" id="g113tag" data-start="574.942" data-duration="6.072" data-track-index="6">Illustration</div>
+<div id="g114" class="scene clip" data-start="581.014" data-duration="2.276" data-track-index="1"><img class="pic" id="g114i" src="assets/shots/z058.jpg" style="transform-origin:70% 55%;object-position:70% 55%"></div>
+<div class="tag clip" id="g114tag" data-start="581.014" data-duration="2.226" data-track-index="6">Illustration</div>
+<div id="g115" class="scene clip" data-start="583.240" data-duration="4.807" data-track-index="2"><img class="pic" id="g115i" src="assets/shots/z059.jpg" style="transform-origin:40% 50%;object-position:40% 50%"></div>
+<div class="tag clip" id="g115tag" data-start="583.240" data-duration="4.757" data-track-index="6">Illustration</div>
+<div id="g116" class="scene clip" data-start="587.997" data-duration="4.079" data-track-index="1"><img class="pic" id="g116i" src="assets/shots/z060.jpg" style="transform-origin:35% 50%;object-position:35% 50%"></div>
+<div class="tag clip" id="g116tag" data-start="587.997" data-duration="4.029" data-track-index="6">Illustration</div>
+<div id="g117" class="scene clip" data-start="592.026" data-duration="5.277" data-track-index="2"><img class="pic" id="g117i" src="assets/shots/z061.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g118" class="scene clip" data-start="597.253" data-duration="6.343" data-track-index="1"><img class="pic" id="g118i" src="assets/shots/z062.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g118tag" data-start="597.253" data-duration="6.293" data-track-index="6">Illustration</div>
+<div id="g119" class="scene clip" data-start="603.546" data-duration="6.395" data-track-index="2"><img class="pic" id="g119i" src="assets/shots/z062.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g119tag" data-start="603.546" data-duration="6.345" data-track-index="6">Illustration</div>
+<div id="g120" class="scene clip" data-start="609.891" data-duration="5.380" data-track-index="1"><img class="pic" id="g120i" src="assets/shots/z063.jpg" style="transform-origin:45% 60%;object-position:45% 60%"></div>
+<div class="tag clip" id="g120tag" data-start="609.891" data-duration="5.330" data-track-index="6">Illustration</div>
+<div id="g121" class="scene clip" data-start="615.221" data-duration="5.393" data-track-index="2"><img class="pic" id="g121i" src="assets/shots/z063.jpg" style="transform-origin:45% 60%;object-position:45% 60%"></div>
+<div class="tag clip" id="g121tag" data-start="615.221" data-duration="5.343" data-track-index="6">Illustration</div>
+<div id="g122" class="scene clip" data-start="620.564" data-duration="4.779" data-track-index="1"><img class="pic" id="g122i" src="assets/shots/z064.jpg" style="transform-origin:50% 55%;object-position:50% 55%"></div>
+<div class="tag clip" id="g122tag" data-start="620.564" data-duration="4.729" data-track-index="6">Illustration</div>
+<div id="g123" class="scene clip" data-start="625.293" data-duration="4.846" data-track-index="2"><img class="pic" id="g123i" src="assets/shots/z064.jpg" style="transform-origin:50% 55%;object-position:50% 55%"></div>
+<div class="tag clip" id="g123tag" data-start="625.293" data-duration="4.796" data-track-index="6">Illustration</div>
+<div id="g124" class="scene clip" data-start="630.089" data-duration="4.881" data-track-index="1"><img class="pic" id="g124i" src="assets/shots/z064.jpg" style="transform-origin:50% 55%;object-position:50% 55%"></div>
+<div class="tag clip" id="g124tag" data-start="630.089" data-duration="4.831" data-track-index="6">Illustration</div>
+<div id="g125" class="scene clip" data-start="634.470" data-duration="4.416" data-track-index="2"><div class="card"><div class="cardtxt">Chapter 7</div><div class="cardsub">Does your brain clean itself while you sleep?</div></div></div>
+<div id="g126" class="scene clip" data-start="638.836" data-duration="3.677" data-track-index="1"><img class="pic" id="g126i" src="assets/shots/z065.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div id="g127" class="scene clip" data-start="642.463" data-duration="6.400" data-track-index="2"><img class="pic" id="g127i" src="assets/shots/z066.jpg" style="transform-origin:50% 55%;object-position:50% 55%"></div>
+<div id="g128" class="scene clip" data-start="648.813" data-duration="6.659" data-track-index="1"><img class="pic" id="g128i" src="assets/shots/z066.jpg" style="transform-origin:50% 55%;object-position:50% 55%"></div>
+<div id="g129" class="scene clip" data-start="655.422" data-duration="4.038" data-track-index="2"><img class="pic" id="g129i" src="assets/shots/z067.jpg" style="transform-origin:45% 50%;object-position:45% 50%"></div>
+<div class="tag clip" id="g129tag" data-start="655.422" data-duration="3.988" data-track-index="6">Illustration</div>
+<div id="g130" class="scene clip" data-start="659.410" data-duration="3.588" data-track-index="1"><img class="pic" id="g130i" src="assets/shots/z068.jpg" style="transform-origin:40% 55%;object-position:40% 55%"></div>
+<div class="tag clip" id="g130tag" data-start="659.410" data-duration="3.538" data-track-index="6">Illustration</div>
+<div id="g131" class="scene clip" data-start="662.948" data-duration="3.845" data-track-index="2"><img class="pic" id="g131i" src="assets/shots/z068.jpg" style="transform-origin:40% 55%;object-position:40% 55%"></div>
+<div class="tag clip" id="g131tag" data-start="662.948" data-duration="3.795" data-track-index="6">Illustration</div>
+<div id="g132" class="scene clip" data-start="666.743" data-duration="4.271" data-track-index="1"><img class="pic" id="g132i" src="assets/shots/z069.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g133" class="scene clip" data-start="670.964" data-duration="3.084" data-track-index="2"><img class="pic" id="g133i" src="assets/shots/z069.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g134" class="scene clip" data-start="673.998" data-duration="6.479" data-track-index="1"><img class="pic" id="g134i" src="assets/shots/z070.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g134tag" data-start="673.998" data-duration="6.429" data-track-index="6">Illustration</div>
+<div id="g135" class="scene clip" data-start="680.427" data-duration="4.355" data-track-index="2"><img class="pic" id="g135i" src="assets/shots/z071.jpg" style="transform-origin:55% 70%;object-position:55% 70%"></div>
+<div id="g136" class="scene clip" data-start="684.732" data-duration="4.325" data-track-index="1"><img class="pic" id="g136i" src="assets/shots/z071.jpg" style="transform-origin:55% 70%;object-position:55% 70%"></div>
+<div id="g137" class="scene clip" data-start="688.557" data-duration="7.716" data-track-index="2"><div class="card"><div class="cardtxt">Chapter 8</div><div class="cardsub">Why do we have to sleep at all?</div></div></div>
+<div id="g138" class="scene clip" data-start="696.223" data-duration="4.736" data-track-index="1"><img class="pic" id="g138i" src="assets/shots/z072.jpg" style="transform-origin:45% 55%;object-position:45% 55%"></div>
+<div class="tag clip" id="g138tag" data-start="696.223" data-duration="4.686" data-track-index="6">Illustration</div>
+<div id="g139" class="scene clip" data-start="700.909" data-duration="4.758" data-track-index="2"><img class="pic" id="g139i" src="assets/shots/z072.jpg" style="transform-origin:45% 55%;object-position:45% 55%"></div>
+<div class="tag clip" id="g139tag" data-start="700.909" data-duration="4.708" data-track-index="6">Illustration</div>
+<div id="g140" class="scene clip" data-start="705.617" data-duration="4.255" data-track-index="1"><img class="pic" id="g140i" src="assets/shots/z073.jpg" style="transform-origin:45% 60%;object-position:45% 60%"></div>
+<div class="tag clip" id="g140tag" data-start="705.617" data-duration="4.205" data-track-index="6">Illustration</div>
+<div id="g141" class="scene clip" data-start="709.822" data-duration="2.909" data-track-index="2"><img class="pic" id="g141i" src="assets/shots/z073.jpg" style="transform-origin:45% 60%;object-position:45% 60%"></div>
+<div class="tag clip" id="g141tag" data-start="709.822" data-duration="2.859" data-track-index="6">Illustration</div>
+<div id="g142" class="scene clip" data-start="712.681" data-duration="3.592" data-track-index="1"><img class="pic" id="g142i" src="assets/shots/z074.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g142tag" data-start="712.681" data-duration="3.542" data-track-index="6">Illustration</div>
+<div id="g143" class="scene clip" data-start="716.223" data-duration="3.589" data-track-index="2"><img class="pic" id="g143i" src="assets/shots/z075.jpg" style="transform-origin:65% 50%;object-position:65% 50%"></div>
+<div class="tag clip" id="g143tag" data-start="716.223" data-duration="3.539" data-track-index="6">Illustration</div>
+<div id="g144" class="scene clip" data-start="719.762" data-duration="3.614" data-track-index="1"><img class="pic" id="g144i" src="assets/shots/z076.jpg" style="transform-origin:40% 50%;object-position:40% 50%"></div>
+<div class="tag clip" id="g144tag" data-start="719.762" data-duration="3.564" data-track-index="6">Illustration</div>
+<div id="g145" class="scene clip" data-start="723.326" data-duration="4.075" data-track-index="2"><img class="pic" id="g145i" src="assets/shots/z076.jpg" style="transform-origin:40% 50%;object-position:40% 50%"></div>
+<div class="tag clip" id="g145tag" data-start="723.326" data-duration="4.025" data-track-index="6">Illustration</div>
+<div id="g146" class="scene clip" data-start="727.351" data-duration="4.993" data-track-index="1"><img class="pic" id="g146i" src="assets/shots/z077.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g147" class="scene clip" data-start="732.294" data-duration="4.694" data-track-index="2"><img class="pic" id="g147i" src="assets/shots/z077.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div id="g148" class="scene clip" data-start="736.938" data-duration="5.761" data-track-index="1"><img class="pic" id="g148i" src="assets/shots/z078.jpg" style="transform-origin:45% 45%;object-position:45% 45%"></div>
+<div class="tag clip" id="g148tag" data-start="736.938" data-duration="5.711" data-track-index="6">Illustration</div>
+<div id="g149" class="scene clip" data-start="742.649" data-duration="6.318" data-track-index="2"><img class="pic" id="g149i" src="assets/shots/z079.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g149tag" data-start="742.649" data-duration="6.268" data-track-index="6">Illustration</div>
+<div id="g150" class="scene clip" data-start="748.917" data-duration="6.308" data-track-index="1"><img class="pic" id="g150i" src="assets/shots/z079.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g150tag" data-start="748.917" data-duration="6.258" data-track-index="6">Illustration</div>
+<div id="g151" class="scene clip" data-start="755.175" data-duration="5.112" data-track-index="2"><img class="pic" id="g151i" src="assets/shots/z080.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g151tag" data-start="755.175" data-duration="5.062" data-track-index="6">Illustration</div>
+<div id="g152" class="scene clip" data-start="760.237" data-duration="5.678" data-track-index="1"><img class="pic" id="g152i" src="assets/shots/z080.jpg" style="transform-origin:50% 45%;object-position:50% 45%"></div>
+<div class="tag clip" id="g152tag" data-start="760.237" data-duration="5.628" data-track-index="6">Illustration</div>
+<div id="g153" class="scene clip" data-start="765.415" data-duration="6.351" data-track-index="2"><img class="pic" id="g153i" src="assets/shots/z081.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g153tag" data-start="765.865" data-duration="5.851" data-track-index="6">Illustration</div>
+<div id="g154" class="scene clip" data-start="771.716" data-duration="5.603" data-track-index="1"><img class="pic" id="g154i" src="assets/shots/z081.jpg" style="transform-origin:50% 50%;object-position:50% 50%"></div>
+<div class="tag clip" id="g154tag" data-start="771.716" data-duration="5.553" data-track-index="6">Illustration</div>
+<div id="g155" class="scene clip" data-start="777.269" data-duration="5.169" data-track-index="2"><img class="pic" id="g155i" src="assets/shots/z082.jpg" style="transform-origin:60% 45%;object-position:60% 45%"></div>
+<div id="g156" class="scene clip" data-start="782.388" data-duration="5.257" data-track-index="1"><img class="pic" id="g156i" src="assets/shots/z082.jpg" style="transform-origin:60% 45%;object-position:60% 45%"></div>
+<div id="g157" class="scene clip" data-start="787.595" data-duration="4.863" data-track-index="2"><img class="pic" id="g157i" src="assets/shots/z082.jpg" style="transform-origin:60% 45%;object-position:60% 45%"></div>
+<div id="g158" class="scene clip" data-start="792.408" data-duration="3.550" data-track-index="1"><img class="pic" id="g158i" src="assets/shots/z083.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g158tag" data-start="792.408" data-duration="3.500" data-track-index="6">Illustration</div>
+<div id="g159" class="scene clip" data-start="795.908" data-duration="4.685" data-track-index="2"><img class="pic" id="g159i" src="assets/shots/z083.jpg" style="transform-origin:55% 45%;object-position:55% 45%"></div>
+<div class="tag clip" id="g159tag" data-start="795.908" data-duration="4.635" data-track-index="6">Illustration</div>
+<div id="g160" class="scene clip" data-start="800.543" data-duration="4.779" data-track-index="1"><img class="pic" id="g160i" src="assets/shots/z084.jpg" style="transform-origin:35% 45%;object-position:35% 45%"></div>
+<div class="tag clip" id="g160tag" data-start="800.543" data-duration="4.729" data-track-index="6">Illustration</div>
+<div id="g161" class="scene clip" data-start="805.272" data-duration="4.986" data-track-index="2"><img class="pic" id="g161i" src="assets/shots/z084.jpg" style="transform-origin:35% 45%;object-position:35% 45%"></div>
+<div class="tag clip" id="g161tag" data-start="805.272" data-duration="4.936" data-track-index="6">Illustration</div>
+<div id="g162" class="scene clip" data-start="810.208" data-duration="6.181" data-track-index="1"><img class="pic" id="g162i" src="assets/shots/z085.jpg" style="transform-origin:60% 50%;object-position:60% 50%"></div>
+<div class="tag clip" id="g162tag" data-start="810.208" data-duration="6.131" data-track-index="6">Illustration</div>
+<div id="g163" class="scene clip" data-start="816.339" data-duration="4.893" data-track-index="2"><img class="pic" id="g163i" src="assets/shots/z086.jpg" style="transform-origin:60% 55%;object-position:60% 55%"></div>
+<div class="tag clip" id="g163tag" data-start="816.339" data-duration="4.893" data-track-index="6">Illustration</div>
+<div class="ovl clip" id="ovl0" data-start="111.261" data-duration="4.585" data-track-index="8"><div class="ovltxt">Melatonin</div><div class="ovlsub">released by the pineal gland as light fades</div></div>
+<div class="ovl clip" id="ovl1" data-start="138.076" data-duration="3.888" data-track-index="8"><div class="ovltxt">Sleep pressure</div><div class="ovlsub">adenosine builds the longer you&#x27;re awake</div></div>
+<div class="ovl clip" id="ovl2" data-start="227.505" data-duration="8.590" data-track-index="8"><div class="ovltxt">8 to 10 hours</div><div class="ovlsub">recommended for ages 13-18 · American Academy of Sleep Medicine</div></div>
+<div class="ovl clip" id="ovl3" data-start="263.425" data-duration="3.000" data-track-index="8"><div class="ovltxt">About 90 minutes</div><div class="ovlsub">per cycle · 4 to 6 cycles a night</div></div>
+<div class="ovl clip" id="ovl4" data-start="431.751" data-duration="3.635" data-track-index="8"><div class="ovltxt">REM atonia</div><div class="ovlsub">most voluntary muscles temporarily still</div></div>
+<div class="ovl clip" id="ovl5" data-start="515.422" data-duration="9.623" data-track-index="8"><div class="ovltxt">39 reports · 1,234 people</div><div class="ovlsub">less sleep, poorer memory formation · 2024 meta-analysis</div></div>
+<div class="ovl clip" id="ovl6" data-start="571.976" data-duration="8.988" data-track-index="8"><div class="ovltxt">Newborns: 14-17 hours</div><div class="ovlsub">National Sleep Foundation</div></div>
+<div class="ovl clip" id="ovl7" data-start="583.586" data-duration="4.361" data-track-index="8"><div class="ovltxt">Adults: at least 7 hours</div><div class="ovlsub">American Academy of Sleep Medicine</div></div>
+</div>
+<script>
+const tl=gsap.timeline({paused:true});
+tl.fromTo("#g0i",{scale:1.04},{scale:1.14,duration:4.106,ease:"none"},0);
+tl.fromTo("#g1i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:6.53,ease:"none"},4.056);
+tl.fromTo("#g2i",{scale:1.16},{scale:1.04,duration:5.953,ease:"none"},10.536);
+tl.fromTo("#g3i",{scale:1.32},{scale:1.38,duration:6.022,ease:"none"},16.439);
+tl.fromTo("#g4i",{scale:1.02},{scale:1.22,duration:4.006,ease:"power1.in"},22.411);
+tl.fromTo("#g5i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:6.918,ease:"none"},26.367);
+tl.fromTo("#g6i",{scale:1.32},{scale:1.38,duration:7.037,ease:"none"},33.235);
+tl.fromTo("#g7i",{scale:1.02},{scale:1.22,duration:4.04,ease:"power1.in"},40.222);
+tl.fromTo("#g8i",{scale:1.32},{scale:1.38,duration:4.276,ease:"none"},44.212);
+tl.fromTo("#g9i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:7.006,ease:"none"},48.438);
+tl.fromTo("#g10i",{scale:1.32},{scale:1.38,duration:7.039,ease:"none"},55.394);
+tl.fromTo("#g11i",{scale:1.04},{scale:1.14,duration:3.586,ease:"none"},62.383);
+tl.fromTo("#g12i",{scale:1.32},{scale:1.38,duration:3.543,ease:"none"},65.919);
+tl.fromTo("#g13",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},68.962);
+tl.fromTo("#g13 .cardtxt",{opacity:0,y:30},{opacity:1,y:0,duration:0.6,ease:"power2.out"},69.112);
+tl.fromTo("#g13 .card",{scale:1},{scale:1.04,duration:5.378,ease:"none"},68.962);
+tl.fromTo("#g14i",{scale:1.04},{scale:1.14,duration:6.997,ease:"none"},74.29);
+tl.fromTo("#g15i",{scale:1.12,yPercent:4},{scale:1.12,yPercent:-4,duration:5.207,ease:"none"},81.237);
+tl.fromTo("#g16i",{scale:1.32},{scale:1.38,duration:5.714,ease:"none"},86.394);
+tl.fromTo("#g17i",{scale:1.02},{scale:1.22,duration:4.49,ease:"power1.in"},92.058);
+tl.fromTo("#g18i",{scale:1.32},{scale:1.38,duration:4.605,ease:"none"},96.498);
+tl.fromTo("#g19i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:3.106,ease:"none"},101.053);
+tl.fromTo("#g20i",{scale:1.32},{scale:1.38,duration:4.352,ease:"none"},104.109);
+tl.fromTo("#g21i",{scale:1.04},{scale:1.14,duration:3.742,ease:"none"},108.411);
+tl.fromTo("#g22i",{scale:1.32},{scale:1.38,duration:3.843,ease:"none"},112.103);
+tl.fromTo("#g23i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:5.825,ease:"none"},115.896);
+tl.fromTo("#g24i",{scale:1.32},{scale:1.38,duration:6.052,ease:"none"},121.671);
+tl.fromTo("#g25i",{scale:1.16},{scale:1.04,duration:4.555,ease:"none"},127.673);
+tl.fromTo("#g26i",{scale:1.32},{scale:1.38,duration:5.019,ease:"none"},132.178);
+tl.fromTo("#g27i",{scale:1.32},{scale:1.38,duration:4.917,ease:"none"},137.147);
+tl.fromTo("#g28i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:4.735,ease:"none"},142.014);
+tl.fromTo("#g29i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:4.153,ease:"none"},146.699);
+tl.fromTo("#g30i",{scale:1.32},{scale:1.38,duration:4.228,ease:"none"},150.802);
+tl.fromTo("#g31i",{scale:1.04},{scale:1.14,duration:5.57,ease:"none"},154.98);
+tl.fromTo("#g32i",{scale:1.32},{scale:1.38,duration:5.756,ease:"none"},160.5);
+tl.fromTo("#g33i",{scale:1.32},{scale:1.38,duration:5.619,ease:"none"},166.206);
+tl.fromTo("#g34i",{scale:1.12,yPercent:4},{scale:1.12,yPercent:-4,duration:3.342,ease:"none"},171.775);
+tl.fromTo("#g35i",{scale:1.16},{scale:1.04,duration:4.976,ease:"none"},175.067);
+tl.fromTo("#g36",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},179.543);
+tl.fromTo("#g36 .cardtxt",{opacity:0,y:30},{opacity:1,y:0,duration:0.6,ease:"power2.out"},179.693);
+tl.fromTo("#g36 .card",{scale:1},{scale:1.04,duration:4.501,ease:"none"},179.543);
+tl.fromTo("#g37i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:3.583,ease:"none"},183.994);
+tl.fromTo("#g38i",{scale:1.32},{scale:1.38,duration:3.593,ease:"none"},187.527);
+tl.fromTo("#g39i",{scale:1.04},{scale:1.14,duration:6.737,ease:"none"},191.07);
+tl.fromTo("#g40i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:6.341,ease:"none"},197.757);
+tl.fromTo("#g41i",{scale:1.16},{scale:1.04,duration:5.162,ease:"none"},204.048);
+tl.fromTo("#g42i",{scale:1.32},{scale:1.38,duration:5.363,ease:"none"},209.16);
+tl.fromTo("#g43i",{scale:1.02},{scale:1.22,duration:6.953,ease:"power1.in"},214.473);
+tl.fromTo("#g44i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:4.869,ease:"none"},221.376);
+tl.fromTo("#g45i",{scale:1.32},{scale:1.38,duration:5.097,ease:"none"},226.195);
+tl.fromTo("#g46i",{scale:1.32},{scale:1.38,duration:4.953,ease:"none"},231.242);
+tl.fromTo("#g47i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:4.317,ease:"none"},236.145);
+tl.fromTo("#g48i",{scale:1.32},{scale:1.38,duration:3.88,ease:"none"},240.412);
+tl.fromTo("#g49",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},243.792);
+tl.fromTo("#g49 .cardtxt",{opacity:0,y:30},{opacity:1,y:0,duration:0.6,ease:"power2.out"},243.942);
+tl.fromTo("#g49 .card",{scale:1},{scale:1.04,duration:5.174,ease:"none"},243.792);
+tl.fromTo("#g50i",{scale:1.04},{scale:1.14,duration:5.807,ease:"none"},248.916);
+tl.fromTo("#g51i",{scale:1.32},{scale:1.38,duration:4.992,ease:"none"},254.673);
+tl.fromTo("#g52i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:10.923,ease:"none"},259.615);
+tl.fromTo("#g53",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},270.038);
+tl.fromTo("#g53i",{scale:1.12,yPercent:4},{scale:1.12,yPercent:-4,duration:7.026,ease:"none"},270.038);
+tl.fromTo("#g54i",{scale:1.32},{scale:1.38,duration:6.434,ease:"none"},277.014);
+tl.fromTo("#g55i",{scale:1.02},{scale:1.22,duration:5.831,ease:"power1.in"},283.398);
+tl.fromTo("#g56i",{scale:1.32},{scale:1.38,duration:6.245,ease:"none"},289.179);
+tl.fromTo("#g57i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:4.708,ease:"none"},295.374);
+tl.fromTo("#g58i",{scale:1.32},{scale:1.38,duration:5.47,ease:"none"},300.032);
+tl.fromTo("#g59i",{scale:1.04},{scale:1.14,duration:6.905,ease:"none"},305.452);
+tl.fromTo("#g60i",{scale:1.32},{scale:1.38,duration:7.006,ease:"none"},312.307);
+tl.fromTo("#g61i",{scale:1.02},{scale:1.22,duration:4.087,ease:"power1.in"},319.263);
+tl.fromTo("#g62i",{scale:1.32},{scale:1.38,duration:4.125,ease:"none"},323.3);
+tl.fromTo("#g63i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:5.709,ease:"none"},327.375);
+tl.fromTo("#g64i",{scale:1.32},{scale:1.38,duration:5.603,ease:"none"},333.034);
+tl.fromTo("#g65i",{scale:1.16},{scale:1.04,duration:3.934,ease:"none"},338.587);
+tl.fromTo("#g66i",{scale:1.32},{scale:1.38,duration:4.895,ease:"none"},342.471);
+tl.fromTo("#g67i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:4.504,ease:"none"},347.316);
+tl.fromTo("#g68i",{scale:1.02},{scale:1.22,duration:5.714,ease:"power1.in"},351.77);
+tl.fromTo("#g69i",{scale:1.32},{scale:1.38,duration:5.669,ease:"none"},357.434);
+tl.fromTo("#g70i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:6.17,ease:"none"},363.053);
+tl.fromTo("#g71i",{scale:1.04},{scale:1.14,duration:3.473,ease:"none"},369.173);
+tl.fromTo("#g72i",{scale:1.32},{scale:1.38,duration:3.638,ease:"none"},372.596);
+tl.fromTo("#g73i",{scale:1.12,yPercent:4},{scale:1.12,yPercent:-4,duration:5.399,ease:"none"},376.184);
+tl.fromTo("#g74",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},381.083);
+tl.fromTo("#g74 .cardtxt",{opacity:0,y:30},{opacity:1,y:0,duration:0.6,ease:"power2.out"},381.233);
+tl.fromTo("#g74 .card",{scale:1},{scale:1.04,duration:6.746,ease:"none"},381.083);
+tl.fromTo("#g75i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:4.203,ease:"none"},387.779);
+tl.fromTo("#g76i",{scale:1.32},{scale:1.38,duration:3.241,ease:"none"},391.932);
+tl.fromTo("#g77i",{scale:1.02},{scale:1.22,duration:4.889,ease:"power1.in"},395.123);
+tl.fromTo("#g78i",{scale:1.32},{scale:1.38,duration:4.273,ease:"none"},399.962);
+tl.fromTo("#g79i",{scale:1.04},{scale:1.14,duration:4.342,ease:"none"},404.185);
+tl.fromTo("#g80i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:7.043,ease:"none"},408.477);
+tl.fromTo("#g81i",{scale:1.16},{scale:1.04,duration:4.199,ease:"none"},415.47);
+tl.fromTo("#g82i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:5.427,ease:"none"},419.619);
+tl.fromTo("#g83i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:6.882,ease:"none"},424.996);
+tl.fromTo("#g84i",{scale:1.32},{scale:1.38,duration:5.85,ease:"none"},431.828);
+tl.fromTo("#g85i",{scale:1.04},{scale:1.14,duration:4.877,ease:"none"},437.628);
+tl.fromTo("#g86i",{scale:1.32},{scale:1.38,duration:4.968,ease:"none"},442.455);
+tl.fromTo("#g87i",{scale:1.02},{scale:1.22,duration:3.874,ease:"power1.in"},447.373);
+tl.fromTo("#g88i",{scale:1.32},{scale:1.38,duration:3.834,ease:"none"},451.197);
+tl.fromTo("#g89i",{scale:1.12,yPercent:4},{scale:1.12,yPercent:-4,duration:5.227,ease:"none"},454.981);
+tl.fromTo("#g90i",{scale:1.32},{scale:1.38,duration:6.424,ease:"none"},460.158);
+tl.fromTo("#g91",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},466.082);
+tl.fromTo("#g91 .cardtxt",{opacity:0,y:30},{opacity:1,y:0,duration:0.6,ease:"power2.out"},466.232);
+tl.fromTo("#g91 .card",{scale:1},{scale:1.04,duration:6.55,ease:"none"},466.082);
+tl.fromTo("#g92i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:1.778,ease:"none"},472.582);
+tl.fromTo("#g93i",{scale:1.04},{scale:1.14,duration:5.178,ease:"none"},474.31);
+tl.fromTo("#g94i",{scale:1.32},{scale:1.38,duration:5.531,ease:"none"},479.438);
+tl.fromTo("#g95i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:4.558,ease:"none"},484.919);
+tl.fromTo("#g96i",{scale:1.32},{scale:1.38,duration:4.258,ease:"none"},489.427);
+tl.fromTo("#g97i",{scale:1.02},{scale:1.22,duration:4.9,ease:"power1.in"},493.635);
+tl.fromTo("#g98i",{scale:1.16},{scale:1.04,duration:4.578,ease:"none"},498.485);
+tl.fromTo("#g99i",{scale:1.32},{scale:1.38,duration:4.32,ease:"none"},503.013);
+tl.fromTo("#g100i",{scale:1.32},{scale:1.38,duration:5.328,ease:"none"},507.283);
+tl.fromTo("#g101i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:5.672,ease:"none"},512.561);
+tl.fromTo("#g102i",{scale:1.32},{scale:1.38,duration:6.497,ease:"none"},518.183);
+tl.fromTo("#g103i",{scale:1.32},{scale:1.38,duration:5.141,ease:"none"},524.63);
+tl.fromTo("#g104i",{scale:1.02},{scale:1.22,duration:5.651,ease:"power1.in"},529.721);
+tl.fromTo("#g105i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:4.942,ease:"none"},535.322);
+tl.fromTo("#g106i",{scale:1.04},{scale:1.14,duration:5.706,ease:"none"},540.214);
+tl.fromTo("#g107i",{scale:1.02},{scale:1.22,duration:3.757,ease:"power1.in"},545.87);
+tl.fromTo("#g108i",{scale:1.32},{scale:1.38,duration:4.059,ease:"none"},549.577);
+tl.fromTo("#g109i",{scale:1.12,yPercent:4},{scale:1.12,yPercent:-4,duration:4.066,ease:"none"},553.586);
+tl.fromTo("#g110",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},557.152);
+tl.fromTo("#g110 .cardtxt",{opacity:0,y:30},{opacity:1,y:0,duration:0.6,ease:"power2.out"},557.302);
+tl.fromTo("#g110 .card",{scale:1},{scale:1.04,duration:9.323,ease:"none"},557.152);
+tl.fromTo("#g111i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:1.957,ease:"none"},566.425);
+tl.fromTo("#g112i",{scale:1.04},{scale:1.14,duration:6.66,ease:"none"},568.332);
+tl.fromTo("#g113i",{scale:1.32},{scale:1.38,duration:6.122,ease:"none"},574.942);
+tl.fromTo("#g114i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:2.276,ease:"none"},581.014);
+tl.fromTo("#g115i",{scale:1.16},{scale:1.04,duration:4.807,ease:"none"},583.24);
+tl.fromTo("#g116i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:4.079,ease:"none"},587.997);
+tl.fromTo("#g117i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:5.277,ease:"none"},592.026);
+tl.fromTo("#g118i",{scale:1.04},{scale:1.14,duration:6.343,ease:"none"},597.253);
+tl.fromTo("#g119i",{scale:1.32},{scale:1.38,duration:6.395,ease:"none"},603.546);
+tl.fromTo("#g120i",{scale:1.12,yPercent:4},{scale:1.12,yPercent:-4,duration:5.38,ease:"none"},609.891);
+tl.fromTo("#g121i",{scale:1.32},{scale:1.38,duration:5.393,ease:"none"},615.221);
+tl.fromTo("#g122i",{scale:1.02},{scale:1.22,duration:4.779,ease:"power1.in"},620.564);
+tl.fromTo("#g123i",{scale:1.32},{scale:1.38,duration:4.846,ease:"none"},625.293);
+tl.fromTo("#g124i",{scale:1.32},{scale:1.38,duration:4.881,ease:"none"},630.089);
+tl.fromTo("#g125",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},634.470);
+tl.fromTo("#g125 .cardtxt",{opacity:0,y:30},{opacity:1,y:0,duration:0.6,ease:"power2.out"},634.620);
+tl.fromTo("#g125 .card",{scale:1},{scale:1.04,duration:4.416,ease:"none"},634.470);
+tl.fromTo("#g126i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:3.677,ease:"none"},638.836);
+tl.fromTo("#g127i",{scale:1.02},{scale:1.22,duration:6.4,ease:"power1.in"},642.463);
+tl.fromTo("#g128i",{scale:1.32},{scale:1.38,duration:6.659,ease:"none"},648.813);
+tl.fromTo("#g129i",{scale:1.04},{scale:1.14,duration:4.038,ease:"none"},655.422);
+tl.fromTo("#g130i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:3.588,ease:"none"},659.41);
+tl.fromTo("#g131i",{scale:1.32},{scale:1.38,duration:3.845,ease:"none"},662.948);
+tl.fromTo("#g132i",{scale:1.16},{scale:1.04,duration:4.271,ease:"none"},666.743);
+tl.fromTo("#g133i",{scale:1.32},{scale:1.38,duration:3.084,ease:"none"},670.964);
+tl.fromTo("#g134i",{scale:1.02},{scale:1.22,duration:6.479,ease:"power1.in"},673.998);
+tl.fromTo("#g135i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:4.355,ease:"none"},680.427);
+tl.fromTo("#g136i",{scale:1.32},{scale:1.38,duration:4.325,ease:"none"},684.732);
+tl.fromTo("#g137",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},688.557);
+tl.fromTo("#g137 .cardtxt",{opacity:0,y:30},{opacity:1,y:0,duration:0.6,ease:"power2.out"},688.707);
+tl.fromTo("#g137 .card",{scale:1},{scale:1.04,duration:7.716,ease:"none"},688.557);
+tl.fromTo("#g138i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:4.736,ease:"none"},696.223);
+tl.fromTo("#g139i",{scale:1.32},{scale:1.38,duration:4.758,ease:"none"},700.909);
+tl.fromTo("#g140i",{scale:1.02},{scale:1.22,duration:4.255,ease:"power1.in"},705.617);
+tl.fromTo("#g141i",{scale:1.32},{scale:1.38,duration:2.909,ease:"none"},709.822);
+tl.fromTo("#g142i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:3.592,ease:"none"},712.681);
+tl.fromTo("#g143i",{scale:1.04},{scale:1.14,duration:3.589,ease:"none"},716.223);
+tl.fromTo("#g144i",{scale:1.12,yPercent:4},{scale:1.12,yPercent:-4,duration:3.614,ease:"none"},719.762);
+tl.fromTo("#g145i",{scale:1.32},{scale:1.38,duration:4.075,ease:"none"},723.326);
+tl.fromTo("#g146i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:4.993,ease:"none"},727.351);
+tl.fromTo("#g147i",{scale:1.32},{scale:1.38,duration:4.694,ease:"none"},732.294);
+tl.fromTo("#g148i",{scale:1.02},{scale:1.22,duration:5.761,ease:"power1.in"},736.938);
+tl.fromTo("#g149i",{scale:1.04},{scale:1.14,duration:6.318,ease:"none"},742.649);
+tl.fromTo("#g150i",{scale:1.32},{scale:1.38,duration:6.308,ease:"none"},748.917);
+tl.fromTo("#g151i",{scale:1.16},{scale:1.04,duration:5.112,ease:"none"},755.175);
+tl.fromTo("#g152i",{scale:1.32},{scale:1.38,duration:5.678,ease:"none"},760.237);
+tl.fromTo("#g153",{opacity:0},{opacity:1,duration:0.45,ease:"power1.inOut"},765.415);
+tl.fromTo("#g153i",{scale:1.12,xPercent:-4},{scale:1.12,xPercent:4,duration:6.351,ease:"none"},765.415);
+tl.fromTo("#g154i",{scale:1.32},{scale:1.38,duration:5.603,ease:"none"},771.716);
+tl.fromTo("#g155i",{scale:1.16},{scale:1.04,duration:5.169,ease:"none"},777.269);
+tl.fromTo("#g156i",{scale:1.32},{scale:1.38,duration:5.257,ease:"none"},782.388);
+tl.fromTo("#g157i",{scale:1.32},{scale:1.38,duration:4.863,ease:"none"},787.595);
+tl.fromTo("#g158i",{scale:1.12,xPercent:4},{scale:1.12,xPercent:-4,duration:3.55,ease:"none"},792.408);
+tl.fromTo("#g159i",{scale:1.32},{scale:1.38,duration:4.685,ease:"none"},795.908);
+tl.fromTo("#g160i",{scale:1.12,yPercent:-4},{scale:1.12,yPercent:4,duration:4.779,ease:"none"},800.543);
+tl.fromTo("#g161i",{scale:1.32},{scale:1.38,duration:4.986,ease:"none"},805.272);
+tl.fromTo("#g162i",{scale:1.04},{scale:1.14,duration:6.181,ease:"none"},810.208);
+tl.fromTo("#g163i",{scale:1.16},{scale:1.04,duration:4.893,ease:"none"},816.339);
+tl.fromTo("#ovl0",{opacity:0,y:20},{opacity:1,y:0,duration:0.5,ease:"power2.out"},111.361);
+tl.fromTo("#ovl1",{opacity:0,y:20},{opacity:1,y:0,duration:0.5,ease:"power2.out"},138.176);
+tl.fromTo("#ovl2",{opacity:0,y:20},{opacity:1,y:0,duration:0.5,ease:"power2.out"},227.605);
+tl.fromTo("#ovl3",{opacity:0,y:20},{opacity:1,y:0,duration:0.5,ease:"power2.out"},263.525);
+tl.fromTo("#ovl4",{opacity:0,y:20},{opacity:1,y:0,duration:0.5,ease:"power2.out"},431.851);
+tl.fromTo("#ovl5",{opacity:0,y:20},{opacity:1,y:0,duration:0.5,ease:"power2.out"},515.522);
+tl.fromTo("#ovl6",{opacity:0,y:20},{opacity:1,y:0,duration:0.5,ease:"power2.out"},572.076);
+tl.fromTo("#ovl7",{opacity:0,y:20},{opacity:1,y:0,duration:0.5,ease:"power2.out"},583.686);
+window.__timelines["main"]=tl;tl.seek(0);
+</script></body></html>
