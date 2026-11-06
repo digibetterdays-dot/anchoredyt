@@ -808,22 +808,34 @@
   },
   {
    "id": "z074",
-   "src": "assets/shots/z074.png",
+   "src": "assets/shots/z074.jpg",
    "anchor": "And yet, sleep is",
    "prompt": "A collage-like row of sleeping animals: a cat curled, a bird with its head tucked, a dolphin floating, a dog, a bat hanging, paper-cut",
-   "aspect": "3:1 panorama, 3240x1080"
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "move": "pan_right"
   },
   {
    "id": "z075",
-   "src": "assets/shots/z075.png",
+   "src": "assets/shots/z075.jpg",
    "anchor": "Scientists have proposed several",
-   "prompt": "A wooden signpost at night with four arrows pointing different ways (no letters), a moonlit path"
+   "prompt": "A wooden signpost at night with four arrows pointing different ways (no letters), a moonlit path",
+   "focus": [
+    0.65,
+    0.5
+   ]
   },
   {
    "id": "z076",
-   "src": "assets/shots/z076.png",
+   "src": "assets/shots/z076.jpg",
    "anchor": "One emphasizes conserving energy.",
-   "prompt": "A battery-shaped lantern slowly recharging beside a sleeping figure, symbolic"
+   "prompt": "A battery-shaped lantern slowly recharging beside a sleeping figure, symbolic",
+   "focus": [
+    0.4,
+    0.5
+   ]
   },
   {
    "id": "z077",
