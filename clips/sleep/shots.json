@@ -595,9 +595,13 @@
   },
   {
    "id": "z055c",
-   "src": "assets/shots/z055c.png",
+   "src": "assets/shots/z055c.jpg",
    "anchor": "And even when they",
-   "prompt": "The same dark cloud slipping back through a door the person has just closed, symbolic"
+   "prompt": "The same dark cloud slipping back through a door the person has just closed, symbolic",
+   "focus": [
+    0.55,
+    0.45
+   ]
   },
   {
    "id": "c06",
@@ -616,9 +620,13 @@
   },
   {
    "id": "z057",
-   "src": "assets/shots/z057.png",
+   "src": "assets/shots/z057.jpg",
    "anchor": "Sleep needs vary with",
-   "prompt": "A newborn baby asleep in a crib, a soft mobile of moons and stars above"
+   "prompt": "A newborn baby asleep in a crib, a soft mobile of moons and stars above",
+   "focus": [
+    0.35,
+    0.6
+   ]
   },
   {
    "id": "o07",
@@ -630,10 +638,14 @@
   },
   {
    "id": "z058",
-   "src": "assets/shots/z058.png",
+   "src": "assets/shots/z058.jpg",
    "anchor": "Teenagers need 8 to",
    "prompt": "A teenager asleep in a bedroom with posters (no text) and a guitar, moonlight",
-   "allow_short": true
+   "allow_short": true,
+   "focus": [
+    0.7,
+    0.55
+   ]
   },
   {
    "id": "z059",
