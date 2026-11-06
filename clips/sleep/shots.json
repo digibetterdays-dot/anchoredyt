@@ -726,11 +726,15 @@
   },
   {
    "id": "z066",
-   "src": "assets/shots/z066.png",
+   "src": "assets/shots/z066.jpg",
    "anchor": "Researchers have been investigating",
    "prompt": "Simplified illustration of a blood vessel in brain tissue with clear fluid flowing along the space around it, carrying small particles away, no labels",
    "emphasis": true,
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.55
+   ]
   },
   {
    "id": "z067",
@@ -740,9 +744,13 @@
   },
   {
    "id": "z068",
-   "src": "assets/shots/z068.png",
+   "src": "assets/shots/z068.jpg",
    "anchor": "Human studies are now",
-   "prompt": "A person lying in an MRI scanner in a dim room, a technician silhouette behind glass"
+   "prompt": "A person lying in an MRI scanner in a dim room, a technician silhouette behind glass",
+   "focus": [
+    0.4,
+    0.55
+   ]
   },
   {
    "id": "z069",
@@ -753,10 +761,14 @@
   },
   {
    "id": "z070",
-   "src": "assets/shots/z070.png",
+   "src": "assets/shots/z070.jpg",
    "anchor": "So it's tempting to",
    "prompt": "A cartoonish washing machine with a brain inside being rinsed, crossed through by a gentle sweep of light, slightly humorous",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z071",
@@ -785,10 +797,14 @@
   },
   {
    "id": "z073",
-   "src": "assets/shots/z073.png",
+   "src": "assets/shots/z073.jpg",
    "anchor": "Think about the risk.",
    "prompt": "A sleeping zebra in tall grass at night with a lion's eyes glinting in the darkness nearby",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.45,
+    0.6
+   ]
   },
   {
    "id": "z074",
