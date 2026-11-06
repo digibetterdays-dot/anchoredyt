@@ -20,9 +20,13 @@
   },
   {
    "id": "z003",
-   "src": "assets/shots/z003.png",
+   "src": "assets/shots/z003.jpg",
    "anchor": "For several hours, you",
-   "prompt": "A sleeping person seen from above, the blanket rising with slow breathing, the room dim and blue"
+   "prompt": "A sleeping person seen from above, the blanket rising with slow breathing, the room dim and blue",
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "z004",
@@ -50,22 +54,30 @@
    "prompt": "A single closed eye in close-up, with a faint question-mark-shaped wisp of starlight above it (no letters)",
    "emphasis": true,
    "focus": [
-    0.62,
-    0.55
+    0.5,
+    0.4
    ]
   },
   {
    "id": "z007",
-   "src": "assets/shots/z007.png",
+   "src": "assets/shots/z007.jpg",
    "anchor": "Scientists understand many of",
-   "prompt": "A scientist's desk at night with brain diagrams pinned on a board, a lamp, notebooks, no readable text"
+   "prompt": "A scientist's desk at night with brain diagrams pinned on a board, a lamp, notebooks, no readable text",
+   "focus": [
+    0.5,
+    0.4
+   ]
   },
   {
    "id": "z008",
-   "src": "assets/shots/z008.png",
+   "src": "assets/shots/z008.jpg",
    "anchor": "So let's follow your",
    "prompt": "A long hallway of doors at night, moonlight on the floor, leading into the distance, a feeling of a journey",
-   "move": "push_in"
+   "move": "push_in",
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "c01",
