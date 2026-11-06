@@ -663,9 +663,13 @@
   },
   {
    "id": "z060",
-   "src": "assets/shots/z060.png",
+   "src": "assets/shots/z060.jpg",
    "anchor": "But what about the",
-   "prompt": "A person bright-eyed at dawn jogging past sleeping houses, the sky just turning light"
+   "prompt": "A person bright-eyed at dawn jogging past sleeping houses, the sky just turning light",
+   "focus": [
+    0.35,
+    0.5
+   ]
   },
   {
    "id": "z061",
@@ -676,15 +680,23 @@
   },
   {
    "id": "z062",
-   "src": "assets/shots/z062.png",
+   "src": "assets/shots/z062.jpg",
    "anchor": "A well-known 2009 study,",
-   "prompt": "A mother and her adult daughter having breakfast at sunrise, both wide awake and cheerful, while the street outside is still dark"
+   "prompt": "A mother and her adult daughter having breakfast at sunrise, both wide awake and cheerful, while the street outside is still dark",
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z063",
-   "src": "assets/shots/z063.png",
+   "src": "assets/shots/z063.jpg",
    "anchor": "When researchers gave mice",
-   "prompt": "Two small paper-cut lab mice, one curled asleep and one awake exploring, in a clean cage, soft light"
+   "prompt": "Two small paper-cut lab mice, one curled asleep and one awake exploring, in a clean cage, soft light",
+   "focus": [
+    0.45,
+    0.6
+   ]
   },
   {
    "id": "z064",
