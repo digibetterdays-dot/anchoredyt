@@ -58,7 +58,7 @@ history of photography, first photograph, first surviving photograph, Niépce, V
 Which invention do you think is being misjudged today, the way photography was in 1839?
 ```
 
-**Thumbnail:** the real Le Gras plate on one side, the painter flattering the old sitter (p031c) on the other; text **"IT TERRIFIED THEM"** or **"1839"**. Keep to 2-3 words.
+**Thumbnail:** `thumbnail/photography-thumbnail.jpg` (1280x720): the real Le Gras plate (left) beside the painter flattering the old sitter (p031c, right), with **"1839 / IT TERRIFIED THEM"**.
 
 **End screen:** the three Shorts, or subscribe.
 
