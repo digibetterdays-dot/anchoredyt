@@ -398,10 +398,14 @@
   },
   {
    "id": "z033",
-   "src": "assets/shots/z033.png",
+   "src": "assets/shots/z033.jpg",
    "anchor": "Your brain also produces",
    "prompt": "A glowing line of brain waves with short bright bursts like sparks along it, floating over a sleeping head, no labels",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.4
+   ]
   },
   {
    "id": "z034",
@@ -623,10 +627,14 @@
   },
   {
    "id": "z052",
-   "src": "assets/shots/z052.png",
+   "src": "assets/shots/z052.jpg",
    "anchor": "Different stages seem to",
    "prompt": "A night landscape with a deep blue ocean (deep sleep) and a bright aurora sky (REM), each carrying glowing memories, symbolic, no labels",
-   "label": null
+   "label": null,
+   "focus": [
+    0.55,
+    0.45
+   ]
   },
   {
    "id": "z053",
