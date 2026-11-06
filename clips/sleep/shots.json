@@ -350,11 +350,15 @@
   },
   {
    "id": "z029",
-   "src": "assets/shots/z029.png",
+   "src": "assets/shots/z029.jpg",
    "anchor": "A typical night is",
    "prompt": "A long paper-cut landscape of rolling hills and valleys at night, a tiny sleeper on a cloud gliding along the waves of the terrain, left to right, no labels",
    "aspect": "3:1 panorama, 3240x1080",
-   "label": null
+   "label": null,
+   "focus": [
+    0.35,
+    0.55
+   ]
   },
   {
    "id": "o04",
@@ -401,16 +405,24 @@
   },
   {
    "id": "z034",
-   "src": "assets/shots/z034.png",
+   "src": "assets/shots/z034.jpg",
    "anchor": "Stage three: deep sleep.",
    "prompt": "A person in very deep sleep sinking into a soft dark pillow like an ocean floor, slow calm waves around them",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z035",
-   "src": "assets/shots/z035.png",
+   "src": "assets/shots/z035.jpg",
    "anchor": "Your heartbeat and breathing",
-   "prompt": "A gentle heart shape and lungs drawn in soft light inside a sleeping figure, beating slowly, symbolic"
+   "prompt": "A gentle heart shape and lungs drawn in soft light inside a sleeping figure, beating slowly, symbolic",
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "z036",
