@@ -11,7 +11,8 @@ Built with the `documentary-edit` skill. Fact check: `../../sleep-factcheck.md`.
 - [x] Word timings: `words.json` by script-to-pause alignment. Fit: median 10%, 3 stretches over 50%.
 - [x] Edit plan: `edl.json`, 165 segments, avg 5.0 s
 - [x] 93 of 93 stills filed. Final shot z086: lone glowing house (owner approved Nov 6); child-at-window and framed versions kept in `assets/alt/`.
-- [ ] Align, plan, build, render, finish audio, QA; Shorts; upload package
+- [x] **Rendered (Nov 6):** `renders/sleep-final.mp4` (482 MB) and `renders/sleep-final-1080p-share.mp4` (103 MB), 13:41, 164 segments from 101 shots, avg 5.0 s. Audio QA: -14.24 LUFS, -1.49 dBTP, no dead air. Captions `renders/sleep.srt`. Contact sheet checked; nobody has watched or listened in full yet. Renders not in git.
+- [ ] Shorts; upload package
 
 ## Look
 Same paper-cut house style; night palette (midnight navy, cream, one warm amber accent). Diagrams (brain, waves, DNA, clocks) carry no Illustration tag; scenes do.
