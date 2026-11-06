@@ -112,6 +112,7 @@ Image: Niépce, View from the Window at Le Gras, c. 1827, Harry Ransom Center, p
 ```
 **Related video:** the long form.
 **Pinned comment:** `The full story of the first photographers: [link to the long video]`
+**Cover:** `../photo-short-blur/thumbnail/blur-short-cover.jpg` (1080x1920): the real Le Gras plate, matted, with "THE OLDEST SURVIVING PHOTO / WHY SO BLURRY?" and the credit line. Add it as the Short's cover when you upload in the YouTube mobile app (if the app only offers a frame from the video, pick one near the plate).
 
 ---
 
