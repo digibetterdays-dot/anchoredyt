@@ -60,7 +60,7 @@ why do we sleep, what happens when you sleep, sleep science, brain during sleep,
 Which part of the night surprised you most: the teenage body clock, the body going still during REM, or that scientists still don't agree on why we sleep?
 ```
 
-**Thumbnail:** z039 (the sleeping head with the glowing brain) on a dark ground; text **"YOUR BRAIN AT NIGHT"** or **"WHY WE SLEEP"**. Keep it to 2-3 words.
+**Thumbnail:** `thumbnail/why-we-sleep-thumbnail.jpg` (1280x720): z039, the sleeping head with the glowing brain, with **"WHY WE SLEEP"** set in Inter Black (cream and amber).
 
 **End screen:** the four Shorts, or subscribe.
 
