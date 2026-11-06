@@ -434,9 +434,13 @@
   },
   {
    "id": "z036",
-   "src": "assets/shots/z036.png",
+   "src": "assets/shots/z036.jpg",
    "anchor": "The release of growth",
-   "prompt": "A small child asleep in bed, a growth chart on the wall beside the bed (no numbers), a nightlight glowing"
+   "prompt": "A small child asleep in bed, a growth chart on the wall beside the bed (no numbers), a nightlight glowing",
+   "focus": [
+    0.45,
+    0.55
+   ]
   },
   {
    "id": "z036a",
@@ -482,9 +486,13 @@
   },
   {
    "id": "z037",
-   "src": "assets/shots/z037.png",
+   "src": "assets/shots/z037.jpg",
    "anchor": "But the night is",
-   "prompt": "The bedroom window at the deepest hour of night, stars overhead, a hint of something stirring, suspenseful"
+   "prompt": "The bedroom window at the deepest hour of night, stars overhead, a hint of something stirring, suspenseful",
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "c04",
@@ -579,10 +587,14 @@
   },
   {
    "id": "z046",
-   "src": "assets/shots/z046.png",
+   "src": "assets/shots/z046.jpg",
    "anchor": "It's almost as if",
    "prompt": "A tiny brain character sitting in a dark cinema watching a glowing dream on screen, while a body sleeps in the seat beside it",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "z047",
