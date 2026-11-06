@@ -40,6 +40,25 @@ Checked Nov 6 2026 by web search (abstracts, repository pages and review papers;
 | A whole onion can't make you cry; cutting starts a chain reaction releasing a gas; nerves in the eye react | Confirmed. Cutting releases alliinase; sulfenic acids rearrange (via lachrymatory-factor synthase) into syn-propanethial-S-oxide, which the uncut onion does not contain; free nerve endings on the cornea detect it (Scientific American). **Not used:** "it turns into acid in your eye" (Bristol says a little sulfuric acid forms; Scientific American describes nerve activity; sources disagree). | Scientific American; Library of Congress Everyday Mysteries; Univ. of Bristol Molecule of the Month (2007) |
 | Tears don't fall in space; Chris Hadfield on the ISS, 2013, water forms a growing ball on the eye; "your eyes will definitely cry in space... tears don't fall" | Confirmed. Canadian Space Agency video "Tears in space (don't fall)", 5 April 2013, Expedition 34/35, CSA/NASA. | CSA; Space.com |
 
+## Nov 6, fourth pass (owner's research notes)
+| Claim | Status | Source |
+|---|---|---|
+| Frey 1981, 24% more protein | **DROPPED** (owner): small, women only, not replicated. | |
+| Watery layer carries antibacterial proteins (lysozyme, lactoferrin) | Confirmed. StatPearls "Biochemistry, Tear Film": antimicrobial factors in the aqueous layer include lysozyme, lactoferrin, transferrin, IgA. **Not used:** "tears are 98% water" (no solid source found) and nerve growth factor (contested). | StatPearls |
+| Caimans and alligators tear while eating; 5 of 7 filmed; probably from jaw movement; reflex, not emotional | Confirmed. Shaner & Vliet, "Crocodile tears: and thei eten hem wepynge", *BioScience* 57(7):615-617 (2007): 4 caimans and 3 alligators, 5 teared before, during or after eating; Vliet suggests jaw movement forces air through the sinuses. Script: "probably squeezed out by all that jaw movement". | BioScience; Univ. of Florida news 2007 |
+| Crocodile tears syndrome: after facial nerve injury the nerve regrows the wrong way and eyes water when eating | Confirmed. StatPearls "Crocodile Tears Syndrome" (NBK525953): tearing while eating after facial nerve injury, from faulty regeneration; described by Bogorad (1926). | StatPearls |
+| Men who sniffed women's emotional tears (no perceptible odor) showed 43.7% less aggression in a provoking game | Confirmed. Agron et al., "A chemical signal in human female tears lowers aggression in males", *PLOS Biology* 21(12):e3002442 (2023), Weizmann Institute: "sniffing emotional tears with no odor percept reduced human male aggression by 43.7%". Control was saline. Small sample (25 men in the main experiment); no independent replication found, so the script says "a small study". | PLOS Biology (PMC10734982); Weizmann |
+| After a sad film, criers felt worse at once, back to baseline at 20 min, better than before at 90 min | Confirmed. Gračanin, Bylsma & Vingerhoets, "Why crying does and sometimes does not seem to alleviate mood: a quasi-experimental study", *Motivation and Emotion* 39:953-960 (2015): 28 criers, 32 non-criers; non-criers unchanged. **Not used:** the owner's "10-20 minute parasympathetic rebound" (not in the paper). | Springer press release 2015; MedicalXpress |
+| Holding tears back: sources | Vingerhoets & Bylsma 2007 ("a lack of sound studies"; crying frequency vs self-reported health r = 0.00); Rottenberg, Bylsma & Vingerhoets 2008 (*Curr Dir Psychol Sci*, "Is crying beneficial?"); Cornelius 1986 (94% of 72 popular articles, 1848-1985); Rottenberg in TIME (2016): "kind of a fable". | as above |
+
+**Owner's notes NOT used, and why**
+- "Crying activates the anterior cingulate cortex, the region that processes physical pain": not verified for crying; the social-pain imaging work (rejection) is a different question and the pain overlap is debated.
+- "Catharsis undermined by Bushman et al. 2002": that study is about venting anger, not crying; the crying mechanism (support) is already in from Bylsma 2008.
+- "Crying frequency peaks in adolescence": the reviews say the opposite (frequency falls from childhood through adolescence to about age 20-25; Vingerhoets & Bylsma 2016; Hastrup et al. 2001 in *Adult Crying*).
+- "About a third have cried after sex": the post-coital dysphoria studies (Schweitzer et al.) measure low mood, not crying, with different figures; also off-brand for a general audience.
+
+**Owner's line added (Ch. 7):** "Crying frequency is not a measure of mental health. Some people cry often and are fine. Some rarely cry and are fine. This isn't a diagnosis. It's a question to sit with."
+
 ## Wording fix (not a fact)
 S03 "even reading this sentence would get uncomfortable" -> "and even just keeping them open would get uncomfortable" (it is a voiceover).
 
@@ -47,7 +66,6 @@ S03 "even reading this sentence would get uncomfortable" -> "and even just keepi
 "Crying flushes toxins/stress hormones out" (not in the 1981 paper); "emotional tears are chemically proven different" (one old study, women only); "most people feel better after crying" without the caveat; "holding tears in makes you ill" (present it only as a popular belief); "crying is contagious" for adults (only infant contagious crying is shown); "babies can't make tears".
 
 ## Sources for the description
-- Frey WH, DeSota-Johnson D, Hoffman C, McCall JT. Effect of stimulus on the chemical composition of human tears. *Am J Ophthalmol* 1981;92(4):559-567
 - Frey WH et al. Crying behavior in the human adult. 1983
 - Zickfeld JH et al. Tears evoke the intention to offer social support: a systematic investigation across 41 countries. *J Exp Soc Psychol* 2021;95:104137
 - Bylsma LM, Vingerhoets AJJM, Rottenberg J. When is crying cathartic? An international study. *J Soc Clin Psychol* 2008;27(10):1165-1187
@@ -65,3 +83,7 @@ S03 "even reading this sentence would get uncomfortable" -> "and even just keepi
 - NIH StatPearls, "Biochemistry, Tear Film"
 - Scientific American, "What is the chemical process that causes my eyes to tear when I peel an onion?"
 - Canadian Space Agency, "Tears in space (don't fall)", Chris Hadfield, 2013
+- Agron S et al. A chemical signal in human female tears lowers aggression in males. *PLOS Biology* 2023;21(12):e3002442
+- Gračanin A, Bylsma LM, Vingerhoets AJJM. Why crying does and sometimes does not seem to alleviate mood. *Motivation and Emotion* 2015;39:953-960
+- Shaner DM, Vliet KA. Crocodile tears: and thei eten hem wepynge. *BioScience* 2007;57(7):615-617
+- NIH StatPearls, "Crocodile Tears Syndrome"

@@ -83,6 +83,13 @@
    "emphasis": true
   },
   {
+   "id": "t007b",
+   "src": "assets/shots/t007b.png",
+   "anchor": "The watery part even",
+   "prompt": "Paper-cut diagram of a tear film layer with tiny glowing shield-shaped particles floating in it pushing away small dark round specks, symbolic, no labels",
+   "label": null
+  },
+  {
    "id": "t009",
    "src": "assets/shots/t009.png",
    "anchor": "And here's how they",
@@ -192,40 +199,6 @@
    "src": "assets/shots/t022.png",
    "anchor": "Their early evidence suggests",
    "prompt": "A large wave cresting and then settling into a calm sea at sunset, paper-cut layers, peaceful"
-  },
-  {
-   "id": "t023",
-   "src": "assets/shots/t023.png",
-   "anchor": "In 1981, a researcher",
-   "prompt": "A retro 1980s laboratory bench with two small glass vials in a rack, one with a tiny onion icon and one with a tiny film-reel icon (no text), a pipette above"
-  },
-  {
-   "id": "t024",
-   "src": "assets/shots/t024.png",
-   "anchor": "In the women's tears,",
-   "prompt": "Paper-cut diagram of two glass vials side by side, the second filled with noticeably more small glowing particles than the first, no labels or numbers",
-   "label": null
-  },
-  {
-   "id": "o04",
-   "type": "card",
-   "anchor": "the emotional ones had",
-   "text": "About 24% more protein",
-   "sub": "emotional vs onion tears, women · Frey et al. 1981",
-   "overlay": true
-  },
-  {
-   "id": "t025",
-   "src": "assets/shots/t025.png",
-   "anchor": "It's one old study,",
-   "prompt": "An old research paper on a desk under a lamp, a magnifying glass resting on it, pages slightly yellowed, no readable text"
-  },
-  {
-   "id": "t026",
-   "src": "assets/shots/t026.png",
-   "anchor": "But it hints that",
-   "prompt": "A single tear drop held up to the light, its inside showing tiny different shapes like a snow globe, symbolic, macro, no face",
-   "emphasis": true
   },
   {
    "id": "c02",
@@ -390,6 +363,19 @@
    "prompt": "A zoo at dusk: an elephant and a zookeeper seen from behind walking together, warm light, no faces visible"
   },
   {
+   "id": "t042a",
+   "src": "assets/shots/t042a.png",
+   "anchor": "Crocodiles are the famous",
+   "prompt": "A caiman lying on a riverbank eating, a glistening tear at the corner of its eye, paper-cut, warm afternoon light"
+  },
+  {
+   "id": "t042b",
+   "src": "assets/shots/t042b.png",
+   "anchor": "And humans can have",
+   "prompt": "Paper-cut side-view diagram of a simplified head (no face features) with a nerve line running from the jaw that branches the wrong way toward the eye, a small tear forming, a fork and plate in front, no labels",
+   "label": null
+  },
+  {
    "id": "t043",
    "src": "assets/shots/t043.png",
    "anchor": "As far as science",
@@ -473,6 +459,26 @@
    "prompt": "A row of doorways in many different styles of architecture at dusk, each with warm light spilling out, welcoming, no people"
   },
   {
+   "id": "t052a",
+   "src": "assets/shots/t052a.png",
+   "anchor": "And tears may send",
+   "prompt": "A single small glass vial with one clear drop inside held between two fingers, a faint invisible-looking shimmer rising from it, laboratory light, hands only"
+  },
+  {
+   "id": "t052b",
+   "src": "assets/shots/t052b.png",
+   "anchor": "After sniffing the tears,",
+   "prompt": "A video game controller resting on a table beside a calm cup of tea, the screen glow dimming from red to soft blue, symbolic, no people"
+  },
+  {
+   "id": "o10",
+   "type": "card",
+   "anchor": "aggressive behavior in the",
+   "text": "About 44% less aggression",
+   "sub": "men who sniffed women's emotional tears · Agron et al. 2023, PLOS Biology",
+   "overlay": true
+  },
+  {
    "id": "c06",
    "type": "card",
    "anchor": "But does crying actually",
@@ -547,6 +553,21 @@
    "prompt": "A person sitting alone at the end of a long empty table, seen from behind, a closed door in the distance, no faces visible"
   },
   {
+   "id": "t060a",
+   "src": "assets/shots/t060a.png",
+   "anchor": "And the relief may",
+   "prompt": "Three clocks on a wall in a row showing different times (no numbers), with a small cloud above the first, a sun breaking through above the last, paper-cut, symbolic",
+   "label": null
+  },
+  {
+   "id": "o11",
+   "type": "card",
+   "anchor": "Twenty minutes later, they",
+   "text": "Worse at once · back to normal at 20 min · better at 90 min",
+   "sub": "people who cried at a sad film · Gračanin et al. 2015",
+   "overlay": true
+  },
+  {
    "id": "c07",
    "type": "card",
    "anchor": "And what about holding",
@@ -596,7 +617,7 @@
   {
    "id": "t064",
    "src": "assets/shots/t064.png",
-   "anchor": "Some people cry easily,",
+   "anchor": "But crying frequency is",
    "prompt": "Two windows side by side on a house at night, one with rain streaking down it and one dry, warm light inside both"
   },
   {

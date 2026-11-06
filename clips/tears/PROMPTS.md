@@ -68,6 +68,13 @@ Line: "And that film isn't..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Paper-cut cross-section diagram of a tear film on the eye surface as three stacked wavy layers: a thin pale mucus layer at the bottom, a thick clear blue watery layer in the middle, a thin golden oil layer on top, no labels, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## t007b -> `assets/shots/t007b.png`
+Line: "The watery part even..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Paper-cut diagram of a tear film layer with tiny glowing shield-shaped particles floating in it pushing away small dark round specks, symbolic, no labels, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## t009 -> `assets/shots/t009.png`
 Line: "And here's how they..."
 
@@ -171,34 +178,6 @@ Line: "Their early evidence suggests..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A large wave cresting and then settling into a calm sea at sunset, paper-cut layers, peaceful, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
-```
-
-## t023 -> `assets/shots/t023.png`
-Line: "In 1981, a researcher..."
-
-```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A retro 1980s laboratory bench with two small glass vials in a rack, one with a tiny onion icon and one with a tiny film-reel icon (no text), a pipette above, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
-```
-
-## t024 -> `assets/shots/t024.png`
-Line: "In the women's tears,..."
-
-```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Paper-cut diagram of two glass vials side by side, the second filled with noticeably more small glowing particles than the first, no labels or numbers, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
-```
-
-## t025 -> `assets/shots/t025.png`
-Line: "It's one old study,..."
-
-```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: An old research paper on a desk under a lamp, a magnifying glass resting on it, pages slightly yellowed, no readable text, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
-```
-
-## t026 -> `assets/shots/t026.png`
-Line: "But it hints that..."
-
-```
-Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A single tear drop held up to the light, its inside showing tiny different shapes like a snow globe, symbolic, macro, no face, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## t027 -> `assets/shots/t027.png`
@@ -341,6 +320,20 @@ Line: "In one survey of..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A zoo at dusk: an elephant and a zookeeper seen from behind walking together, warm light, no faces visible, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## t042a -> `assets/shots/t042a.png`
+Line: "Crocodiles are the famous..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A caiman lying on a riverbank eating, a glistening tear at the corner of its eye, paper-cut, warm afternoon light, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
+## t042b -> `assets/shots/t042b.png`
+Line: "And humans can have..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Paper-cut side-view diagram of a simplified head (no face features) with a nerve line running from the jaw that branches the wrong way toward the eye, a small tear forming, a fork and plate in front, no labels, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## t043 -> `assets/shots/t043.png`
 Line: "As far as science..."
 
@@ -411,6 +404,20 @@ Line: "Across cultures, a tear..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A row of doorways in many different styles of architecture at dusk, each with warm light spilling out, welcoming, no people, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## t052a -> `assets/shots/t052a.png`
+Line: "And tears may send..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A single small glass vial with one clear drop inside held between two fingers, a faint invisible-looking shimmer rising from it, laboratory light, hands only, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
+## t052b -> `assets/shots/t052b.png`
+Line: "After sniffing the tears,..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A video game controller resting on a table beside a calm cup of tea, the screen glow dimming from red to soft blue, symbolic, no people, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## t053 -> `assets/shots/t053.png`
 Line: "Ask people, and most..."
 
@@ -467,6 +474,13 @@ Line: "People who felt ashamed,..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A person sitting alone at the end of a long empty table, seen from behind, a closed door in the distance, no faces visible, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## t060a -> `assets/shots/t060a.png`
+Line: "And the relief may..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Three clocks on a wall in a row showing different times (no numbers), with a small cloud above the first, a sun breaking through above the last, paper-cut, symbolic, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## t061 -> `assets/shots/t061.png`
 Line: "You've probably heard that..."
 
@@ -503,7 +517,7 @@ Single scene, one subject only, one 16:9 landscape image, not a collage, not pan
 ```
 
 ## t064 -> `assets/shots/t064.png`
-Line: "Some people cry easily,..."
+Line: "But crying frequency is..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Two windows side by side on a house at night, one with rain streaking down it and one dry, warm light inside both, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
@@ -565,4 +579,4 @@ Line: "When was the last..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A warm cinema at night seen from the back row, empty seats, the screen glowing softly, cosy, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
-_80 images._
+_82 images._
