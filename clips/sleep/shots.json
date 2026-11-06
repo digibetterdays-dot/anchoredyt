@@ -223,9 +223,13 @@
   },
   {
    "id": "z019",
-   "src": "assets/shots/z019.png",
+   "src": "assets/shots/z019.jpg",
    "anchor": "Your brain is balancing",
-   "prompt": "A tug-of-war between a moon figure and a sun figure over a sleeping person's head, whimsical, paper-cut"
+   "prompt": "A tug-of-war between a moon figure and a sun figure over a sleeping person's head, whimsical, paper-cut",
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "z020",
@@ -254,22 +258,34 @@
   },
   {
    "id": "z022",
-   "src": "assets/shots/z022.png",
+   "src": "assets/shots/z022.jpg",
    "anchor": "During puberty, the biological",
    "prompt": "Two clock faces side by side, the second one turned later than the first, paper-cut, no numbers",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z023",
-   "src": "assets/shots/z023.png",
+   "src": "assets/shots/z023.jpg",
    "anchor": "The evening release of",
-   "prompt": "A teenager's bedroom at night, the moon rising late outside the window, the teen reading under a lamp"
+   "prompt": "A teenager's bedroom at night, the moon rising late outside the window, the teen reading under a lamp",
+   "focus": [
+    0.75,
+    0.5
+   ]
   },
   {
    "id": "z024",
-   "src": "assets/shots/z024.png",
+   "src": "assets/shots/z024.jpg",
    "anchor": "Researchers including Mary Carskadon",
-   "prompt": "A sleep lab: a bed with monitoring wires, a window into a control room with screens, soft night lighting, no readable text"
+   "prompt": "A sleep lab: a bed with monitoring wires, a window into a control room with screens, soft night lighting, no readable text",
+   "focus": [
+    0.55,
+    0.5
+   ]
   },
   {
    "id": "z025",
@@ -280,9 +296,13 @@
   },
   {
    "id": "z026",
-   "src": "assets/shots/z026.png",
+   "src": "assets/shots/z026.jpg",
    "anchor": "That creates a conflict",
-   "prompt": "A school bus arriving in the dark before dawn, streetlights still on, a sleepy teen waiting at the stop"
+   "prompt": "A school bus arriving in the dark before dawn, streetlights still on, a sleepy teen waiting at the stop",
+   "focus": [
+    0.6,
+    0.55
+   ]
   },
   {
    "id": "o03",
