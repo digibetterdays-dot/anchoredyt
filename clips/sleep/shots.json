@@ -381,10 +381,14 @@
   },
   {
    "id": "z031",
-   "src": "assets/shots/z031.png",
+   "src": "assets/shots/z031.jpg",
    "anchor": "You may feel something",
    "prompt": "A dreamlike figure falling through soft starry space, arms out, a bed far below, startled but safe",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "z032",
@@ -526,9 +530,13 @@
   },
   {
    "id": "z042",
-   "src": "assets/shots/z042.png",
+   "src": "assets/shots/z042.jpg",
    "anchor": "Why? Imagine dreaming that",
-   "prompt": "A person in pajamas running from a huge paper-cut tiger through a dream forest, exaggerated and slightly comic"
+   "prompt": "A person in pajamas running from a huge paper-cut tiger through a dream forest, exaggerated and slightly comic",
+   "focus": [
+    0.6,
+    0.5
+   ]
   },
   {
    "id": "z043",
@@ -542,10 +550,14 @@
   },
   {
    "id": "z044",
-   "src": "assets/shots/z044.png",
+   "src": "assets/shots/z044.jpg",
    "anchor": "During REM sleep, the",
    "prompt": "Simplified diagram of the brain and spinal cord with a signal going down from the brainstem, a soft barrier stopping it at the limbs, no labels",
-   "label": null
+   "label": null,
+   "focus": [
+    0.4,
+    0.35
+   ]
   },
   {
    "id": "o05",
@@ -614,9 +626,13 @@
   },
   {
    "id": "z050",
-   "src": "assets/shots/z050.png",
+   "src": "assets/shots/z050.jpg",
    "anchor": "Think of your brain",
-   "prompt": "A messy desk covered with papers, photos and notes after a busy day, lamp on, no readable text"
+   "prompt": "A messy desk covered with papers, photos and notes after a busy day, lamp on, no readable text",
+   "focus": [
+    0.5,
+    0.6
+   ]
   },
   {
    "id": "z051",
@@ -638,10 +654,14 @@
   },
   {
    "id": "z053",
-   "src": "assets/shots/z053.png",
+   "src": "assets/shots/z053.jpg",
    "anchor": "And this isn't just",
    "prompt": "A researcher's screen showing a forest plot of many small horizontal lines and diamonds, abstract, no readable text",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "o06",
