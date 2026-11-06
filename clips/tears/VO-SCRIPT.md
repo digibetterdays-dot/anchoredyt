@@ -16,27 +16,29 @@ Start with a simple fact. You are producing tears right now. Not emotional tears
 
 Scientists usually split tears into three kinds. The first are basal tears. They're always there, keeping the surface of your eye wet, smooth and protected. Without them, your eyes would dry out and sting, and even just keeping them open would get uncomfortable.
 
+And that film isn't just water. It's built in layers, like a tiny sandwich: mucus against the eye to help it stick, a watery middle that makes up most of it, and a thin layer of oil on top, made by glands along the edges of your eyelids, to slow the drying.
+
 And here's how they get spread around: every blink. Each time your eyelid comes down, it wipes a fresh layer of tear film across your eye, like a windshield wiper with the washer fluid built in. You'll blink thousands of times today, and you probably won't notice a single one.
 
-The second kind are reflex tears. These are your eye's emergency response. Dust, smoke, wind, or the chemical that rises off a chopped onion: something irritates the eye, and the glands flood it with extra fluid to wash the problem away. It's the same reason your eyes water when you yawn hard, or laugh until it hurts.
+The second kind are reflex tears. These are your eye's emergency response. Dust, smoke, wind, or a chopped onion: something irritates the eye, and the glands flood it with extra fluid to wash the problem away. The onion is a clever one: a whole onion can't make you cry. Cutting it starts a chain reaction that releases a gas, and when that gas reaches your eyes, the nerves there raise the alarm. It's the same reason your eyes water when you yawn hard, or laugh until it hurts.
 
 Then there's the third kind, the strange one: emotional tears. Grief. Frustration. Pain, of the body or of the mind. A song. A goodbye at an airport. Humans cry when feelings get too big to hold. And scientists still argue about exactly why we do it.
 
 And it isn't only sadness. Relief, pride and achievement can bring tears too. People cry at weddings, at graduations, when a team finally wins. Psychologists at Yale have studied these happy tears. They found that when a good feeling becomes overwhelming, people often show it with an expression that normally belongs to the opposite emotion, like crying when you're thrilled. Their early evidence suggests it may help bring a big emotion back down to a level you can handle.
 
-## Chapter 2: Are emotional tears different?
+So are emotional tears actually different from onion tears? In 1981, a researcher named William Frey collected both kinds: tears from sad movies, and tears from onions. In the women's tears, the emotional ones had about 24 percent more protein.
 
-Are emotional tears actually different from onion tears? In 1981, a researcher named William Frey collected both kinds: tears from sad movies, and tears from onions. In the women's tears, the emotional ones had about 24 percent more protein.
+It's one old study, and nobody is sure what that difference means. But it hints that your body may make tears differently, depending on why.
 
-It's one old study, and nobody is quite sure what that difference means. But it hints that your body may make tears differently, depending on why you're crying.
-
-## Chapter 3: Where tears go
+## Chapter 2: Where tears go
 
 So where does a tear go once it's made? Most of the time, nowhere you'd see. In the inner corner of each eye, near your nose, there's a tiny opening. Tears drain into it, travel down a small channel, and end up inside your nose.
 
 That's why crying makes your nose run. When you cry hard, your eyes make more fluid than that little drain can handle. Some spills over your eyelids and down your cheeks. The rest pours into your nose. So the tissue you reach for during a sad movie is really catching tears.
 
-## Chapter 4: Why newborns cry without tears
+All of this depends on gravity. On the International Space Station in 2013, astronaut Chris Hadfield squeezed water into his eye as if he were crying. It didn't run down his face. It just sat there, a growing ball of water stuck to his eye. In his words: your eyes will definitely cry in space, but tears don't fall.
+
+## Chapter 3: Why newborns cry without tears
 
 Now here's something that surprises a lot of new parents. A newborn baby can scream, turn red, and cry with everything they've got, and there's not a single tear on their face.
 
@@ -46,7 +48,7 @@ So for those first weeks, a baby's cry is pure sound. And that tells us somethin
 
 Babies even seem to catch crying from each other. In a classic study from 1971, newborns just a few days old cried more when they heard another newborn crying than when they heard an artificial cry, or plain noise. Researchers still debate whether that's an early form of empathy, or simply a reaction to the sound. But either way, crying spreads.
 
-## Chapter 5: Only humans?
+## Chapter 4: Only humans?
 
 Here's another strange thing. Plenty of animals make tears. Dogs, cats and horses all need them to keep their eyes wet and to wash out dust. But when scientists looked for animals that shed tears because of their feelings, they came up empty. In one survey of veterinarians, zookeepers and other people who work with animals, nobody could point to a clear case.
 
@@ -56,13 +58,13 @@ The Dutch psychologist Ad Vingerhoets, who has spent decades studying crying, ha
 
 His short version: we cry because we need other people.
 
-## Chapter 6: Tears as a signal
+## Chapter 5: Tears as a signal
 
 Scientists have tested this. In one huge study, researchers showed more than 7,000 people in 41 countries photos of faces. Some photos had tears added digitally; others didn't. Everything else was identical.
 
 The result: people were more willing to offer support to the faces with tears. Across cultures, a tear seems to say, come closer. It's a kind of language that needs no words.
 
-## Chapter 7: Does crying make you feel better?
+## Chapter 6: Does crying make you feel better?
 
 But does crying actually make you feel better? Ask people, and most say yes. In one study from the early 1980s, when people were asked how they usually feel after crying, about 85 percent of women and 73 percent of men said better.
 
@@ -70,7 +72,7 @@ Here's the catch. Those answers were about crying in general. When researchers a
 
 So what made the difference? One of the biggest factors was other people. Those who got support while they cried, someone who listened or sat with them, were the most likely to feel better. People who felt ashamed, or who were brushed off, often didn't.
 
-## Chapter 8: Is holding back tears harmful?
+## Chapter 7: Is holding back tears harmful?
 
 And what about holding tears back? You've probably heard that crying is a healthy outlet, and that bottling up your tears for years can damage your health. It's one of the oldest ideas about crying. When one researcher looked at 140 years of magazine articles about tears, 94 percent said crying was good for you, and many warned against holding it in.
 
@@ -78,7 +80,7 @@ But when scientists reviewed the actual research, including the editor of a majo
 
 People really do differ. Studies of adults suggest that women cry somewhere around two to five times a month, and men about once a month or less, though the range from person to person is huge. Some people cry easily, others rarely, and neither one alone tells you whether someone is healthy or coping well. What seems to matter more is how people handle the feelings underneath.
 
-## Chapter 9: The journey of a tear
+## Chapter 8: The journey of a tear
 
 So let's follow that movie-night tear one last time. Your eyes were already making tears to protect themselves. Your feelings sent a flood. It spilled past the little drain by your nose, down your cheek, and maybe someone next to you noticed, and moved a little closer.
 

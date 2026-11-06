@@ -33,6 +33,13 @@ Checked Nov 6 2026 by web search (abstracts, repository pages and review papers;
 | "Crying is a useful outlet, and systematically holding back tears may damage our health" | **NOT supported; kept as a belief.** The phrase matches a 2014 Awake! (JW.org) article, which itself adds that the benefits "have not been scientifically verified". Vingerhoets (editor of *Adult Crying*, 2001, with Cornelius) and Bylsma, "Crying and health: popular and scientific conceptions", *Psihologijske teme* 16(2):275-296 (2007): on crying inhibition and health risk "there is a lack of sound studies"; crying frequency vs self-reported health correlated 0.00 (Vingerhoets et al. 1993). The book's chapters "Crying and health" (Vingerhoets & Scheirs) and "Crying and catharsis" (Cornelius) are cited by later work as showing no faster recovery after crying. Script presents the outlet/holding-back idea as a popular belief and says science hasn't proven it. | Hrčak (open access); Hendriks et al. 2008 (Springer) |
 | 140 years of magazine articles: 94% said crying is good for you, many warned against holding it in | Confirmed. Cornelius (1986): 72 popular articles, 1848-1985; "94% promoted crying as beneficial" (as summarised in Rottenberg, Bylsma & Vingerhoets 2008, "Is crying beneficial?"; TIME 2016). | ResearchGate (Rottenberg et al. 2008); TIME |
 
+## Added Nov 6, third pass (owner picked from the candidate list)
+| Claim | Status | Source |
+|---|---|---|
+| Tear film in layers: mucus against the eye, watery middle (most of it), thin oil on top from glands along the eyelid edges, slowing evaporation | Confirmed. NIH StatPearls, "Biochemistry, Tear Film" (NBK572136): "classically divided into three distinct layers – inner mucin, middle aqueous, and outer lipid layer", with overlap in practice; lipid from the meibomian glands; the lipid layer delays evaporation (IntechOpen "The Physiology of Tear Film"). | StatPearls; IntechOpen |
+| A whole onion can't make you cry; cutting starts a chain reaction releasing a gas; nerves in the eye react | Confirmed. Cutting releases alliinase; sulfenic acids rearrange (via lachrymatory-factor synthase) into syn-propanethial-S-oxide, which the uncut onion does not contain; free nerve endings on the cornea detect it (Scientific American). **Not used:** "it turns into acid in your eye" (Bristol says a little sulfuric acid forms; Scientific American describes nerve activity; sources disagree). | Scientific American; Library of Congress Everyday Mysteries; Univ. of Bristol Molecule of the Month (2007) |
+| Tears don't fall in space; Chris Hadfield on the ISS, 2013, water forms a growing ball on the eye; "your eyes will definitely cry in space... tears don't fall" | Confirmed. Canadian Space Agency video "Tears in space (don't fall)", 5 April 2013, Expedition 34/35, CSA/NASA. | CSA; Space.com |
+
 ## Wording fix (not a fact)
 S03 "even reading this sentence would get uncomfortable" -> "and even just keeping them open would get uncomfortable" (it is a voiceover).
 
@@ -55,3 +62,6 @@ S03 "even reading this sentence would get uncomfortable" -> "and even just keepi
 - Cornelius RR. Prescience in the pre-scientific study of weeping? A history of weeping in the popular press from the mid-1800s to the present. 1986
 - Simner ML. Newborn's response to the cry of another infant. *Developmental Psychology* 1971
 - Geangu E et al. Contagious crying beyond the first days of life. *Infant Behav Dev* 2010
+- NIH StatPearls, "Biochemistry, Tear Film"
+- Scientific American, "What is the chemical process that causes my eyes to tear when I peel an onion?"
+- Canadian Space Agency, "Tears in space (don't fall)", Chris Hadfield, 2013

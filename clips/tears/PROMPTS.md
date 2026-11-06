@@ -61,6 +61,13 @@ Line: "Without them, your eyes..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A cracked dry desert floor in pale paper-cut layers under a hot sun, symbolic of dryness, no people, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## t007a -> `assets/shots/t007a.png`
+Line: "And that film isn't..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Paper-cut cross-section diagram of a tear film on the eye surface as three stacked wavy layers: a thin pale mucus layer at the bottom, a thick clear blue watery layer in the middle, a thin golden oil layer on top, no labels, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## t009 -> `assets/shots/t009.png`
 Line: "And here's how they..."
 
@@ -101,6 +108,13 @@ Line: "something irritates the eye,..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Paper-cut diagram of an eye with a tiny speck of dust, and a wave of glowing liquid flowing from a small gland above the outer corner to wash it away, no labels, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
+## t013a -> `assets/shots/t013a.png`
+Line: "The onion is a..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A whole onion next to a sliced onion on a cutting board, a faint shimmering vapour rising only from the cut half toward the viewer, kitchen light, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## t015 -> `assets/shots/t015.png`
@@ -227,6 +241,20 @@ Line: "So the tissue you..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A hand pulling a tissue from a box on a couch, the TV glow in the background, hands only, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
+## t032a -> `assets/shots/t032a.png`
+Line: "All of this depends..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: An astronaut seen from behind floating inside a space station module, Earth glowing blue through a round window, paper-cut, no face visible, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
+## t032b -> `assets/shots/t032b.png`
+Line: "It didn't run down..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: Paper-cut diagram of an eye from the front with a round ball of water sitting on its surface, floating droplets around it, no face, no labels, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
 ## t033 -> `assets/shots/t033.png`
@@ -537,4 +565,4 @@ Line: "When was the last..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A warm cinema at night seen from the back row, empty seats, the screen glowing softly, cosy, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
-_76 images._
+_80 images._

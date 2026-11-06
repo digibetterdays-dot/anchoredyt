@@ -75,6 +75,14 @@
    "prompt": "A cracked dry desert floor in pale paper-cut layers under a hot sun, symbolic of dryness, no people"
   },
   {
+   "id": "t007a",
+   "src": "assets/shots/t007a.png",
+   "anchor": "And that film isn't",
+   "prompt": "Paper-cut cross-section diagram of a tear film on the eye surface as three stacked wavy layers: a thin pale mucus layer at the bottom, a thick clear blue watery layer in the middle, a thin golden oil layer on top, no labels",
+   "label": null,
+   "emphasis": true
+  },
+  {
    "id": "t009",
    "src": "assets/shots/t009.png",
    "anchor": "And here's how they",
@@ -120,6 +128,12 @@
    "anchor": "something irritates the eye,",
    "prompt": "Paper-cut diagram of an eye with a tiny speck of dust, and a wave of glowing liquid flowing from a small gland above the outer corner to wash it away, no labels",
    "label": null
+  },
+  {
+   "id": "t013a",
+   "src": "assets/shots/t013a.png",
+   "anchor": "The onion is a",
+   "prompt": "A whole onion next to a sliced onion on a cutting board, a faint shimmering vapour rising only from the cut half toward the viewer, kitchen light"
   },
   {
    "id": "t015",
@@ -180,14 +194,6 @@
    "prompt": "A large wave cresting and then settling into a calm sea at sunset, paper-cut layers, peaceful"
   },
   {
-   "id": "c02",
-   "type": "card",
-   "anchor": "Are emotional tears actually",
-   "text": "Chapter 2",
-   "sub": "Are emotional tears different?",
-   "section_start": true
-  },
-  {
    "id": "t023",
    "src": "assets/shots/t023.png",
    "anchor": "In 1981, a researcher",
@@ -222,10 +228,10 @@
    "emphasis": true
   },
   {
-   "id": "c03",
+   "id": "c02",
    "type": "card",
    "anchor": "So where does a",
-   "text": "Chapter 3",
+   "text": "Chapter 2",
    "sub": "Where tears go",
    "section_start": true
   },
@@ -271,10 +277,23 @@
    "prompt": "A hand pulling a tissue from a box on a couch, the TV glow in the background, hands only"
   },
   {
-   "id": "c04",
+   "id": "t032a",
+   "src": "assets/shots/t032a.png",
+   "anchor": "All of this depends",
+   "prompt": "An astronaut seen from behind floating inside a space station module, Earth glowing blue through a round window, paper-cut, no face visible"
+  },
+  {
+   "id": "t032b",
+   "src": "assets/shots/t032b.png",
+   "anchor": "It didn't run down",
+   "prompt": "Paper-cut diagram of an eye from the front with a round ball of water sitting on its surface, floating droplets around it, no face, no labels",
+   "label": null
+  },
+  {
+   "id": "c03",
    "type": "card",
    "anchor": "Now here's something that",
-   "text": "Chapter 4",
+   "text": "Chapter 3",
    "sub": "Why newborns cry without tears",
    "section_start": true
   },
@@ -345,10 +364,10 @@
    "label": null
   },
   {
-   "id": "c05",
+   "id": "c04",
    "type": "card",
    "anchor": "Here's another strange thing.",
-   "text": "Chapter 5",
+   "text": "Chapter 4",
    "sub": "Only humans?",
    "section_start": true
   },
@@ -410,10 +429,10 @@
    "emphasis": true
   },
   {
-   "id": "c06",
+   "id": "c05",
    "type": "card",
    "anchor": "Scientists have tested this.",
-   "text": "Chapter 6",
+   "text": "Chapter 5",
    "sub": "Tears as a signal",
    "section_start": true
   },
@@ -454,10 +473,10 @@
    "prompt": "A row of doorways in many different styles of architecture at dusk, each with warm light spilling out, welcoming, no people"
   },
   {
-   "id": "c07",
+   "id": "c06",
    "type": "card",
    "anchor": "But does crying actually",
-   "text": "Chapter 7",
+   "text": "Chapter 6",
    "sub": "Does crying make you feel better?",
    "section_start": true
   },
@@ -528,10 +547,10 @@
    "prompt": "A person sitting alone at the end of a long empty table, seen from behind, a closed door in the distance, no faces visible"
   },
   {
-   "id": "c08",
+   "id": "c07",
    "type": "card",
    "anchor": "And what about holding",
-   "text": "Chapter 8",
+   "text": "Chapter 7",
    "sub": "Is holding back tears harmful?",
    "section_start": true
   },
@@ -587,10 +606,10 @@
    "prompt": "A calm lake with gentle ripples spreading around the balanced stones, and a deep underwater layer of glowing currents beneath, symbolic"
   },
   {
-   "id": "c09",
+   "id": "c08",
    "type": "card",
    "anchor": "So let's follow that",
-   "text": "Chapter 9",
+   "text": "Chapter 8",
    "sub": "The journey of a tear",
    "section_start": true
   },
