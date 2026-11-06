@@ -112,10 +112,14 @@
   },
   {
    "id": "z010",
-   "src": "assets/shots/z010.png",
+   "src": "assets/shots/z010.jpg",
    "anchor": "This biological clock runs",
    "prompt": "A circular day-night cycle diagram: sun rising, high, setting, moon, around a human silhouette, warm to dark blue gradient, no labels",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z011",
@@ -188,9 +192,13 @@
   },
   {
    "id": "z016",
-   "src": "assets/shots/z016.png",
+   "src": "assets/shots/z016.jpg",
    "anchor": "The longer you stay",
-   "prompt": "A person at a desk late at night, head heavy in one hand, a lamp on, papers in front of them"
+   "prompt": "A person at a desk late at night, head heavy in one hand, a lamp on, papers in front of them",
+   "focus": [
+    0.55,
+    0.45
+   ]
   },
   {
    "id": "z017",

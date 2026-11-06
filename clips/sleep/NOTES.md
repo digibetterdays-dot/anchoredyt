@@ -10,7 +10,7 @@ Built with the `documentary-edit` skill. Fact check: `../../sleep-factcheck.md`.
 - [x] VO (Nov 6): owner's 3 parts joined in order (0.6 s gaps) -> `assets/audio/voice.wav`, 13:41. Joins land on chapter breaks (after Ch. 1, after Ch. 4).
 - [x] Word timings: `words.json` by script-to-pause alignment. Fit: median 10%, 3 stretches over 50%.
 - [x] Edit plan: `edl.json`, 165 segments, avg 5.0 s
-- [x] 52 of 93 stills filed
+- [x] 54 of 93 stills filed
 - [ ] Owner: generate the remaining stills -> `assets/shots/zNNN.png`
 - [ ] Align, plan, build, render, finish audio, QA; Shorts; upload package
 
