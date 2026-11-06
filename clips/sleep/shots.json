@@ -648,10 +648,14 @@
   },
   {
    "id": "z051",
-   "src": "assets/shots/z051.png",
+   "src": "assets/shots/z051.jpg",
    "anchor": "Sleep helps your brain",
    "prompt": "The same desk at night with tiny paper-cut helpers filing papers into neat drawers and a cabinet",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.55,
+    0.55
+   ]
   },
   {
    "id": "z052",
@@ -781,9 +785,13 @@
   },
   {
    "id": "z059",
-   "src": "assets/shots/z059.png",
+   "src": "assets/shots/z059.jpg",
    "anchor": "And sleep experts recommend",
-   "prompt": "An adult asleep in bed with a book closed on the nightstand and glasses folded on it, calm"
+   "prompt": "An adult asleep in bed with a book closed on the nightstand and glasses folded on it, calm",
+   "focus": [
+    0.4,
+    0.5
+   ]
   },
   {
    "id": "o08",
@@ -805,10 +813,14 @@
   },
   {
    "id": "z061",
-   "src": "assets/shots/z061.png",
+   "src": "assets/shots/z061.jpg",
    "anchor": "Scientists have found genetic",
    "prompt": "A glowing DNA double helix made of paper-cut strands with one small segment highlighted in amber",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "z062",
@@ -870,9 +882,13 @@
   },
   {
    "id": "z067",
-   "src": "assets/shots/z067.png",
+   "src": "assets/shots/z067.jpg",
    "anchor": "Animal research has suggested",
-   "prompt": "A sleeping mouse curled in a nest in a quiet laboratory at night"
+   "prompt": "A sleeping mouse curled in a nest in a quiet laboratory at night",
+   "focus": [
+    0.45,
+    0.5
+   ]
   },
   {
    "id": "z068",
@@ -886,10 +902,14 @@
   },
   {
    "id": "z069",
-   "src": "assets/shots/z069.png",
+   "src": "assets/shots/z069.jpg",
    "anchor": "But scientists are still",
    "prompt": "A half-finished paper-cut map of the brain's channels pinned on a wall, pieces still being placed by a hand",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "z070",
