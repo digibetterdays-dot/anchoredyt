@@ -22,6 +22,8 @@ The second kind are reflex tears. These are your eye's emergency response. Dust,
 
 Then there's the third kind, the strange one: emotional tears. Grief. Relief. Pride. A wedding. A song. A goodbye at an airport. Humans cry when feelings get too big to hold. And scientists still argue about exactly why we do it.
 
+And it isn't only sadness. People cry at weddings, at graduations, when a team finally wins. Psychologists at Yale have studied these happy tears. They found that when a good feeling becomes overwhelming, people often show it with an expression that normally belongs to the opposite emotion, like crying when you're thrilled. Their early evidence suggests it may help bring a big emotion back down to a level you can handle.
+
 ## Chapter 2: Are emotional tears different?
 
 Are emotional tears actually different from onion tears? In 1981, a researcher named William Frey collected both kinds: tears from sad movies, and tears from onions. In the women's tears, the emotional ones had about 24 percent more protein.
@@ -42,13 +44,23 @@ It's normal. Babies do make some tears from birth, enough to keep their eyes moi
 
 So for those first weeks, a baby's cry is pure sound. And that tells us something. Long before we can speak, crying is how we say: I'm hungry. I'm cold. I need you. Crying starts as communication, and in a way, it never stops being that.
 
-## Chapter 5: Tears as a signal
+## Chapter 5: Only humans?
+
+Here's another strange thing. Plenty of animals make tears. Dogs, cats and horses all need them to keep their eyes wet and to wash out dust. But when scientists looked for animals that shed tears because of their feelings, they came up empty. In one survey of veterinarians, zookeepers and other people who work with animals, nobody could point to a clear case.
+
+As far as science can tell, emotional tears are a human thing.
+
+The Dutch psychologist Ad Vingerhoets, who has spent decades studying crying, has an idea about why. Many young animals call out loudly when they're in distress. Humans are different: we depend on others for years, and we live in close groups. So as we grow up, our crying may shift from a loud call that anyone can hear, to a quiet signal that only the people near us can see.
+
+His short version: we cry because we need other people.
+
+## Chapter 6: Tears as a signal
 
 Scientists have tested this. In one huge study, researchers showed more than 7,000 people in 41 countries photos of faces. Some photos had tears added digitally; others didn't. Everything else was identical.
 
 The result: people were more willing to offer support to the faces with tears. Across cultures, a tear seems to say, come closer.
 
-## Chapter 6: Does crying make you feel better?
+## Chapter 7: Does crying make you feel better?
 
 But does crying actually make you feel better? Ask people, and most say yes. In one study from the early 1980s, when people were asked how they usually feel after crying, about 85 percent of women and 73 percent of men said better.
 
@@ -56,13 +68,13 @@ Here's the catch. Those answers were about crying in general. When researchers a
 
 So what made the difference? One of the biggest factors was other people. Those who got support while they cried, someone who listened or sat with them, were the most likely to feel better. People who felt ashamed, or who were brushed off, often didn't.
 
-## Chapter 7: Is holding back tears harmful?
+## Chapter 8: Is holding back tears harmful?
 
 And what about holding tears back? You've probably heard that bottling up tears damages your health. The honest answer is that science hasn't proven that.
 
-Some people cry easily, others rarely, and neither one alone tells you whether someone is healthy or coping well. What seems to matter more is how people handle the feelings underneath.
+People really do differ. Studies of adults suggest that women cry somewhere around two to five times a month, and men about once a month or less, though the range from person to person is huge. Some people cry easily, others rarely, and neither one alone tells you whether someone is healthy or coping well. What seems to matter more is how people handle the feelings underneath.
 
-## Chapter 8: The journey of a tear
+## Chapter 9: The journey of a tear
 
 So let's follow that movie-night tear one last time. Your eyes were already making tears to protect themselves. Your feelings sent a flood. It spilled past the little drain by your nose, down your cheek, and maybe someone next to you noticed, and moved a little closer.
 

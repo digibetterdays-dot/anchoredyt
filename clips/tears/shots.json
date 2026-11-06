@@ -1,0 +1,612 @@
+{
+ "title": "Why Do Humans Cry? The Science of Tears",
+ "format": "long",
+ "voice": "assets/audio/voice.wav",
+ "style": "layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark",
+ "label": "Illustration",
+ "shots": [
+  {
+   "id": "t001",
+   "src": "assets/shots/t001.png",
+   "anchor": "",
+   "prompt": "A dark living room lit only by the blue glow of a TV, a couch seen from behind with a blanket draped over it, a bowl of popcorn on the cushion, no faces visible",
+   "move": "push_in"
+  },
+  {
+   "id": "t002",
+   "src": "assets/shots/t002.png",
+   "anchor": "And yet your eyes",
+   "prompt": "A single clear tear drop rolling down a soft cream paper surface, catching the blue TV light, extreme close-up, abstract, no face"
+  },
+  {
+   "id": "t003",
+   "src": "assets/shots/t003.png",
+   "anchor": "Why? Why does a",
+   "prompt": "A glowing film screen showing a soft abstract sunset, with a single large paper-cut tear drop floating in front of it, symbolic",
+   "emphasis": true
+  },
+  {
+   "id": "t004",
+   "src": "assets/shots/t004.png",
+   "anchor": "Tonight we're following a",
+   "prompt": "A single glowing tear drop at the start of a winding paper-cut path that leads into the distance across a night landscape, a sense of a journey",
+   "label": null
+  },
+  {
+   "id": "c01",
+   "type": "card",
+   "anchor": "Start with a simple",
+   "text": "Chapter 1",
+   "sub": "The three kinds of tears",
+   "section_start": true
+  },
+  {
+   "id": "t005",
+   "src": "assets/shots/t005.png",
+   "anchor": "You are producing tears",
+   "prompt": "Extreme macro of the surface of a human eye seen side-on, the iris only, a thin shimmering film of liquid over it reflecting a window, no eyelashes or face"
+  },
+  {
+   "id": "t006",
+   "src": "assets/shots/t006.png",
+   "anchor": "Scientists usually split tears",
+   "prompt": "Three paper-cut tear drops in a row on a cream background, each a slightly different colour (pale blue, silver, warm amber), simple and centered, no labels",
+   "label": null
+  },
+  {
+   "id": "o01",
+   "type": "card",
+   "anchor": "The first are basal",
+   "text": "Basal tears",
+   "sub": "always there, keeping the eye wet",
+   "overlay": true
+  },
+  {
+   "id": "t007",
+   "src": "assets/shots/t007.png",
+   "anchor": "They're always there, keeping",
+   "prompt": "Simplified paper-cut diagram of an eye from the front with a thin glowing blue layer spread evenly over it like a shield, no labels",
+   "label": null
+  },
+  {
+   "id": "t008",
+   "src": "assets/shots/t008.png",
+   "anchor": "Without them, your eyes",
+   "prompt": "A cracked dry desert floor in pale paper-cut layers under a hot sun, symbolic of dryness, no people"
+  },
+  {
+   "id": "t009",
+   "src": "assets/shots/t009.png",
+   "anchor": "And here's how they",
+   "prompt": "Paper-cut diagram of an eyelid sweeping down over an eye like a curtain, leaving a shimmering blue film behind it, motion lines, no labels, no face",
+   "label": null,
+   "emphasis": true
+  },
+  {
+   "id": "t010",
+   "src": "assets/shots/t010.png",
+   "anchor": "Each time your eyelid",
+   "prompt": "A car windshield in the rain at night with a wiper mid-sweep leaving a clean arc, city lights blurred beyond, paper-cut"
+  },
+  {
+   "id": "t011",
+   "src": "assets/shots/t011.png",
+   "anchor": "You'll blink thousands of",
+   "prompt": "A busy day montage in one scene: a desk, a window, a coffee cup, a clock, with dozens of tiny eye-shaped paper cutouts scattered like confetti in the air, playful, no faces"
+  },
+  {
+   "id": "o02",
+   "type": "card",
+   "anchor": "The second kind are",
+   "text": "Reflex tears",
+   "sub": "the eye's emergency wash",
+   "overlay": true
+  },
+  {
+   "id": "t012",
+   "src": "assets/shots/t012.png",
+   "anchor": "These are your eye's",
+   "prompt": "A campfire at dusk with smoke curling toward the viewer, paper-cut layers, glowing embers"
+  },
+  {
+   "id": "t013",
+   "src": "assets/shots/t013.png",
+   "anchor": "Dust, smoke, wind, or",
+   "prompt": "A chopped onion on a wooden cutting board with a knife beside it, a faint wisp rising from the cut, kitchen light"
+  },
+  {
+   "id": "t014",
+   "src": "assets/shots/t014.png",
+   "anchor": "something irritates the eye,",
+   "prompt": "Paper-cut diagram of an eye with a tiny speck of dust, and a wave of glowing liquid flowing from a small gland above the outer corner to wash it away, no labels",
+   "label": null
+  },
+  {
+   "id": "t015",
+   "src": "assets/shots/t015.png",
+   "anchor": "It's the same reason",
+   "prompt": "A person mid-yawn seen from behind, stretching their arms up on a sunny balcony in the morning, no faces visible"
+  },
+  {
+   "id": "t016",
+   "src": "assets/shots/t016.png",
+   "anchor": "Then there's the third",
+   "prompt": "An airport departure gate at night, one hand slowly slipping out of another hand, a suitcase handle in the foreground, hands only"
+  },
+  {
+   "id": "o03",
+   "type": "card",
+   "anchor": "the strange one: emotional",
+   "text": "Emotional tears",
+   "sub": "triggered by feelings",
+   "overlay": true
+  },
+  {
+   "id": "t017",
+   "src": "assets/shots/t017.png",
+   "anchor": "Grief. Relief. Pride. A",
+   "prompt": "A wedding scene seen from the back of the room: rows of chairs, flowers, warm fairy lights, guests seen from behind, no faces visible"
+  },
+  {
+   "id": "t018",
+   "src": "assets/shots/t018.png",
+   "anchor": "Humans cry when feelings",
+   "prompt": "A paper-cut human silhouette from behind with a glowing heart that has grown so large it overflows into a stream of light, symbolic",
+   "emphasis": true
+  },
+  {
+   "id": "t019",
+   "src": "assets/shots/t019.png",
+   "anchor": "And it isn't only",
+   "prompt": "Graduation caps thrown into a bright sky above a crowd seen from behind, no faces visible"
+  },
+  {
+   "id": "t020",
+   "src": "assets/shots/t020.png",
+   "anchor": "Psychologists at Yale have",
+   "prompt": "A stadium at night as confetti falls and fans seen from behind raise their arms, joyful, no faces visible"
+  },
+  {
+   "id": "t021",
+   "src": "assets/shots/t021.png",
+   "anchor": "They found that when",
+   "prompt": "A paper-cut drama mask split in half: one half smiling with a tear, the other half laughing, cream and amber, symbolic",
+   "label": null
+  },
+  {
+   "id": "t022",
+   "src": "assets/shots/t022.png",
+   "anchor": "Their early evidence suggests",
+   "prompt": "A large wave cresting and then settling into a calm sea at sunset, paper-cut layers, peaceful"
+  },
+  {
+   "id": "c02",
+   "type": "card",
+   "anchor": "Are emotional tears actually",
+   "text": "Chapter 2",
+   "sub": "Are emotional tears different?",
+   "section_start": true
+  },
+  {
+   "id": "t023",
+   "src": "assets/shots/t023.png",
+   "anchor": "In 1981, a researcher",
+   "prompt": "A retro 1980s laboratory bench with two small glass vials in a rack, one with a tiny onion icon and one with a tiny film-reel icon (no text), a pipette above"
+  },
+  {
+   "id": "t024",
+   "src": "assets/shots/t024.png",
+   "anchor": "In the women's tears,",
+   "prompt": "Paper-cut diagram of two glass vials side by side, the second filled with noticeably more small glowing particles than the first, no labels or numbers",
+   "label": null
+  },
+  {
+   "id": "o04",
+   "type": "card",
+   "anchor": "the emotional ones had",
+   "text": "About 24% more protein",
+   "sub": "emotional vs onion tears, women · Frey et al. 1981",
+   "overlay": true
+  },
+  {
+   "id": "t025",
+   "src": "assets/shots/t025.png",
+   "anchor": "It's one old study,",
+   "prompt": "An old research paper on a desk under a lamp, a magnifying glass resting on it, pages slightly yellowed, no readable text"
+  },
+  {
+   "id": "t026",
+   "src": "assets/shots/t026.png",
+   "anchor": "But it hints that",
+   "prompt": "A single tear drop held up to the light, its inside showing tiny different shapes like a snow globe, symbolic, macro, no face",
+   "emphasis": true
+  },
+  {
+   "id": "c03",
+   "type": "card",
+   "anchor": "So where does a",
+   "text": "Chapter 3",
+   "sub": "Where tears go",
+   "section_start": true
+  },
+  {
+   "id": "t027",
+   "src": "assets/shots/t027.png",
+   "anchor": "Most of the time,",
+   "prompt": "Paper-cut side-view diagram of a simplified face profile (no features except the eye area): a tear gland above the outer eye, drops flowing across the eye toward the inner corner, no labels",
+   "label": null
+  },
+  {
+   "id": "t028",
+   "src": "assets/shots/t028.png",
+   "anchor": "In the inner corner",
+   "prompt": "Close-up paper-cut diagram of the inner corner of an eye with a tiny round opening, drops of liquid gathering into it, no labels, no face",
+   "label": null
+  },
+  {
+   "id": "t029",
+   "src": "assets/shots/t029.png",
+   "anchor": "Tears drain into it,",
+   "prompt": "Paper-cut diagram of a small channel running down from the inner corner of the eye into the nose, glowing blue liquid flowing down it, side view, no labels",
+   "label": null,
+   "emphasis": true
+  },
+  {
+   "id": "t030",
+   "src": "assets/shots/t030.png",
+   "anchor": "That's why crying makes",
+   "prompt": "A box of tissues on a nightstand, one tissue pulled up, soft lamp light, a crumpled tissue beside it"
+  },
+  {
+   "id": "t031",
+   "src": "assets/shots/t031.png",
+   "anchor": "When you cry hard,",
+   "prompt": "Paper-cut diagram of the same small drain overflowing: some liquid spilling over the eyelid edge and the rest pouring down the channel, no labels",
+   "label": null
+  },
+  {
+   "id": "t032",
+   "src": "assets/shots/t032.png",
+   "anchor": "So the tissue you",
+   "prompt": "A hand pulling a tissue from a box on a couch, the TV glow in the background, hands only"
+  },
+  {
+   "id": "c04",
+   "type": "card",
+   "anchor": "Now here's something that",
+   "text": "Chapter 4",
+   "sub": "Why newborns cry without tears",
+   "section_start": true
+  },
+  {
+   "id": "t033",
+   "src": "assets/shots/t033.png",
+   "anchor": "A newborn baby can",
+   "prompt": "A newborn's tiny hand gripping an adult's finger on a soft hospital blanket, hands only, no baby face"
+  },
+  {
+   "id": "t034",
+   "src": "assets/shots/t034.png",
+   "anchor": "and there's not a",
+   "prompt": "A hospital bassinet seen from the side with a soft blanket bundle and a tiny fist raised above the edge, no face visible, gentle light"
+  },
+  {
+   "id": "t035",
+   "src": "assets/shots/t035.png",
+   "anchor": "It's normal. Babies do",
+   "prompt": "A worried new parent's hand resting on the edge of a crib, a baby monitor glowing on the shelf, night, hands only"
+  },
+  {
+   "id": "t036",
+   "src": "assets/shots/t036.png",
+   "anchor": "For the first weeks,",
+   "prompt": "Paper-cut timeline running left to right with four small milestones (a crib, a moon, a sun, a flower), a tiny tear drop appearing and growing near the right end, no numbers or labels",
+   "label": null
+  },
+  {
+   "id": "o05",
+   "type": "card",
+   "anchor": "Visible tears usually show",
+   "text": "Visible tears: about 1-3 months",
+   "sub": "babies make some tears from birth",
+   "overlay": true
+  },
+  {
+   "id": "t037",
+   "src": "assets/shots/t037.png",
+   "anchor": "So for those first",
+   "prompt": "An empty nursery at night, a crib with a soft mobile of moons and stars turning, moonlight through the curtains, no baby visible"
+  },
+  {
+   "id": "t038",
+   "src": "assets/shots/t038.png",
+   "anchor": "Long before we can",
+   "prompt": "Three paper-cut speech bubbles floating above a crib, containing simple icons: a milk bottle, a blanket, a heart, no letters",
+   "label": null
+  },
+  {
+   "id": "t039",
+   "src": "assets/shots/t039.png",
+   "anchor": "Crying starts as communication,",
+   "prompt": "A paper-cut sound wave rising from a crib and turning into a glowing line that connects to an adult's hand reaching in, symbolic, hands only",
+   "emphasis": true
+  },
+  {
+   "id": "c05",
+   "type": "card",
+   "anchor": "Here's another strange thing.",
+   "text": "Chapter 5",
+   "sub": "Only humans?",
+   "section_start": true
+  },
+  {
+   "id": "t040",
+   "src": "assets/shots/t040.png",
+   "anchor": "Plenty of animals make",
+   "prompt": "A dog, a cat and a horse together in a sunny meadow, calm, paper-cut, animals only"
+  },
+  {
+   "id": "t041",
+   "src": "assets/shots/t041.png",
+   "anchor": "But when scientists looked",
+   "prompt": "A veterinarian's examination table with a stethoscope and a clipboard, a sleepy dog resting on it, the vet seen only as hands"
+  },
+  {
+   "id": "t042",
+   "src": "assets/shots/t042.png",
+   "anchor": "In one survey of",
+   "prompt": "A zoo at dusk: an elephant and a zookeeper seen from behind walking together, warm light, no faces visible"
+  },
+  {
+   "id": "t043",
+   "src": "assets/shots/t043.png",
+   "anchor": "As far as science",
+   "prompt": "A single human silhouette standing on a hill under a starry sky, with one glowing tear drop shape floating above, symbolic",
+   "emphasis": true
+  },
+  {
+   "id": "t044",
+   "src": "assets/shots/t044.png",
+   "anchor": "The Dutch psychologist Ad",
+   "prompt": "A researcher's study with shelves of books, a desk lamp and a stack of notebooks, seen from the doorway, no person, no readable text"
+  },
+  {
+   "id": "t045",
+   "src": "assets/shots/t045.png",
+   "anchor": "Many young animals call",
+   "prompt": "A baby bird in a nest calling loudly with its beak open, paper-cut, sound lines around it"
+  },
+  {
+   "id": "t046",
+   "src": "assets/shots/t046.png",
+   "anchor": "Humans are different: we",
+   "prompt": "A small family group sitting together around a campfire at night, seen from behind, no faces visible"
+  },
+  {
+   "id": "t047",
+   "src": "assets/shots/t047.png",
+   "anchor": "So as we grow",
+   "prompt": "Paper-cut diagram: a loud wide sound wave on the left narrowing into a single small glowing tear drop on the right, simple, no labels",
+   "label": null
+  },
+  {
+   "id": "t048",
+   "src": "assets/shots/t048.png",
+   "anchor": "His short version: we",
+   "prompt": "Two hands reaching toward each other across a dark background, almost touching, warm light between them, hands only",
+   "emphasis": true
+  },
+  {
+   "id": "c06",
+   "type": "card",
+   "anchor": "Scientists have tested this.",
+   "text": "Chapter 6",
+   "sub": "Tears as a signal",
+   "section_start": true
+  },
+  {
+   "id": "t049",
+   "src": "assets/shots/t049.png",
+   "anchor": "In one huge study,",
+   "prompt": "A paper-cut world map with small glowing dots scattered across every populated continent, deep blue and cream, no labels",
+   "label": null
+  },
+  {
+   "id": "o06",
+   "type": "card",
+   "anchor": "showed more than 7,000",
+   "text": "7,007 people · 41 countries",
+   "sub": "Zickfeld et al. 2021",
+   "overlay": true
+  },
+  {
+   "id": "t050",
+   "src": "assets/shots/t050.png",
+   "anchor": "Some photos had tears",
+   "prompt": "Two identical blank paper-cut head silhouettes side by side on a cream background, the right one with a single small glowing tear drop on its cheek, no features",
+   "label": null
+  },
+  {
+   "id": "t051",
+   "src": "assets/shots/t051.png",
+   "anchor": "The result: people were",
+   "prompt": "The same two silhouettes, with a warm glowing hand reaching toward the one with the tear, no features",
+   "label": null,
+   "emphasis": true
+  },
+  {
+   "id": "t052",
+   "src": "assets/shots/t052.png",
+   "anchor": "Across cultures, a tear",
+   "prompt": "A row of doorways in many different styles of architecture at dusk, each with warm light spilling out, welcoming, no people"
+  },
+  {
+   "id": "c07",
+   "type": "card",
+   "anchor": "But does crying actually",
+   "text": "Chapter 7",
+   "sub": "Does crying make you feel better?",
+   "section_start": true
+  },
+  {
+   "id": "t053",
+   "src": "assets/shots/t053.png",
+   "anchor": "Ask people, and most",
+   "prompt": "A rainy window at dusk, raindrops sliding down the glass, blurred city lights outside, paper-cut"
+  },
+  {
+   "id": "t054",
+   "src": "assets/shots/t054.png",
+   "anchor": "In one study from",
+   "prompt": "A stack of old 1980s survey questionnaires and a pencil on a kitchen table, no readable text"
+  },
+  {
+   "id": "o07",
+   "type": "card",
+   "anchor": "about 85 percent of",
+   "text": "85% of women · 73% of men",
+   "sub": "said they usually feel better after crying · Frey et al. 1983",
+   "overlay": true
+  },
+  {
+   "id": "t055",
+   "src": "assets/shots/t055.png",
+   "anchor": "Here's the catch. Those",
+   "prompt": "The same rainy window, but now the rain has stopped and only a few drops remain, morning light",
+   "emphasis": true
+  },
+  {
+   "id": "t056",
+   "src": "assets/shots/t056.png",
+   "anchor": "When researchers asked more",
+   "prompt": "A lecture hall full of students seen from behind at the back row, warm light, no faces visible"
+  },
+  {
+   "id": "t057",
+   "src": "assets/shots/t057.png",
+   "anchor": "about half felt better.",
+   "prompt": "Paper-cut bar chart of three bars of different heights in cream, grey and amber (tallest, middle, very short), no labels or numbers",
+   "label": null
+  },
+  {
+   "id": "o08",
+   "type": "card",
+   "anchor": "Close to four in",
+   "text": "About half better · 4 in 10 no change · 1 in 10 worse",
+   "sub": "most recent cry · 5,096 students, 35 countries · Bylsma et al. 2008",
+   "overlay": true
+  },
+  {
+   "id": "t058",
+   "src": "assets/shots/t058.png",
+   "anchor": "So what made the",
+   "prompt": "Two coffee mugs on a kitchen table, one hand resting gently on another person's forearm, warm morning light, hands only"
+  },
+  {
+   "id": "t059",
+   "src": "assets/shots/t059.png",
+   "anchor": "Those who got support",
+   "prompt": "Two people sitting side by side on a park bench seen from behind, one with an arm around the other, autumn leaves, no faces visible"
+  },
+  {
+   "id": "t060",
+   "src": "assets/shots/t060.png",
+   "anchor": "People who felt ashamed,",
+   "prompt": "A person sitting alone at the end of a long empty table, seen from behind, a closed door in the distance, no faces visible"
+  },
+  {
+   "id": "c08",
+   "type": "card",
+   "anchor": "And what about holding",
+   "text": "Chapter 8",
+   "sub": "Is holding back tears harmful?",
+   "section_start": true
+  },
+  {
+   "id": "t061",
+   "src": "assets/shots/t061.png",
+   "anchor": "You've probably heard that",
+   "prompt": "A glass bottle with a cork, filled with swirling blue paper-cut waves, on a windowsill, symbolic"
+  },
+  {
+   "id": "t062",
+   "src": "assets/shots/t062.png",
+   "anchor": "The honest answer is",
+   "prompt": "A stack of smooth river stones balanced on a rock beside a calm lake, paper-cut, still water",
+   "emphasis": true
+  },
+  {
+   "id": "t063",
+   "src": "assets/shots/t063.png",
+   "anchor": "People really do differ.",
+   "prompt": "Many different umbrellas seen from above on a rainy street, each a different colour and size, no faces"
+  },
+  {
+   "id": "t064",
+   "src": "assets/shots/t064.png",
+   "anchor": "Some people cry easily,",
+   "prompt": "Two windows side by side on a house at night, one with rain streaking down it and one dry, warm light inside both"
+  },
+  {
+   "id": "t065",
+   "src": "assets/shots/t065.png",
+   "anchor": "What seems to matter",
+   "prompt": "A calm lake with gentle ripples spreading around the balanced stones, and a deep underwater layer of glowing currents beneath, symbolic"
+  },
+  {
+   "id": "c09",
+   "type": "card",
+   "anchor": "So let's follow that",
+   "text": "Chapter 9",
+   "sub": "The journey of a tear",
+   "section_start": true
+  },
+  {
+   "id": "t066",
+   "src": "assets/shots/t066.png",
+   "anchor": "Your eyes were already",
+   "prompt": "The movie-night living room again, blue TV glow, couch from behind with one blanket, no faces visible",
+   "move": "push_in"
+  },
+  {
+   "id": "t067",
+   "src": "assets/shots/t067.png",
+   "anchor": "Your feelings sent a",
+   "prompt": "Paper-cut diagram strip of four small scenes in one row: a thin film over an eye, a wash of liquid, a flood, a drain, joined by a flowing blue line, no labels",
+   "label": null
+  },
+  {
+   "id": "t068",
+   "src": "assets/shots/t068.png",
+   "anchor": "It spilled past the",
+   "prompt": "A single tear drop falling through the air in slow motion toward a hand held open below it, macro, hands only",
+   "emphasis": true
+  },
+  {
+   "id": "t069",
+   "src": "assets/shots/t069.png",
+   "anchor": "Science still hasn't solved",
+   "prompt": "A glowing tear drop resting in an open palm like a small jewel, hands only, dark background"
+  },
+  {
+   "id": "t070",
+   "src": "assets/shots/t070.png",
+   "anchor": "They protect your eyes,",
+   "prompt": "Three small glowing icons floating in a row over a dark background: a shield, a wave, a heart, paper-cut, no letters",
+   "label": null
+  },
+  {
+   "id": "t071",
+   "src": "assets/shots/t071.png",
+   "anchor": "So next time you",
+   "prompt": "The movie-night living room again, now with two blankets on the couch and two mugs on the table, TV glow, no faces visible",
+   "move": "pull_out"
+  },
+  {
+   "id": "t072",
+   "src": "assets/shots/t072.png",
+   "anchor": "When was the last",
+   "prompt": "A warm cinema at night seen from the back row, empty seats, the screen glowing softly, cosy"
+  }
+ ]
+}

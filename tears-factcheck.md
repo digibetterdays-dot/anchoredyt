@@ -16,6 +16,14 @@ Checked Nov 6 2026 by web search (abstracts, repository pages and review papers;
 | Social support predicted feeling better; shame or negative responses predicted feeling worse | Confirmed, same 2008 paper (support, resolution, positive events -> better; negative responses, embarrassment or shame, witnessing others' suffering -> worse). | same |
 | Holding back tears not proven harmful | Consistent with the reviews (Rottenberg, Bylsma & Vingerhoets 2008, "Is crying beneficial?", *Current Directions in Psychological Science* 17:400-404: survey and lab evidence disagree; health claims not established). Framed as "science hasn't proven that". | SAGE |
 
+## Added Nov 6 (owner asked to extend past 8 minutes)
+| Claim | Status | Source |
+|---|---|---|
+| Happy tears: overwhelming positive feelings often shown with an expression of the opposite emotion (tears); early evidence that it helps bring the emotion back down | Confirmed. Aragón, Clark, Dyer & Bargh (Yale), "Dimorphous expressions of positive emotion", *Psychological Science* 26(3):259-273 (2015): extremely positive experiences "often generate both positive expressions (e.g., smiles) and expressions normatively reserved for negative emotions (e.g., tears)"; "preliminary evidence of their function as regulators of emotion". Script says "early evidence". | APS journal page; Yale lab PDF |
+| Other animals make tears for lubrication and irritation; no clear evidence of emotional tears in any other species; survey of vets and zookeepers found none | Confirmed. Vingerhoets & Bylsma review: "only humans cry with tears in response to emotional events"; "a survey among veterinarians, zookeepers, and other professionals who work with animals yielded no evidence of emotional tears in any other animal species (Frey, 1985)". Gracanin et al. 2018 (*Human Nature*) agree; anecdotes (elephants, macaques) unverified. Script: "As far as science can tell". | Vingerhoets 2013, *Why Only Humans Weep* (OUP); Gracanin et al. 2018 |
+| Vingerhoets: tears grew out of young animals' distress calls, shifting to a silent close-range signal; "we cry because we need other people" | Confirmed as his hypothesis (presented as "an idea"). | TIME (2016) interview; Vingerhoets 2013 |
+| Women cry about 2-5 times a month, men about once or less | Confirmed as review ranges: "women 2 - 5 times per month, men .5 - 1 time per month" (Vingerhoets & Scheirs 2000, cited in Vingerhoets & Bylsma). The popular "5.3 vs 1.4" (Frey 1983) could not be confirmed for men (one source gives 1.3), so not used. | Vingerhoets & Bylsma review |
+
 ## Wording fix (not a fact)
 S03 "even reading this sentence would get uncomfortable" -> "and even just keeping them open would get uncomfortable" (it is a voiceover).
 
@@ -30,3 +38,6 @@ S03 "even reading this sentence would get uncomfortable" -> "and even just keepi
 - Bylsma LM, Croon MA, Vingerhoets AJJM, Rottenberg J. When and for whom does crying improve mood? A daily diary study of 1004 crying episodes. *J Res Pers* 2011
 - Rottenberg J, Bylsma LM, Vingerhoets AJJM. Is crying beneficial? *Curr Dir Psychol Sci* 2008;17:400-404
 - Children's Health (Dallas) pediatrician, via The Bump: when babies cry tears
+- Aragón OR, Clark MS, Dyer RL, Bargh JA. Dimorphous expressions of positive emotion. *Psychol Sci* 2015;26(3):259-273
+- Vingerhoets AJJM. *Why Only Humans Weep: Unravelling the Mysteries of Tears*. Oxford University Press, 2013
+- Gračanin A, Bylsma LM, Vingerhoets AJJM. Why only humans shed emotional tears. *Human Nature* 2018
