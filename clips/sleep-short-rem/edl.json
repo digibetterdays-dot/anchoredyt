@@ -1,0 +1,284 @@
+{
+ "title": "Why Your Body Can't Move When You Dream",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "music": null,
+ "label_default": "Illustration",
+ "captions": true,
+ "duration": 48.662,
+ "words": "words.json",
+ "segments": [
+  {
+   "id": "s01a",
+   "anchor": "",
+   "move": "push_fast",
+   "emphasis": true,
+   "focus": [
+    0.25,
+    0.45
+   ],
+   "label": null,
+   "src": "assets/shots/z039.jpg",
+   "start": 0.0,
+   "end": 3.034,
+   "dur": 3.034,
+   "punch": 0
+  },
+  {
+   "id": "s01b",
+   "anchor": "",
+   "move": "hold_punch",
+   "emphasis": true,
+   "focus": [
+    0.25,
+    0.45
+   ],
+   "label": null,
+   "src": "assets/shots/z039.jpg",
+   "start": 3.034,
+   "end": 4.705,
+   "dur": 1.671,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s01c",
+   "anchor": "",
+   "move": "hold_punch",
+   "emphasis": true,
+   "focus": [
+    0.25,
+    0.45
+   ],
+   "label": null,
+   "src": "assets/shots/z039.jpg",
+   "start": 4.705,
+   "end": 7.258,
+   "dur": 2.553,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "s02a",
+   "anchor": "And this is the",
+   "move": "push_slow",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "src": "assets/shots/z040.jpg",
+   "start": 7.258,
+   "end": 9.413,
+   "dur": 2.155,
+   "punch": 0
+  },
+  {
+   "id": "s02b",
+   "anchor": "And this is the",
+   "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "src": "assets/shots/z040.jpg",
+   "start": 9.413,
+   "end": 11.549,
+   "dur": 2.136,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s03a",
+   "anchor": "Yet while your brain",
+   "move": "push_slow",
+   "focus": [
+    0.38,
+    0.6
+   ],
+   "src": "assets/shots/z041.jpg",
+   "start": 11.549,
+   "end": 14.524,
+   "dur": 2.975,
+   "punch": 0
+  },
+  {
+   "id": "s03b",
+   "anchor": "Yet while your brain",
+   "move": "hold_punch",
+   "focus": [
+    0.38,
+    0.6
+   ],
+   "src": "assets/shots/z041.jpg",
+   "start": 14.524,
+   "end": 18.541,
+   "dur": 4.017,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s04a",
+   "anchor": "Why? Imagine dreaming that",
+   "move": "pan_right",
+   "focus": [
+    0.45,
+    0.6
+   ],
+   "src": "assets/shots/z042.jpg",
+   "start": 18.541,
+   "end": 20.505,
+   "dur": 1.964,
+   "punch": 0
+  },
+  {
+   "id": "s04b",
+   "anchor": "Why? Imagine dreaming that",
+   "move": "hold_punch",
+   "focus": [
+    0.45,
+    0.6
+   ],
+   "src": "assets/shots/z042.jpg",
+   "start": 20.505,
+   "end": 22.691,
+   "dur": 2.186,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s05a",
+   "anchor": "If your body followed",
+   "move": "push_slow",
+   "focus": [
+    0.4,
+    0.5
+   ],
+   "src": "assets/shots/z043.jpg",
+   "start": 22.691,
+   "end": 25.518,
+   "dur": 2.827,
+   "punch": 0
+  },
+  {
+   "id": "s05b",
+   "anchor": "If your body followed",
+   "move": "hold_punch",
+   "focus": [
+    0.4,
+    0.5
+   ],
+   "src": "assets/shots/z043.jpg",
+   "start": 25.518,
+   "end": 28.069,
+   "dur": 2.551,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s06a",
+   "anchor": "During REM sleep, the",
+   "move": "push_slow",
+   "focus": [
+    0.25,
+    0.35
+   ],
+   "label": null,
+   "src": "assets/shots/z044.jpg",
+   "start": 28.069,
+   "end": 31.365,
+   "dur": 3.296,
+   "punch": 0
+  },
+  {
+   "id": "s06b",
+   "anchor": "During REM sleep, the",
+   "move": "hold_punch",
+   "focus": [
+    0.25,
+    0.35
+   ],
+   "label": null,
+   "src": "assets/shots/z044.jpg",
+   "start": 31.365,
+   "end": 34.9,
+   "dur": 3.535,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s06c",
+   "anchor": "During REM sleep, the",
+   "move": "hold_punch",
+   "focus": [
+    0.25,
+    0.35
+   ],
+   "label": null,
+   "src": "assets/shots/z044.jpg",
+   "start": 34.9,
+   "end": 37.869,
+   "dur": 2.969,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "s07",
+   "anchor": "It helps keep you",
+   "move": "push_slow",
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "src": "assets/shots/z045.jpg",
+   "start": 37.869,
+   "end": 40.724,
+   "dur": 2.855
+  },
+  {
+   "id": "s08a",
+   "anchor": "It's almost as if",
+   "move": "pan_right",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/z046.jpg",
+   "start": 40.724,
+   "end": 43.18,
+   "dur": 2.456,
+   "punch": 0
+  },
+  {
+   "id": "s08b",
+   "anchor": "It's almost as if",
+   "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/z046.jpg",
+   "start": 43.18,
+   "end": 45.359,
+   "dur": 2.179,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s08c",
+   "anchor": "It's almost as if",
+   "move": "hold_punch",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "src": "assets/shots/z046.jpg",
+   "start": 45.359,
+   "end": 48.662,
+   "dur": 3.303,
+   "punch": 2,
+   "section_start": false
+  }
+ ],
+ "overlays": [],
+ "problems": []
+}

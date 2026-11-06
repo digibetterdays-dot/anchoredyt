@@ -1,0 +1,81 @@
+{
+ "title": "Why Teens Can't Fall Asleep Early",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "label": "Illustration",
+ "captions": true,
+ "shots": [
+  {
+   "id": "s01",
+   "anchor": "",
+   "move": "push_slow",
+   "emphasis": true,
+   "focus": [
+    0.8,
+    0.6
+   ],
+   "src": "assets/shots/z021.jpg"
+  },
+  {
+   "id": "s02",
+   "anchor": "During puberty, the biological",
+   "move": "pan_right",
+   "focus": [
+    0.72,
+    0.5
+   ],
+   "label": null,
+   "src": "assets/shots/z022.jpg"
+  },
+  {
+   "id": "s03",
+   "anchor": "The evening release of",
+   "move": "push_slow",
+   "focus": [
+    0.8,
+    0.45
+   ],
+   "src": "assets/shots/z023.jpg"
+  },
+  {
+   "id": "s04",
+   "anchor": "The result? A teenager",
+   "move": "push_fast",
+   "focus": [
+    0.45,
+    0.6
+   ],
+   "src": "assets/shots/z025.jpg"
+  },
+  {
+   "id": "s05",
+   "anchor": "That creates a conflict",
+   "move": "push_slow",
+   "focus": [
+    0.72,
+    0.55
+   ],
+   "src": "assets/shots/z026.jpg"
+  },
+  {
+   "id": "s06",
+   "anchor": "The American Academy",
+   "move": "push_slow",
+   "focus": [
+    0.7,
+    0.55
+   ],
+   "src": "assets/shots/z058.jpg"
+  },
+  {
+   "id": "s07",
+   "anchor": "So the next time",
+   "move": "pan_right",
+   "focus": [
+    0.27,
+    0.5
+   ],
+   "src": "assets/shots/z027.jpg"
+  }
+ ]
+}

@@ -1,0 +1,1153 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 15,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 3 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 5 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 6 has 9 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 2 has 4 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 5 has 27 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"g0\"> is a timeline element that contains nested <img id=\"g0i\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#g0",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"g0\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"g1\"> is a timeline element that contains nested <img id=\"g1i\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#g1",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"g1\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"g2\"> is a timeline element that contains nested <img id=\"g2i\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#g2",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"g2\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"g3\"> is a timeline element that contains nested <img id=\"g3i\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#g3",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"g3\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"g4\"> is a timeline element that contains nested <img id=\"g4i\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#g4",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"g4\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"g5\"> is a timeline element that contains nested <img id=\"g5i\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#g5",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"g5\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"g6\"> is a timeline element that contains nested <img id=\"g6i\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#g6",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"g6\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"g7\"> is a timeline element that contains nested <img id=\"g7i\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#g7",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"g7\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"g8\"> is a timeline element that contains nested <img id=\"g8i\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#g8",
+        "dataAttributes": {},
+        "sourceFile": "/home/user/anchoredyt/clips/sleep-short-memories/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"g8\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      }
+    ],
+    "filesScanned": 1
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "clip_media_fit",
+        "severity": "warning",
+        "message": "Audio \"vo\" is 22.14s but its slot (data-duration) is 22.49s — the slot is shortened to the media length when rendered. Set data-duration to ~22.14s if that isn't intended.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {
+          "data-composition-id": "main",
+          "data-start": "0",
+          "data-duration": "22.490",
+          "data-width": "1080",
+          "data-height": "1920"
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1920
+        },
+        "time": 0
+      }
+    ]
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 8,
+    "findings": [
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 1.249,
+        "selector": "#g0i",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -37.84,
+          "top": -55.04,
+          "right": 1110.96,
+          "bottom": 1987.27,
+          "width": 1148.8,
+          "height": 2042.3
+        },
+        "containerSelector": "#g0",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        },
+        "overflow": {
+          "left": 37.84,
+          "right": 30.96,
+          "top": 55.04,
+          "bottom": 67.27
+        },
+        "dataAttributes": {
+          "data-hf-render-id": "g0i",
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -37.84,
+          "y": -55.04,
+          "width": 1148.8,
+          "height": 2042.3
+        },
+        "firstSeen": 1.249,
+        "lastSeen": 1.249,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          1.249
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 3.748,
+        "selector": "#g1i",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -207.42,
+          "top": -301.71,
+          "right": 1249.71,
+          "bottom": 2288.76,
+          "width": 1457.14,
+          "height": 2590.46
+        },
+        "containerSelector": "#g1",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        },
+        "overflow": {
+          "left": 207.42,
+          "right": 169.71,
+          "top": 301.71,
+          "bottom": 368.76
+        },
+        "dataAttributes": {
+          "data-hf-render-id": "g1i",
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -207.42,
+          "y": -301.71,
+          "width": 1457.14,
+          "height": 2590.46
+        },
+        "firstSeen": 3.748,
+        "lastSeen": 3.748,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          3.748
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 6.247,
+        "selector": "#g2i",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -55.91,
+          "top": -92.16,
+          "right": 1153.69,
+          "bottom": 2058.24,
+          "width": 1209.6,
+          "height": 2150.4
+        },
+        "containerSelector": "#g2",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        },
+        "overflow": {
+          "left": 55.91,
+          "right": 73.69,
+          "top": 92.16,
+          "bottom": 138.24
+        },
+        "dataAttributes": {
+          "data-hf-render-id": "g2i",
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -55.91,
+          "y": -92.16,
+          "width": 1209.6,
+          "height": 2150.4
+        },
+        "firstSeen": 6.247,
+        "lastSeen": 6.247,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          6.247
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 8.746,
+        "selector": "#g3i",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -146.84,
+          "top": -261.04,
+          "right": 1300.26,
+          "bottom": 2311.56,
+          "width": 1447.09,
+          "height": 2572.61
+        },
+        "containerSelector": "#g3",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        },
+        "overflow": {
+          "left": 146.84,
+          "right": 220.26,
+          "top": 261.04,
+          "bottom": 391.56
+        },
+        "dataAttributes": {
+          "data-hf-render-id": "g3i",
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -146.84,
+          "y": -261.04,
+          "width": 1447.09,
+          "height": 2572.61
+        },
+        "firstSeen": 8.746,
+        "lastSeen": 8.746,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          8.746
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 13.744,
+        "selector": "#g5i",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -144.12,
+          "top": -256.2,
+          "right": 1296.17,
+          "bottom": 2304.31,
+          "width": 1440.29,
+          "height": 2560.51
+        },
+        "containerSelector": "#g5",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        },
+        "overflow": {
+          "left": 144.12,
+          "right": 216.17,
+          "top": 256.2,
+          "bottom": 384.31
+        },
+        "dataAttributes": {
+          "data-hf-render-id": "g5i",
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -144.12,
+          "y": -256.2,
+          "width": 1440.29,
+          "height": 2560.51
+        },
+        "firstSeen": 13.744,
+        "lastSeen": 13.744,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          13.744
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 16.243,
+        "selector": "#g6i",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -144.33,
+          "top": -256.59,
+          "right": 1296.5,
+          "bottom": 2304.88,
+          "width": 1440.83,
+          "height": 2561.47
+        },
+        "containerSelector": "#g6",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        },
+        "overflow": {
+          "left": 144.33,
+          "right": 216.5,
+          "top": 256.59,
+          "bottom": 384.88
+        },
+        "dataAttributes": {
+          "data-hf-render-id": "g6i",
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -144.33,
+          "y": -256.59,
+          "width": 1440.83,
+          "height": 2561.47
+        },
+        "firstSeen": 16.243,
+        "lastSeen": 16.243,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          16.243
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 18.742,
+        "selector": "#g7i",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -49.86,
+          "top": -103.68,
+          "right": 1159.74,
+          "bottom": 2046.72,
+          "width": 1209.6,
+          "height": 2150.4
+        },
+        "containerSelector": "#g7",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        },
+        "overflow": {
+          "left": 49.86,
+          "right": 79.74,
+          "top": 103.68,
+          "bottom": 126.72
+        },
+        "dataAttributes": {
+          "data-hf-render-id": "g7i",
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -49.86,
+          "y": -103.68,
+          "width": 1209.6,
+          "height": 2150.4
+        },
+        "firstSeen": 18.742,
+        "lastSeen": 18.742,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          18.742
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 21.241,
+        "selector": "#g8i",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -207.19,
+          "top": -301.36,
+          "right": 1249.52,
+          "bottom": 2288.33,
+          "width": 1456.7,
+          "height": 2589.7
+        },
+        "containerSelector": "#g8",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        },
+        "overflow": {
+          "left": 207.19,
+          "right": 169.52,
+          "top": 301.36,
+          "bottom": 368.33
+        },
+        "dataAttributes": {
+          "data-hf-render-id": "g8i",
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": -207.19,
+          "y": -301.36,
+          "width": 1456.7,
+          "height": 2589.7
+        },
+        "firstSeen": 21.241,
+        "lastSeen": 21.241,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          21.241
+        ]
+      }
+    ],
+    "duration": 22.49,
+    "samples": [
+      1.249,
+      3.748,
+      6.247,
+      8.746,
+      11.245,
+      13.744,
+      16.243,
+      18.742,
+      21.241
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 8,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      1.249,
+      6.247,
+      11.245,
+      16.243,
+      21.241
+    ],
+    "checked": 10,
+    "passed": 10
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 21,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"Your brain needs\" (3 words) is on screen 0.91 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "Your brain needs",
+        "selector": "#cap0",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 280.98,
+          "y": 1204,
+          "width": 518.04,
+          "height": 72
+        },
+        "time": 0.367,
+        "words": 3,
+        "seconds": 0.905,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"sleep not just\" (3 words) is on screen 0.80 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "sleep not just",
+        "selector": "#cap1",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 333.75,
+          "y": 1204,
+          "width": 412.5,
+          "height": 72
+        },
+        "time": 1.272,
+        "words": 3,
+        "seconds": 0.797,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"but to process\" (3 words) is on screen 0.76 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "but to process",
+        "selector": "#cap3",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 319.53,
+          "y": 1204,
+          "width": 440.94000000000005,
+          "height": 72
+        },
+        "time": 2.702,
+        "words": 3,
+        "seconds": 0.765,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"And sleep doesn't\" (3 words) is on screen 0.73 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "And sleep doesn't",
+        "selector": "#cap5",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 265.69,
+          "y": 1204,
+          "width": 548.6199999999999,
+          "height": 72
+        },
+        "time": 5.334,
+        "words": 3,
+        "seconds": 0.733,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"only help you\" (3 words) is on screen 0.59 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "only help you",
+        "selector": "#cap6",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 333.77,
+          "y": 1204,
+          "width": 412.46000000000004,
+          "height": 72
+        },
+        "time": 6.106,
+        "words": 3,
+        "seconds": 0.594,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"hold on to\" (3 words) is on screen 0.50 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "hold on to",
+        "selector": "#cap7",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 385.39,
+          "y": 1204,
+          "width": 309.22,
+          "height": 72
+        },
+        "time": 6.7,
+        "words": 3,
+        "seconds": 0.5,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"It may also\" (3 words) is on screen 0.60 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "It may also",
+        "selector": "#cap9",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 374.59,
+          "y": 1204,
+          "width": 330.82,
+          "height": 72
+        },
+        "time": 7.903,
+        "words": 3,
+        "seconds": 0.601,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"help you keep\" (3 words) is on screen 0.70 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "help you keep",
+        "selector": "#cap10",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 326.61,
+          "y": 1204,
+          "width": 426.78,
+          "height": 72
+        },
+        "time": 8.504,
+        "words": 3,
+        "seconds": 0.703,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"unwanted ones at\" (3 words) is on screen 0.84 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "unwanted ones at",
+        "selector": "#cap11",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 269.75,
+          "y": 1204,
+          "width": 540.5,
+          "height": 72
+        },
+        "time": 9.238,
+        "words": 3,
+        "seconds": 0.836,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"bay.\" (1 word) is on screen 0.33 s (±0.01 s), under its 0.40 s floor: hold it about 0.5 s + 0.3 s a word (0.80 s here) before it leaves or changes; see references/motion.md.",
+        "text": "bay.",
+        "selector": "#cap12",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 478.34,
+          "y": 1204,
+          "width": 123.32,
+          "height": 72
+        },
+        "time": 10.105,
+        "words": 1,
+        "seconds": 0.335,
+        "floorSeconds": 0.4
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"In one study,\" (3 words) is on screen 0.66 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "In one study,",
+        "selector": "#cap13",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 345.03,
+          "y": 1204,
+          "width": 389.94000000000005,
+          "height": 72
+        },
+        "time": 10.839,
+        "words": 3,
+        "seconds": 0.664,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"people who stayed\" (3 words) is on screen 0.94 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "people who stayed",
+        "selector": "#cap14",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 253.72,
+          "y": 1204,
+          "width": 572.56,
+          "height": 72
+        },
+        "time": 11.503,
+        "words": 3,
+        "seconds": 0.937,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"awake all night\" (3 words) is on screen 0.80 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "awake all night",
+        "selector": "#cap15",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 312.38,
+          "y": 1204,
+          "width": 455.25,
+          "height": 72
+        },
+        "time": 12.44,
+        "words": 3,
+        "seconds": 0.796,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"found it much\" (3 words) is on screen 0.70 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "found it much",
+        "selector": "#cap16",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 328.48,
+          "y": 1204,
+          "width": 423.03999999999996,
+          "height": 72
+        },
+        "time": 13.267,
+        "words": 3,
+        "seconds": 0.703,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"harder to push\" (3 words) is on screen 0.73 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "harder to push",
+        "selector": "#cap17",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 315.98,
+          "y": 1204,
+          "width": 448.03999999999996,
+          "height": 72
+        },
+        "time": 14.002,
+        "words": 3,
+        "seconds": 0.733,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"of their minds\" (3 words) is on screen 0.77 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "of their minds",
+        "selector": "#cap19",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 328.44,
+          "y": 1204,
+          "width": 423.11999999999995,
+          "height": 72
+        },
+        "time": 15.907,
+        "words": 3,
+        "seconds": 0.766,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"than people who\" (3 words) is on screen 0.80 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "than people who",
+        "selector": "#cap20",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 287.56,
+          "y": 1204,
+          "width": 504.88000000000005,
+          "height": 72
+        },
+        "time": 16.673,
+        "words": 3,
+        "seconds": 0.796,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"And even when\" (3 words) is on screen 0.57 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "And even when",
+        "selector": "#cap22",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 305.3,
+          "y": 1204,
+          "width": 469.40000000000003,
+          "height": 72
+        },
+        "time": 18.57,
+        "words": 3,
+        "seconds": 0.57,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"they managed it,\" (3 words) is on screen 0.80 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "they managed it,",
+        "selector": "#cap23",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 287.5,
+          "y": 1204,
+          "width": 505,
+          "height": 72
+        },
+        "time": 19.171,
+        "words": 3,
+        "seconds": 0.796,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"the thoughts were\" (3 words) is on screen 0.73 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "the thoughts were",
+        "selector": "#cap24",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 264.44,
+          "y": 1204,
+          "width": 551.1199999999999,
+          "height": 72
+        },
+        "time": 20.171,
+        "words": 3,
+        "seconds": 0.734,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"more likely to\" (3 words) is on screen 0.60 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "more likely to",
+        "selector": "#cap25",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 333.7,
+          "y": 1204,
+          "width": 412.59999999999997,
+          "height": 72
+        },
+        "time": 20.905,
+        "words": 3,
+        "seconds": 0.601,
+        "floorSeconds": 1.05
+      }
+    ],
+    "enabled": true,
+    "step": 0.125,
+    "samples": 180
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  }
+}

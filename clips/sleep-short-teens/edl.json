@@ -1,0 +1,267 @@
+{
+ "title": "Why Teens Can't Fall Asleep Early",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "music": null,
+ "label_default": "Illustration",
+ "captions": true,
+ "duration": 50.305,
+ "words": "words.json",
+ "segments": [
+  {
+   "id": "s01a",
+   "anchor": "",
+   "move": "push_slow",
+   "emphasis": true,
+   "focus": [
+    0.8,
+    0.6
+   ],
+   "src": "assets/shots/z021.jpg",
+   "start": 0.0,
+   "end": 2.121,
+   "dur": 2.121,
+   "punch": 0
+  },
+  {
+   "id": "s01b",
+   "anchor": "",
+   "move": "hold_punch",
+   "emphasis": true,
+   "focus": [
+    0.8,
+    0.6
+   ],
+   "src": "assets/shots/z021.jpg",
+   "start": 2.121,
+   "end": 4.593,
+   "dur": 2.472,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s01c",
+   "anchor": "",
+   "move": "hold_punch",
+   "emphasis": true,
+   "focus": [
+    0.8,
+    0.6
+   ],
+   "src": "assets/shots/z021.jpg",
+   "start": 4.593,
+   "end": 7.075,
+   "dur": 2.482,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "s02a",
+   "anchor": "During puberty, the biological",
+   "move": "pan_right",
+   "focus": [
+    0.72,
+    0.5
+   ],
+   "label": null,
+   "src": "assets/shots/z022.jpg",
+   "start": 7.075,
+   "end": 10.2,
+   "dur": 3.125,
+   "punch": 0
+  },
+  {
+   "id": "s02b",
+   "anchor": "During puberty, the biological",
+   "move": "hold_punch",
+   "focus": [
+    0.72,
+    0.5
+   ],
+   "label": null,
+   "src": "assets/shots/z022.jpg",
+   "start": 10.2,
+   "end": 13.762,
+   "dur": 3.562,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s03a",
+   "anchor": "The evening release of",
+   "move": "push_slow",
+   "focus": [
+    0.8,
+    0.45
+   ],
+   "src": "assets/shots/z023.jpg",
+   "start": 13.762,
+   "end": 17.155,
+   "dur": 3.393,
+   "punch": 0
+  },
+  {
+   "id": "s03b",
+   "anchor": "The evening release of",
+   "move": "hold_punch",
+   "focus": [
+    0.8,
+    0.45
+   ],
+   "src": "assets/shots/z023.jpg",
+   "start": 17.155,
+   "end": 20.229,
+   "dur": 3.074,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s04a",
+   "anchor": "The result? A teenager",
+   "move": "push_fast",
+   "focus": [
+    0.45,
+    0.6
+   ],
+   "src": "assets/shots/z025.jpg",
+   "start": 20.229,
+   "end": 23.658,
+   "dur": 3.429,
+   "punch": 0
+  },
+  {
+   "id": "s04b",
+   "anchor": "The result? A teenager",
+   "move": "hold_punch",
+   "focus": [
+    0.45,
+    0.6
+   ],
+   "src": "assets/shots/z025.jpg",
+   "start": 23.658,
+   "end": 27.206,
+   "dur": 3.548,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s05a",
+   "anchor": "That creates a conflict",
+   "move": "push_slow",
+   "focus": [
+    0.72,
+    0.55
+   ],
+   "src": "assets/shots/z026.jpg",
+   "start": 27.206,
+   "end": 30.294,
+   "dur": 3.088,
+   "punch": 0
+  },
+  {
+   "id": "s05b",
+   "anchor": "That creates a conflict",
+   "move": "hold_punch",
+   "focus": [
+    0.72,
+    0.55
+   ],
+   "src": "assets/shots/z026.jpg",
+   "start": 30.294,
+   "end": 33.335,
+   "dur": 3.041,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s06a",
+   "anchor": "The American Academy",
+   "move": "push_slow",
+   "focus": [
+    0.7,
+    0.55
+   ],
+   "src": "assets/shots/z058.jpg",
+   "start": 33.335,
+   "end": 36.318,
+   "dur": 2.983,
+   "punch": 0
+  },
+  {
+   "id": "s06b",
+   "anchor": "The American Academy",
+   "move": "hold_punch",
+   "focus": [
+    0.7,
+    0.55
+   ],
+   "src": "assets/shots/z058.jpg",
+   "start": 36.318,
+   "end": 39.061,
+   "dur": 2.743,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s06c",
+   "anchor": "The American Academy",
+   "move": "hold_punch",
+   "focus": [
+    0.7,
+    0.55
+   ],
+   "src": "assets/shots/z058.jpg",
+   "start": 39.061,
+   "end": 41.975,
+   "dur": 2.914,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "s07a",
+   "anchor": "So the next time",
+   "move": "pan_right",
+   "focus": [
+    0.27,
+    0.5
+   ],
+   "src": "assets/shots/z027.jpg",
+   "start": 41.975,
+   "end": 44.16,
+   "dur": 2.185,
+   "punch": 0
+  },
+  {
+   "id": "s07b",
+   "anchor": "So the next time",
+   "move": "hold_punch",
+   "focus": [
+    0.27,
+    0.5
+   ],
+   "src": "assets/shots/z027.jpg",
+   "start": 44.16,
+   "end": 47.136,
+   "dur": 2.976,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s07c",
+   "anchor": "So the next time",
+   "move": "hold_punch",
+   "focus": [
+    0.27,
+    0.5
+   ],
+   "src": "assets/shots/z027.jpg",
+   "start": 47.136,
+   "end": 50.305,
+   "dur": 3.169,
+   "punch": 2,
+   "section_start": false
+  }
+ ],
+ "overlays": [],
+ "problems": []
+}

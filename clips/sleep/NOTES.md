@@ -12,13 +12,15 @@ Built with the `documentary-edit` skill. Fact check: `../../sleep-factcheck.md`.
 - [x] Edit plan: `edl.json`, 165 segments, avg 5.0 s
 - [x] 93 of 93 stills filed. Final shot z086: lone glowing house (owner approved Nov 6); child-at-window and framed versions kept in `assets/alt/`.
 - [x] **Rendered (Nov 6):** `renders/sleep-final.mp4` (482 MB) and `renders/sleep-final-1080p-share.mp4` (103 MB), 13:41, 164 segments from 101 shots, avg 5.0 s. Audio QA: -14.24 LUFS, -1.49 dBTP, no dead air. Captions `renders/sleep.srt`. Contact sheet checked; nobody has watched or listened in full yet. Renders not in git.
-- [ ] Shorts; upload package
+- [x] Upload package: `UPLOAD.md` (long form vidIQ 99; chapters from the card times)
+- [ ] Shorts rendering (Nov 6)
 
 ## Look
 Same paper-cut house style; night palette (midnight navy, cream, one warm amber accent). Diagrams (brain, waves, DNA, clocks) carry no Illustration tag; scenes do.
 
 ## Shorts (from the same VO)
-1. Why teenagers aren't lazy, they're biologically late (Ch. 2)
-2. Your body is paralyzed every night, on purpose (Ch. 4, REM atonia)
-3. "Why Bad Memories Are Harder to Block When You're Tired" (Ch. 5, vidIQ 95)
-4. "Why Do We Snore? What's Actually Vibrating" (Ch. 3, vidIQ 88)
+Cut by `make_short2.py` (scratchpad) from the long VO; ranges and per-image vertical framing in the scratchpad `sleep_shorts.py`, results in each project's `shots.json`.
+1. `../sleep-short-teens`: "Why Teens Can't Fall Asleep Early" (vidIQ 88), 0:50, Ch. 2
+2. `../sleep-short-rem`: "Why Your Body Can't Move When You Dream" (vidIQ 96), 0:49, Ch. 4
+3. `../sleep-short-memories`: "Why Bad Memories Are Harder to Block When You're Tired" (vidIQ 95), 0:22, Ch. 5
+4. `../sleep-short-snore`: "Why Do We Snore? What's Actually Vibrating" (vidIQ 88), 0:29, Ch. 3

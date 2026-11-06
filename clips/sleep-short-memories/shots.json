@@ -1,0 +1,50 @@
+{
+ "title": "Why Bad Memories Are Harder to Block When You're Tired",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "label": "Illustration",
+ "captions": true,
+ "shots": [
+  {
+   "id": "s01",
+   "anchor": "",
+   "move": "push_fast",
+   "emphasis": true,
+   "focus": [
+    0.68,
+    0.35
+   ],
+   "src": "assets/shots/z055.jpg"
+  },
+  {
+   "id": "s02",
+   "anchor": "And sleep doesn't only",
+   "move": "push_slow",
+   "focus": [
+    0.43,
+    0.4
+   ],
+   "src": "assets/shots/z055a.jpg"
+  },
+  {
+   "id": "s03",
+   "anchor": "In one study, people",
+   "move": "push_slow",
+   "focus": [
+    0.33,
+    0.45
+   ],
+   "src": "assets/shots/z055b.jpg"
+  },
+  {
+   "id": "s04",
+   "anchor": "And even when they",
+   "move": "push_slow",
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "src": "assets/shots/z055c.jpg"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "title": "Why Bad Memories Are Harder to Block When You're Tired",
+ "format": "short",
+ "voice": "assets/audio/voice.wav",
+ "music": null,
+ "label_default": "Illustration",
+ "captions": true,
+ "duration": 22.49,
+ "words": "words.json",
+ "segments": [
+  {
+   "id": "s01a",
+   "anchor": "",
+   "move": "push_fast",
+   "emphasis": true,
+   "focus": [
+    0.68,
+    0.35
+   ],
+   "src": "assets/shots/z055.jpg",
+   "start": 0.0,
+   "end": 2.589,
+   "dur": 2.589,
+   "punch": 0
+  },
+  {
+   "id": "s01b",
+   "anchor": "",
+   "move": "hold_punch",
+   "emphasis": true,
+   "focus": [
+    0.68,
+    0.35
+   ],
+   "src": "assets/shots/z055.jpg",
+   "start": 2.589,
+   "end": 4.892,
+   "dur": 2.303,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s02a",
+   "anchor": "And sleep doesn't only",
+   "move": "push_slow",
+   "focus": [
+    0.43,
+    0.4
+   ],
+   "src": "assets/shots/z055a.jpg",
+   "start": 4.892,
+   "end": 7.804,
+   "dur": 2.912,
+   "punch": 0
+  },
+  {
+   "id": "s02b",
+   "anchor": "And sleep doesn't only",
+   "move": "hold_punch",
+   "focus": [
+    0.43,
+    0.4
+   ],
+   "src": "assets/shots/z055a.jpg",
+   "start": 7.804,
+   "end": 10.549,
+   "dur": 2.745,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s03a",
+   "anchor": "In one study, people",
+   "move": "push_slow",
+   "focus": [
+    0.33,
+    0.45
+   ],
+   "src": "assets/shots/z055b.jpg",
+   "start": 10.549,
+   "end": 13.172,
+   "dur": 2.623,
+   "punch": 0
+  },
+  {
+   "id": "s03b",
+   "anchor": "In one study, people",
+   "move": "hold_punch",
+   "focus": [
+    0.33,
+    0.45
+   ],
+   "src": "assets/shots/z055b.jpg",
+   "start": 13.172,
+   "end": 15.595,
+   "dur": 2.423,
+   "punch": 1,
+   "section_start": false
+  },
+  {
+   "id": "s03c",
+   "anchor": "In one study, people",
+   "move": "hold_punch",
+   "focus": [
+    0.33,
+    0.45
+   ],
+   "src": "assets/shots/z055b.jpg",
+   "start": 15.595,
+   "end": 18.264,
+   "dur": 2.669,
+   "punch": 2,
+   "section_start": false
+  },
+  {
+   "id": "s04a",
+   "anchor": "And even when they",
+   "move": "push_slow",
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "src": "assets/shots/z055c.jpg",
+   "start": 18.264,
+   "end": 20.076,
+   "dur": 1.812,
+   "punch": 0
+  },
+  {
+   "id": "s04b",
+   "anchor": "And even when they",
+   "move": "hold_punch",
+   "focus": [
+    0.45,
+    0.5
+   ],
+   "src": "assets/shots/z055c.jpg",
+   "start": 20.076,
+   "end": 22.49,
+   "dur": 2.414,
+   "punch": 1,
+   "section_start": false
+  }
+ ],
+ "overlays": [],
+ "problems": []
+}
