@@ -202,10 +202,14 @@
   },
   {
    "id": "z017",
-   "src": "assets/shots/z017.png",
+   "src": "assets/shots/z017.jpg",
    "anchor": "So your sleepiness depends",
    "prompt": "A balance scale with a sun-and-clock on one side and a heavy glowing sand jar on the other, paper-cut, centered",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.5
+   ]
   },
   {
    "id": "z018",
