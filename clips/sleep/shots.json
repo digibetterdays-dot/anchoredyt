@@ -26,11 +26,15 @@
   },
   {
    "id": "z004",
-   "src": "assets/shots/z004.png",
+   "src": "assets/shots/z004.jpg",
    "anchor": "And yet, your brain",
    "prompt": "Cross-section illustration of a sleeping person's head on a pillow, the brain inside glowing softly with warm amber light",
    "emphasis": true,
-   "label": null
+   "label": null,
+   "focus": [
+    0.25,
+    0.4
+   ]
   },
   {
    "id": "z005",
@@ -41,10 +45,14 @@
   },
   {
    "id": "z006",
-   "src": "assets/shots/z006.png",
+   "src": "assets/shots/z006.jpg",
    "anchor": "But here's the really",
    "prompt": "A single closed eye in close-up, with a faint question-mark-shaped wisp of starlight above it (no letters)",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.62,
+    0.55
+   ]
   },
   {
    "id": "z007",
@@ -314,9 +322,13 @@
   },
   {
    "id": "z036c",
-   "src": "assets/shots/z036c.png",
+   "src": "assets/shots/z036c.jpg",
    "anchor": "Sleeping on your back,",
-   "prompt": "A sleeper on their back next to an empty wine glass on the nightstand, the snore waves bigger, moonlight"
+   "prompt": "A sleeper on their back next to an empty wine glass on the nightstand, the snore waves bigger, moonlight",
+   "focus": [
+    0.4,
+    0.55
+   ]
   },
   {
    "id": "z036d",
@@ -724,9 +736,13 @@
   },
   {
    "id": "z084",
-   "src": "assets/shots/z084.png",
+   "src": "assets/shots/z084.jpg",
    "anchor": "And perhaps the most",
-   "prompt": "A sleeper's face in moonlight, peaceful, unaware of a glowing world inside their head"
+   "prompt": "A sleeper's face in moonlight, peaceful, unaware of a glowing world inside their head",
+   "focus": [
+    0.35,
+    0.45
+   ]
   },
   {
    "id": "z085",
@@ -736,11 +752,15 @@
   },
   {
    "id": "z086",
-   "src": "assets/shots/z086.png",
+   "src": "assets/shots/z086.jpg",
    "anchor": "But inside your head,",
    "prompt": "A dark house at night with a single window glowing warm from within, stars overhead",
    "move": "pull_out",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.5,
+    0.5
+   ]
   }
  ]
 }
