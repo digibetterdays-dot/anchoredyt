@@ -240,9 +240,13 @@
   },
   {
    "id": "z028",
-   "src": "assets/shots/z028.png",
+   "src": "assets/shots/z028.jpg",
    "anchor": "Scientists divide sleep into",
-   "prompt": "A night sky landscape split into two layers: a calm blue ocean of waves below (deep sleep) and a bright aurora above (REM), symbolic, no labels"
+   "prompt": "A night sky landscape split into two layers: a calm blue ocean of waves below (deep sleep) and a bright aurora above (REM), symbolic, no labels",
+   "focus": [
+    0.6,
+    0.65
+   ]
   },
   {
    "id": "z029",
@@ -262,10 +266,14 @@
   },
   {
    "id": "z030",
-   "src": "assets/shots/z030.png",
+   "src": "assets/shots/z030.jpg",
    "anchor": "Stage one: the transition.",
    "prompt": "A person half asleep in bed, eyes fluttering, the edges of the room softly blurring into night",
-   "section_start": true
+   "section_start": true,
+   "focus": [
+    0.35,
+    0.45
+   ]
   },
   {
    "id": "z031",
@@ -276,9 +284,13 @@
   },
   {
    "id": "z032",
-   "src": "assets/shots/z032.png",
+   "src": "assets/shots/z032.jpg",
    "anchor": "Stage two: light sleep.",
-   "prompt": "A sleeping person turned on their side, peaceful, a thermometer on the nightstand showing a lower level, cool blue light"
+   "prompt": "A sleeping person turned on their side, peaceful, a thermometer on the nightstand showing a lower level, cool blue light",
+   "focus": [
+    0.6,
+    0.45
+   ]
   },
   {
    "id": "z033",
@@ -378,9 +390,13 @@
   },
   {
    "id": "z040",
-   "src": "assets/shots/z040.png",
+   "src": "assets/shots/z040.jpg",
    "anchor": "And this is the",
-   "prompt": "A vivid dreamscape spilling out of a sleeping person's head: floating islands, a flying whale, a door in the sky"
+   "prompt": "A vivid dreamscape spilling out of a sleeping person's head: floating islands, a flying whale, a door in the sky",
+   "focus": [
+    0.5,
+    0.4
+   ]
   },
   {
    "id": "z041",

@@ -8,7 +8,7 @@ Built with the `documentary-edit` skill. Fact check: `../../sleep-factcheck.md`.
 - [x] Shot list: `shots.json`, 109 shots (93 images, 8 chapter cards, 8 overlays); anchors tested against an estimated timing (avg 5.1 s per shot)
 - [x] Prompts: `PROMPTS.md`, 93 single-scene prompts
 - [ ] Owner: record VO from `VO-SCRIPT.txt` word for word
-- [x] 8 of 93 stills filed
+- [x] 12 of 93 stills filed
 - [ ] Owner: generate the remaining stills -> `assets/shots/zNNN.png`
 - [ ] Align, plan, build, render, finish audio, QA; Shorts; upload package
 
