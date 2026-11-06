@@ -839,17 +839,25 @@
   },
   {
    "id": "z077",
-   "src": "assets/shots/z077.png",
+   "src": "assets/shots/z077.jpg",
    "anchor": "Others focus on memory,",
    "prompt": "A brain made of tiny glowing connections, some strengthening and some fading, like a living map",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "z078",
-   "src": "assets/shots/z078.png",
+   "src": "assets/shots/z078.jpg",
    "anchor": "The most likely answer",
    "prompt": "A single key with many teeth, each tooth shaped like a different symbol: a battery, a wrench, a book, a broom",
-   "emphasis": true
+   "emphasis": true,
+   "focus": [
+    0.45,
+    0.45
+   ]
   },
   {
    "id": "z079",
@@ -859,10 +867,14 @@
   },
   {
    "id": "z080",
-   "src": "assets/shots/z080.png",
+   "src": "assets/shots/z080.jpg",
    "anchor": "And that is what",
    "prompt": "A night sky full of stars arranged in the faint shape of a brain, a tiny figure looking up from a hill",
-   "move": "pull_out"
+   "move": "pull_out",
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "z081",
