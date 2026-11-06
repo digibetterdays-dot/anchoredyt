@@ -50,10 +50,14 @@
   },
   {
    "id": "z005",
-   "src": "assets/shots/z005.png",
+   "src": "assets/shots/z005.jpg",
    "anchor": "In fact, while you",
    "prompt": "A tiny paper-cut night shift inside a brain: small workers carrying glowing folders and lanterns along corridors, whimsical but calm",
-   "label": null
+   "label": null,
+   "focus": [
+    0.5,
+    0.45
+   ]
   },
   {
    "id": "z006",
@@ -885,16 +889,24 @@
   },
   {
    "id": "z082",
-   "src": "assets/shots/z082.png",
+   "src": "assets/shots/z082.jpg",
    "anchor": "Yet during those hours,",
    "prompt": "The tiny paper-cut night shift inside a sleeping brain again, workers carrying lanterns and folders, busy and calm",
-   "label": null
+   "label": null,
+   "focus": [
+    0.6,
+    0.45
+   ]
   },
   {
    "id": "z083",
-   "src": "assets/shots/z083.png",
+   "src": "assets/shots/z083.jpg",
    "anchor": "Sleep is not simply",
-   "prompt": "A city at night seen from above: dark streets but countless warm windows still lit, quietly busy"
+   "prompt": "A city at night seen from above: dark streets but countless warm windows still lit, quietly busy",
+   "focus": [
+    0.55,
+    0.45
+   ]
   },
   {
    "id": "z084",
@@ -908,9 +920,13 @@
   },
   {
    "id": "z085",
-   "src": "assets/shots/z085.png",
+   "src": "assets/shots/z085.jpg",
    "anchor": "So tonight, when you",
-   "prompt": "The bedroom from the opening again, the lamp switching off, moonlight remaining"
+   "prompt": "The bedroom from the opening again, the lamp switching off, moonlight remaining",
+   "focus": [
+    0.6,
+    0.5
+   ]
   },
   {
    "id": "z086",
