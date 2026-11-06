@@ -48,7 +48,7 @@ Babies even seem to catch crying from each other. In a classic study from 1971, 
 
 Here's another strange thing. Plenty of animals make tears. Dogs, cats and horses all need them to keep their eyes wet and to wash out dust. But when scientists looked for animals that shed tears because of their feelings, they came up empty. In one survey of veterinarians, zookeepers and other people who work with animals, nobody could point to a clear case.
 
-Crocodiles are the famous exception that isn't. In 2007, researchers filmed caimans and alligators, close relatives of crocodiles, while they ate. Five of the seven teared up during their meal. But those are reflex tears, probably squeezed out by all that jaw movement, not feelings. And humans can have a version of it too. After some facial nerve injuries, the nerve can regrow along the wrong path, and a person's eyes water every time they eat. Doctors call it crocodile tears syndrome.
+And then there are crocodiles. For centuries, people said crocodiles weep while they eat their prey. A travel book from the 1300s spread the story, and that's why fake sorrow is still called crocodile tears. In 2007, researchers finally checked. They filmed caimans and alligators, close relatives of crocodiles, while they ate. Five of the seven teared up during their meal. So the legend is true, just not for the reason people thought. Those are reflex tears, probably squeezed out by all that jaw movement. The crocodile isn't sorry at all. And humans can have a version of it too. After some facial nerve injuries, the nerve can regrow along the wrong path, and a person's eyes water every time they eat. Doctors call it crocodile tears syndrome.
 
 As far as science can tell, emotional tears are a human thing.
 

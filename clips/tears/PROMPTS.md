@@ -320,8 +320,15 @@ Line: "In one survey of..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A zoo at dusk: an elephant and a zookeeper seen from behind walking together, warm light, no faces visible, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
+## t041a -> `assets/shots/t041a.png`
+Line: "And then there are..."
+
+```
+Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: An old illuminated-manuscript style page reimagined in paper-cut: a stylised medieval crocodile with a tear on its cheek beside a castle and ships, cream and amber, no readable text, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
+```
+
 ## t042a -> `assets/shots/t042a.png`
-Line: "Crocodiles are the famous..."
+Line: "In 2007, researchers finally..."
 
 ```
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A caiman lying on a riverbank eating, a glistening tear at the corner of its eye, paper-cut, warm afternoon light, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
@@ -579,4 +586,4 @@ Line: "When was the last..."
 Single scene, one subject only, one 16:9 landscape image, not a collage, not panels: A warm cinema at night seen from the back row, empty seats, the screen glowing softly, cosy, layered paper-cut illustration, soft paper grain, dusky blue and cream palette with one warm amber accent, soft window light and lamplight, gentle tender mood, clean shapes, no faces, no text, no letters, no numbers, no logos, no watermark
 ```
 
-_82 images._
+_83 images._

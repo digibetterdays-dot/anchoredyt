@@ -363,9 +363,15 @@
    "prompt": "A zoo at dusk: an elephant and a zookeeper seen from behind walking together, warm light, no faces visible"
   },
   {
+   "id": "t041a",
+   "src": "assets/shots/t041a.png",
+   "anchor": "And then there are",
+   "prompt": "An old illuminated-manuscript style page reimagined in paper-cut: a stylised medieval crocodile with a tear on its cheek beside a castle and ships, cream and amber, no readable text"
+  },
+  {
    "id": "t042a",
    "src": "assets/shots/t042a.png",
-   "anchor": "Crocodiles are the famous",
+   "anchor": "In 2007, researchers finally",
    "prompt": "A caiman lying on a riverbank eating, a glistening tear at the corner of its eye, paper-cut, warm afternoon light"
   },
   {
