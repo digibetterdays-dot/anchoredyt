@@ -101,10 +101,14 @@
   },
   {
    "id": "z009",
-   "src": "assets/shots/z009.png",
+   "src": "assets/shots/z009.jpg",
    "anchor": "That's not simply a",
    "prompt": "A large paper-cut clock face made of a sun and moon, with a sleeping figure curled at its center (no numbers)",
-   "label": null
+   "label": null,
+   "focus": [
+    0.45,
+    0.6
+   ]
   },
   {
    "id": "z010",
@@ -115,18 +119,26 @@
   },
   {
    "id": "z011",
-   "src": "assets/shots/z011.png",
+   "src": "assets/shots/z011.jpg",
    "anchor": "One of its most",
    "prompt": "Simplified side-view illustration of a human brain with one tiny spot just above where the optic nerves cross glowing amber, no labels",
    "emphasis": true,
-   "label": null
+   "label": null,
+   "focus": [
+    0.52,
+    0.52
+   ]
   },
   {
    "id": "z012",
-   "src": "assets/shots/z012.png",
+   "src": "assets/shots/z012.jpg",
    "anchor": "It receives information about",
    "prompt": "Light rays entering an eye and traveling as a glowing thread back to a small point in the brain, side view, simple and clear, no labels",
-   "label": null
+   "label": null,
+   "focus": [
+    0.55,
+    0.45
+   ]
   },
   {
    "id": "z013",
