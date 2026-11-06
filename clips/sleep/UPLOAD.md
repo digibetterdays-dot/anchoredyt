@@ -15,7 +15,7 @@ Suggested order: long form first, then one Short every 2-3 days, each with the l
 
 ## 1. Long form
 
-**File:** `renders/sleep-final.mp4` (full quality) · 13:41 · 16:9
+**File:** `renders/sleep-final.mp4` (full quality) · 13:56 · 16:9
 **Title** (vidIQ 99): `Why Do We Sleep? What Happens to Your Brain When You Close Your Eyes`
 
 **Description**
@@ -24,15 +24,15 @@ Every night you lose awareness of the world for hours, and your brain keeps work
 
 Chapters
 0:00 Every night
-1:09 Who tells your brain when to sleep?
-3:00 Why do teenagers want to sleep later?
-4:04 Your brain doesn't just switch off
-6:21 Your brain wakes up, your body doesn't
-7:46 Your brain's night shift
-9:17 How much sleep do you really need?
-10:34 Does your brain clean itself while you sleep?
-11:29 Why do we have to sleep at all?
-12:45 The extraordinary thing that happens when you do nothing
+1:08 Who tells your brain when to sleep?
+3:01 Why do teenagers want to sleep later?
+4:07 Your brain doesn't just switch off
+6:26 Your brain wakes up, your body doesn't
+7:53 Your brain's night shift
+9:26 How much sleep do you really need?
+10:45 Does your brain clean itself while you sleep?
+11:41 Why do we have to sleep at all?
+13:01 The extraordinary thing that happens when you do nothing
 
 All images are AI-generated illustrations, not photographs, and no illustration is a portrait of a real person. This video is general information, not medical advice. If you snore loudly with pauses in your breathing, talk to a doctor.
 
