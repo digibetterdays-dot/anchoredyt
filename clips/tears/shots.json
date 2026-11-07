@@ -49,35 +49,29 @@
   {
    "id": "t006",
    "src": "assets/shots/t006.png",
-   "anchor": "Scientists usually split tears",
+   "anchor": "Scientists split tears into",
    "prompt": "Three paper-cut tear drops in a row on a cream background, each a slightly different colour (pale blue, silver, warm amber), simple and centered, no labels",
+   "label": null
+  },
+  {
+   "id": "t007",
+   "src": "assets/shots/t007.png",
+   "anchor": "The first are basal",
+   "prompt": "Simplified paper-cut diagram of an eye from the front with a thin glowing blue layer spread evenly over it like a shield, no labels",
    "label": null
   },
   {
    "id": "o01",
    "type": "card",
-   "anchor": "The first are basal",
+   "anchor": "the ones that are",
    "text": "Basal tears",
    "sub": "always there, keeping the eye wet",
    "overlay": true
   },
   {
-   "id": "t007",
-   "src": "assets/shots/t007.png",
-   "anchor": "They're always there, keeping",
-   "prompt": "Simplified paper-cut diagram of an eye from the front with a thin glowing blue layer spread evenly over it like a shield, no labels",
-   "label": null
-  },
-  {
-   "id": "t008",
-   "src": "assets/shots/t008.png",
-   "anchor": "Without them, your eyes",
-   "prompt": "A cracked dry desert floor in pale paper-cut layers under a hot sun, symbolic of dryness, no people"
-  },
-  {
    "id": "t007a",
    "src": "assets/shots/t007a.png",
-   "anchor": "And that film isn't",
+   "anchor": "And they're built in",
    "prompt": "Paper-cut cross-section diagram of a tear film on the eye surface as three stacked wavy layers: a thin pale mucus layer at the bottom, a thick clear blue watery layer in the middle, a thin golden oil layer on top, no labels",
    "label": null,
    "emphasis": true
@@ -92,22 +86,10 @@
   {
    "id": "t009",
    "src": "assets/shots/t009.png",
-   "anchor": "And here's how they",
+   "anchor": "Every blink spreads a",
    "prompt": "Paper-cut diagram of an eyelid sweeping down over an eye like a curtain, leaving a shimmering blue film behind it, motion lines, no labels, no face",
    "label": null,
    "emphasis": true
-  },
-  {
-   "id": "t010",
-   "src": "assets/shots/t010.png",
-   "anchor": "Each time your eyelid",
-   "prompt": "A car windshield in the rain at night with a wiper mid-sweep leaving a clean arc, city lights blurred beyond, paper-cut"
-  },
-  {
-   "id": "t011",
-   "src": "assets/shots/t011.png",
-   "anchor": "You'll blink thousands of",
-   "prompt": "A busy day montage in one scene: a desk, a window, a coffee cup, a clock, with dozens of tiny eye-shaped paper cutouts scattered like confetti in the air, playful, no faces"
   },
   {
    "id": "o02",
@@ -118,23 +100,10 @@
    "overlay": true
   },
   {
-   "id": "t012",
-   "src": "assets/shots/t012.png",
-   "anchor": "These are your eye's",
-   "prompt": "A campfire at dusk with smoke curling toward the viewer, paper-cut layers, glowing embers"
-  },
-  {
    "id": "t013",
    "src": "assets/shots/t013.png",
    "anchor": "Dust, smoke, wind, or",
    "prompt": "A chopped onion on a wooden cutting board with a knife beside it, a faint wisp rising from the cut, kitchen light"
-  },
-  {
-   "id": "t014",
-   "src": "assets/shots/t014.png",
-   "anchor": "something irritates the eye,",
-   "prompt": "Paper-cut diagram of an eye with a tiny speck of dust, and a wave of glowing liquid flowing from a small gland above the outer corner to wash it away, no labels",
-   "label": null
   },
   {
    "id": "t013a",
@@ -143,10 +112,11 @@
    "prompt": "A whole onion next to a sliced onion on a cutting board, a faint shimmering vapour rising only from the cut half toward the viewer, kitchen light"
   },
   {
-   "id": "t015",
-   "src": "assets/shots/t015.png",
-   "anchor": "It's the same reason",
-   "prompt": "A person mid-yawn seen from behind, stretching their arms up on a sunny balcony in the morning, no faces visible"
+   "id": "t014",
+   "src": "assets/shots/t014.png",
+   "anchor": "and the glands flood",
+   "prompt": "Paper-cut diagram of an eye with a tiny speck of dust, and a wave of glowing liquid flowing from a small gland above the outer corner to wash it away, no labels",
+   "label": null
   },
   {
    "id": "t016",
@@ -178,19 +148,13 @@
   {
    "id": "t017",
    "src": "assets/shots/t017.png",
-   "anchor": "People cry at weddings,",
+   "anchor": "People cry with relief,",
    "prompt": "A wedding scene seen from the back of the room: rows of chairs, flowers, warm fairy lights, guests seen from behind, no faces visible"
-  },
-  {
-   "id": "t020",
-   "src": "assets/shots/t020.png",
-   "anchor": "Psychologists at Yale have",
-   "prompt": "A stadium at night as confetti falls and fans seen from behind raise their arms, joyful, no faces visible"
   },
   {
    "id": "t021",
    "src": "assets/shots/t021.png",
-   "anchor": "They found that when",
+   "anchor": "Psychologists at Yale found",
    "prompt": "A paper-cut drama mask split in half: one half smiling with a tear, the other half laughing, cream and amber, symbolic",
    "label": null
   },
@@ -207,13 +171,6 @@
    "text": "Chapter 2",
    "sub": "Where tears go",
    "section_start": true
-  },
-  {
-   "id": "t027",
-   "src": "assets/shots/t027.png",
-   "anchor": "Most of the time,",
-   "prompt": "Paper-cut side-view diagram of a simplified face profile (no features except the eye area): a tear gland above the outer eye, drops flowing across the eye toward the inner corner, no labels",
-   "label": null
   },
   {
    "id": "t028",
@@ -285,20 +242,20 @@
   {
    "id": "t035",
    "src": "assets/shots/t035.png",
-   "anchor": "It's normal. Babies do",
+   "anchor": "It's normal. Babies make",
    "prompt": "A worried new parent's hand resting on the edge of a crib, a baby monitor glowing on the shelf, night, hands only"
   },
   {
    "id": "t036",
    "src": "assets/shots/t036.png",
-   "anchor": "For the first weeks,",
+   "anchor": "Visible tears usually show",
    "prompt": "Paper-cut timeline running left to right with four small milestones (a crib, a moon, a sun, a flower), a tiny tear drop appearing and growing near the right end, no numbers or labels",
    "label": null
   },
   {
    "id": "o05",
    "type": "card",
-   "anchor": "Visible tears usually show",
+   "anchor": "somewhere between one and",
    "text": "Visible tears: about 1-3 months",
    "sub": "babies make some tears from birth",
    "overlay": true
@@ -351,12 +308,6 @@
    "prompt": "A dog, a cat and a horse together in a sunny meadow, calm, paper-cut, animals only"
   },
   {
-   "id": "t041",
-   "src": "assets/shots/t041.png",
-   "anchor": "But when scientists looked",
-   "prompt": "A veterinarian's examination table with a stethoscope and a clipboard, a sleepy dog resting on it, the vet seen only as hands"
-  },
-  {
    "id": "t042",
    "src": "assets/shots/t042.png",
    "anchor": "In one survey of",
@@ -397,19 +348,13 @@
   {
    "id": "t045",
    "src": "assets/shots/t045.png",
-   "anchor": "Many young animals call",
+   "anchor": "thinks our tears grew",
    "prompt": "A baby bird in a nest calling loudly with its beak open, paper-cut, sound lines around it"
-  },
-  {
-   "id": "t046",
-   "src": "assets/shots/t046.png",
-   "anchor": "Humans are different: we",
-   "prompt": "A small family group sitting together around a campfire at night, seen from behind, no faces visible"
   },
   {
    "id": "t047",
    "src": "assets/shots/t047.png",
-   "anchor": "So as we grow",
+   "anchor": "and became a quiet",
    "prompt": "Paper-cut diagram: a loud wide sound wave on the left narrowing into a single small glowing tear drop on the right, simple, no labels",
    "label": null
   },
@@ -446,7 +391,7 @@
   {
    "id": "t050",
    "src": "assets/shots/t050.png",
-   "anchor": "Some photos had tears",
+   "anchor": "Some had tears added",
    "prompt": "Two identical blank paper-cut head silhouettes side by side on a cream background, the right one with a single small glowing tear drop on its cheek, no features",
    "label": null
   },
@@ -507,17 +452,10 @@
   {
    "id": "o07",
    "type": "card",
-   "anchor": "about 85 percent of",
+   "anchor": "85 percent of women",
    "text": "85% of women · 73% of men",
    "sub": "said they usually feel better after crying · Frey et al. 1983",
    "overlay": true
-  },
-  {
-   "id": "t055",
-   "src": "assets/shots/t055.png",
-   "anchor": "Here's the catch. Those",
-   "prompt": "The same rainy window, but now the rain has stopped and only a few drops remain, morning light",
-   "emphasis": true
   },
   {
    "id": "t056",
@@ -590,7 +528,7 @@
   {
    "id": "t061a",
    "src": "assets/shots/t061a.png",
-   "anchor": "When one researcher looked",
+   "anchor": "One researcher looked at",
    "prompt": "A fan of old magazines and newspapers from different eras spread across a wooden table under a lamp, the oldest yellowed, no readable text"
   },
   {
@@ -664,7 +602,7 @@
   {
    "id": "t069",
    "src": "assets/shots/t069.png",
-   "anchor": "Science still hasn't solved",
+   "anchor": "Science hasn't solved every",
    "prompt": "A glowing tear drop resting in an open palm like a small jewel, hands only, dark background"
   },
   {
